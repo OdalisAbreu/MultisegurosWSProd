@@ -65,4 +65,36 @@
 		  	return "15";
 		}
 	}
+
+	function validateModel($idMarca, $idModel, $tipo ){
+			$query = mysql_query("SELECT id, IDMARCA, tipo FROM seguro_modelos where id = $idModel");
+			$model = mysql_fetch_array($query);
+			if($model['tipo']){
+				$tipo = $tipo + 100;
+				if($model['IDMARCA'] == $idMarca){
+					if(substr_count($model['tipo'],"".$tipo."-")>0){
+						return 'Ok';
+					}else{
+						$rescat = mysql_query("SELECT id, nombre, veh_tipo from seguro_tarifas WHERE activo ='si' order by nombre");
+						$cont = '0';
+						$value = '';
+						while($row = mysql_fetch_array($rescat)){
+							if(substr_count($model['tipo'],"".$row['veh_tipo']."-")>0){
+								$cont++;
+								$value = $value.'  '.$row['nombre']; 
+							}
+						}
+							if($cont > 1){
+								return 'El tipo vehículo no se corresponde con el modelo, los tipos de vehículos permitidos para este modelo son: '.$value;
+							}else{
+								return 'El tipo vehículo no se corresponde con el modelo, el tipo de vehículo permitido para este modelo es: '.$value;
+							}
+					}
+				}else{
+					return 'La marca no se corresponde con el modelo.';
+				}
+			}else{
+				return 'Ok';
+			}
+	}
 ?>

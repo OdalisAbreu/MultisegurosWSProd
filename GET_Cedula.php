@@ -72,8 +72,21 @@ function get_Cedula($usuario,$password,$cedula){
 				WHERE asegurado_cedula='".$cedula."'
 				ORDER BY id DESC ");
 				
+	       if(mysql_num_rows($queryd) > 0){
 				$UU2 = mysql_num_rows($queryd);
-   			if ($UU2 >0){
+		   }else{
+				$queryd=mysql_query("
+				SELECT * FROM seguro_clientes
+				WHERE asegurado_pasaporte='".$cedula."'
+				ORDER BY id DESC ");
+				if(mysql_num_rows($queryd) > 0){
+					$UU2 = mysql_num_rows($queryd);
+				}else{
+					$UU2 = 0;
+				}
+		   }
+ 
+				if ($UU2 >0){
 				
 				while($row=mysql_fetch_array($queryd)){
 						
@@ -87,7 +100,7 @@ function get_Cedula($usuario,$password,$cedula){
 	 					$idseg = str_pad($Rtrans[6], 6, "0", STR_PAD_LEFT);
 	 					$prefi = $pref."-".$idseg;
 	 
-					  echo $row['asegurado_nombres']."|".$row['asegurado_apellidos']."|".$row['asegurado_cedula']."|".$row['asegurado_direccion']."|".$row['asegurado_telefono1']."|".$Rveh[0]."|".$Rveh[1]."|".$Rveh[2]."|".$Rveh[3]."|".$Rveh[4]."|".$Rveh[5]."|".$Rtrans[2]."|".$Rtrans[1]."|".$Rtrans[0]."|".$Rtrans[4]."|".$prefi.";";
+					  echo $row['asegurado_nombres']."|".$row['asegurado_apellidos']."|".$row['asegurado_cedula']."|".$row['asegurado_direccion']."|".$row['asegurado_telefono1']."|".$Rveh[0]."|".$Rveh[1]."|".$Rveh[2]."|".$Rveh[3]."|".$Rveh[4]."|".$Rveh[5]."|".$Rtrans[2]."|".$Rtrans[1]."|".$Rtrans[0]."|".$Rtrans[4]."|".$prefi."|".$row['asegurado_pasaporte'].";";
 					  
 					  
 				 }
