@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 27/05/2021 <b>Hasta:</b> 27/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003480</td>
+        <td>JUAN ALEXANDER</td>
+        <td>MATEO SANTOS</td>
+        <td>082-0029338-2</td>
+        <td>Calle Sánchez No.19, Sector Barrio Viejo</td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-930-3977</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1994</td>
+        <td>C500018792</td>
+        <td align="right">K078330</td>
+        <td align="right">2021-05-27 09:11:12</td>
+        <td align="right">27-05-2021</td>
+        <td align="right">27-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003481</td>
+        <td>MERCEDES EVANGELINA</td>
+        <td>REYES DIAZ</td>
+        <td>003-0102866-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-774-3299</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AF351720399</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-05-27 09:26:00</td>
+        <td align="right">27-05-2021</td>
+        <td align="right">27-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003482</td>
+        <td>DARIELY</td>
+        <td>MORALES PEREZ</td>
+        <td>025-0050849-0</td>
+        <td>HATO MAYOR DEL REY</td>
+        <td></td>
+        <td>809-465-3235</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>SUZUKI</td>
+        <td>2013</td>
+        <td>LC6TCJC92D0009997</td>
+        <td align="right">N955940</td>
+        <td align="right">2021-05-27 11:26:07</td>
+        <td align="right">27-05-2021</td>
+        <td align="right">27-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003483</td>
+        <td>ANGEL BOLIVAR</td>
+        <td>LANTIGUA JIMENEZ</td>
+        <td>402-2025817-8</td>
+        <td>ROCO CAPANO 26</td>
+        <td>AZUA</td>
+        <td>829-817-8071</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2000</td>
+        <td>1HGEJ8648YL022674</td>
+        <td align="right">A478692</td>
+        <td align="right">2021-05-27 12:31:12</td>
+        <td align="right">27-05-2021</td>
+        <td align="right">27-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003484</td>
+        <td>BOLIVAR</td>
+        <td>REYNOSO</td>
+        <td>001-0625892-4</td>
+        <td>SAMPEDRO 4 LA JAVILLA</td>
+        <td></td>
+        <td>829-865-8685</td>
+        <td>Jeep</td>
+        <td>NISSAN               </td>
+        <td>TITAN</td>
+        <td>2002</td>
+        <td>JN8AR09X51W581704</td>
+        <td align="right">G043747</td>
+        <td align="right">2021-05-27 17:59:04</td>
+        <td align="right">27-05-2021</td>
+        <td align="right">27-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003485</td>
+        <td>ANNY YAKAIRA</td>
+        <td>PEGUERO VILLAR</td>
+        <td>003-0014101-7</td>
+        <td>Calle Duarte 84, Paya, Bani</td>
+        <td>PERAVIA</td>
+        <td>809-642-4563</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2015</td>
+        <td>19XFB2F80FE034775</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-27 18:45:03</td>
+        <td align="right">27-05-2021</td>
+        <td align="right">27-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003486</td>
+        <td>CRISTHOFER JAVIER</td>
+        <td>GONZALEZ ROSARIO</td>
+        <td>402-3665174-7</td>
+        <td>CIOSTE 9 BRISA 2</td>
+        <td></td>
+        <td>809-923-5008</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1999</td>
+        <td>2TBR12E0XC138831</td>
+        <td align="right">A045477</td>
+        <td align="right">2021-05-27 21:27:00</td>
+        <td align="right">27-05-2021</td>
+        <td align="right">27-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>6,712.50</h4></td>
+</tr></table>

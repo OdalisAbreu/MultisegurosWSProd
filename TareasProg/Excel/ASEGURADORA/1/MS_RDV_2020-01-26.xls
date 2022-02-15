@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 26/01/2020 <b>Hasta:</b> 26/01/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-023866</td>
+        <td>MARIANO</td>
+        <td>HERNANDEZ</td>
+        <td>402-4555447-8</td>
+        <td>HATO MAYOR</td>
+        <td></td>
+        <td>829-277-2791</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2006</td>
+        <td>LC6PAGA1060847553</td>
+        <td align="right">K0487807</td>
+        <td align="right">2020-01-26 09:20:17</td>
+        <td align="right">26-01-2020</td>
+        <td align="right">26-04-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-023867</td>
+        <td>SMERLIN ALEXANDER</td>
+        <td>CASTILLO CEDANO</td>
+        <td>028-0109610-4</td>
+        <td>ANTONIO GUZMAN</td>
+        <td></td>
+        <td>829-783-1653</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>STARLET</td>
+        <td>2000</td>
+        <td>EP910474834</td>
+        <td align="right">A123716</td>
+        <td align="right">2020-01-26 09:22:13</td>
+        <td align="right">26-01-2020</td>
+        <td align="right">26-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-023868</td>
+        <td>JUAN RAMON</td>
+        <td>JIMENEZ SANCHEZ</td>
+        <td>402-0060637-0</td>
+        <td>ALADIO OLIVO 0012</td>
+        <td></td>
+        <td>829-549-0375</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td></td>
+        <td>2014</td>
+        <td>TBL15P105EHE56218</td>
+        <td align="right">K0293321</td>
+        <td align="right">2020-01-26 10:18:04</td>
+        <td align="right">26-01-2020</td>
+        <td align="right">26-04-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-023869</td>
+        <td>JOEL ALEJANDRO</td>
+        <td>RUIZ</td>
+        <td>019-0020784-4</td>
+        <td>SAN ISIDRO</td>
+        <td></td>
+        <td>829-207-1788</td>
+        <td>Motocicleta</td>
+        <td>GALAXI               </td>
+        <td>GALAXI </td>
+        <td>2010</td>
+        <td>RDGHCG2010001932</td>
+        <td align="right">K0223791</td>
+        <td align="right">2020-01-26 10:34:37</td>
+        <td align="right">26-01-2020</td>
+        <td align="right">26-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-023870</td>
+        <td>ROQUE</td>
+        <td>MIRANDA NUNEZ</td>
+        <td>031-0401828-2</td>
+        <td>PRINCIPAL 299 EL PAPAYO</td>
+        <td></td>
+        <td>829-798-0520</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>CG150</td>
+        <td>2015</td>
+        <td>LZ3GJL4T14AK41312</td>
+        <td align="right">K0774429</td>
+        <td align="right">2020-01-26 12:35:18</td>
+        <td align="right">26-01-2020</td>
+        <td align="right">26-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-023871</td>
+        <td>ALEJANDRO</td>
+        <td>ALCANTARA</td>
+        <td>402-3783759-2</td>
+        <td>BARRIO LIBERTADOR CALLE LA ALTAGRACIA LOAS ALCARRIZOS</td>
+        <td></td>
+        <td>829-519-6295</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>2004</td>
+        <td>C509786617</td>
+        <td align="right">NQXK94</td>
+        <td align="right">2020-01-26 12:51:45</td>
+        <td align="right">26-01-2020</td>
+        <td align="right">26-04-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-MSD-023872</td>
+        <td>BENJAMIN CARMELO</td>
+        <td>MERCADO</td>
+        <td>001-0839706-8</td>
+        <td>LA NUEVA BARQUTA</td>
+        <td></td>
+        <td>849-401-1098</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2014</td>
+        <td>LJCPAGLHOES001213</td>
+        <td align="right">KO710772</td>
+        <td align="right">2020-01-26 18:05:18</td>
+        <td align="right">26-01-2020</td>
+        <td align="right">26-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,525.00</h4></td>
+</tr></table>

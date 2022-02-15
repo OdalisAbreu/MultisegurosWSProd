@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 11/11/2020 <b>Hasta:</b> 11/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002087</td>
+        <td>SANTA LORENZA</td>
+        <td>GUERRERO GUERRERO</td>
+        <td>003-0029247-1</td>
+        <td>calle 3 4 Santa Elena urb. </td>
+        <td>PERAVIA</td>
+        <td>809-841-3221</td>
+        <td>Autobuses (De 16 a 60 Pasajeros)</td>
+        <td>TOYOTA               </td>
+        <td>COASTER</td>
+        <td>2016</td>
+        <td>JTOPB510X01075713</td>
+        <td align="right">I072223</td>
+        <td align="right">2020-11-11 09:26:45</td>
+        <td align="right">11-11-2020</td>
+        <td align="right">11-11-2021</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>1,000,000</td>
+        <td align="right">7,970.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002088</td>
+        <td>JUAN EMILIO </td>
+        <td>SOTO SALDAÑA</td>
+        <td>003-0112739-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-779-8927</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J556637</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-11 10:29:20</td>
+        <td align="right">11-11-2020</td>
+        <td align="right">11-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002089</td>
+        <td>WANDY YAEL </td>
+        <td>ORTIZ SANTANA</td>
+        <td>003-0114431-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-465-7961</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502213432</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-11 10:46:35</td>
+        <td align="right">11-11-2020</td>
+        <td align="right">11-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002090</td>
+        <td>WANDY YAEL </td>
+        <td>SANTANA</td>
+        <td>003-0114431-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-465-7961</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502213456</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-11 11:41:28</td>
+        <td align="right">11-11-2020</td>
+        <td align="right">11-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002091</td>
+        <td>JOSE FRANCISCO</td>
+        <td>CRESPO</td>
+        <td>402-2438373-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-439-3205</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502216420</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-11 13:35:06</td>
+        <td align="right">11-11-2020</td>
+        <td align="right">11-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002092</td>
+        <td>YEIFRI YORDAN</td>
+        <td>ARIAS</td>
+        <td>223-0160504-8</td>
+        <td>MANUEL DE JESU RICARDO</td>
+        <td></td>
+        <td>849-277-2496</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2020</td>
+        <td>MD2A76AY1LWK49734</td>
+        <td align="right">EN TRAMITE</td>
+        <td align="right">2020-11-11 16:40:28</td>
+        <td align="right">11-11-2020</td>
+        <td align="right">11-05-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002093</td>
+        <td>DOMINGO</td>
+        <td>BAEZ ABREU</td>
+        <td>003-0037489-9</td>
+        <td>la altagracia parte atras casa 44,arroyo hondo</td>
+        <td>PERAVIA</td>
+        <td>849-263-0850</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LX125</td>
+        <td>2018</td>
+        <td>LLCLP1T06JA100795</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-11 16:42:31</td>
+        <td align="right">11-11-2020</td>
+        <td align="right">11-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002094</td>
+        <td>JUAN MARIA</td>
+        <td>SANTOS ROA</td>
+        <td>082-0017780-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-424-9226</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502216419</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-11 17:53:42</td>
+        <td align="right">11-11-2020</td>
+        <td align="right">11-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>9,757.50</h4></td>
+</tr></table>

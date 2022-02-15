@@ -1,0 +1,219 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 15/11/2019 <b>Hasta:</b> 15/11/2019
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000183</td>
+        <td>MARIA MIGUELINA </td>
+        <td>TRONCOSO ORTIZ </td>
+        <td>003-0092249-9</td>
+        <td>CMARCOS A CABRAL 10, VILLA SOMBRERO </td>
+        <td>PERAVIA</td>
+        <td>809-397-4632</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191219782</td>
+        <td align="right">PROCESO </td>
+        <td align="right">2019-11-15 11:07:40</td>
+        <td align="right">15-11-2019</td>
+        <td align="right">15-11-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr>
+	<tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000184</td>
+        <td>DANIEL</td>
+        <td>JORGE</td>
+        <td>037-0092676-3</td>
+        <td>GINEBRA ARZENO NO.22</td>
+        <td></td>
+        <td>829-577-9156</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>CG</td>
+        <td>1984</td>
+        <td>C500760291</td>
+        <td align="right">N213817</td>
+        <td align="right">2019-11-15 13:39:04</td>
+        <td align="right">15-11-2019</td>
+        <td align="right">15-11-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr>
+	<tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000185</td>
+        <td>VICTOR ANTONIOHTHHHH</td>
+        <td>VASQUEZ URENA</td>
+        <td>054-0090654-0</td>
+        <td>MOCA</td>
+        <td></td>
+        <td>829-456-2659</td>
+        <td>Motocicleta</td>
+        <td>BENYE</td>
+        <td>BENYE</td>
+        <td>2016</td>
+        <td>LZ3GHT14AK44122</td>
+        <td align="right">00000</td>
+        <td align="right">2019-11-15 16:13:00</td>
+        <td align="right">15-11-2019</td>
+        <td align="right">15-02-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr>
+	<tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000186</td>
+        <td>YUREISSY ROSIBEL </td>
+        <td>SOTO SOTO </td>
+        <td>402-2825180-3</td>
+        <td>CLUIS MARCANO 21</td>
+        <td>PERAVIA</td>
+        <td>829-439-2797</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J575751</td>
+        <td align="right">PROCESO </td>
+        <td align="right">2019-11-15 17:26:43</td>
+        <td align="right">15-11-2019</td>
+        <td align="right">15-11-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr>
+	<tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000187</td>
+        <td>RAFAEL ANTONIO</td>
+        <td>GUILLEN TEJEDA</td>
+        <td>001-1591309-7</td>
+        <td>CALLE  NIC0LAS CASIMORO NU 57 BARIO DUARTE</td>
+        <td></td>
+        <td>829-515-9617</td>
+        <td>Motocicleta</td>
+        <td>GACELA</td>
+        <td>GACELA</td>
+        <td>2016</td>
+        <td>GCLJCNLR6GOA61970</td>
+        <td align="right">K0724593</td>
+        <td align="right">2019-11-15 20:06:20</td>
+        <td align="right">15-11-2019</td>
+        <td align="right">15-11-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr>
+	<tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-000188</td>
+        <td>DIEGO EUCLIDES</td>
+        <td>ALVAREZ POLANCO</td>
+        <td>223-0052799-5</td>
+        <td>CALLE3 ESQUINA4 ALPES1 VILLA FARO</td>
+        <td></td>
+        <td>809-236-9058</td>
+        <td>Jeepeta</td>
+        <td>SUZUKI               </td>
+        <td>GRAND VITARA</td>
+        <td>2007</td>
+        <td>JS3TD94V174201986</td>
+        <td align="right">G159280</td>
+        <td align="right">2019-11-15 23:07:53</td>
+        <td align="right">15-11-2019</td>
+        <td align="right">15-02-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr>
+<tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,370.00</h4></td>
+</tr></table>

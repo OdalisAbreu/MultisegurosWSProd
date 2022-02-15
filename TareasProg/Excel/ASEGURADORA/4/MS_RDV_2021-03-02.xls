@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 02/03/2021 <b>Hasta:</b> 02/03/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002865</td>
+        <td>DANIEL ANTONIO </td>
+        <td>MARTINEZ CORNIELLE</td>
+        <td>001-0884320-2</td>
+        <td>CLA BERMA NO 32 CRUCE DE OCOA </td>
+        <td>PERAVIA</td>
+        <td>849-342-2225</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191205256</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-02 11:24:33</td>
+        <td align="right">02-03-2021</td>
+        <td align="right">02-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002866</td>
+        <td>KEIRY MASSIEL </td>
+        <td>BALDERA </td>
+        <td>003-0122121-4</td>
+        <td>c27 de febrero casa 57,quija quieta</td>
+        <td>PERAVIA</td>
+        <td>829-598-2514</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191109838</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-02 11:30:46</td>
+        <td align="right">02-03-2021</td>
+        <td align="right">02-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002867</td>
+        <td>DIOMEDES ROSARIO</td>
+        <td>LARA PEREZ</td>
+        <td>003-0112002-8</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>809-271-6112</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>TBLPCM4J9M200420</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-02 11:34:34</td>
+        <td align="right">02-03-2021</td>
+        <td align="right">02-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002868</td>
+        <td>EMMANUEL</td>
+        <td>ESTIME</td>
+        <td>008-0293310-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-462-5612</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2020</td>
+        <td>TBLPCM1J1M2000492</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-02 12:18:59</td>
+        <td align="right">02-03-2021</td>
+        <td align="right">02-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002869</td>
+        <td>JOSE MANUEL</td>
+        <td>DE LA ROSA ROA</td>
+        <td>402-2717683-7</td>
+        <td>barrio los robados cdel pozo ,matanzas</td>
+        <td>PERAVIA</td>
+        <td>809-260-0573</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>CG-150</td>
+        <td>2021</td>
+        <td>TBLPCK4JOM2001010</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-02 16:01:32</td>
+        <td align="right">02-03-2021</td>
+        <td align="right">02-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002870</td>
+        <td>RAMON </td>
+        <td>DE LA ROSA </td>
+        <td>028-5004497-0</td>
+        <td>CDE LA BOMBA SANTA ROSA </td>
+        <td>PERAVIA</td>
+        <td>809-750-0520</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2021</td>
+        <td>MD2A76AX8MWH48252</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-02 17:54:24</td>
+        <td align="right">02-03-2021</td>
+        <td align="right">02-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,650.00</h4></td>
+</tr></table>

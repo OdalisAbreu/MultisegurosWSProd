@@ -1,0 +1,331 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 30/11/2020 <b>Hasta:</b> 30/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002195</td>
+        <td>IRENE SULEIKA</td>
+        <td>CRUCETA MEJIA </td>
+        <td>402-3386887-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-391-3507</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>1994</td>
+        <td>LZRG0F1A2L1003098</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-30 10:39:34</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">30-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002196</td>
+        <td>DAYANA </td>
+        <td>DE LOS SANTOS AMADOR</td>
+        <td>402-1409180-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-889-9015</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451103932</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-30 11:48:57</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">30-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002197</td>
+        <td>HECTOR BOLIBAR</td>
+        <td>DIAZ RAMIREZ</td>
+        <td>010-0016343-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-601-0387</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JA481007323</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-30 13:07:51</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">30-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002198</td>
+        <td>ROMEL ANDRES</td>
+        <td>MATOS AMESQUITA</td>
+        <td>001-1017810-0</td>
+        <td>cemilio prudon casa 66,barrio washintong matanzas </td>
+        <td>PERAVIA</td>
+        <td>829-331-8538</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 150</td>
+        <td>2008</td>
+        <td>9F2A71255C2001848</td>
+        <td align="right">K915215</td>
+        <td align="right">2020-11-30 14:36:07</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">30-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002199</td>
+        <td>FRANCISCO </td>
+        <td>AMADOR AMADOR</td>
+        <td>003-0051205-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-497-4853</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1974</td>
+        <td>JF451101688</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-30 15:17:30</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">30-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002200</td>
+        <td>ANA SILVIA</td>
+        <td>PEREZ MARTE DE MENDOZA</td>
+        <td>047-0026610-1</td>
+        <td>PRINCIPAL 43 LA VEGA CENTRO DE LA CIUDAD</td>
+        <td></td>
+        <td>829-546-4658</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>1995</td>
+        <td>4T1SK12E4SU492699</td>
+        <td align="right">A113061</td>
+        <td align="right">2020-11-30 16:01:11</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">30-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002201</td>
+        <td>NEIFY LIONELI</td>
+        <td>SOTO PEÑA</td>
+        <td>402-0969662-0</td>
+        <td>CPRINCIPAL NO.115 , EL CRUCE DE ARROYO HONDO</td>
+        <td>PERAVIA</td>
+        <td>809-493-7557</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2016</td>
+        <td>LLCLPLB01GE100539</td>
+        <td align="right">K1150506</td>
+        <td align="right">2020-11-30 16:08:03</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">30-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002202</td>
+        <td>SANDY</td>
+        <td>CANARIO LUGO</td>
+        <td>003-0092405-7</td>
+        <td>CROGELIO MEDINA , EL CRUCE DE ARROYO HONDO</td>
+        <td>PERAVIA</td>
+        <td>829-470-6390</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2021</td>
+        <td>LLCLGL306MA104104</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-30 16:21:56</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">30-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002203</td>
+        <td>BRANDOL DAVID</td>
+        <td>BALDERA</td>
+        <td>402-2681253-1</td>
+        <td>C27 DE FEBRERO NO.57, QUIJA QUIETA</td>
+        <td>PERAVIA</td>
+        <td>809-458-1507</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2021</td>
+        <td>LLCLGL300MA104079</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-30 16:23:53</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">30-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002204</td>
+        <td>RUDDY ELIAN</td>
+        <td>CASTRO REYES</td>
+        <td>402-0054194-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-356-5531</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J582755</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-30 17:48:29</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">30-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>11</td>
+        <td>AUTO-AT-002205</td>
+        <td>ARINSON</td>
+        <td>MELO MEJIA</td>
+        <td>402-1432324-4</td>
+        <td>C Inmaculada Concepcion, Sombrero. Peravia.</td>
+        <td>PERAVIA</td>
+        <td>829-963-3711</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>2010</td>
+        <td>4T1BF3EK2AU045465</td>
+        <td align="right">A677452</td>
+        <td align="right">2020-11-30 21:28:38</td>
+        <td align="right">30-11-2020</td>
+        <td align="right">02-03-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,818.75</h4></td>
+</tr></table>

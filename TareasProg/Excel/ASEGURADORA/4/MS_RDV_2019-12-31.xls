@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 31/12/2019 <b>Hasta:</b> 31/12/2019
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000366</td>
+        <td>GUILLERMO ANTONIO </td>
+        <td>PEREZ RODRIGUEZ </td>
+        <td>402-3508168-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-785-9970</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1994</td>
+        <td>AA011423656 </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2019-12-31 11:48:12</td>
+        <td align="right">31-12-2019</td>
+        <td align="right">31-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000367</td>
+        <td>HENRY GILBERTO</td>
+        <td>MENDEZ PINEDA</td>
+        <td>082-0012149-2</td>
+        <td>CALLE LIBERTAD NO.101, SECTOR SANTA CRUZ,</td>
+        <td>SAN CRISTOBAL</td>
+        <td>347-781-8749</td>
+        <td>Jeep</td>
+        <td>FORD                 </td>
+        <td>EXPLORER</td>
+        <td>2013</td>
+        <td>1FM5K8D80DGB75054</td>
+        <td align="right">G385864</td>
+        <td align="right">2019-12-31 12:18:38</td>
+        <td align="right">31-12-2019</td>
+        <td align="right">01-07-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,215.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000368</td>
+        <td>CARLOS BUENAVENTURA</td>
+        <td>TAVERAS</td>
+        <td>033-0007548-2</td>
+        <td>BRISAS DEL LLANO</td>
+        <td></td>
+        <td>829-387-0638</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>LOGO</td>
+        <td>2001</td>
+        <td>GA33032294</td>
+        <td align="right">AS20639</td>
+        <td align="right">2019-12-31 17:00:27</td>
+        <td align="right">31-12-2019</td>
+        <td align="right">31-03-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000369</td>
+        <td>YERY MORENO</td>
+        <td>FELIZ FERNANDEZ</td>
+        <td>001-1702919-9</td>
+        <td>LOS SOTO</td>
+        <td></td>
+        <td>829-209-1064</td>
+        <td>Automovil</td>
+        <td>MITSUBISHI           </td>
+        <td>MONTERO SPORT 4 X 2</td>
+        <td>2001</td>
+        <td>JA4MT31P043869</td>
+        <td align="right">G195015</td>
+        <td align="right">2019-12-31 17:45:07</td>
+        <td align="right">31-12-2019</td>
+        <td align="right">31-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000370</td>
+        <td>ROGELIO</td>
+        <td>GONZALEZ ENCARNACION</td>
+        <td>001-0380272-4</td>
+        <td>CALLE 26 13 SAVICA</td>
+        <td></td>
+        <td>829-908-6187</td>
+        <td>Jeepeta</td>
+        <td>FORD                 </td>
+        <td>ESCAPE</td>
+        <td>2015</td>
+        <td>1FMCU9GX4FUA71420</td>
+        <td align="right">EG01518</td>
+        <td align="right">2019-12-31 20:26:51</td>
+        <td align="right">31-12-2019</td>
+        <td align="right">31-03-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,855.00</h4></td>
+</tr></table>

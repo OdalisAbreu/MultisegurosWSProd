@@ -1,0 +1,331 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 13/06/2020 <b>Hasta:</b> 13/06/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001157</td>
+        <td>DENYI ISRAEL</td>
+        <td>COCA CORDERO</td>
+        <td>402-2717933-6</td>
+        <td>YERBA BUENA</td>
+        <td></td>
+        <td>809-829-4724</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1995</td>
+        <td>52A01270100000000</td>
+        <td align="right">K0442397</td>
+        <td align="right">2020-06-13 08:04:00</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001158</td>
+        <td>JUAN DE ROSIO </td>
+        <td>VALDEZ </td>
+        <td>003-0066500-7</td>
+        <td>C27 DE FEBRERO NO 73</td>
+        <td>PERAVIA</td>
+        <td>829-802-2586</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>ACCORD</td>
+        <td>2008</td>
+        <td>1HGCS12808A015413</td>
+        <td align="right">A601887</td>
+        <td align="right">2020-06-13 11:43:24</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001159</td>
+        <td>EURIDICIS</td>
+        <td>FERMIN HERNANDEZ</td>
+        <td>056-0179514-8</td>
+        <td>CANGREJO</td>
+        <td></td>
+        <td>829-714-2183</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2017</td>
+        <td>LLCLTJD03FCK01864</td>
+        <td align="right">NT</td>
+        <td align="right">2020-06-13 12:18:55</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001160</td>
+        <td>ENRIQUE </td>
+        <td>VILLAR</td>
+        <td>402-4230971-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-380-0525</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>3KJ</td>
+        <td>1994</td>
+        <td>3KJ3555858</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-06-13 13:12:12</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001161</td>
+        <td>JOSE ANTONIO</td>
+        <td>FRAGOSO SANCHEZ</td>
+        <td>003-0078523-5</td>
+        <td>cprincipal no.18, sec. san jose </td>
+        <td>PERAVIA</td>
+        <td>829-294-9087</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TOYOTA</td>
+        <td>1986</td>
+        <td>JT4RN50R2G0132207</td>
+        <td align="right">L088805</td>
+        <td align="right">2020-06-13 14:17:42</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001162</td>
+        <td>JULIO ANTONIO </td>
+        <td>PEÑA </td>
+        <td>003-0048113-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-380-0525</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502603438</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-06-13 14:57:52</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001163</td>
+        <td>SILFIDA SANTOS </td>
+        <td>GONZALEZ </td>
+        <td>003-0076496-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-787-7534</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2020</td>
+        <td>LYDTCJNA6L1200006</td>
+        <td align="right">PROCESO </td>
+        <td align="right">2020-06-13 15:59:23</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-001164</td>
+        <td>ROSMERY</td>
+        <td>ANDUJAR </td>
+        <td>003-0019030-5</td>
+        <td>BANI</td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-522-6589</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2020</td>
+        <td>LYDTCJNA0L1200020</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-06-13 16:20:54</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-001165</td>
+        <td>JULIO CESAR</td>
+        <td>PIMENTEL </td>
+        <td>003-0052995-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-843-0939</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD902602983     </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-06-13 16:22:39</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-001166</td>
+        <td>MANUEL ALBERTO </td>
+        <td>CALDERON CASTILLO </td>
+        <td>003-0102987-2</td>
+        <td>CSANTO DOMINGO DE GUZMAN NO 07</td>
+        <td>PERAVIA</td>
+        <td>829-802-3452</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2019</td>
+        <td>LLCLT150XKCK03883</td>
+        <td align="right">TRAMITE </td>
+        <td align="right">2020-06-13 17:09:16</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>11</td>
+        <td>AUTO-AT-001167</td>
+        <td>MIGUEL ROSARIO </td>
+        <td>GARCIA </td>
+        <td>003-0061533-3</td>
+        <td>CFABIOLA CASTILLO CASA 14 VF </td>
+        <td>PERAVIA</td>
+        <td>809-478-4526</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2018</td>
+        <td>L5YTCKPA9J1141572</td>
+        <td align="right">TRAMITE </td>
+        <td align="right">2020-06-13 17:23:17</td>
+        <td align="right">13-06-2020</td>
+        <td align="right">13-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>6,825.00</h4></td>
+</tr></table>

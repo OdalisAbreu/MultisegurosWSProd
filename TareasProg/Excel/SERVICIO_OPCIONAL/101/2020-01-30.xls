@@ -1,0 +1,128 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Asistencia Vial (Grua)
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 30/01/2020 <b>Hasta:</b> 30/01/2020
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		01:00:01
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>AUTO-MSD-024060</td>
+        <td>CARMITO</td>
+        <td>PERALTA</td>
+        <td>001-1252942-5</td>
+        <td></td>
+        <td>809-846-3520</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2014</td>
+        <td>KMHEC41LBEA612098</td>
+        <td>A703981</td>
+        <td>06:32:06</td>
+		<td>26833</td>
+        <td>30 de  Enero del 2020</td>
+        <td>30 de  Enero del 2021</td>
+        <td>$600.00</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>AUTO-MSD-024042</td>
+        <td>JOSE APOLINAR</td>
+        <td>SANTOS REYES</td>
+        <td>001-1189182-6</td>
+        <td></td>
+        <td>809-861-1060</td>
+        <td>Automovil</td>
+        <td>SUZUKI               </td>
+        <td>SUZUKI</td>
+        <td>2002</td>
+        <td>2S3TE52V526107142</td>
+        <td>G147255</td>
+        <td>03:05:27</td>
+		<td>26815</td>
+        <td>30 de  Enero del 2020</td>
+        <td>30 de  Enero del 2021</td>
+        <td>$1,200.00</td>
+   </tr>
+	<tr>
+   		<td>3</td>
+        <td>AUTO-AT-000507</td>
+        <td>NATANAEL</td>
+        <td>RAZON MINYETTY</td>
+        <td>001-1068538-5</td>
+        <td>AZUA</td>
+        <td>829-983-1663</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TACOMA</td>
+        <td>2014</td>
+        <td>5TFJX4GN7EX035089</td>
+        <td>L374767</td>
+        <td>10:24:25</td>
+		<td>26803</td>
+        <td>30 de  Enero del 2020</td>
+        <td>30 de  Enero del 2021</td>
+        <td>$1,800.00</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$3,600.00</td>
+   </tr>
+</table>

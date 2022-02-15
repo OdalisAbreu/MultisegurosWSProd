@@ -1,0 +1,355 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 08/07/2021 <b>Hasta:</b> 08/07/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003748</td>
+        <td>HUMBERTO</td>
+        <td>ALVAREZ SABALA</td>
+        <td>001-0358219-3</td>
+        <td>RESP RICARDO CARTY 12 GUALEY DISTRITO  NACIONAL</td>
+        <td></td>
+        <td>829-560-5996</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>GREAT DANE - GRC</td>
+        <td>1998</td>
+        <td>1HGCG5652WA097876</td>
+        <td align="right">A071412</td>
+        <td align="right">2021-07-08 08:49:53</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003749</td>
+        <td>PEDRO</td>
+        <td>JIMENEZ</td>
+        <td>003-0009624-5</td>
+        <td>valera guzman</td>
+        <td>PERAVIA</td>
+        <td>809-522-8567</td>
+        <td>Automovil</td>
+        <td>CHEVROLET            </td>
+        <td>CHEVROLET </td>
+        <td>2012</td>
+        <td>1G1JF6SHXC4176293</td>
+        <td align="right">A782769</td>
+        <td align="right">2021-07-08 08:53:02</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-07-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003750</td>
+        <td>JENNIFFER ANAIMA</td>
+        <td>DE OLEO CASTRO</td>
+        <td>225-0008441-7</td>
+        <td>ALBERTO THOMAS283 ESPAILLA SANTO DOMINGO DE GUZMAN SATAVAR</td>
+        <td></td>
+        <td>809-601-9525</td>
+        <td>Jeepeta</td>
+        <td>HONDA                </td>
+        <td></td>
+        <td>2014</td>
+        <td>5J6RM4H55ELO37970</td>
+        <td align="right">G465759</td>
+        <td align="right">2021-07-08 09:20:07</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-07-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003751</td>
+        <td>JOSE MANUEL</td>
+        <td>BAEZ ORTIZ</td>
+        <td>001-0528707-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-894-7145</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502405465</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-08 10:59:18</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003752</td>
+        <td>PEDRO ANTONIO</td>
+        <td>CASTRO CONCEPCION</td>
+        <td>223-0179630-0</td>
+        <td>CALLE 9 [63]</td>
+        <td></td>
+        <td>809-460-6748</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>Z3000</td>
+        <td>2015</td>
+        <td>LZ3GJL4T14AK39135</td>
+        <td align="right">KO586793</td>
+        <td align="right">2021-07-08 11:45:08</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003753</td>
+        <td>FRANKLIN </td>
+        <td>DE LOS SANTOS ZOQUIER</td>
+        <td>002-0177303-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-508-1326</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502302808</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-08 13:29:15</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003754</td>
+        <td>AUSTRIA MERCEDES</td>
+        <td>FABIAN ALMONTE</td>
+        <td>049-0048418-1</td>
+        <td>LOS MULTIS CALLE 161,COTUI</td>
+        <td></td>
+        <td>829-720-9005</td>
+        <td>Automovil</td>
+        <td>FORD                 </td>
+        <td>FOCUS</td>
+        <td>2012</td>
+        <td>1FAHP3N20CL276472</td>
+        <td align="right">A685312</td>
+        <td align="right">2021-07-08 14:34:23</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-07-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-003755</td>
+        <td>WILLIAM DE LA CRUZ</td>
+        <td>TEJEDA CASTILLO</td>
+        <td>003-0093087-2</td>
+        <td>cprincipal casa 55,el cruce de arroyo hondo </td>
+        <td>PERAVIA</td>
+        <td>829-914-1181</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2020</td>
+        <td>LLCLGL300MA103773</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-07-08 14:40:56</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-003756</td>
+        <td>DARIBERTO</td>
+        <td>DE LA CRUZ SEVERINO</td>
+        <td>225-0087500-4</td>
+        <td>CALLE DAMASCO H3 LA JAVILLA</td>
+        <td></td>
+        <td>829-273-3497</td>
+        <td>Automovil</td>
+        <td>DAIHATSU             </td>
+        <td></td>
+        <td>2009</td>
+        <td>K3OOSOO17473</td>
+        <td align="right">A626932</td>
+        <td align="right">2021-07-08 15:12:51</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-07-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-003757</td>
+        <td>YAJAIRA ALEJANDRA</td>
+        <td>LAJARA PEÑA</td>
+        <td>003-0064389-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-380-2993</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>LC6PAGA12N0000502</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-08 15:30:10</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>11</td>
+        <td>AUTO-AT-003758</td>
+        <td>EDWIN</td>
+        <td>ROSARIO MONTERO</td>
+        <td>001-1607274-5</td>
+        <td>VILLA MELLA</td>
+        <td></td>
+        <td>829-573-4651</td>
+        <td>Automovil</td>
+        <td>SUZUKI               </td>
+        <td>APV</td>
+        <td>2009</td>
+        <td>MHYDN71V09J305149</td>
+        <td align="right">L267950</td>
+        <td align="right">2021-07-08 15:31:45</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>12</td>
+        <td>AUTO-AT-003759</td>
+        <td>JUAN CARLOSSHS</td>
+        <td>TIBURCIO BAEZ</td>
+        <td>001-1665520-0</td>
+        <td>CALLE EL COCAL EDF.BRANDON X APART 2B RES.S. LOS HIDALGOS</td>
+        <td></td>
+        <td>809-858-9727</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>FIT</td>
+        <td>2009</td>
+        <td>GE61113003</td>
+        <td align="right">A645801</td>
+        <td align="right">2021-07-08 19:20:40</td>
+        <td align="right">08-07-2021</td>
+        <td align="right">08-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>10,750.00</h4></td>
+</tr></table>

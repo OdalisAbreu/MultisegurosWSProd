@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 27/11/2020 <b>Hasta:</b> 27/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002178</td>
+        <td>ALFREDO</td>
+        <td>CASTILLO TEJEDA</td>
+        <td>001-1672202-6</td>
+        <td>cmaria trinidad sanchez casa 12,matanzas</td>
+        <td>PERAVIA</td>
+        <td>809-964-0806</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502209325</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-27 10:55:23</td>
+        <td align="right">27-11-2020</td>
+        <td align="right">27-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002179</td>
+        <td>BIBIAN YUDERKI</td>
+        <td>CORDERO JIMENEZ</td>
+        <td>003-0000678-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-522-9943</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J660811</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-27 10:58:13</td>
+        <td align="right">27-11-2020</td>
+        <td align="right">27-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002180</td>
+        <td>CARLOS BIENVENIDO</td>
+        <td>SARANTE ARIAS</td>
+        <td>402-2195138-3</td>
+        <td>ENSANCHE LA FE CALLE MANUEL FLORES CABRERA</td>
+        <td></td>
+        <td>829-820-9461</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>CBR 600RR</td>
+        <td>2008</td>
+        <td>JH2PC40018M106448</td>
+        <td align="right">K0768397</td>
+        <td align="right">2020-11-27 11:27:38</td>
+        <td align="right">27-11-2020</td>
+        <td align="right">27-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002181</td>
+        <td>REYES</td>
+        <td>MORA PEREZ</td>
+        <td>001-1077560-8</td>
+        <td>cpablo neruda edificio 3 ap.63por los 3 brazos,santo domingo</td>
+        <td>SANTO DOMINGO</td>
+        <td>829-876-1002</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>BZ-150</td>
+        <td>2019</td>
+        <td>LZRGOF1AOK1001039</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-27 11:50:33</td>
+        <td align="right">27-11-2020</td>
+        <td align="right">27-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002182</td>
+        <td>ANGEL CECILIO</td>
+        <td>COLLADO FERNANDEZ</td>
+        <td>402-2583619-2</td>
+        <td>ZALAYA</td>
+        <td></td>
+        <td>849-459-7628</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>SUZUKI</td>
+        <td>2003</td>
+        <td>CF46A584971</td>
+        <td align="right">XXXX</td>
+        <td align="right">2020-11-27 11:56:53</td>
+        <td align="right">27-11-2020</td>
+        <td align="right">27-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002183</td>
+        <td>MARCO ANTONIO </td>
+        <td>GUERRERO HEREDIA</td>
+        <td>402-2479694-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-848-7373</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>1994</td>
+        <td>TARPCM507KC000125</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-27 13:42:54</td>
+        <td align="right">27-11-2020</td>
+        <td align="right">27-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002184</td>
+        <td>YONATHAN </td>
+        <td>ALVAREZ</td>
+        <td>003-0095376-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-547-5369</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD5022115991</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-27 14:17:38</td>
+        <td align="right">27-11-2020</td>
+        <td align="right">27-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002185</td>
+        <td>ENMANUEL </td>
+        <td>DILONE DOLIS</td>
+        <td>090-0023131-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-814-4455</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502603428</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-27 14:34:35</td>
+        <td align="right">27-11-2020</td>
+        <td align="right">27-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002186</td>
+        <td>CHAYANES</td>
+        <td>RODRIGUEZ</td>
+        <td>031-0543786-1</td>
+        <td>FERNANDO VALERIO, BAITOA</td>
+        <td></td>
+        <td>849-450-1471</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2000</td>
+        <td>EK31100279</td>
+        <td align="right">A457602</td>
+        <td align="right">2020-11-27 17:04:11</td>
+        <td align="right">27-11-2020</td>
+        <td align="right">27-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002187</td>
+        <td>MARIA MIGUELINA</td>
+        <td>VARGAS LAGUAR</td>
+        <td>402-2423043-9</td>
+        <td>MANUEL MINYA 21</td>
+        <td></td>
+        <td>809-779-9869</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2007</td>
+        <td>KMHEU41MP7A364874</td>
+        <td align="right">A599328</td>
+        <td align="right">2020-11-27 18:39:34</td>
+        <td align="right">27-11-2020</td>
+        <td align="right">27-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,950.00</h4></td>
+</tr></table>

@@ -1,0 +1,331 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 28/12/2020 <b>Hasta:</b> 28/12/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002393</td>
+        <td>YEURY BERNARDO</td>
+        <td>AGUASVIVAS NUÑEZ</td>
+        <td>003-0098767-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-954-2909</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502605306</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-28 08:46:36</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002394</td>
+        <td>YEURY BERNARDO </td>
+        <td>AGUASVIVAS NUÑEZ</td>
+        <td>003-0098767-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-954-2909</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502608067</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-28 08:49:57</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002395</td>
+        <td>FREDDY</td>
+        <td>COMERCIAL</td>
+        <td>130-6524140-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-533-4550</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AA011500143</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-28 09:49:32</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002396</td>
+        <td>YENNY ALTAGRACIA</td>
+        <td>BREA LACHAPEL</td>
+        <td>003-0070423-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-871-7148</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA36J622784</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-28 10:09:36</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002397</td>
+        <td>HERONI</td>
+        <td>NAVARRO DURAN</td>
+        <td>001-1323112-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-981-3877</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AA011524779</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-28 10:11:39</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002398</td>
+        <td>ALEXANDER</td>
+        <td>PAULINO ABREU</td>
+        <td>223-0180528-3</td>
+        <td>CALLE 8</td>
+        <td></td>
+        <td>809-662-2425</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C90</td>
+        <td>1994</td>
+        <td>HA021680925</td>
+        <td align="right">K1339194</td>
+        <td align="right">2020-12-28 10:28:22</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002399</td>
+        <td>DAVID ANTONIO</td>
+        <td>REYES GONZALEZ</td>
+        <td>049-0036306-2</td>
+        <td>CPRIMERA 26 LOS MULTI COTUI</td>
+        <td></td>
+        <td>809-820-0759</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>HI LUX SURF</td>
+        <td>2003</td>
+        <td>JTFDE696100087590</td>
+        <td align="right">L046867</td>
+        <td align="right">2020-12-28 10:34:01</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002400</td>
+        <td>MARIANO</td>
+        <td>ENNCARNAION ENCARNACION</td>
+        <td>014-0005717-8</td>
+        <td>DAMIAN EL CERCADO CERCADO</td>
+        <td></td>
+        <td>829-587-9394</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2005</td>
+        <td>C6PAGA1850819417</td>
+        <td align="right">K0801217</td>
+        <td align="right">2020-12-28 11:30:08</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002401</td>
+        <td>MAXIMO</td>
+        <td>BELTRE SEGUNDO</td>
+        <td>402-2406657-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-301-7593</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451002899</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-28 14:22:52</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002402</td>
+        <td>LUIS GABRIEL</td>
+        <td>VALDEZ SILVERIO</td>
+        <td>223-0030814-9</td>
+        <td>LUCA ZAPATA 5</td>
+        <td></td>
+        <td>849-854-8498</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C90</td>
+        <td>1995</td>
+        <td>MD902610405</td>
+        <td align="right">K1846895</td>
+        <td align="right">2020-12-28 15:55:31</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>11</td>
+        <td>AUTO-AT-002403</td>
+        <td>JOSE RAFAEL</td>
+        <td>FLORIAN VASQUEZ</td>
+        <td>402-2266060-3</td>
+        <td>GREGORIO DE LORA CASA 49 SECTOR MIRAMAR</td>
+        <td></td>
+        <td>829-903-0709</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td></td>
+        <td>2015</td>
+        <td>TBL20P105FHF56081</td>
+        <td align="right">K0585280</td>
+        <td align="right">2020-12-28 18:07:09</td>
+        <td align="right">28-12-2020</td>
+        <td align="right">28-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,743.75</h4></td>
+</tr></table>

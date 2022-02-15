@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 14/02/2020 <b>Hasta:</b> 14/02/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000568</td>
+        <td>MILTON MIGUEL</td>
+        <td>SUBERVI BISONO</td>
+        <td>001-1777128-7</td>
+        <td>PADRE BILLINI 505</td>
+        <td></td>
+        <td>809-844-3830</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2012</td>
+        <td>LJCPAGLH4A1000880</td>
+        <td align="right">K0686281</td>
+        <td align="right">2020-02-14 08:39:38</td>
+        <td align="right">14-02-2020</td>
+        <td align="right">14-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000569</td>
+        <td>WILLIAM JAMES </td>
+        <td>DELGADO SANCHEZ </td>
+        <td>010-0100889-3</td>
+        <td>AZUA </td>
+        <td>AZUA</td>
+        <td>829-521-6350</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451310215</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-02-14 15:17:42</td>
+        <td align="right">14-02-2020</td>
+        <td align="right">14-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000570</td>
+        <td>ANGELIS</td>
+        <td>PAYANO TEJADA DE MONTILLA</td>
+        <td>402-2225340-9</td>
+        <td>FRANCISCO RIJO CUTO, SECTOR LOS COQUITOS 6</td>
+        <td></td>
+        <td>809-761-8528</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>VITZ</td>
+        <td>2012</td>
+        <td>NSP1302065875</td>
+        <td align="right">A776856</td>
+        <td align="right">2020-02-14 16:25:27</td>
+        <td align="right">14-02-2020</td>
+        <td align="right">14-02-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000571</td>
+        <td>KATHERINE </td>
+        <td>BAEZ</td>
+        <td>402-1457578-5</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>849-276-3703</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J662000</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-02-14 16:44:19</td>
+        <td align="right">14-02-2020</td>
+        <td align="right">14-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000572</td>
+        <td>ANGEL RANDY </td>
+        <td>AGRAMONTE DE LA CRUZ </td>
+        <td>402-2118169-2</td>
+        <td>AZUA </td>
+        <td>AZUA</td>
+        <td>829-972-8774</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191227166</td>
+        <td align="right">PROCESO </td>
+        <td align="right">2020-02-14 17:57:34</td>
+        <td align="right">14-02-2020</td>
+        <td align="right">14-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,375.00</h4></td>
+</tr></table>

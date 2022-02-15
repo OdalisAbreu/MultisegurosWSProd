@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 01/10/2020 <b>Hasta:</b> 01/10/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001810</td>
+        <td>ANDRES </td>
+        <td>GONZALEZ ENCARNACION</td>
+        <td>012-0090708-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-968-9094</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD5026033339</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-01 09:56:28</td>
+        <td align="right">01-10-2020</td>
+        <td align="right">01-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001811</td>
+        <td>ORLANDO RADHAMES </td>
+        <td>VELAZQUEZ SOTO</td>
+        <td>003-0065074-4</td>
+        <td>cprincipal casa 34,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-385-2579</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TOYOTA</td>
+        <td>1985</td>
+        <td>JT4RN50R6F0076920</td>
+        <td align="right">L229511</td>
+        <td align="right">2020-10-01 10:09:44</td>
+        <td align="right">01-10-2020</td>
+        <td align="right">01-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001812</td>
+        <td>JESSICA LORENA </td>
+        <td>MATEO REYNOSO</td>
+        <td>402-3767336-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-937-8195</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ7649588</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-01 10:15:13</td>
+        <td align="right">01-10-2020</td>
+        <td align="right">01-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001813</td>
+        <td>MAYRA ALEJANDRA</td>
+        <td>PEREZ POLANCO</td>
+        <td>003-0109980-0</td>
+        <td>entrando frente a la gomera aguasviva frente a amparo,los tumbaos</td>
+        <td>PERAVIA</td>
+        <td>809-613-2772</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LX125</td>
+        <td>2019</td>
+        <td>LLCLT1S09KCK01848</td>
+        <td align="right">K1750367</td>
+        <td align="right">2020-10-01 11:00:47</td>
+        <td align="right">01-10-2020</td>
+        <td align="right">01-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001814</td>
+        <td>SANTIAGO</td>
+        <td>JESUS GUERRERO</td>
+        <td>026-0048991-4</td>
+        <td>CALLE 10 NO. 17 VILLA REAL, LA ROMANA</td>
+        <td></td>
+        <td>829-322-6267</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>ALMERA</td>
+        <td>2009</td>
+        <td>JN1CFAN16Z0129640</td>
+        <td align="right">A543729</td>
+        <td align="right">2020-10-01 11:12:59</td>
+        <td align="right">01-10-2020</td>
+        <td align="right">01-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001815</td>
+        <td>JOHANKA DENIS</td>
+        <td>RODRIGUEZ CRUZ</td>
+        <td>093-0059373-9</td>
+        <td>Residencial jardines del fresno</td>
+        <td></td>
+        <td>849-868-8195</td>
+        <td>Jeepeta</td>
+        <td>HYUNDAI              </td>
+        <td>SANTA FE (JEEP)</td>
+        <td>2018</td>
+        <td>5NMZU3LBXJH056605</td>
+        <td align="right">X557956</td>
+        <td align="right">2020-10-01 15:47:56</td>
+        <td align="right">01-10-2020</td>
+        <td align="right">01-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001816</td>
+        <td>FIUMEN MANUEL </td>
+        <td>ARISTY ORTIZ</td>
+        <td>003-0040300-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-688-5523</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502218549</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-01 17:04:06</td>
+        <td align="right">01-10-2020</td>
+        <td align="right">01-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-001817</td>
+        <td>FREDDY WANKEL </td>
+        <td>MEJIA SOTO</td>
+        <td>003-0120935-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-254-4151</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ8113365</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-01 18:26:48</td>
+        <td align="right">01-10-2020</td>
+        <td align="right">01-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-001818</td>
+        <td>RAMON ODELKY</td>
+        <td>VALDEZ MARTE</td>
+        <td>001-1319712-3</td>
+        <td>calle2savica los alcarrizos</td>
+        <td></td>
+        <td>809-905-4013</td>
+        <td>Automovil</td>
+        <td>FORD                 </td>
+        <td>ESCAPE</td>
+        <td>2080</td>
+        <td>1FMCU93188KB51691</td>
+        <td align="right">G257988</td>
+        <td align="right">2020-10-01 20:42:31</td>
+        <td align="right">01-10-2020</td>
+        <td align="right">01-01-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>8,068.75</h4></td>
+</tr></table>

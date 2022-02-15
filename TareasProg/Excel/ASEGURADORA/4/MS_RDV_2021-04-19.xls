@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 19/04/2021 <b>Hasta:</b> 19/04/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003224</td>
+        <td>RAFAEL</td>
+        <td>CASTILLO</td>
+        <td>031-0314836-1</td>
+        <td>CALLE PROYETO ,CALLE3 CASA07</td>
+        <td></td>
+        <td>809-437-3348</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1934</td>
+        <td>C505400420</td>
+        <td align="right">K0165414</td>
+        <td align="right">2021-04-19 10:00:00</td>
+        <td align="right">19-04-2021</td>
+        <td align="right">19-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003225</td>
+        <td>JESUS </td>
+        <td>LINAREZ NUÑEZ</td>
+        <td>225-0039151-5</td>
+        <td>en la raqueta frente al pley ,villa sombrero</td>
+        <td>PERAVIA</td>
+        <td>809-250-8441</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2021</td>
+        <td>MD2A76AY9MWB48624</td>
+        <td align="right">K1973136</td>
+        <td align="right">2021-04-19 11:37:44</td>
+        <td align="right">19-04-2021</td>
+        <td align="right">19-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003226</td>
+        <td>CARLOS MANUEL</td>
+        <td>SANCHEZ</td>
+        <td>010-0085322-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-799-4864</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191217643</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-19 11:49:37</td>
+        <td align="right">19-04-2021</td>
+        <td align="right">19-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003227</td>
+        <td>JULIO GEOVANNY</td>
+        <td>DIAZ GUERRERO</td>
+        <td>003-0014792-3</td>
+        <td>Miguel Landestoy Maximo Gomez casa 31</td>
+        <td>PERAVIA</td>
+        <td>809-461-9977</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2020</td>
+        <td>LLCLXHCA9MA101039</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-04-19 11:58:22</td>
+        <td align="right">19-04-2021</td>
+        <td align="right">19-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003228</td>
+        <td>JULIO GEOVANNY</td>
+        <td>DIAZ GUERRERO</td>
+        <td>003-0014792-3</td>
+        <td>Calle Miguel Landestoy Numero 31, Sector Maximo Gomez</td>
+        <td>PERAVIA</td>
+        <td>809-461-9977</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J566126</td>
+        <td align="right">K1279099</td>
+        <td align="right">2021-04-19 12:29:21</td>
+        <td align="right">19-04-2021</td>
+        <td align="right">19-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003229</td>
+        <td>CARLOS JABIEL</td>
+        <td>SANTOS</td>
+        <td>031-0572988-7</td>
+        <td>MIRAFLORES 39</td>
+        <td></td>
+        <td>829-942-6288</td>
+        <td>Jeepeta</td>
+        <td>TOYOTA               </td>
+        <td>4RUNNER</td>
+        <td>2010</td>
+        <td>JTEZU5JR6A5003927</td>
+        <td align="right">G334427</td>
+        <td align="right">2021-04-19 16:31:09</td>
+        <td align="right">19-04-2021</td>
+        <td align="right">19-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,112.50</h4></td>
+</tr></table>

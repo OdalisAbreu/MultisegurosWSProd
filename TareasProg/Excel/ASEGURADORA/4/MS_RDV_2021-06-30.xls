@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 30/06/2021 <b>Hasta:</b> 30/06/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003696</td>
+        <td>ALEX DAVID</td>
+        <td>JOHNSON JONES</td>
+        <td>402-2509810-8</td>
+        <td>VILLA REAL</td>
+        <td></td>
+        <td>829-606-9986</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C90</td>
+        <td>1994</td>
+        <td>HA02220556300000</td>
+        <td align="right">K0568046</td>
+        <td align="right">2021-06-30 12:37:07</td>
+        <td align="right">30-06-2021</td>
+        <td align="right">30-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003697</td>
+        <td>OSCAR</td>
+        <td>CUEVAS RUBIO</td>
+        <td>019-0013168-9</td>
+        <td>Edermira Rodriguez  99</td>
+        <td>AZUA</td>
+        <td>829-629-5160</td>
+        <td>Autobuses (De 16 a 60 Pasajeros)</td>
+        <td>TOYOTA               </td>
+        <td>COASTER</td>
+        <td>2013</td>
+        <td>JTGFB518X01054425</td>
+        <td align="right">I061364</td>
+        <td align="right">2021-06-30 12:44:01</td>
+        <td align="right">30-06-2021</td>
+        <td align="right">30-06-2022</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>1,000,000</td>
+        <td align="right">7,970.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003698</td>
+        <td>HERIBERTO JUNIOR</td>
+        <td>RAMIREZ MUNOZ</td>
+        <td>402-2838278-0</td>
+        <td>PASEO REYES CATOLICOS</td>
+        <td></td>
+        <td>809-280-0071</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD90</td>
+        <td>1994</td>
+        <td>MD902609158</td>
+        <td align="right">K0714119</td>
+        <td align="right">2021-06-30 12:55:14</td>
+        <td align="right">30-06-2021</td>
+        <td align="right">30-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003699</td>
+        <td>CESAR </td>
+        <td>FRAN</td>
+        <td>003-0111246-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-580-9267</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502405631</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-06-30 14:50:48</td>
+        <td align="right">30-06-2021</td>
+        <td align="right">30-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003700</td>
+        <td>HILDAMYS ERNESTINA</td>
+        <td>D OLEO CUSTODIO</td>
+        <td>003-0113469-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-334-8653</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2021</td>
+        <td>LM0CHV8C4L1904698</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-06-30 15:32:42</td>
+        <td align="right">30-06-2021</td>
+        <td align="right">30-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003701</td>
+        <td>SANTA VIRGILIA</td>
+        <td>MARTINEZ MARTINEZ</td>
+        <td>003-0032383-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-458-5238</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2021</td>
+        <td>LM0CHV8C9L1904714</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-06-30 16:17:04</td>
+        <td align="right">30-06-2021</td>
+        <td align="right">30-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003702</td>
+        <td>ROMULO TIBULCIO</td>
+        <td>ALVAREZ REYES</td>
+        <td>003-0092662-3</td>
+        <td>Calle Pedro Henriquez Ureña  60, Paya Bani</td>
+        <td>PERAVIA</td>
+        <td>829-328-0651</td>
+        <td>Automovil</td>
+        <td>KIA                  </td>
+        <td>K5</td>
+        <td>2014</td>
+        <td>KNAGN418BEA478672</td>
+        <td align="right">A891246</td>
+        <td align="right">2021-06-30 16:32:23</td>
+        <td align="right">30-06-2021</td>
+        <td align="right">30-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-003703</td>
+        <td>FELIX MANUEL ALTAGRACIA</td>
+        <td>TEJEDA MARTINEZ</td>
+        <td>013-0007867-0</td>
+        <td>CDUARTE NO.82, VILLA FUNDACCION</td>
+        <td>PERAVIA</td>
+        <td>809-710-9208</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2020</td>
+        <td>LC6PAGA13L0006631</td>
+        <td align="right">K1934946</td>
+        <td align="right">2021-06-30 17:45:37</td>
+        <td align="right">30-06-2021</td>
+        <td align="right">30-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-003704</td>
+        <td>WILLLY</td>
+        <td>MAURICIO</td>
+        <td>402-1247057-5</td>
+        <td>VILLA PROGRESO CPRINCIPAL</td>
+        <td></td>
+        <td>829-786-2600</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>Z3000</td>
+        <td>2016</td>
+        <td>LZ3JL8T16K91916</td>
+        <td align="right">K1640169</td>
+        <td align="right">2021-06-30 18:52:51</td>
+        <td align="right">30-06-2021</td>
+        <td align="right">30-09-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>11,563.75</h4></td>
+</tr></table>

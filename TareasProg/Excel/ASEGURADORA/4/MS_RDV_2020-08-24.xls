@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 24/08/2020 <b>Hasta:</b> 24/08/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001585</td>
+        <td>TOMAS </td>
+        <td>SANCHEZ CORREA</td>
+        <td>002-0029215-9</td>
+        <td>cprincipal frente al repuesto alexis.el cruce de A.H.</td>
+        <td>PERAVIA</td>
+        <td>809-778-6165</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>CG-150</td>
+        <td>2020</td>
+        <td>TBLPCK4J3L2001873</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-08-24 09:33:57</td>
+        <td align="right">24-08-2020</td>
+        <td align="right">24-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001586</td>
+        <td>WILGEN </td>
+        <td>PEÑA PEÑA </td>
+        <td>003-0090252-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-370-5498</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502608034    </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-24 10:35:54</td>
+        <td align="right">24-08-2020</td>
+        <td align="right">24-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001587</td>
+        <td>YENIKER ROSELIN </td>
+        <td>RECIO CUESTA </td>
+        <td>402-2509790-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-642-6072</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451422772  </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-24 14:03:30</td>
+        <td align="right">24-08-2020</td>
+        <td align="right">24-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001588</td>
+        <td>SILIANA</td>
+        <td>CALIX</td>
+        <td>527-0405000-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-380-0598</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MBLJQR135JGC0020</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-24 14:25:25</td>
+        <td align="right">24-08-2020</td>
+        <td align="right">24-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001589</td>
+        <td>RONY ALEXANDER</td>
+        <td>PEGUERO GUZMAN</td>
+        <td>003-0109119-5</td>
+        <td>calle 7  3 pueblo nuevo</td>
+        <td>PERAVIA</td>
+        <td>849-264-3366</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>CG150</td>
+        <td>2015</td>
+        <td>1Z3GJL2T14AK31386</td>
+        <td align="right">K0G98927</td>
+        <td align="right">2020-08-24 14:44:19</td>
+        <td align="right">24-08-2020</td>
+        <td align="right">24-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001590</td>
+        <td>DIEGO CONFESOR</td>
+        <td>ZAPATA VALERIO</td>
+        <td>035-0018899-4</td>
+        <td>RES.LOS LIRIOS. ARDINES DEL YAQUE</td>
+        <td></td>
+        <td>809-275-2844</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2006</td>
+        <td>SHSRD78886U428769</td>
+        <td align="right">G251673</td>
+        <td align="right">2020-08-24 16:15:56</td>
+        <td align="right">24-08-2020</td>
+        <td align="right">24-11-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001591</td>
+        <td>AGUSTIN</td>
+        <td>VILLA DE LA CRUZ</td>
+        <td>025-0026334-4</td>
+        <td>VILLA SAN CARLOS 2DA.  ETAPA 20</td>
+        <td></td>
+        <td>829-819-5848</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2017</td>
+        <td>TARPCM507HC003891</td>
+        <td align="right">K 1699382</td>
+        <td align="right">2020-08-24 16:39:16</td>
+        <td align="right">24-08-2020</td>
+        <td align="right">24-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-001592</td>
+        <td>CRLOS LUIS</td>
+        <td>SOTO CASTRO</td>
+        <td>003-0098594-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-659-8745</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502601856</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-24 17:17:41</td>
+        <td align="right">24-08-2020</td>
+        <td align="right">24-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,393.75</h4></td>
+</tr></table>

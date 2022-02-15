@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 14/01/2020 <b>Hasta:</b> 14/01/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000432</td>
+        <td>ESMERLIN EDUARDO </td>
+        <td>LARA LARA </td>
+        <td>402-4220549-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-230-3254</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2018</td>
+        <td>LC6PAGLOOL0006568</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-01-14 14:34:27</td>
+        <td align="right">14-01-2020</td>
+        <td align="right">14-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000434</td>
+        <td>JULIO CESAR</td>
+        <td>BUENROSTRO ROSO</td>
+        <td>010-0005301-5</td>
+        <td>19 de marzo casa 62</td>
+        <td>AZUA</td>
+        <td>809-757-0203</td>
+        <td>Furgoneta</td>
+        <td>OPEL                 </td>
+        <td>COMBO</td>
+        <td>1998</td>
+        <td>WOLOSBF25W3046998</td>
+        <td align="right">L134053</td>
+        <td align="right">2020-01-14 16:01:18</td>
+        <td align="right">14-01-2020</td>
+        <td align="right">14-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000435</td>
+        <td>YONATAN</td>
+        <td>GUZMAN MENDIETA</td>
+        <td>002-0177152-4</td>
+        <td>CARRET. SANCHEZ NO.3B, LA CURVA, DOÑA ANA</td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-303-0509</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>CG-200</td>
+        <td>2015</td>
+        <td>TBL20P107FHE46939</td>
+        <td align="right">K0560469</td>
+        <td align="right">2020-01-14 16:21:20</td>
+        <td align="right">14-01-2020</td>
+        <td align="right">14-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000436</td>
+        <td>ALDA CANDIDA</td>
+        <td>MEJIA CABRERA</td>
+        <td>082-0023417-0</td>
+        <td>CALLA DUARTE SN, CENTRO, YAGUATE, S. C.</td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-860-0164</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>LAND CRUISER PRADO</td>
+        <td>2008</td>
+        <td>JTEBY25J500043243</td>
+        <td align="right">G137384</td>
+        <td align="right">2020-01-14 20:27:27</td>
+        <td align="right">14-01-2020</td>
+        <td align="right">14-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000437</td>
+        <td>JOSE RAMON</td>
+        <td>ROMERO AYBAR</td>
+        <td>402-2285548-4</td>
+        <td>SAN ESTEBAN</td>
+        <td></td>
+        <td>809-353-9845</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td></td>
+        <td>2017</td>
+        <td>LC6TCJC95H0004718</td>
+        <td align="right">K1110461</td>
+        <td align="right">2020-01-14 20:33:40</td>
+        <td align="right">14-01-2020</td>
+        <td align="right">14-04-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>6,250.00</h4></td>
+</tr></table>

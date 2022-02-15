@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 25/02/2020 <b>Hasta:</b> 25/02/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000627</td>
+        <td>ERIK </td>
+        <td>REYES ENCARNACION</td>
+        <td>402-2699455-2</td>
+        <td>villa sombrero bani num 46</td>
+        <td>PERAVIA</td>
+        <td>809-494-5467</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>ACCORD</td>
+        <td>2004</td>
+        <td>1HGCM66554A020477</td>
+        <td align="right">A566273</td>
+        <td align="right">2020-02-25 13:41:17</td>
+        <td align="right">25-02-2020</td>
+        <td align="right">25-05-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000628</td>
+        <td>JHONNY ENRIQUE </td>
+        <td>SOTO PIMENTEL</td>
+        <td>003-0046347-8</td>
+        <td>canselmo pimentel casa 431,villa sombrero</td>
+        <td>PERAVIA</td>
+        <td>809-787-0593</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>1983</td>
+        <td>JHMST5436DS008596</td>
+        <td align="right">A692628</td>
+        <td align="right">2020-02-25 15:28:02</td>
+        <td align="right">25-02-2020</td>
+        <td align="right">25-02-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000629</td>
+        <td>VIANELO </td>
+        <td>FELIZ PRESINAL</td>
+        <td>013-0012921-8</td>
+        <td>CPRINCIPAL FRENTE AL PARQUE SECCION SAN JOSE </td>
+        <td>PERAVIA</td>
+        <td>829-661-8805</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CORONA</td>
+        <td>2001</td>
+        <td>SB153SBN00E059525</td>
+        <td align="right">A264962</td>
+        <td align="right">2020-02-25 15:54:46</td>
+        <td align="right">25-02-2020</td>
+        <td align="right">25-02-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000630</td>
+        <td>VIANNY VIONELIS </td>
+        <td>DE LA CRUZ SOTO </td>
+        <td>003-0117689-7</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>809-380-1028</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AF352308042  </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-02-25 15:56:28</td>
+        <td align="right">25-02-2020</td>
+        <td align="right">25-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000631</td>
+        <td>LUIS EMILIO</td>
+        <td>ROA CHALA</td>
+        <td>002-0006702-3</td>
+        <td>CARRETERA LAS CALDERAS CASA 36 ,EL CRUCE</td>
+        <td>PERAVIA</td>
+        <td>809-516-7646</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2017</td>
+        <td>TBLJCNLR9H0A23056</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-02-25 16:03:42</td>
+        <td align="right">25-02-2020</td>
+        <td align="right">25-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-000632</td>
+        <td>FATIMA CLARIBEL </td>
+        <td>BATIASTA SOTO </td>
+        <td>013-0040657-4</td>
+        <td>CDUARTE PARTE ATRAS BARRIO LOS MNGOS POR EL COL MARINITO </td>
+        <td>PERAVIA</td>
+        <td>809-478-3091</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J714644</td>
+        <td align="right">TRAMITE </td>
+        <td align="right">2020-02-25 16:40:06</td>
+        <td align="right">25-02-2020</td>
+        <td align="right">25-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-000633</td>
+        <td>FELIX DIONEL</td>
+        <td>ROMAN PERALTA</td>
+        <td>031-0294399-4</td>
+        <td>PADRE LAS CASA</td>
+        <td></td>
+        <td>809-251-0119</td>
+        <td>Camioneta</td>
+        <td>MAZDA                </td>
+        <td>B 2000</td>
+        <td>1988</td>
+        <td>JM2UF3117G0616440</td>
+        <td align="right">L180956</td>
+        <td align="right">2020-02-25 16:45:17</td>
+        <td align="right">25-02-2020</td>
+        <td align="right">25-05-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">995.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>6,565.00</h4></td>
+</tr></table>

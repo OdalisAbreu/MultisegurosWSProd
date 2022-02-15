@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 14/11/2020 <b>Hasta:</b> 14/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002103</td>
+        <td>CARLOS </td>
+        <td>FERRERA MATEO </td>
+        <td>003-0096529-0</td>
+        <td>CALBERTO CAMAAÑO </td>
+        <td>PERAVIA</td>
+        <td>809-613-5364</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1979</td>
+        <td>TE31641990</td>
+        <td align="right">A260845</td>
+        <td align="right">2020-11-14 10:21:14</td>
+        <td align="right">14-11-2020</td>
+        <td align="right">14-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002104</td>
+        <td>JOSMERLIN</td>
+        <td>CASTANOS LIZARDO</td>
+        <td>056-0179197-2</td>
+        <td>CAndreina Germosa No.8 Ercilia Pepin</td>
+        <td></td>
+        <td>809-884-8816</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>ACCORD</td>
+        <td>2000</td>
+        <td>1HGCG5666YA035084</td>
+        <td align="right">A445614</td>
+        <td align="right">2020-11-14 12:25:57</td>
+        <td align="right">14-11-2020</td>
+        <td align="right">14-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002105</td>
+        <td>BIENVENIDO RADHAMES</td>
+        <td>SOTO</td>
+        <td>003-0086427-9</td>
+        <td>SANTA ROSA</td>
+        <td>PERAVIA</td>
+        <td>809-522-8567</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>LEAD</td>
+        <td>2020</td>
+        <td>LFFWHV6D5L1900616</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-14 14:38:03</td>
+        <td align="right">14-11-2020</td>
+        <td align="right">14-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002106</td>
+        <td>LILIAM MIGUELINA</td>
+        <td>ABREU CASTILLO</td>
+        <td>003-0054371-7</td>
+        <td>cla noria casa 04,los manguitos matanzas</td>
+        <td>PERAVIA</td>
+        <td>809-260-1557</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 150</td>
+        <td>2020</td>
+        <td>LRPRPJD01LA101803</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-14 16:09:58</td>
+        <td align="right">14-11-2020</td>
+        <td align="right">14-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002107</td>
+        <td>ZULEYKA</td>
+        <td>ZODOR</td>
+        <td>008-2111340-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-340-3694</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191225237</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-14 16:30:40</td>
+        <td align="right">14-11-2020</td>
+        <td align="right">14-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002108</td>
+        <td>LIANNY MARILENNY </td>
+        <td>SANTANA SANTANA</td>
+        <td>003-0127793-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-680-1032</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191206856</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-14 17:00:24</td>
+        <td align="right">14-11-2020</td>
+        <td align="right">14-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,850.00</h4></td>
+</tr></table>

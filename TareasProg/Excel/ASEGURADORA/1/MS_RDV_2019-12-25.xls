@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 25/12/2019 <b>Hasta:</b> 25/12/2019
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-022591</td>
+        <td>NERBINSON ANTONIO</td>
+        <td>SILVERIO PENA</td>
+        <td>402-2308928-1</td>
+        <td>PALMAR ABAJO VILLA GONZALEZ</td>
+        <td></td>
+        <td>829-269-1425</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>3KJ8019449</td>
+        <td align="right">K1222451</td>
+        <td align="right">2019-12-25 11:55:19</td>
+        <td align="right">25-12-2019</td>
+        <td align="right">25-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-022592</td>
+        <td>MARCOS ANTONIO</td>
+        <td>CARPIO GUERRERO</td>
+        <td>028-0095345-3</td>
+        <td>JUAN PABL DUARTE</td>
+        <td></td>
+        <td>829-432-7251</td>
+        <td>Automovil</td>
+        <td>VOLKSWAGEN           </td>
+        <td>PASSAT</td>
+        <td>2002</td>
+        <td>VVVWZZZ3BZ2E19659</td>
+        <td align="right">A577246</td>
+        <td align="right">2019-12-25 12:22:59</td>
+        <td align="right">25-12-2019</td>
+        <td align="right">25-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-022593</td>
+        <td>VICTOR MANUEL</td>
+        <td>VASQUEZ JIMENEZ</td>
+        <td>001-1842889-5</td>
+        <td>LA PUYA</td>
+        <td></td>
+        <td>849-263-8594</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2010</td>
+        <td>KMHEU41MBAA786797</td>
+        <td align="right">A718756</td>
+        <td align="right">2019-12-25 12:33:37</td>
+        <td align="right">25-12-2019</td>
+        <td align="right">25-03-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-022594</td>
+        <td>BARTOLOME</td>
+        <td>UBIERA PONTIER</td>
+        <td>295-0001742-0</td>
+        <td>VILLA HERMOSA CALLE 4</td>
+        <td></td>
+        <td>829-917-2431</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>SENTRA</td>
+        <td>2003</td>
+        <td>3L1CB51D03L779027</td>
+        <td align="right">A151888</td>
+        <td align="right">2019-12-25 12:46:37</td>
+        <td align="right">25-12-2019</td>
+        <td align="right">25-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-022595</td>
+        <td>FREDDY DE JESUS</td>
+        <td>GARCIA HERRERA</td>
+        <td>054-0088406-9</td>
+        <td>M0CA</td>
+        <td></td>
+        <td>829-290-1128</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>PICK UP </td>
+        <td>1994</td>
+        <td>4TARN81A9RZ251585</td>
+        <td align="right">L041860</td>
+        <td align="right">2019-12-25 15:08:26</td>
+        <td align="right">25-12-2019</td>
+        <td align="right">25-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-022608</td>
+        <td>ANDERSON</td>
+        <td>ULERIO</td>
+        <td>050-0051492-6</td>
+        <td>PUNAL</td>
+        <td></td>
+        <td>829-689-0894</td>
+        <td>Jeep</td>
+        <td>JEEP                 </td>
+        <td>GRAND CHEROKEE OVERLAND</td>
+        <td>2016</td>
+        <td>K4RJEJG6FC749955</td>
+        <td align="right">X498507</td>
+        <td align="right">2019-12-25 21:14:03</td>
+        <td align="right">25-12-2019</td>
+        <td align="right">25-03-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>7,390.00</h4></td>
+</tr></table>

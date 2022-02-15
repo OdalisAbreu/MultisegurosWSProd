@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 16/11/2020 <b>Hasta:</b> 16/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002110</td>
+        <td>MARLIN PAOLA</td>
+        <td>AMADOR VIZCAINO</td>
+        <td>402-4262493-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-265-4435</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>1994</td>
+        <td>LZRG0F1A9L1002661</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-16 11:54:28</td>
+        <td align="right">16-11-2020</td>
+        <td align="right">16-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002111</td>
+        <td>JOEL ADRIAN </td>
+        <td>ORTIZ SANCHEZ</td>
+        <td>402-2419065-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-255-5466</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>SUZUKI</td>
+        <td>1994</td>
+        <td>LC6PAGA13M000734</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-16 13:05:01</td>
+        <td align="right">16-11-2020</td>
+        <td align="right">16-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002112</td>
+        <td>MORENO</td>
+        <td>ROMERO RUIZ</td>
+        <td>104-0005205-5</td>
+        <td>cprincipal casa 55,quija quieta</td>
+        <td>PERAVIA</td>
+        <td>829-645-4464</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2020</td>
+        <td>LLCLGL30LA101506</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-16 15:26:13</td>
+        <td align="right">16-11-2020</td>
+        <td align="right">16-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002113</td>
+        <td>GUILLERMO DE JESUS</td>
+        <td>JAQUEZ CHECO</td>
+        <td>402-2443535-0</td>
+        <td>MAO</td>
+        <td></td>
+        <td>829-326-6586</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>HILUX</td>
+        <td>1986</td>
+        <td>JT4RN50R8G0203474</td>
+        <td align="right">L228414</td>
+        <td align="right">2020-11-16 20:00:57</td>
+        <td align="right">16-11-2020</td>
+        <td align="right">16-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002114</td>
+        <td>YARLENI</td>
+        <td>JAQUEZ</td>
+        <td>402-4184099-6</td>
+        <td>MAO</td>
+        <td></td>
+        <td>829-773-4307</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2018</td>
+        <td>LXYJCMLO9JO278443</td>
+        <td align="right">K1845219</td>
+        <td align="right">2020-11-16 20:10:45</td>
+        <td align="right">16-11-2020</td>
+        <td align="right">16-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,575.00</h4></td>
+</tr></table>

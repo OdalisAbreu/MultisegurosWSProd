@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 28/12/2019 <b>Hasta:</b> 28/12/2019
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000345</td>
+        <td>CARLIXTA ESTHER</td>
+        <td>SANTANA CARPIO</td>
+        <td>028-0085408-1</td>
+        <td>JUAN XXIII</td>
+        <td></td>
+        <td>809-710-0327</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NC-90</td>
+        <td>2019</td>
+        <td>XF1NC090AGL010172</td>
+        <td align="right">DGI000</td>
+        <td align="right">2019-12-28 10:43:15</td>
+        <td align="right">28-12-2019</td>
+        <td align="right">28-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000346</td>
+        <td>ALBERTO </td>
+        <td>CRUZ LUGO </td>
+        <td>001-1408968-3</td>
+        <td>C ,MIGUEL A. MONCLUS NO. 454, MIRADOR NORTE</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-661-9794</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>ZOOMER</td>
+        <td>1994</td>
+        <td>AF541012183</td>
+        <td align="right">0000000000</td>
+        <td align="right">2019-12-28 10:47:32</td>
+        <td align="right">28-12-2019</td>
+        <td align="right">28-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000347</td>
+        <td>CESAR FRANCISCO</td>
+        <td>AQUINO GUZMAN </td>
+        <td>082-0019207-1</td>
+        <td>Calle Principal  82 B, Las Mercedes, Yaguate.</td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-285-8524</td>
+        <td>Jeep</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2014</td>
+        <td>5J6RM3H72EL025349</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2019-12-28 12:12:57</td>
+        <td align="right">28-12-2019</td>
+        <td align="right">28-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>1,000,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000348</td>
+        <td>ALEJANDRO </td>
+        <td>CARVAJAL AYBAR</td>
+        <td>003-0092780-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-320-4042</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ6588978</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2019-12-28 12:55:14</td>
+        <td align="right">28-12-2019</td>
+        <td align="right">28-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000349</td>
+        <td>JOSE MANUEL</td>
+        <td>VALERA RODRIGUEZ</td>
+        <td>003-0078428-7</td>
+        <td>Calle 3  30, Residencial Anabel, Bani</td>
+        <td>PERAVIA</td>
+        <td>829-636-8501</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>ACCENT</td>
+        <td>2005</td>
+        <td>KMHCH41GP5U601892</td>
+        <td align="right">A276438</td>
+        <td align="right">2019-12-28 13:02:24</td>
+        <td align="right">28-12-2019</td>
+        <td align="right">28-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-000350</td>
+        <td>JENNIFER MILAGROS </td>
+        <td>SAIN CLAIR CUELLO </td>
+        <td>003-0106451-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-256-3477</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191102193 </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2019-12-28 14:51:16</td>
+        <td align="right">28-12-2019</td>
+        <td align="right">28-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-000351</td>
+        <td>ALFREDO</td>
+        <td>SOTO VELOZ</td>
+        <td>010-0063686-8</td>
+        <td>Cpedro santana  102</td>
+        <td>AZUA</td>
+        <td>809-675-8731</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1988</td>
+        <td>EE980019701</td>
+        <td align="right">A117370</td>
+        <td align="right">2019-12-28 15:50:33</td>
+        <td align="right">28-12-2019</td>
+        <td align="right">28-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-000352</td>
+        <td>CARLOS </td>
+        <td>VILLAR VIZCAINO</td>
+        <td>402-1232889-8</td>
+        <td>CINMACULADA CONCP 4 SOMBRERO</td>
+        <td>PERAVIA</td>
+        <td>809-210-7728</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>3KJ7667685</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2019-12-28 15:51:06</td>
+        <td align="right">28-12-2019</td>
+        <td align="right">28-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>9,450.00</h4></td>
+</tr></table>

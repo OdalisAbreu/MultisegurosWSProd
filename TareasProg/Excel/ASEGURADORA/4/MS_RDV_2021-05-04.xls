@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 04/05/2021 <b>Hasta:</b> 04/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003329</td>
+        <td>VICTOR</td>
+        <td>HOLGUIN</td>
+        <td>402-1408949-8</td>
+        <td>SANTO DOMINGO</td>
+        <td></td>
+        <td>829-518-5331</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 250</td>
+        <td>2016</td>
+        <td>TARPCN508GC002043</td>
+        <td align="right">75789</td>
+        <td align="right">2021-05-04 08:11:52</td>
+        <td align="right">04-05-2021</td>
+        <td align="right">04-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003330</td>
+        <td>RAFAEL CONCEPCION </td>
+        <td>ANDUJAR</td>
+        <td>003-0051208-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-657-2115</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502601917</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-05-04 09:14:48</td>
+        <td align="right">04-05-2021</td>
+        <td align="right">04-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003331</td>
+        <td>FELIX MANUEL</td>
+        <td>VENTURA OLAVERRIA</td>
+        <td>003-0072857-3</td>
+        <td>cpedro mir casa 8,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-846-8503</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1984</td>
+        <td>C500634780</td>
+        <td align="right">K1614488</td>
+        <td align="right">2021-05-04 09:52:36</td>
+        <td align="right">04-05-2021</td>
+        <td align="right">04-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003332</td>
+        <td>RAYSA YANERIS</td>
+        <td>HENRIQUEZ DE JESUS</td>
+        <td>048-0091435-2</td>
+        <td>RECIDENCIAL ROSAURA</td>
+        <td></td>
+        <td>829-642-0933</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>SENTRA</td>
+        <td>2016</td>
+        <td>3N1AB7AP2GY243329</td>
+        <td align="right">X659922</td>
+        <td align="right">2021-05-04 10:10:24</td>
+        <td align="right">04-05-2021</td>
+        <td align="right">04-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003333</td>
+        <td>YARILIN ALEXANDRA</td>
+        <td>JIMENEZ</td>
+        <td>003-0127407-2</td>
+        <td>CAÑAFISTOL</td>
+        <td>PERAVIA</td>
+        <td>809-522-8567</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>2015</td>
+        <td>SA16J661849</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-04 11:08:25</td>
+        <td align="right">04-05-2021</td>
+        <td align="right">04-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003334</td>
+        <td>KEYLA LEANDRA</td>
+        <td>SOTO DE ZURITA</td>
+        <td>003-0116531-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-432-6769</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2020</td>
+        <td>LYDTCJNA3L1200027</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-05-04 11:18:02</td>
+        <td align="right">04-05-2021</td>
+        <td align="right">04-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003335</td>
+        <td>JAIRO </td>
+        <td>DIAZ MEDINA</td>
+        <td>003-0089441-7</td>
+        <td>cmanzana 10 casa 18,barrio las dunas ,las calderas</td>
+        <td>PERAVIA</td>
+        <td>849-206-5046</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>NISSAN </td>
+        <td>2015</td>
+        <td>VZNY12051399</td>
+        <td align="right">A909928</td>
+        <td align="right">2021-05-04 11:38:40</td>
+        <td align="right">04-05-2021</td>
+        <td align="right">04-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-003336</td>
+        <td>YAMILKA ELIZABETH</td>
+        <td>ARIAS PEREZ</td>
+        <td>402-3749289-3</td>
+        <td>cwichers garcia saleta casa 02,palmar de ocoa</td>
+        <td>PERAVIA</td>
+        <td>849-650-9333</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>LEAD</td>
+        <td>2021</td>
+        <td>LZRK1F009M1000569</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-04 15:11:17</td>
+        <td align="right">04-05-2021</td>
+        <td align="right">04-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-003337</td>
+        <td>SORAYNEL JOSE ALBERTO</td>
+        <td>AMADOR</td>
+        <td>402-1031767-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-443-4523</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J352695</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-05-04 18:12:51</td>
+        <td align="right">04-05-2021</td>
+        <td align="right">04-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,675.00</h4></td>
+</tr></table>

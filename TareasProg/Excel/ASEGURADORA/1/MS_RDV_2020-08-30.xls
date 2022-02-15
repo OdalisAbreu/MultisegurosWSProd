@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 30/08/2020 <b>Hasta:</b> 30/08/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-030245</td>
+        <td>FELIX ANTONIO</td>
+        <td>GONZALEZ DE LA CRUZ</td>
+        <td>402-2598401-8</td>
+        <td>CRETERA 2 CASA 36 GUANUMA</td>
+        <td></td>
+        <td>829-984-2598</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2019</td>
+        <td>LJCPAGLF9K1000552</td>
+        <td align="right">K1000552</td>
+        <td align="right">2020-08-30 10:30:03</td>
+        <td align="right">30-08-2020</td>
+        <td align="right">30-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-030246</td>
+        <td>GREGORI DE JESUS</td>
+        <td>CONCEPCION</td>
+        <td>223-0149282-7</td>
+        <td>REY DE REYS</td>
+        <td></td>
+        <td>809-430-5964</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2012</td>
+        <td>LJCPAGLH0CS005358</td>
+        <td align="right">K0331253</td>
+        <td align="right">2020-08-30 10:43:43</td>
+        <td align="right">30-08-2020</td>
+        <td align="right">30-11-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-030247</td>
+        <td>YOAN MANUEL</td>
+        <td>OGANDO CABRERA</td>
+        <td>224-0070517-8</td>
+        <td>EL CAFE DE HERRERA</td>
+        <td></td>
+        <td>809-615-6059</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2016</td>
+        <td>MD2A76AZ1GWM43887</td>
+        <td align="right">K0722523</td>
+        <td align="right">2020-08-30 10:44:56</td>
+        <td align="right">30-08-2020</td>
+        <td align="right">30-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-030248</td>
+        <td>JUAN</td>
+        <td>CAPELLAN RODRIGUEZ</td>
+        <td>001-0960831-5</td>
+        <td>CSALOME URENA .N0.56</td>
+        <td></td>
+        <td>809-405-8450</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>BAYALGA</td>
+        <td>2000</td>
+        <td>3N1DB41S1ZK032452</td>
+        <td align="right">A274159</td>
+        <td align="right">2020-08-30 11:00:11</td>
+        <td align="right">30-08-2020</td>
+        <td align="right">02-03-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-030249</td>
+        <td>NOEL DE JESUS</td>
+        <td>HERNANDEZ GUERRERO</td>
+        <td>001-1685296-3</td>
+        <td>DIEGO VELASQUEZ 32</td>
+        <td></td>
+        <td>829-289-9000</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1992</td>
+        <td>3YK5337859</td>
+        <td align="right">K0392503</td>
+        <td align="right">2020-08-30 12:06:02</td>
+        <td align="right">30-08-2020</td>
+        <td align="right">30-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-030250</td>
+        <td>BRIAN NICOLAS</td>
+        <td>ACOSTA RINCON</td>
+        <td>402-3841092-8</td>
+        <td>C.S.JOSE N.110 ENS.ISABELITA</td>
+        <td></td>
+        <td>829-448-0899</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2017</td>
+        <td>LJCPAGLF9H1002410</td>
+        <td align="right">K1610497</td>
+        <td align="right">2020-08-30 12:28:55</td>
+        <td align="right">30-08-2020</td>
+        <td align="right">02-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-MSD-030251</td>
+        <td>DANIEL</td>
+        <td>MORENO CIPRIAN</td>
+        <td>103-0010760-3</td>
+        <td>1RA 135 HIGUERAL, LA ROMANA</td>
+        <td></td>
+        <td>809-742-6386</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2011</td>
+        <td>XF1NC25BBL000865</td>
+        <td align="right">K0414077</td>
+        <td align="right">2020-08-30 16:14:24</td>
+        <td align="right">30-08-2020</td>
+        <td align="right">30-11-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,037.50</h4></td>
+</tr></table>

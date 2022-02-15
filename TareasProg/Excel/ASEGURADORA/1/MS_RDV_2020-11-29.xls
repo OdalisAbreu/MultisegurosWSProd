@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 29/11/2020 <b>Hasta:</b> 29/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-032612</td>
+        <td>SILVIA NIALECIAS1231ASDFGHJJ</td>
+        <td>PUJOLS PEREZ DE CALERO</td>
+        <td>010-0089494-7</td>
+        <td>OSCAR GARCIA 50 LA BOMBITA  AZUA</td>
+        <td></td>
+        <td>849-804-1805</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2000</td>
+        <td>EK31012937</td>
+        <td align="right">A508382</td>
+        <td align="right">2020-11-29 07:53:21</td>
+        <td align="right">29-11-2020</td>
+        <td align="right">01-03-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-032613</td>
+        <td>JESUS MANUEL</td>
+        <td>SORIANO ALVAREZ</td>
+        <td>104-0012255-1</td>
+        <td>CODETEL CAMBITA  GARABITA SAN CRISTOBAL</td>
+        <td></td>
+        <td>829-368-6351</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2015</td>
+        <td>TARPCM501FC005328</td>
+        <td align="right">K1635706</td>
+        <td align="right">2020-11-29 10:12:40</td>
+        <td align="right">29-11-2020</td>
+        <td align="right">29-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-032614</td>
+        <td>ALAN ESLEITER</td>
+        <td>OROZCO TEJEDA</td>
+        <td>402-3520261-7</td>
+        <td>CAJE LAS CARRERAS 50 SEG.NIV.</td>
+        <td></td>
+        <td>809-774-0375</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2006</td>
+        <td>LJCPAGLH961006052</td>
+        <td align="right">K0817411</td>
+        <td align="right">2020-11-29 10:18:43</td>
+        <td align="right">29-11-2020</td>
+        <td align="right">01-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-032615</td>
+        <td>WILBER</td>
+        <td>GARCIA CONTRERAS</td>
+        <td>225-0090187-5</td>
+        <td>CISAMAL53 BRISA DEL OSAMA</td>
+        <td></td>
+        <td>829-591-9450</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2017</td>
+        <td>LRPRPLB06HA003047</td>
+        <td align="right">K1198778</td>
+        <td align="right">2020-11-29 14:17:32</td>
+        <td align="right">29-11-2020</td>
+        <td align="right">29-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-032616</td>
+        <td>YONATHAN</td>
+        <td>RAMIREZ MONTAS</td>
+        <td>002-0173170-0</td>
+        <td>CANAODA PARTE ARIBA</td>
+        <td></td>
+        <td>829-709-3675</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2018</td>
+        <td>LJCPAGLF9J1001408</td>
+        <td align="right">XXX</td>
+        <td align="right">2020-11-29 16:05:25</td>
+        <td align="right">29-11-2020</td>
+        <td align="right">29-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,362.50</h4></td>
+</tr></table>

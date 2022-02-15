@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 15/06/2021 <b>Hasta:</b> 15/06/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003601</td>
+        <td>ROBINSON DANIEL </td>
+        <td>GUERRERO ARIAS</td>
+        <td>402-3701958-9</td>
+        <td>caltagracio no.53, arroyo hondo</td>
+        <td>PERAVIA</td>
+        <td>829-358-1636</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191224567</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-06-15 08:36:18</td>
+        <td align="right">15-06-2021</td>
+        <td align="right">15-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003602</td>
+        <td>JOSE MANUEL</td>
+        <td>MARTINEZ PILIER</td>
+        <td>026-0133063-8</td>
+        <td>CALETA CALLE PRINCIPAL</td>
+        <td></td>
+        <td>829-793-1276</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>FRONTIER</td>
+        <td>2004</td>
+        <td>1N6MD29Y84C447557</td>
+        <td align="right">L258327</td>
+        <td align="right">2021-06-15 08:58:47</td>
+        <td align="right">15-06-2021</td>
+        <td align="right">15-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003603</td>
+        <td>ADRIEL</td>
+        <td>GOMEZ TEJADA</td>
+        <td>034-0063209-1</td>
+        <td>CALLE 832</td>
+        <td></td>
+        <td>829-720-9711</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>1995</td>
+        <td>4T15K12E95U880656</td>
+        <td align="right">A345873</td>
+        <td align="right">2021-06-15 10:29:52</td>
+        <td align="right">15-06-2021</td>
+        <td align="right">15-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003604</td>
+        <td>LUIS MANUEL</td>
+        <td>MEJIA ARIAS</td>
+        <td>003-0026310-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-369-4309</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J660727</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-06-15 10:32:25</td>
+        <td align="right">15-06-2021</td>
+        <td align="right">15-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003605</td>
+        <td>ISIDRO</td>
+        <td>DIAZ</td>
+        <td>003-0045898-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-360-8724</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2020</td>
+        <td>L5YTCKPA7L1172290</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-06-15 13:04:43</td>
+        <td align="right">15-06-2021</td>
+        <td align="right">15-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003606</td>
+        <td>WILNEIRYS YANELIS</td>
+        <td>VILLAR</td>
+        <td>402-4001306-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-475-5087</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J570196</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-06-15 14:35:13</td>
+        <td align="right">15-06-2021</td>
+        <td align="right">15-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003607</td>
+        <td>BISALIO</td>
+        <td>SANTANA</td>
+        <td>028-0081645-2</td>
+        <td>GREGORIO LUPERON 91</td>
+        <td></td>
+        <td>829-719-4008</td>
+        <td>Jeep</td>
+        <td>KIA                  </td>
+        <td>SORENTO</td>
+        <td>2013</td>
+        <td>5XYKT4A21DG330673</td>
+        <td align="right">G481887</td>
+        <td align="right">2021-06-15 15:36:10</td>
+        <td align="right">15-06-2021</td>
+        <td align="right">15-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-003608</td>
+        <td>CESAR AUGUSTO</td>
+        <td>PEREZ REYES</td>
+        <td>001-1673723-0</td>
+        <td>930 ROSMIL</td>
+        <td></td>
+        <td>829-912-5722</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1989</td>
+        <td>3KJ1981026</td>
+        <td align="right">K0241241</td>
+        <td align="right">2021-06-15 17:15:16</td>
+        <td align="right">15-06-2021</td>
+        <td align="right">15-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>7,600.00</h4></td>
+</tr></table>

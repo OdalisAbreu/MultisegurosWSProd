@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 26/01/2021 <b>Hasta:</b> 26/01/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002594</td>
+        <td>MIGUEL</td>
+        <td>APONTE MERCEDES</td>
+        <td>026-0055871-8</td>
+        <td>CALLE A 16 VILLA VERDE,LA ROMANA</td>
+        <td></td>
+        <td>829-889-9274</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>LEAD 90</td>
+        <td>1991</td>
+        <td>HF011340221</td>
+        <td align="right">NRNY04</td>
+        <td align="right">2021-01-26 07:22:22</td>
+        <td align="right">26-01-2021</td>
+        <td align="right">26-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002595</td>
+        <td>JOAQUIN ARTURO</td>
+        <td>MATOS DE LEON</td>
+        <td>402-2325054-5</td>
+        <td>BEL LIBERTAD,COTUI</td>
+        <td></td>
+        <td>829-752-6225</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>2016</td>
+        <td>5YFBURHEXGP556365</td>
+        <td align="right">A894909</td>
+        <td align="right">2021-01-26 09:44:59</td>
+        <td align="right">26-01-2021</td>
+        <td align="right">26-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002596</td>
+        <td>KLEIDY MARIA </td>
+        <td>ORTIZ ZAPATA</td>
+        <td>003-0107837-4</td>
+        <td>clos amarillo casa 16,salinas </td>
+        <td>PERAVIA</td>
+        <td>829-865-4915</td>
+        <td>Automovil</td>
+        <td>SKODA                </td>
+        <td>OCTAVIA</td>
+        <td>2006</td>
+        <td>TMBDG41U568828142</td>
+        <td align="right">A434826</td>
+        <td align="right">2021-01-26 10:22:12</td>
+        <td align="right">26-01-2021</td>
+        <td align="right">26-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002597</td>
+        <td>JUAN DE JESUS </td>
+        <td>DIAZ MARTINEZ </td>
+        <td>003-0072252-7</td>
+        <td>CPRINCIPAL CASA NO 30 SECCION SAN JOSE </td>
+        <td>PERAVIA</td>
+        <td>849-220-5073</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TOYOTA</td>
+        <td>1990</td>
+        <td>JT4RN81R8L5050415</td>
+        <td align="right">L161050</td>
+        <td align="right">2021-01-26 10:51:51</td>
+        <td align="right">26-01-2021</td>
+        <td align="right">26-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002598</td>
+        <td>BRAUDILIO</td>
+        <td>ENCARNACION OGANDO</td>
+        <td>014-0013687-3</td>
+        <td>LA  PRINCIPAL</td>
+        <td></td>
+        <td>829-959-4142</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2016</td>
+        <td>LLCLPLB03FE100198</td>
+        <td align="right">K0738146</td>
+        <td align="right">2021-01-26 11:17:07</td>
+        <td align="right">26-01-2021</td>
+        <td align="right">26-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002599</td>
+        <td>LEONARDO </td>
+        <td>MATOS </td>
+        <td>003-0042835-6</td>
+        <td>CPRINCIPAL 31</td>
+        <td>PERAVIA</td>
+        <td>809-627-2212</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>ZR 250</td>
+        <td>2017</td>
+        <td>LGVSNY507HZ525335</td>
+        <td align="right">K1952485</td>
+        <td align="right">2021-01-26 16:05:46</td>
+        <td align="right">26-01-2021</td>
+        <td align="right">26-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002600</td>
+        <td>LEANNY ANGELICA</td>
+        <td>PEREZ MARIÑEZ</td>
+        <td>402-2871836-3</td>
+        <td>cprincipal casa 1,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-828-7640</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2020</td>
+        <td>TARTCJ300LC500810</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-26 17:00:53</td>
+        <td align="right">26-01-2021</td>
+        <td align="right">26-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002601</td>
+        <td>CARLOS FRANCISCO</td>
+        <td>PEREYRA CASTILLO</td>
+        <td>001-1795001-4</td>
+        <td>C Manolo Tavarez Justo, Urbanizacion Real, Distrito Nacional</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-224-9367</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2010</td>
+        <td>KMHEU41MBAA766129</td>
+        <td align="right">A709340</td>
+        <td align="right">2021-01-26 18:16:19</td>
+        <td align="right">26-01-2021</td>
+        <td align="right">26-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002602</td>
+        <td>GREGORY</td>
+        <td>TERRERO MONTERO</td>
+        <td>014-0019894-9</td>
+        <td>ENSANCHE OZAMA, PRESIDENTE VASQUEZ N.62</td>
+        <td></td>
+        <td>809-931-8867</td>
+        <td>Automovil</td>
+        <td>KIA                  </td>
+        <td>PICANTO</td>
+        <td>2013</td>
+        <td>KNABE511BDT432519</td>
+        <td align="right">A597053</td>
+        <td align="right">2021-01-26 20:38:48</td>
+        <td align="right">26-01-2021</td>
+        <td align="right">26-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002603</td>
+        <td>GREGORIO</td>
+        <td>TERRERO MONTERO</td>
+        <td>014-0005605-5</td>
+        <td>DUARTE 90</td>
+        <td></td>
+        <td>829-959-4142</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>FRONTIER</td>
+        <td>2006</td>
+        <td>1N6BD06T16C421910</td>
+        <td align="right">L268686</td>
+        <td align="right">2021-01-26 20:50:03</td>
+        <td align="right">26-01-2021</td>
+        <td align="right">26-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>13,550.00</h4></td>
+</tr></table>

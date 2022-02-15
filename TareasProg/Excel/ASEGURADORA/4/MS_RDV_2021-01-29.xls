@@ -1,0 +1,163 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 29/01/2021 <b>Hasta:</b> 29/01/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002622</td>
+        <td>RAFAEL</td>
+        <td>MARTINEZ DE JESUS</td>
+        <td>058-0002597-4</td>
+        <td>PROCASA 2 KILOETRO 712 DE SANCHEZ</td>
+        <td></td>
+        <td>849-883-8811</td>
+        <td>Automovil</td>
+        <td>MAZDA                </td>
+        <td>6</td>
+        <td>2014</td>
+        <td>JM1GJ1U62E1116592</td>
+        <td align="right">A785813</td>
+        <td align="right">2021-01-29 09:37:24</td>
+        <td align="right">29-01-2021</td>
+        <td align="right">29-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002623</td>
+        <td>GERONIMOTVTAU</td>
+        <td>CARMONA MEDRANO</td>
+        <td>082-0023656-3</td>
+        <td>NAJAYO EN MEDIO, YAGUATE</td>
+        <td></td>
+        <td>829-504-6000</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 150</td>
+        <td>2019</td>
+        <td>LREJLX14TKA13352</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-29 09:54:42</td>
+        <td align="right">29-01-2021</td>
+        <td align="right">29-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002624</td>
+        <td>LENNY LISANDRO </td>
+        <td>SOTO MORDAN</td>
+        <td>402-2492912-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-840-3643</td>
+        <td>Automovil</td>
+        <td>KIA                  </td>
+        <td>K5</td>
+        <td>2014</td>
+        <td>KNAGN418BEA52844</td>
+        <td align="right">X493685</td>
+        <td align="right">2021-01-29 10:34:18</td>
+        <td align="right">29-01-2021</td>
+        <td align="right">29-04-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002625</td>
+        <td>ESTELA</td>
+        <td>CRUZ</td>
+        <td>223-0149488-0</td>
+        <td>VILLA FARO CALLE 4TA. ESQ H</td>
+        <td></td>
+        <td>809-401-2732</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA12JOO7494</td>
+        <td align="right">K0393565</td>
+        <td align="right">2021-01-29 20:51:41</td>
+        <td align="right">29-01-2021</td>
+        <td align="right">29-04-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,687.50</h4></td>
+</tr></table>

@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 22/07/2020 <b>Hasta:</b> 22/07/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001402</td>
+        <td>GRICELDA ATINILDA </td>
+        <td>SOTO DE SOTO</td>
+        <td>003-0041497-6</td>
+        <td>ccentral casa 12 .villa fundacion </td>
+        <td>PERAVIA</td>
+        <td>809-522-0169</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>LEAD</td>
+        <td>2020</td>
+        <td>LZRK1F009L1000960</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-07-22 09:34:37</td>
+        <td align="right">22-07-2020</td>
+        <td align="right">22-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001403</td>
+        <td>MIGUEL ANGEL</td>
+        <td>PEREZ ARIAS</td>
+        <td>093-0032803-7</td>
+        <td>LA TORRE NO. 91</td>
+        <td></td>
+        <td>849-885-0723</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2013</td>
+        <td>LJCPCKIJ3CS004562</td>
+        <td align="right">K0353312</td>
+        <td align="right">2020-07-22 11:11:07</td>
+        <td align="right">22-07-2020</td>
+        <td align="right">22-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001404</td>
+        <td>QUEILA RAQUEL</td>
+        <td>MORROBEL ARIAS</td>
+        <td>003-0054245-3</td>
+        <td>Callejon Padre Billini Esquina las Mercedes Centro de la ciudad, Bani</td>
+        <td>PERAVIA</td>
+        <td>849-341-3861</td>
+        <td>Automovil</td>
+        <td>SUBARU               </td>
+        <td>IMPREZA</td>
+        <td>1998</td>
+        <td>67SHDKJHJLKJDLKJK</td>
+        <td align="right">A546285</td>
+        <td align="right">2020-07-22 11:11:44</td>
+        <td align="right">22-07-2020</td>
+        <td align="right">22-10-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001405</td>
+        <td> JULIO ALBERTO </td>
+        <td>JIMENEZ ACOSTA </td>
+        <td>071-0048549-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-401-5420</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502608096</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-22 14:11:16</td>
+        <td align="right">22-07-2020</td>
+        <td align="right">22-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001406</td>
+        <td>JOAN JOSÉ </td>
+        <td>HEREDIA MARIÑEZ</td>
+        <td>001-1765521-7</td>
+        <td>C Nicolas Ureña de Mendoza No. 107, Los Prados </td>
+        <td>DISTRITO NACIONAL</td>
+        <td>829-630-2740</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>ZOOMER</td>
+        <td>1994</td>
+        <td>AF581503243</td>
+        <td align="right">0000000000</td>
+        <td align="right">2020-07-22 15:01:40</td>
+        <td align="right">22-07-2020</td>
+        <td align="right">22-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001407</td>
+        <td>JULIO CESAR</td>
+        <td>VELAZQUEZ SOTO</td>
+        <td>003-0008051-2</td>
+        <td>ccanada casa 20,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-206-9235</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>PICK UP </td>
+        <td>1990</td>
+        <td>JT4RN82PXL5013783</td>
+        <td align="right">L086809</td>
+        <td align="right">2020-07-22 15:25:13</td>
+        <td align="right">22-07-2020</td>
+        <td align="right">22-07-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001408</td>
+        <td>JOSE LUIS </td>
+        <td>TEJEDA TEJEDA </td>
+        <td>003-0043124-4</td>
+        <td>CDUARTE AL LADO DEL COL.LOS MELLOS </td>
+        <td>PERAVIA</td>
+        <td>809-768-4506</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>NISSAN </td>
+        <td>1986</td>
+        <td>JN6ND16SXGW001962</td>
+        <td align="right">L071935</td>
+        <td align="right">2020-07-22 15:44:08</td>
+        <td align="right">22-07-2020</td>
+        <td align="right">22-07-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-001409</td>
+        <td>WINSTON ORMEDO </td>
+        <td>PEÑA FELIZ</td>
+        <td>001-1133653-3</td>
+        <td>CPADRE BILLINI FRETE AL COL.JESUS,EL CRUCE </td>
+        <td>PERAVIA</td>
+        <td>829-936-2584</td>
+        <td>Automovil</td>
+        <td>DAIHATSU             </td>
+        <td>DAIHATSU </td>
+        <td>1988</td>
+        <td>JDAG100S000633130</td>
+        <td align="right">AE6953</td>
+        <td align="right">2020-07-22 15:58:57</td>
+        <td align="right">22-07-2020</td>
+        <td align="right">22-07-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>8,393.75</h4></td>
+</tr></table>

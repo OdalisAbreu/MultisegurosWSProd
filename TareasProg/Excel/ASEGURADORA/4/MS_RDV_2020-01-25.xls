@@ -1,0 +1,163 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 25/01/2020 <b>Hasta:</b> 25/01/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000487</td>
+        <td>MIGUEL ANGEL </td>
+        <td>ROZON MAÑANA</td>
+        <td>002-0113430-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-656-3128</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 150</td>
+        <td>2018</td>
+        <td>TARPCK505KC000094</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-01-25 10:16:55</td>
+        <td align="right">25-01-2020</td>
+        <td align="right">25-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000488</td>
+        <td>FRANCISCO</td>
+        <td>FULGENCIO ORTIZ</td>
+        <td>100-0006646-3</td>
+        <td>PORVENIR47 EL VALLE DE HATO MAYOR</td>
+        <td></td>
+        <td>809-657-7448</td>
+        <td>Jeepeta</td>
+        <td>TOYOTA               </td>
+        <td>LAND CRUISER PRADO</td>
+        <td>2011</td>
+        <td>JTEBH9FJ70K017075</td>
+        <td align="right">G233741</td>
+        <td align="right">2020-01-25 10:33:24</td>
+        <td align="right">25-01-2020</td>
+        <td align="right">25-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000489</td>
+        <td>JUNIOR MISSAEL</td>
+        <td>C0NCEPCION AZOR</td>
+        <td>402-1152280-6</td>
+        <td>CALLE L NO.1 VILLA CARMEN STO DGO</td>
+        <td></td>
+        <td>849-219-1530</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>Z3000</td>
+        <td>2019</td>
+        <td>LBEPCX14TKB145627</td>
+        <td align="right">XXXXXXXXXXXXXXX</td>
+        <td align="right">2020-01-25 13:32:38</td>
+        <td align="right">25-01-2020</td>
+        <td align="right">25-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000490</td>
+        <td>MELVIN ODALIX</td>
+        <td>DURAN MATEO </td>
+        <td>003-0000714-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-558-6352</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J569909</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-01-25 15:37:20</td>
+        <td align="right">25-01-2020</td>
+        <td align="right">25-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,000.00</h4></td>
+</tr></table>

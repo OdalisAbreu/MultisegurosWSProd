@@ -1,0 +1,108 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Plan Plus (Veh. Livianos) Exceso R/C RD$1,000,000
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 20/07/2021 <b>Hasta:</b> 20/07/2021
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		01:00:01
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>EX-AT-003910</td>
+        <td>CONFESOR DE LA  CRUZ</td>
+        <td>ARIAS SOTO</td>
+        <td>003-0076977-5</td>
+        <td>PERAVIA</td>
+        <td>646-510-5452</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>4RUNNER</td>
+        <td>2014</td>
+        <td>JTEBU5JRXE5162005</td>
+        <td>EX09360</td>
+        <td>02:36:34</td>
+		<td>45132</td>
+        <td>20 de  Julio del 2021</td>
+        <td>20 de  Julio del 2022</td>
+        <td>$281.55</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>EX-AT-003909</td>
+        <td>SAMUEL DARIO</td>
+        <td>BRITO PERDOMO</td>
+        <td>061-0016219-4</td>
+        <td></td>
+        <td>809-815-6262</td>
+        <td>Jeep</td>
+        <td>MITSUBISHI           </td>
+        <td>MITSUBISHI </td>
+        <td>2009</td>
+        <td>MMBGRKH809F001424</td>
+        <td>G244003</td>
+        <td>02:33:14</td>
+		<td>45131</td>
+        <td>20 de  Julio del 2021</td>
+        <td>20 de  Julio del 2022</td>
+        <td>$563.10</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$844.65</td>
+   </tr>
+</table>

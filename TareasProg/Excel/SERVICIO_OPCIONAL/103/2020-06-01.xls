@@ -1,0 +1,148 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Casa del Conductor - Motocicletas
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 01/06/2020 <b>Hasta:</b> 01/06/2020
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		01:00:02
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>AUTO-AT-001066</td>
+        <td>CARMEN MARGARITA </td>
+        <td>MOTA GOMEZ</td>
+        <td>001-0881009-4</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-317-2303</td>
+        <td>Motocicleta</td>
+        <td>AVA </td>
+        <td>AVA</td>
+        <td>2019</td>
+        <td>LFFWKT670J1900374</td>
+        <td>K1828708</td>
+        <td>02:27:42</td>
+		<td>31333</td>
+        <td>01 de  Junio del 2020</td>
+        <td>01 de  Junio del 2021</td>
+        <td>$200.00</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>AUTO-AT-001064</td>
+        <td>VICTOR FCO JOSE ALEJANDRO </td>
+        <td>AQUINO VICTORIA </td>
+        <td>001-0880581-3</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-317-2303</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2018</td>
+        <td>LZRY6F1G4J1804202</td>
+        <td>K1660344</td>
+        <td>12:09:21</td>
+		<td>31316</td>
+        <td>01 de  Junio del 2020</td>
+        <td>01 de  Junio del 2021</td>
+        <td>$400.00</td>
+   </tr>
+	<tr>
+   		<td>3</td>
+        <td>AUTO-AT-001062</td>
+        <td>CARMEN MARGARITA </td>
+        <td>MOTA GOMEZ</td>
+        <td>001-0881009-4</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-317-2303</td>
+        <td>Motocicleta</td>
+        <td>VESPA                </td>
+        <td>VESPA </td>
+        <td>2006</td>
+        <td>ZAPM319K765006312</td>
+        <td>K1627739</td>
+        <td>12:02:25</td>
+		<td>31313</td>
+        <td>01 de  Junio del 2020</td>
+        <td>01 de  Junio del 2021</td>
+        <td>$600.00</td>
+   </tr>
+	<tr>
+   		<td>4</td>
+        <td>AUTO-AT-001061</td>
+        <td>NIDIA DEL CARMEN ALTAGRACIA </td>
+        <td>MUÑOZ VICTORIA</td>
+        <td>001-1193238-0</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-317-2303</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2018</td>
+        <td>TARPCM507JC004772</td>
+        <td>K1745304</td>
+        <td>11:55:09</td>
+		<td>31311</td>
+        <td>01 de  Junio del 2020</td>
+        <td>01 de  Junio del 2021</td>
+        <td>$800.00</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$2,000.00</td>
+   </tr>
+</table>

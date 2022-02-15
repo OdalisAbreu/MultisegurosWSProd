@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 30/07/2020 <b>Hasta:</b> 30/07/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001441</td>
+        <td>JOSE MANUEL</td>
+        <td>GONZALEZ LACHAPELLE</td>
+        <td>018-0042425-9</td>
+        <td>Carretera Sanchez km2,12 01</td>
+        <td>AZUA</td>
+        <td>809-754-4389</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C90</td>
+        <td>1994</td>
+        <td>HA022611204</td>
+        <td align="right">K0762651</td>
+        <td align="right">2020-07-30 10:09:11</td>
+        <td align="right">30-07-2020</td>
+        <td align="right">30-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001442</td>
+        <td>JOSE MANUEL</td>
+        <td>GONZALEZ LACHAPELLE</td>
+        <td>018-0042425-9</td>
+        <td>Carretera Sanchez  1 Kilometro 2 12, Azua</td>
+        <td>AZUA</td>
+        <td>809-754-4359</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1981</td>
+        <td>C503256922</td>
+        <td align="right">TNRXQ73</td>
+        <td align="right">2020-07-30 10:55:03</td>
+        <td align="right">30-07-2020</td>
+        <td align="right">30-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001443</td>
+        <td>ANTONIO JOSE </td>
+        <td>BERGES ABREU </td>
+        <td>001-1779137-6</td>
+        <td>CALLE LAS LOMAS NO. 02, SUITE LOS RIOS </td>
+        <td>DISTRITO NACIONAL</td>
+        <td>829-532-7265</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AC161000385</td>
+        <td align="right">0000000000</td>
+        <td align="right">2020-07-30 12:38:11</td>
+        <td align="right">30-07-2020</td>
+        <td align="right">30-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001444</td>
+        <td>ALBERTO JOSE </td>
+        <td>RAMIREZ FELIZ </td>
+        <td>402-3792554-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-642-6072</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C90</td>
+        <td>1994</td>
+        <td>HA022630707  </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-30 15:45:31</td>
+        <td align="right">30-07-2020</td>
+        <td align="right">30-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001445</td>
+        <td>YASSEL BIENVENIDO</td>
+        <td>RODRIGUEZ LARA</td>
+        <td>402-2712928-1</td>
+        <td>cindependencia casa 2 villa fundacion</td>
+        <td>PERAVIA</td>
+        <td>829-439-5920</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2020</td>
+        <td>LC6PAGA17L0013453</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-07-30 16:42:13</td>
+        <td align="right">30-07-2020</td>
+        <td align="right">30-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,375.00</h4></td>
+</tr></table>

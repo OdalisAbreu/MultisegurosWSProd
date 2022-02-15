@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 13/03/2020 <b>Hasta:</b> 13/03/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000728</td>
+        <td>JULIO ERNESTO </td>
+        <td>LORA SOTO </td>
+        <td>003-0077474-2</td>
+        <td>C27 DE FEBRERO NO 48 SABANA BUEY </td>
+        <td>PERAVIA</td>
+        <td>809-660-5890</td>
+        <td>Jeep</td>
+        <td>LEXUS                </td>
+        <td>LX-470</td>
+        <td>2021</td>
+        <td>JTJHT00W713503133</td>
+        <td align="right">G017580</td>
+        <td align="right">2020-03-13 10:58:13</td>
+        <td align="right">13-03-2020</td>
+        <td align="right">13-03-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000729</td>
+        <td>GABRIEL</td>
+        <td>MEDRANO BECO</td>
+        <td>402-1079091-7</td>
+        <td>SAN MARTIN</td>
+        <td></td>
+        <td>809-256-7360</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C90</td>
+        <td>1994</td>
+        <td>HA022700414</td>
+        <td align="right">000</td>
+        <td align="right">2020-03-13 12:39:18</td>
+        <td align="right">13-03-2020</td>
+        <td align="right">13-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000730</td>
+        <td>FRANKLIN PUJOLS </td>
+        <td>PUJOLS </td>
+        <td>010-0076080-9</td>
+        <td>BANO </td>
+        <td>PERAVIA</td>
+        <td>000-000-0000</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD902622432</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-03-13 12:59:18</td>
+        <td align="right">13-03-2020</td>
+        <td align="right">13-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000731</td>
+        <td>YOVY</td>
+        <td>MONTERO MONTERO</td>
+        <td>011-0006170-2</td>
+        <td>KM 7 12 DE LA INDEPENDENCIA CARENA RE</td>
+        <td></td>
+        <td>829-755-0041</td>
+        <td>Automovil</td>
+        <td>DODGE                </td>
+        <td>CALIBER</td>
+        <td>2008</td>
+        <td>1B3HB48B38D506292</td>
+        <td align="right">A625611</td>
+        <td align="right">2020-03-13 13:05:49</td>
+        <td align="right">13-03-2020</td>
+        <td align="right">13-06-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000732</td>
+        <td>DIEGO COLOMBINO </td>
+        <td>PIMENTEL MARTINEZ</td>
+        <td>003-0011662-1</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>000-000-0000</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191206939</td>
+        <td align="right">PROCESO </td>
+        <td align="right">2020-03-13 15:03:42</td>
+        <td align="right">13-03-2020</td>
+        <td align="right">13-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-000733</td>
+        <td>OSIRIS ANTONIO</td>
+        <td>MEJIA VARGAS</td>
+        <td>054-0085709-9</td>
+        <td>CALLE PASTOR BELLA VISTA</td>
+        <td></td>
+        <td>829-978-1622</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HA02</td>
+        <td>1986</td>
+        <td>HA045038889</td>
+        <td align="right">N963927</td>
+        <td align="right">2020-03-13 15:49:50</td>
+        <td align="right">13-03-2020</td>
+        <td align="right">13-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-000734</td>
+        <td>MANUEL ESMELIN </td>
+        <td>PEREZ DIAZ </td>
+        <td>003-0038843-6</td>
+        <td>C16 DE AGOSTO NO 74 QUIJADA QUIETA </td>
+        <td>PERAVIA</td>
+        <td>809-778-3604</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1994</td>
+        <td>1NXAE04B8RZ148366</td>
+        <td align="right">A014430</td>
+        <td align="right">2020-03-13 16:27:14</td>
+        <td align="right">13-03-2020</td>
+        <td align="right">13-03-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-000735</td>
+        <td>ANTHONY YAIL</td>
+        <td>PEREZ HERNANDEZ</td>
+        <td>402-1397343-7</td>
+        <td>CJUAN SANCHEZ R. BLA ESTANCIA,COTUI</td>
+        <td></td>
+        <td>809-506-9785</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td></td>
+        <td>2019</td>
+        <td>TBLPCM4J0K2002537</td>
+        <td align="right">XXXXXXX</td>
+        <td align="right">2020-03-13 19:42:41</td>
+        <td align="right">13-03-2020</td>
+        <td align="right">13-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>6,320.00</h4></td>
+</tr></table>

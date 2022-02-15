@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 09/01/2022 <b>Hasta:</b> 09/01/2022
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-010791</td>
+        <td>MERCEDES</td>
+        <td>SANTANA CORDERO</td>
+        <td>029-0007325-1</td>
+        <td>BORINQUE</td>
+        <td>Miches</td>
+        <td>809-731-7550</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2008</td>
+        <td>LC6PAGA1480821184</td>
+        <td align="right">K0131542</td>
+        <td align="right">2022-01-09 09:50:17</td>
+        <td align="right">09-01-2022</td>
+        <td align="right">09-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-010792</td>
+        <td>TOMAS</td>
+        <td>QUEZADA BASTARDO</td>
+        <td>023-0016194-6</td>
+        <td>GUALEY</td>
+        <td>Santo Domingo Este</td>
+        <td>829-474-5613</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td></td>
+        <td>2013</td>
+        <td>LP5PCKA0700102526</td>
+        <td align="right">70</td>
+        <td align="right">2022-01-09 10:28:48</td>
+        <td align="right">09-01-2022</td>
+        <td align="right">09-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-010793</td>
+        <td>YAN CARLOS</td>
+        <td>RODRIGUEZ VENTURA</td>
+        <td>402-2557687-1</td>
+        <td>C CAPITAN ROJAS52</td>
+        <td>Santo Domingo Oeste</td>
+        <td>829-684-8155</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>2000</td>
+        <td>3KJ6456786</td>
+        <td align="right">K1898695</td>
+        <td align="right">2022-01-09 10:34:42</td>
+        <td align="right">09-01-2022</td>
+        <td align="right">09-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-010794</td>
+        <td>LUIS MANUEL</td>
+        <td>JAVIER</td>
+        <td>402-5076520-9</td>
+        <td>SAN FELIPE DE VILLA MELLA LO CLETO</td>
+        <td>Santo Domingo Norte</td>
+        <td>809-426-3049</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2013</td>
+        <td>LJCPAGLH0CS018572</td>
+        <td align="right">K1206504</td>
+        <td align="right">2022-01-09 12:11:16</td>
+        <td align="right">09-01-2022</td>
+        <td align="right">09-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-010795</td>
+        <td>ANTONIO</td>
+        <td>RAMIREZ</td>
+        <td>053-0018356-2</td>
+        <td>BELLO COSTERO PUERTO PLATA</td>
+        <td>San Felipe de Puerto Plata Puerto Plata</td>
+        <td>849-208-4899</td>
+        <td>Motocicleta</td>
+        <td>SANYOU</td>
+        <td>SANYOU</td>
+        <td>2015</td>
+        <td>LSYA02KBB14012764</td>
+        <td align="right">K1134503</td>
+        <td align="right">2022-01-09 12:29:01</td>
+        <td align="right">09-01-2022</td>
+        <td align="right">09-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-010796</td>
+        <td>ALBERTO</td>
+        <td>DORVIL</td>
+        <td>402-4583732-9</td>
+        <td>CARRETERA SABANA DE LA MAR K15</td>
+        <td>Santo Domingo Este</td>
+        <td>829-692-1144</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2015</td>
+        <td>LC6PAGA15F0019756</td>
+        <td align="right">K0361794</td>
+        <td align="right">2022-01-09 12:43:57</td>
+        <td align="right">09-01-2022</td>
+        <td align="right">09-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-010797</td>
+        <td>MARIA ISABEL</td>
+        <td>MOLINA MOJICA</td>
+        <td>402-1080766-1</td>
+        <td>CALLE 5 PICA PIEDRA VILLA HERMOSA LA ROMANA</td>
+        <td>La Romana</td>
+        <td>849-711-2918</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>LEAD 90</td>
+        <td>1993</td>
+        <td>HF051052410</td>
+        <td align="right">K0452272</td>
+        <td align="right">2022-01-09 12:56:34</td>
+        <td align="right">09-01-2022</td>
+        <td align="right">09-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-010798</td>
+        <td>LUIS DAVID</td>
+        <td>SOSA PAREDES</td>
+        <td>402-2243648-3</td>
+        <td>EL CAJUILITO</td>
+        <td>Bajos de Haina</td>
+        <td>809-899-9518</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2014</td>
+        <td>TARPCM506EC003652</td>
+        <td align="right">K0405860</td>
+        <td align="right">2022-01-09 14:30:24</td>
+        <td align="right">09-01-2022</td>
+        <td align="right">09-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-010799</td>
+        <td>JUAN MIGUEL</td>
+        <td>EMILIANO QUEZADA</td>
+        <td>001-1675221-3</td>
+        <td>AV.FRANCISCO DEL ROSARIO SANCHEZ,CASA 70</td>
+        <td>Distrito Nacional</td>
+        <td>829-755-2812</td>
+        <td>Camioneta</td>
+        <td>DAIHATSU             </td>
+        <td>HIJET</td>
+        <td>2010</td>
+        <td>S100P038200</td>
+        <td align="right">L206395</td>
+        <td align="right">2022-01-09 16:01:24</td>
+        <td align="right">09-01-2023</td>
+        <td align="right">09-01-2024</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-010800</td>
+        <td>ESTANISLAO</td>
+        <td>HERNANDEZ SABA</td>
+        <td>002-0069344-8</td>
+        <td>CALLE PRINCIPAL LOS LIMONES</td>
+        <td>San Felipe de Puerto Plata Puerto Plata</td>
+        <td>809-884-3451</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>RX</td>
+        <td>2005</td>
+        <td>ME1FE13E452700559</td>
+        <td align="right">K0117361</td>
+        <td align="right">2022-01-09 18:21:45</td>
+        <td align="right">09-01-2022</td>
+        <td align="right">09-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,950.00</h4></td>
+</tr></table>

@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 27/08/2020 <b>Hasta:</b> 27/08/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001610</td>
+        <td>RUDDY</td>
+        <td>RAMIREZ RODRIGUEZ</td>
+        <td>106-0008173-0</td>
+        <td>PROFADAME10</td>
+        <td></td>
+        <td>829-673-9852</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2017</td>
+        <td>LRPRPLB09HA005164</td>
+        <td align="right">K1675993</td>
+        <td align="right">2020-08-27 08:28:20</td>
+        <td align="right">27-08-2020</td>
+        <td align="right">27-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001611</td>
+        <td>WILLY</td>
+        <td>SCHEIDIG ROSA</td>
+        <td>001-1692970-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-836-2366</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AF181236629  </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-27 08:38:03</td>
+        <td align="right">27-08-2020</td>
+        <td align="right">27-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001612</td>
+        <td>JOHAN ALEXIS</td>
+        <td>ANTUNA BRITO</td>
+        <td>003-0115221-1</td>
+        <td>cprincipal casa 3,el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-502-0745</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>1987</td>
+        <td>JT2SV22E5H3046229</td>
+        <td align="right">A336051</td>
+        <td align="right">2020-08-27 14:17:15</td>
+        <td align="right">27-08-2020</td>
+        <td align="right">27-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001613</td>
+        <td>OSCADIO</td>
+        <td>LEONARDO FERNANDEZ</td>
+        <td>001-0474443-8</td>
+        <td>CALLE R FAEL DIAZ 53 LOS MINA</td>
+        <td></td>
+        <td>809-593-0285</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>TOWN ACE</td>
+        <td>2013</td>
+        <td>S402M0036770</td>
+        <td align="right">I082568</td>
+        <td align="right">2020-08-27 14:38:10</td>
+        <td align="right">27-08-2020</td>
+        <td align="right">27-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001614</td>
+        <td>JUANA BERNALISE </td>
+        <td>HERNANDEZ RODRIGUEZ</td>
+        <td>071-0036355-0</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>829-323-9857</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502405849</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-27 14:56:21</td>
+        <td align="right">27-08-2020</td>
+        <td align="right">27-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001615</td>
+        <td>ISABEL MARILIN </td>
+        <td>DIAZ TEJEDA </td>
+        <td>013-0029621-5</td>
+        <td> SANTA ROSA </td>
+        <td>PERAVIA</td>
+        <td>809-522-8567</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191207163</td>
+        <td align="right">K0680426</td>
+        <td align="right">2020-08-27 15:25:11</td>
+        <td align="right">27-08-2020</td>
+        <td align="right">27-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001616</td>
+        <td>GERHAR ADRIAN </td>
+        <td>SANTANA MATEO</td>
+        <td>003-0117901-6</td>
+        <td>cmanolo tavarez justos casa 5,fundacion </td>
+        <td>PERAVIA</td>
+        <td>829-337-0017</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2020</td>
+        <td>LRPRPLB01LA201480</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-08-27 15:38:01</td>
+        <td align="right">27-08-2020</td>
+        <td align="right">27-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,125.00</h4></td>
+</tr></table>

@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 27/01/2021 <b>Hasta:</b> 27/01/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002604</td>
+        <td>HECTOR MARINO</td>
+        <td>MENDEZ RIVAS</td>
+        <td>070-0005347-5</td>
+        <td>C 2B 90 SANTIAGO SANTO DOMINGO</td>
+        <td></td>
+        <td>809-914-6540</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1995</td>
+        <td>2T1AE04B3SC103276</td>
+        <td align="right">A157100</td>
+        <td align="right">2021-01-27 09:47:41</td>
+        <td align="right">27-01-2021</td>
+        <td align="right">27-04-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002605</td>
+        <td>JUAN RAFAEL </td>
+        <td>ALORDA DÍAZ</td>
+        <td>001-0200959-4</td>
+        <td>C PASEO DOLMEN NO. 13</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-696-6053</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>ZOOMER</td>
+        <td>1994</td>
+        <td>AF581513181</td>
+        <td align="right">K1875810</td>
+        <td align="right">2021-01-27 10:23:37</td>
+        <td align="right">27-01-2021</td>
+        <td align="right">27-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002606</td>
+        <td>VICENTE ARMANDO</td>
+        <td>EFRES MICELI</td>
+        <td>001-0128336-4</td>
+        <td>CALLE 11 7 URBANIZACION FERNANDEZ EDIF SAGITARIO A</td>
+        <td></td>
+        <td>809-776-6121</td>
+        <td>Jeep</td>
+        <td>FORD                 </td>
+        <td>EXPLORER</td>
+        <td>2001</td>
+        <td>1FMDU75E91ZA25426</td>
+        <td align="right">G219727</td>
+        <td align="right">2021-01-27 10:38:02</td>
+        <td align="right">27-01-2021</td>
+        <td align="right">27-04-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002607</td>
+        <td>THOMAS</td>
+        <td>METTELUS</td>
+        <td>007-0723492-7</td>
+        <td>Mercedes Garcia 20 Escondido</td>
+        <td>PERAVIA</td>
+        <td>829-232-6311</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2017</td>
+        <td>TBL20P103HHH50529</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-27 11:38:55</td>
+        <td align="right">27-01-2021</td>
+        <td align="right">27-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002608</td>
+        <td>RICARDO YUNIOR</td>
+        <td>MARTINEZ GREEN</td>
+        <td>026-0053077-4</td>
+        <td>VILLA VERDE CBERMUDEZ</td>
+        <td></td>
+        <td>809-218-4757</td>
+        <td>Automovil</td>
+        <td>MAZDA                </td>
+        <td>DEMIO</td>
+        <td>2010</td>
+        <td>DE3ES265437</td>
+        <td align="right">A666685</td>
+        <td align="right">2021-01-27 12:09:13</td>
+        <td align="right">27-01-2021</td>
+        <td align="right">27-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002609</td>
+        <td>LUIS SANTIAGO </td>
+        <td>MATEO MENDEZ</td>
+        <td>003-0108057-8</td>
+        <td>Mercedes Garcia 20 Escondido</td>
+        <td>PERAVIA</td>
+        <td>809-775-4112</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1984</td>
+        <td>C506079382</td>
+        <td align="right">N9020619</td>
+        <td align="right">2021-01-27 12:19:49</td>
+        <td align="right">27-01-2021</td>
+        <td align="right">27-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002610</td>
+        <td>CARLOS MIGUEL</td>
+        <td>MERCADO GONZALEZ</td>
+        <td>049-0077710-5</td>
+        <td>CHOSTOS 125,BPBLO.NVO,COTUI</td>
+        <td></td>
+        <td>829-347-3979</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2011</td>
+        <td>KMHEU41MBBA812930</td>
+        <td align="right">A723093</td>
+        <td align="right">2021-01-27 13:42:37</td>
+        <td align="right">27-01-2021</td>
+        <td align="right">27-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002611</td>
+        <td>JUAN</td>
+        <td>TERRERO MENDEZ</td>
+        <td>001-0919905-9</td>
+        <td>MAXIMO GOME EDIF. D18 APTO 301 LA ISABELA D.N.</td>
+        <td></td>
+        <td>809-222-5752</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>2002</td>
+        <td>4T1BE32K42U528545</td>
+        <td align="right">A259123</td>
+        <td align="right">2021-01-27 13:57:51</td>
+        <td align="right">27-01-2021</td>
+        <td align="right">27-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002612</td>
+        <td>JOEL JOSE </td>
+        <td>GARCIA PEÑA</td>
+        <td>402-2192487-7</td>
+        <td>C FELIZ MARIA NOLASCO NO. 15</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-980-7095</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>ZOOMER</td>
+        <td>1994</td>
+        <td>AF581200344</td>
+        <td align="right">0000000000</td>
+        <td align="right">2021-01-27 13:58:13</td>
+        <td align="right">27-01-2021</td>
+        <td align="right">27-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002613</td>
+        <td>RAMONA MARIBEL </td>
+        <td>PEREZ PEGUERO DE RUIZ</td>
+        <td>003-0086404-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-658-9784</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>NISSAN </td>
+        <td>2005</td>
+        <td>JN8AZ08T05W312983</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-01-27 14:13:14</td>
+        <td align="right">27-01-2021</td>
+        <td align="right">27-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>9,537.50</h4></td>
+</tr></table>

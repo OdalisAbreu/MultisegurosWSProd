@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 05/05/2021 <b>Hasta:</b> 05/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003338</td>
+        <td>LEISON MANUEL</td>
+        <td>GOMEZ</td>
+        <td>402-1007297-7</td>
+        <td>el millon crespaldo por el cementerio,villa fundacion</td>
+        <td>PERAVIA</td>
+        <td>829-550-2730</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2021</td>
+        <td>LC6PAGA14M0008972</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-05 10:51:54</td>
+        <td align="right">05-05-2021</td>
+        <td align="right">05-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003339</td>
+        <td>DERLY</td>
+        <td>PICHARDO DE LA CRUZ</td>
+        <td>003-0081787-1</td>
+        <td>c2da casa 00,residencial don alejo,los tumbaos</td>
+        <td>PERAVIA</td>
+        <td>829-497-5815</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2021</td>
+        <td>LLCLGL305MA109794</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-05 15:16:17</td>
+        <td align="right">05-05-2021</td>
+        <td align="right">05-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003340</td>
+        <td>DERLY </td>
+        <td>PICHARDO DE LA CRUZ </td>
+        <td>003-0081787-1</td>
+        <td>CASA 2 ,LOS TUMBAOS DON ALEJO </td>
+        <td>PERAVIA</td>
+        <td>829-497-5815</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2021</td>
+        <td>LLCLGL307MA106637</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-05 15:20:23</td>
+        <td align="right">05-05-2021</td>
+        <td align="right">05-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003341</td>
+        <td>MAURO ALEXIS</td>
+        <td>GOMEZ ARAUJO</td>
+        <td>003-0097051-4</td>
+        <td>manzana 7 casa 64,las calderas </td>
+        <td>PERAVIA</td>
+        <td>849-269-2114</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2021</td>
+        <td>LLCLGL307MA109036</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-05 16:02:05</td>
+        <td align="right">05-05-2021</td>
+        <td align="right">05-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003342</td>
+        <td>DANIEL</td>
+        <td>PEGUERO ROSARIO</td>
+        <td>023-0125281-9</td>
+        <td>GASTON F DELIGNE</td>
+        <td></td>
+        <td>809-871-0734</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1999</td>
+        <td>4VP452967</td>
+        <td align="right">K0822708</td>
+        <td align="right">2021-05-05 16:48:43</td>
+        <td align="right">05-05-2021</td>
+        <td align="right">05-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003343</td>
+        <td>DANIEL</td>
+        <td>MEDINA GARABITO</td>
+        <td>026-0056630-7</td>
+        <td>CALETA C16</td>
+        <td></td>
+        <td>809-821-5828</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1973</td>
+        <td>C70D118439</td>
+        <td align="right">K1207129</td>
+        <td align="right">2021-05-05 17:59:15</td>
+        <td align="right">05-05-2021</td>
+        <td align="right">05-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,650.00</h4></td>
+</tr></table>

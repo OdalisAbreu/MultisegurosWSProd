@@ -1,0 +1,331 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 06/07/2021 <b>Hasta:</b> 06/07/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003731</td>
+        <td>LIDINES RHADAMES</td>
+        <td>MARTINEZ PEÑA</td>
+        <td>003-0008316-9</td>
+        <td>chermanas mirabal casa 37,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-392-1471</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>RAV4</td>
+        <td>2001</td>
+        <td>JTEGH20V810023439</td>
+        <td align="right">G194508</td>
+        <td align="right">2021-07-06 08:17:07</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003732</td>
+        <td>DARIEL RAFNEE</td>
+        <td>DE LOS SANTOS VALDEZ</td>
+        <td>402-2400140-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-742-6930</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2018</td>
+        <td>LZRG0FIA9JI861777</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-06 10:31:00</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003733</td>
+        <td>CARLOS MANUEL</td>
+        <td>CEDENO MARTINEZ</td>
+        <td>001-1443093-7</td>
+        <td>CALLE PRIMERA COLINA DE MARANON PRIMERA</td>
+        <td></td>
+        <td>829-456-3540</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>2004</td>
+        <td>2T1BR32E74C242780</td>
+        <td align="right">A110937</td>
+        <td align="right">2021-07-06 10:53:44</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003734</td>
+        <td>RAMONA EMILIA</td>
+        <td>MACEO ORTIZ</td>
+        <td>003-0037048-3</td>
+        <td>clos maestros no.4, los corbanitos, sabana buey</td>
+        <td>PERAVIA</td>
+        <td>829-206-5571</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2021</td>
+        <td>TARTCJ30XMC500167</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-07-06 11:10:24</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003735</td>
+        <td>JOMELIN AHURIDYS</td>
+        <td>ESPINAL SAINT HILAIRE</td>
+        <td>044-0024600-7</td>
+        <td>CASILDA GARCIA 17</td>
+        <td></td>
+        <td>809-543-4327</td>
+        <td>Camioneta</td>
+        <td>ISUZU                </td>
+        <td>DMAX</td>
+        <td>2015</td>
+        <td>MPATFS86JFT006820</td>
+        <td align="right">L339148</td>
+        <td align="right">2021-07-06 11:12:12</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003736</td>
+        <td>YONATAN</td>
+        <td>MENDEZ ACOSTA</td>
+        <td>003-0123467-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-221-1307</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J017365</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-06 12:31:04</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003737</td>
+        <td>SANTO TOMAS</td>
+        <td>SEGURA CUEVAS</td>
+        <td>078-0007269-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-324-5567</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502302624</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-06 14:46:52</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-003738</td>
+        <td>MAXIMO RAFELIN </td>
+        <td>BAEZ BELTRE</td>
+        <td>003-0104183-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>859-527-3140</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2021</td>
+        <td>TARPCK502MC000492</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-06 15:35:52</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-003739</td>
+        <td>JESUS </td>
+        <td>LINARES NUÑEZ</td>
+        <td>225-0039151-5</td>
+        <td>EN LA RAQUETA FRENTE AL PLEY EN LA FINCA DE DEULY ,VILLA SOMBRERO</td>
+        <td>PERAVIA</td>
+        <td>809-250-8441</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2016</td>
+        <td>LLCLGL301GA102071</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-07-06 15:56:37</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-003740</td>
+        <td>ANGEL BENEDICTO</td>
+        <td>PUJOLS</td>
+        <td>123-0008541-7</td>
+        <td>CDEL MADRIGAL, FRENTE AL PLAY, EL CRUCE DE ARROYO  HONDO</td>
+        <td>PERAVIA</td>
+        <td>809-270-8660</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2021</td>
+        <td>LLCLGL306MA111263</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-07-06 16:09:41</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>11</td>
+        <td>AUTO-AT-003741</td>
+        <td>ALONDRA LINDA</td>
+        <td>VERAS ROA</td>
+        <td>402-2684212-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-297-8896</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191220662</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-06 17:23:33</td>
+        <td align="right">06-07-2021</td>
+        <td align="right">06-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>8,425.00</h4></td>
+</tr></table>

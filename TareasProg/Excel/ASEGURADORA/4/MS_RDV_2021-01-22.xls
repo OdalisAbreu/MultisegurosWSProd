@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 22/01/2021 <b>Hasta:</b> 22/01/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002582</td>
+        <td>JOSE FRANSISCO</td>
+        <td>MARTINEZ MOSQUEA</td>
+        <td>071-0053533-0</td>
+        <td>ENSANCHE PUNTA CANA</td>
+        <td></td>
+        <td>829-221-6841</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>2000</td>
+        <td>CE1132007105</td>
+        <td align="right">AUTOAT000480</td>
+        <td align="right">2021-01-22 09:23:39</td>
+        <td align="right">22-01-2021</td>
+        <td align="right">22-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002583</td>
+        <td>JEAN CARLOS</td>
+        <td>GONZALEZ</td>
+        <td>402-1196044-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-768-6164</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502603432</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-01-22 13:11:01</td>
+        <td align="right">22-01-2021</td>
+        <td align="right">22-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002584</td>
+        <td>IVELISSE GEOMARA</td>
+        <td>CASTILLO</td>
+        <td>003-0037560-7</td>
+        <td>barrio washington cjose francisco p.gomez,matanzas</td>
+        <td>PERAVIA</td>
+        <td>829-271-4422</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2018</td>
+        <td>LRPYCMLY310170028</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-22 14:16:58</td>
+        <td align="right">22-01-2021</td>
+        <td align="right">22-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002585</td>
+        <td>LUISA MARIAN</td>
+        <td>SOTO PINEDA</td>
+        <td>135-0001010-6</td>
+        <td>cmella casa 03 palmar de ocoa</td>
+        <td>PERAVIA</td>
+        <td>829-287-9978</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>LEAD</td>
+        <td>2020</td>
+        <td>LZRK1F002L1002419</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-22 14:59:39</td>
+        <td align="right">22-01-2021</td>
+        <td align="right">22-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002586</td>
+        <td>CARLOS MANUEL</td>
+        <td>POLANCO DE LA PAZ</td>
+        <td>093-0044010-5</td>
+        <td>c cambronal 36 barrio los pescadores</td>
+        <td>PERAVIA</td>
+        <td>809-376-5833</td>
+        <td>Automovil</td>
+        <td>PEUGEOT              </td>
+        <td>206</td>
+        <td>2006</td>
+        <td>VF32AKFWU6W015203</td>
+        <td align="right">A453242</td>
+        <td align="right">2021-01-22 15:45:36</td>
+        <td align="right">22-01-2021</td>
+        <td align="right">22-04-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002587</td>
+        <td>JOSE LUIS </td>
+        <td>PIMENTEL GUZMAN </td>
+        <td>402-2857818-9</td>
+        <td>CDA CASA 60 LA SAONA </td>
+        <td>PERAVIA</td>
+        <td>849-408-3971</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>ARTISTICA</td>
+        <td>1994</td>
+        <td>3KJ6544921</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-22 15:52:47</td>
+        <td align="right">22-01-2021</td>
+        <td align="right">22-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002588</td>
+        <td>JOSE LUIS</td>
+        <td>TOLEDO MORETA</td>
+        <td>002-0107213-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-360-5918</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AF581208958</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-01-22 16:35:52</td>
+        <td align="right">22-01-2021</td>
+        <td align="right">22-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002589</td>
+        <td>CARMEN</td>
+        <td>LOURDES NIVAR</td>
+        <td>134-2492550-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>347-392-8560</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>1994</td>
+        <td>LJCTCJPX7KA000137</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-01-22 16:53:49</td>
+        <td align="right">22-01-2021</td>
+        <td align="right">22-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,993.75</h4></td>
+</tr></table>

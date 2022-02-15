@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 21/11/2020 <b>Hasta:</b> 21/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002147</td>
+        <td>JULIO MANUEL</td>
+        <td>FELIZ PEREZ</td>
+        <td>001-1146586-0</td>
+        <td>CALETA C15</td>
+        <td></td>
+        <td>849-208-2205</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>AXIS</td>
+        <td>1992</td>
+        <td>3VR197618</td>
+        <td align="right">K1239341</td>
+        <td align="right">2020-11-21 10:12:15</td>
+        <td align="right">21-11-2020</td>
+        <td align="right">21-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002148</td>
+        <td>ENMANUEL EDUARDO</td>
+        <td>MALTES MARTINEZ</td>
+        <td>026-0110878-6</td>
+        <td>VISTA CATALINA C13</td>
+        <td></td>
+        <td>809-869-2520</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NC110</td>
+        <td>2006</td>
+        <td>XG7NC110AAL505068</td>
+        <td align="right">K0414141</td>
+        <td align="right">2020-11-21 11:42:47</td>
+        <td align="right">21-11-2020</td>
+        <td align="right">21-05-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002149</td>
+        <td>OVELIS MAGALIS </td>
+        <td>TRONCOSO CORDERO </td>
+        <td>003-0039684-3</td>
+        <td>CMAXIMO GOMEZ NO.81</td>
+        <td>PERAVIA</td>
+        <td>809-522-9615</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2020</td>
+        <td>TARPCM503LC002889</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-21 12:34:21</td>
+        <td align="right">21-11-2020</td>
+        <td align="right">21-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002150</td>
+        <td>RAMON</td>
+        <td>GONZALEZ CANARIO</td>
+        <td>037-0010224-1</td>
+        <td>18,URB.LOS BORDAS CASA  20</td>
+        <td></td>
+        <td>829-837-4680</td>
+        <td>Motocicleta</td>
+        <td>GALAXI               </td>
+        <td>GALAXI </td>
+        <td>2010</td>
+        <td>RDGHCG2010002390</td>
+        <td align="right">K0598526</td>
+        <td align="right">2020-11-21 16:06:50</td>
+        <td align="right">21-11-2020</td>
+        <td align="right">21-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002151</td>
+        <td>LENNY VLADIMIR</td>
+        <td>CASADO MEJIA</td>
+        <td>402-2555941-4</td>
+        <td>crespaldo colon casa 05,villa fundacion</td>
+        <td>PERAVIA</td>
+        <td>849-458-1127</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>BZ-150</td>
+        <td>2020</td>
+        <td>LZRGOF1A4L1003068</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-21 17:58:24</td>
+        <td align="right">21-11-2020</td>
+        <td align="right">21-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>825.00</h4></td>
+</tr></table>

@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 19/05/2020 <b>Hasta:</b> 19/05/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000903</td>
+        <td>ROBERTO JOSE</td>
+        <td>FAMILIA LOPEZ</td>
+        <td>093-0075384-6</td>
+        <td>CALLE1</td>
+        <td></td>
+        <td>809-986-3712</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td></td>
+        <td>2019</td>
+        <td>LLCLP1203KE100295</td>
+        <td align="right">K1816949</td>
+        <td align="right">2020-05-19 09:00:11</td>
+        <td align="right">19-05-2020</td>
+        <td align="right">19-05-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000904</td>
+        <td>PAPO</td>
+        <td>JOSEPH REYES</td>
+        <td>020-0012546-4</td>
+        <td>CALLE3</td>
+        <td></td>
+        <td>829-925-6671</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>RX</td>
+        <td>1999</td>
+        <td>1L1629946</td>
+        <td align="right">K0143147</td>
+        <td align="right">2020-05-19 09:43:17</td>
+        <td align="right">19-05-2020</td>
+        <td align="right">19-05-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000905</td>
+        <td>ULISES ALBE</td>
+        <td>ARIAS RUIZ</td>
+        <td>001-0945729-1</td>
+        <td>CALLE MEXICO 125 HERRERA</td>
+        <td></td>
+        <td>809-931-2005</td>
+        <td>Jeep</td>
+        <td>FORD                 </td>
+        <td>EXPLORER</td>
+        <td>2005</td>
+        <td>1FMZU64K35UA40899</td>
+        <td align="right">G248187</td>
+        <td align="right">2020-05-19 11:26:48</td>
+        <td align="right">19-05-2020</td>
+        <td align="right">19-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000906</td>
+        <td>FEDERICO</td>
+        <td>MESA PINEDA</td>
+        <td>113-0002790-8</td>
+        <td>CALLE4</td>
+        <td></td>
+        <td>829-298-5012</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2014</td>
+        <td>MD2A18A38FWJ28886</td>
+        <td align="right">K0536957</td>
+        <td align="right">2020-05-19 11:52:10</td>
+        <td align="right">19-05-2020</td>
+        <td align="right">19-05-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000907</td>
+        <td>GREGORIO</td>
+        <td>DE LA PAZ RUIZ</td>
+        <td>225-0017398-8</td>
+        <td>EL RANCHO 2</td>
+        <td></td>
+        <td>809-790-3023</td>
+        <td>Motocicleta</td>
+        <td>LUMA</td>
+        <td>LUMA</td>
+        <td>2010</td>
+        <td>LV7KEZ107AA000356</td>
+        <td align="right">XXX</td>
+        <td align="right">2020-05-19 12:13:18</td>
+        <td align="right">19-05-2020</td>
+        <td align="right">19-05-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-000908</td>
+        <td>AGUSTIN</td>
+        <td>PENA VILORIO</td>
+        <td>031-0233757-7</td>
+        <td>BARRIO PUERTO RICO</td>
+        <td></td>
+        <td>829-428-6239</td>
+        <td>Camioneta</td>
+        <td>CHANGAN              </td>
+        <td>CHANGAN</td>
+        <td>2006</td>
+        <td>LSCBB53D36G120895</td>
+        <td align="right">L243287</td>
+        <td align="right">2020-05-19 12:55:44</td>
+        <td align="right">19-05-2020</td>
+        <td align="right">19-08-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">618.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-000909</td>
+        <td>JOSE DOLORES </td>
+        <td>COLON CALDERON</td>
+        <td>026-0099644-7</td>
+        <td>Calle Juan Tomas Diaz  54 Altos, Loyola , San Cristobal</td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-931-4674</td>
+        <td>Camion</td>
+        <td>DAIHATSU             </td>
+        <td>DELTA</td>
+        <td>1999</td>
+        <td>V11809828</td>
+        <td align="right">L071816</td>
+        <td align="right">2020-05-19 21:21:48</td>
+        <td align="right">19-05-2020</td>
+        <td align="right">19-05-2021</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">7,275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>10,868.75</h4></td>
+</tr></table>

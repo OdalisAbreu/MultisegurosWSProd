@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 26/11/2020 <b>Hasta:</b> 26/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002172</td>
+        <td>IRAN ERNESTO</td>
+        <td>FELIZ CASADO</td>
+        <td>002-0164206-3</td>
+        <td>POL. SANCHEZ NO. 34</td>
+        <td></td>
+        <td>809-266-2305</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LX125</td>
+        <td>2019</td>
+        <td>LLCLP1T01JA100848</td>
+        <td align="right">K1756821</td>
+        <td align="right">2020-11-26 11:30:26</td>
+        <td align="right">26-11-2020</td>
+        <td align="right">26-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002173</td>
+        <td>LUIS EMILIO</td>
+        <td>MEJIA PEÑA</td>
+        <td>001-0293332-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-893-6323</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502216397</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-26 11:36:37</td>
+        <td align="right">26-11-2020</td>
+        <td align="right">26-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002174</td>
+        <td>BREILY</td>
+        <td>JARVIS</td>
+        <td>402-1033283-5</td>
+        <td>PATRIA MONTAS 14, LOS ROSALES</td>
+        <td></td>
+        <td>849-407-2948</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>VITZ</td>
+        <td>2010</td>
+        <td>KSP905162254</td>
+        <td align="right">A665421</td>
+        <td align="right">2020-11-26 13:27:59</td>
+        <td align="right">26-11-2020</td>
+        <td align="right">26-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002175</td>
+        <td>LEONEL FRANCISCO</td>
+        <td>GUILLANDEAUX CLARK</td>
+        <td>026-0113057-4</td>
+        <td>CALETA C15</td>
+        <td></td>
+        <td>829-205-1638</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2017</td>
+        <td>LLCLT1S03HCK01899</td>
+        <td align="right">K1773998</td>
+        <td align="right">2020-11-26 13:33:59</td>
+        <td align="right">26-11-2020</td>
+        <td align="right">26-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002176</td>
+        <td>DEIVI RAFAEL </td>
+        <td>LARA DE LOS SANTOS </td>
+        <td>402-2365666-7</td>
+        <td>cmanolo tavarez justos casa 52,fundacion </td>
+        <td>PERAVIA</td>
+        <td>809-452-0846</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>GATO</td>
+        <td>2021</td>
+        <td>LXYJCNL07MO118328</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-26 15:04:21</td>
+        <td align="right">26-11-2020</td>
+        <td align="right">26-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002177</td>
+        <td>BRAYLY MISSAEL</td>
+        <td>RODRIGUEZ OTANO</td>
+        <td>223-0158456-5</td>
+        <td>LOS TRES BRAZOS CASA N 17 CALLE CUAROCUYAA</td>
+        <td></td>
+        <td>829-978-1093</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>ARTISTICA</td>
+        <td>2001</td>
+        <td>3KJ7746262</td>
+        <td align="right">N986365</td>
+        <td align="right">2020-11-26 15:45:40</td>
+        <td align="right">26-11-2020</td>
+        <td align="right">26-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,250.00</h4></td>
+</tr></table>

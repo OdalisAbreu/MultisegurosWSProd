@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 10/04/2021 <b>Hasta:</b> 10/04/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003167</td>
+        <td>JESUS MARIA</td>
+        <td>CALDERON</td>
+        <td>010-0031801-2</td>
+        <td>CPRIMERA NO,82, HATILLO</td>
+        <td>AZUA</td>
+        <td>809-479-4025</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2021</td>
+        <td>LRPRPLB01MA200346</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-04-10 10:28:38</td>
+        <td align="right">10-04-2021</td>
+        <td align="right">10-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003168</td>
+        <td>ALTAGRACIA </td>
+        <td>JEAN YOLIBEL</td>
+        <td>068-0034782-2</td>
+        <td>c27 de febrero casa 36,los tumbaos</td>
+        <td>PERAVIA</td>
+        <td>849-205-1949</td>
+        <td>Jeep</td>
+        <td>BMW                  </td>
+        <td>X5</td>
+        <td>2003</td>
+        <td>5UXFA53523LV97908</td>
+        <td align="right">G187763</td>
+        <td align="right">2021-04-10 15:38:58</td>
+        <td align="right">10-04-2021</td>
+        <td align="right">10-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003169</td>
+        <td>LUIS ARMANDO</td>
+        <td>SOTO SUAZO</td>
+        <td>402-2721289-7</td>
+        <td>CRAMON LEDESMA CASA 4,MATANZAS</td>
+        <td>PERAVIA</td>
+        <td>829-376-0978</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2021</td>
+        <td>LC6PAGA15M0010293</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-04-10 16:02:04</td>
+        <td align="right">10-04-2021</td>
+        <td align="right">10-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003170</td>
+        <td>NELSON MANUEL</td>
+        <td>CASTILLO ALCANTARA</td>
+        <td>402-0961319-5</td>
+        <td>CDUARTE NO.43 , FUNDACION</td>
+        <td>PERAVIA</td>
+        <td>929-428-4396</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2021</td>
+        <td>LC6PAGA13M0008509</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-04-10 16:17:02</td>
+        <td align="right">10-04-2021</td>
+        <td align="right">10-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003171</td>
+        <td>ROSA MARIA</td>
+        <td>ALMONTE FAMILIA</td>
+        <td>003-0104700-7</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>829-869-3841</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2021</td>
+        <td>LM0CJV50XL1904736</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-10 16:19:18</td>
+        <td align="right">10-04-2021</td>
+        <td align="right">10-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003172</td>
+        <td>LEIDIS NATALI</td>
+        <td>PEÑA</td>
+        <td>003-0115816-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-394-6119</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J450339</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-10 16:35:38</td>
+        <td align="right">10-04-2021</td>
+        <td align="right">10-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003173</td>
+        <td>JULIO CESAR</td>
+        <td>ROMERO</td>
+        <td>003-0049276-6</td>
+        <td>EL FUNDO BANI CERCA DE LA ESCUELA JUAN VARON</td>
+        <td>PERAVIA</td>
+        <td>829-290-9900</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2020</td>
+        <td>LLCLXHCA1LA101230</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-04-10 16:41:45</td>
+        <td align="right">10-04-2021</td>
+        <td align="right">10-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-003174</td>
+        <td>EDWIN</td>
+        <td>ENCARNACION</td>
+        <td>224-0082807-9</td>
+        <td>CALLE PRINCIPAL</td>
+        <td></td>
+        <td>809-166-3786</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2017</td>
+        <td>XFICC150ACIOO6256</td>
+        <td align="right">XXXX</td>
+        <td align="right">2021-04-10 18:27:05</td>
+        <td align="right">10-04-2021</td>
+        <td align="right">10-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,456.25</h4></td>
+</tr></table>

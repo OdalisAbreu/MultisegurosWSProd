@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 16/04/2021 <b>Hasta:</b> 16/04/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003201</td>
+        <td>ROBERT ESTANLIN </td>
+        <td>JIMENEZ ARIA</td>
+        <td>402-2448670-0</td>
+        <td>CALLE SANCHEZ, CAÑAFISTOL </td>
+        <td>PERAVIA</td>
+        <td>809-779-6128</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>CG-150</td>
+        <td>2020</td>
+        <td>L5YTCKPA6L1172300</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-04-16 10:35:16</td>
+        <td align="right">16-04-2021</td>
+        <td align="right">16-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003202</td>
+        <td>YERKIS ABEL </td>
+        <td>DEL JESUS PUJOLS</td>
+        <td>229-0010336-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-856-0677</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ755508</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-16 11:22:57</td>
+        <td align="right">16-04-2021</td>
+        <td align="right">16-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003203</td>
+        <td>ROSIBELIS</td>
+        <td>BELTRE BELTRE</td>
+        <td>402-1107481-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-693-7988</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>SA16J010110</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-16 12:36:34</td>
+        <td align="right">16-04-2021</td>
+        <td align="right">16-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003204</td>
+        <td>WILSON</td>
+        <td>PUJOLS RECIO</td>
+        <td>010-0015226-2</td>
+        <td>calle 30 de marzo  34</td>
+        <td>AZUA</td>
+        <td>829-639-9283</td>
+        <td>Jeepeta</td>
+        <td>MITSUBISHI           </td>
+        <td>MONTERO</td>
+        <td>2001</td>
+        <td>JMYLYV78W1J000851</td>
+        <td align="right">G027327</td>
+        <td align="right">2021-04-16 13:02:41</td>
+        <td align="right">16-04-2021</td>
+        <td align="right">16-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003205</td>
+        <td>WILSON</td>
+        <td>PUJOLS REIO</td>
+        <td>010-0015226-2</td>
+        <td>calle 30 de marzo  34</td>
+        <td>AZUA</td>
+        <td>829-639-9283</td>
+        <td>Camion</td>
+        <td>ISUZU                </td>
+        <td>NPR</td>
+        <td>2012</td>
+        <td>JAANPR71HC7101234</td>
+        <td align="right">L308158</td>
+        <td align="right">2021-04-16 13:17:36</td>
+        <td align="right">16-04-2021</td>
+        <td align="right">16-04-2022</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">7,275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003206</td>
+        <td>MARIA ELIZABETH</td>
+        <td>BAEZ SOTO</td>
+        <td>402-3816703-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-458-4921</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>SA16J450352</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-16 13:39:08</td>
+        <td align="right">16-04-2021</td>
+        <td align="right">16-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003207</td>
+        <td>GADIEL JOSE</td>
+        <td>CASTILLO MORROBEL</td>
+        <td>402-1262228-2</td>
+        <td>mata gorda casa 54</td>
+        <td>PERAVIA</td>
+        <td>829-808-8290</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>LEAD 125</td>
+        <td>2008</td>
+        <td>JF451007748</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-04-16 16:20:16</td>
+        <td align="right">16-04-2021</td>
+        <td align="right">16-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-003208</td>
+        <td>JOSE ARMANDO</td>
+        <td>MARTINEZ</td>
+        <td>402-4070878-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-277-8520</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502601346</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-16 17:29:55</td>
+        <td align="right">16-04-2021</td>
+        <td align="right">16-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-003209</td>
+        <td>EGGLE YASSEL</td>
+        <td>MATOS OVIEDO</td>
+        <td>402-2880919-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-587-8252</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2018</td>
+        <td>TARPCJ505JC000122</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-16 17:41:50</td>
+        <td align="right">16-04-2021</td>
+        <td align="right">16-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>10,937.50</h4></td>
+</tr></table>

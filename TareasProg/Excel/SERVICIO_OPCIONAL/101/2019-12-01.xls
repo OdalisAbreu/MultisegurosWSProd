@@ -1,0 +1,108 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Asistencia Vial (Grua)
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 01/12/2019 <b>Hasta:</b> 01/12/2019
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		04:00:02
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>AUTO-MSD-021420</td>
+        <td>SANDINO RADHAMES</td>
+        <td>VÁSQUEZ BAEZ</td>
+        <td>001-1258424-8</td>
+        <td>SANTO DOMINGO</td>
+        <td>849-754-1713</td>
+        <td>Automovil</td>
+        <td>PEUGEOT              </td>
+        <td>406</td>
+        <td>2007</td>
+        <td>VF36D3FYF7L005257</td>
+        <td>A478176</td>
+        <td>03:40:08</td>
+		<td>23930</td>
+        <td>01 de  Diciembre del 2019</td>
+        <td>01 de  Marzo del 2020</td>
+        <td>$150.00</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>AUTO-AT-000245</td>
+        <td>SANDINO RADHAMES</td>
+        <td>VÁSQUEZ BAEZ</td>
+        <td>001-1258424-8</td>
+        <td>SANTO DOMINGO</td>
+        <td>849-754-1713</td>
+        <td>Automovil</td>
+        <td>PEUGEOT              </td>
+        <td>406</td>
+        <td>2007</td>
+        <td>VF36D3FYF7L005257</td>
+        <td>A478176</td>
+        <td>03:30:10</td>
+		<td>23929</td>
+        <td>01 de  Diciembre del 2019</td>
+        <td>01 de  Marzo del 2020</td>
+        <td>$300.00</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$450.00</td>
+   </tr>
+</table>

@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 29/02/2020 <b>Hasta:</b> 29/02/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000660</td>
+        <td>FELIX ARISTIDES</td>
+        <td>BERIGUETE SANCHEZ</td>
+        <td>001-1115595-8</td>
+        <td>LOS POLONES  9  CANCINO  SANTO DOMINGOESTE</td>
+        <td></td>
+        <td>809-252-7333</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1989</td>
+        <td>JT2AE92W3K3289283</td>
+        <td align="right">T015593</td>
+        <td align="right">2020-02-29 15:18:16</td>
+        <td align="right">29-02-2020</td>
+        <td align="right">29-05-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000661</td>
+        <td>FRANCISCO MANUEL </td>
+        <td>DUME PEÑA </td>
+        <td>402-2357020-7</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>829-218-4089</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191105214</td>
+        <td align="right">PROCESO </td>
+        <td align="right">2020-02-29 15:30:45</td>
+        <td align="right">00-00-0000</td>
+        <td align="right">31-12-1970</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000662</td>
+        <td>MARIANNY </td>
+        <td>BREA</td>
+        <td>402-3427432-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-968-3700</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J580069</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-02-29 15:36:41</td>
+        <td align="right">00-00-0000</td>
+        <td align="right">31-12-1970</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000663</td>
+        <td>PAOLA </td>
+        <td>TERUEL</td>
+        <td>402-2400166-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-655-9114</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J900400</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-02-29 15:38:33</td>
+        <td align="right">00-00-0000</td>
+        <td align="right">31-12-1970</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000664</td>
+        <td>ADONIS</td>
+        <td>MEDINA</td>
+        <td>402-4738349-6</td>
+        <td>CALLE5 NUMERO22</td>
+        <td></td>
+        <td>829-942-5585</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2019</td>
+        <td>MDZA76AYXKWK44899</td>
+        <td align="right">K1811035</td>
+        <td align="right">2020-02-29 21:04:03</td>
+        <td align="right">29-02-2020</td>
+        <td align="right">01-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,195.00</h4></td>
+</tr></table>

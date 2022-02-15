@@ -1,0 +1,638 @@
+<table cellpadding="4" cellspacing="0">
+				<tr>
+					<td colspan="11"> 
+						<table width="100%" cellpadding="9" cellspacing="0">
+							<tr>
+								<td colspan="4">
+									<b style="font-size: 35px; color: #d9261c;">Multi</b><b style="font-size: 35px; color: #828282;">Seguros</b>
+								</td>
+								<td align="center" colspan="4">
+									<font style="font-size: 19px; color: #828282; font-weight: bold;">
+										<b>REPORTE DE REMESA</b>
+									</font>
+									<br>
+									<font style="font-size: 16px; color: #828282; font-weight: bold;">ATRIO Seguros<font>
+									<br>
+									<font style="font-size: 14px; color: #828282; font-weight: bold;">
+										<b>Desde:</b> 12/04/2021 <b>Hasta:</b> 18/04/2021
+									</font>
+								</td>
+								<td colspan="3" align="right">
+									Remesa No. AT-2021-0016
+									<br><b>Fecha de Impresi&oacute;n:</b><br>
+									19 - 04 - 2021
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+				<td></td>
+				<td>No. Poliza</td>
+				<td>Nombres</td>
+				<td>Apellidos</td>
+				<td>C&eacute;dula</td>
+				<td>Fecha Emisi&oacute;n</td>
+				<td>Inicio Vigencia</td>
+				<td>Fin Vigencia</td>
+				<td>Prima</td>
+				<td>Comisi&oacute;n</td>
+				<td>Total a Remesar</td>
+			</tr> <tr>
+						<td>1</td>
+						<td>AUTO-AT-003176</td>
+						<td>JUAN RAMON</td>
+						<td>MOTO MENTEZ</td>
+						<td>003-0095292-6</td>
+						<td>12 - 04 - 2021 08:53</td>
+						<td>12 - 04 - 2021</td>
+						<td>12 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>2</td>
+						<td>AUTO-AT-003177</td>
+						<td>JUAN RAMON</td>
+						<td>MOTA MENDEZ</td>
+						<td>003-0095292-6</td>
+						<td>12 - 04 - 2021 08:54</td>
+						<td>12 - 04 - 2021</td>
+						<td>12 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>3</td>
+						<td>AUTO-AT-003178</td>
+						<td>MILKA CELESTE</td>
+						<td>SANTANA ENCARNACION</td>
+						<td>402-2174199-0</td>
+						<td>12 - 04 - 2021 10:37</td>
+						<td>12 - 04 - 2021</td>
+						<td>12 - 07 - 2021</td>
+						<td>468.75</td>
+						<td>181.84</td>
+						<td>286.91</td>
+					</tr><tr>
+						<td>4</td>
+						<td>AUTO-AT-003179</td>
+						<td>TOMY </td>
+						<td>GARCIA AMADOR</td>
+						<td>402-4287671-8</td>
+						<td>12 - 04 - 2021 11:14</td>
+						<td>12 - 04 - 2021</td>
+						<td>12 - 10 - 2021</td>
+						<td>137.50</td>
+						<td>53.34</td>
+						<td>84.16</td>
+					</tr><tr>
+						<td>5</td>
+						<td>AUTO-AT-003180</td>
+						<td>MARIA RAMONA</td>
+						<td>ABREU DE PEÑA</td>
+						<td>003-0069034-4</td>
+						<td>12 - 04 - 2021 11:58</td>
+						<td>12 - 04 - 2021</td>
+						<td>12 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>6</td>
+						<td>AUTO-AT-003181</td>
+						<td>RAFAEL JOSE</td>
+						<td>SANTOS MARTINEZ</td>
+						<td>044-0020579-7</td>
+						<td>12 - 04 - 2021 12:01</td>
+						<td>12 - 04 - 2021</td>
+						<td>12 - 10 - 2021</td>
+						<td>137.50</td>
+						<td>53.34</td>
+						<td>84.16</td>
+					</tr><tr>
+						<td>7</td>
+						<td>AUTO-AT-003182</td>
+						<td>GILBERTO FRANCISCOH</td>
+						<td>GIL TAVERAS</td>
+						<td>402-2833241-3</td>
+						<td>12 - 04 - 2021 16:06</td>
+						<td>12 - 04 - 2021</td>
+						<td>12 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>8</td>
+						<td>AUTO-AT-003183</td>
+						<td>FRAILIN ALEXANDER</td>
+						<td>CABRERA ARIAS</td>
+						<td>402-1416749-2</td>
+						<td>12 - 04 - 2021 17:59</td>
+						<td>12 - 04 - 2021</td>
+						<td>12 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>9</td>
+						<td>AUTO-AT-003184</td>
+						<td>SANDY SAID</td>
+						<td>FRANCO BOBADILLA</td>
+						<td>003-0014805-3</td>
+						<td>12 - 04 - 2021 22:55</td>
+						<td>12 - 04 - 2021</td>
+						<td>12 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>10</td>
+						<td>AUTO-AT-003185</td>
+						<td>MARVIN PETER</td>
+						<td>ORTIZ ROJAS</td>
+						<td>033-0040434-4</td>
+						<td>13 - 04 - 2021 13:03</td>
+						<td>13 - 04 - 2021</td>
+						<td>13 - 10 - 2021</td>
+						<td>937.50</td>
+						<td>363.69</td>
+						<td>573.81</td>
+					</tr><tr>
+						<td>11</td>
+						<td>AUTO-AT-003186</td>
+						<td>GENER ALEXANDER </td>
+						<td>GONZALEZ</td>
+						<td>402-4406880-1</td>
+						<td>13 - 04 - 2021 14:10</td>
+						<td>13 - 04 - 2021</td>
+						<td>13 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>12</td>
+						<td>AUTO-AT-003187</td>
+						<td>CHISTIAN ALENNY </td>
+						<td>TEJEDA BAEZ</td>
+						<td>003-0115281-5</td>
+						<td>13 - 04 - 2021 15:07</td>
+						<td>13 - 04 - 2021</td>
+						<td>13 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>13</td>
+						<td>AUTO-AT-003188</td>
+						<td>JULIAN</td>
+						<td>GUZMAN REYES</td>
+						<td>048-0005984-4</td>
+						<td>13 - 04 - 2021 17:35</td>
+						<td>13 - 04 - 2021</td>
+						<td>13 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>14</td>
+						<td>AUTO-AT-003189</td>
+						<td>FRANCISCO ANTONIO</td>
+						<td>ACASIO MEJIA</td>
+						<td>049-0039229-3</td>
+						<td>14 - 04 - 2021 10:19</td>
+						<td>14 - 04 - 2021</td>
+						<td>14 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>15</td>
+						<td>AUTO-AT-003190</td>
+						<td>WILKIS ALEXANDER</td>
+						<td>SORIANO MANCEBO</td>
+						<td>010-0081278-2</td>
+						<td>14 - 04 - 2021 11:06</td>
+						<td>14 - 04 - 2021</td>
+						<td>14 - 07 - 2021</td>
+						<td>468.75</td>
+						<td>181.84</td>
+						<td>286.91</td>
+					</tr><tr>
+						<td>16</td>
+						<td>AUTO-AT-003191</td>
+						<td>ARIANNY </td>
+						<td>MARTIREZ MEJIA</td>
+						<td>003-0126740-7</td>
+						<td>14 - 04 - 2021 15:19</td>
+						<td>14 - 04 - 2021</td>
+						<td>14 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>17</td>
+						<td>AUTO-AT-003192</td>
+						<td>MIGUEL ANGEL </td>
+						<td>ARIAS ARIAS</td>
+						<td>003-0070140-6</td>
+						<td>14 - 04 - 2021 17:11</td>
+						<td>14 - 04 - 2021</td>
+						<td>14 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>18</td>
+						<td>AUTO-AT-003193</td>
+						<td>VICMARIS</td>
+						<td>MARTINEZ TINEO</td>
+						<td>402-3726871-5</td>
+						<td>15 - 04 - 2021 09:55</td>
+						<td>15 - 04 - 2021</td>
+						<td>15 - 04 - 2022</td>
+						<td>1,875.00</td>
+						<td>727.37</td>
+						<td>1,147.63</td>
+					</tr><tr>
+						<td>19</td>
+						<td>AUTO-AT-003194</td>
+						<td>TOMAS</td>
+						<td>DE LA CRUZ RINCON</td>
+						<td>049-0041843-7</td>
+						<td>15 - 04 - 2021 12:40</td>
+						<td>15 - 04 - 2021</td>
+						<td>15 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>20</td>
+						<td>AUTO-AT-003195</td>
+						<td>AMANDA CORALI</td>
+						<td>GUERRERO ENCARNACION</td>
+						<td>003-0113291-6</td>
+						<td>15 - 04 - 2021 14:59</td>
+						<td>15 - 04 - 2021</td>
+						<td>15 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>21</td>
+						<td>AUTO-AT-003196</td>
+						<td>JENNIFER ALEXANDRA</td>
+						<td>BAEZ PEGUERO</td>
+						<td>402-2443006-2</td>
+						<td>15 - 04 - 2021 15:04</td>
+						<td>15 - 04 - 2021</td>
+						<td>15 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>22</td>
+						<td>AUTO-AT-003197</td>
+						<td>WILSON FRANCISCO</td>
+						<td>SANTOS CASTILLO</td>
+						<td>003-0040788-9</td>
+						<td>15 - 04 - 2021 15:58</td>
+						<td>15 - 04 - 2021</td>
+						<td>15 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>23</td>
+						<td>AUTO-AT-003198</td>
+						<td>REYNER BRAYNELL</td>
+						<td>BELLIARD ROSSIS</td>
+						<td>402-0065808-2</td>
+						<td>15 - 04 - 2021 16:16</td>
+						<td>15 - 04 - 2021</td>
+						<td>15 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>24</td>
+						<td>AUTO-AT-003199</td>
+						<td>YURILEIDIS</td>
+						<td>CONTRERAS PINA</td>
+						<td>012-0099491-9</td>
+						<td>15 - 04 - 2021 17:34</td>
+						<td>15 - 04 - 2021</td>
+						<td>15 - 04 - 2022</td>
+						<td>1,875.00</td>
+						<td>727.37</td>
+						<td>1,147.63</td>
+					</tr><tr>
+						<td>25</td>
+						<td>AUTO-AT-003200</td>
+						<td>ELINSON JAVIER</td>
+						<td>FELIZ ADAMES</td>
+						<td>402-2882751-1</td>
+						<td>15 - 04 - 2021 17:56</td>
+						<td>15 - 04 - 2021</td>
+						<td>15 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>26</td>
+						<td>AUTO-AT-003201</td>
+						<td>ROBERT ESTANLIN </td>
+						<td>JIMENEZ ARIA</td>
+						<td>402-2448670-0</td>
+						<td>16 - 04 - 2021 10:35</td>
+						<td>16 - 04 - 2021</td>
+						<td>16 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>27</td>
+						<td>AUTO-AT-003202</td>
+						<td>YERKIS ABEL </td>
+						<td>DEL JESUS PUJOLS</td>
+						<td>229-0010336-1</td>
+						<td>16 - 04 - 2021 11:22</td>
+						<td>16 - 04 - 2021</td>
+						<td>16 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>28</td>
+						<td>AUTO-AT-003203</td>
+						<td>ROSIBELIS</td>
+						<td>BELTRE BELTRE</td>
+						<td>402-1107481-6</td>
+						<td>16 - 04 - 2021 12:36</td>
+						<td>16 - 04 - 2021</td>
+						<td>16 - 10 - 2021</td>
+						<td>137.50</td>
+						<td>53.34</td>
+						<td>84.16</td>
+					</tr><tr>
+						<td>29</td>
+						<td>AUTO-AT-003204</td>
+						<td>WILSON</td>
+						<td>PUJOLS RECIO</td>
+						<td>010-0015226-2</td>
+						<td>16 - 04 - 2021 13:02</td>
+						<td>16 - 04 - 2021</td>
+						<td>16 - 04 - 2022</td>
+						<td>1,875.00</td>
+						<td>727.37</td>
+						<td>1,147.63</td>
+					</tr><tr>
+						<td>30</td>
+						<td>AUTO-AT-003205</td>
+						<td>WILSON</td>
+						<td>PUJOLS REIO</td>
+						<td>010-0015226-2</td>
+						<td>16 - 04 - 2021 13:17</td>
+						<td>16 - 04 - 2021</td>
+						<td>16 - 04 - 2022</td>
+						<td>7,275.00</td>
+						<td>2,822.20</td>
+						<td>4,452.80</td>
+					</tr><tr>
+						<td>31</td>
+						<td>AUTO-AT-003206</td>
+						<td>MARIA ELIZABETH</td>
+						<td>BAEZ SOTO</td>
+						<td>402-3816703-1</td>
+						<td>16 - 04 - 2021 13:39</td>
+						<td>16 - 04 - 2021</td>
+						<td>16 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>32</td>
+						<td>AUTO-AT-003207</td>
+						<td>GADIEL JOSE</td>
+						<td>CASTILLO MORROBEL</td>
+						<td>402-1262228-2</td>
+						<td>16 - 04 - 2021 16:20</td>
+						<td>16 - 04 - 2021</td>
+						<td>16 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>33</td>
+						<td>AUTO-AT-003208</td>
+						<td>JOSE ARMANDO</td>
+						<td>MARTINEZ</td>
+						<td>402-4070878-0</td>
+						<td>16 - 04 - 2021 17:29</td>
+						<td>16 - 04 - 2021</td>
+						<td>16 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>34</td>
+						<td>AUTO-AT-003209</td>
+						<td>EGGLE YASSEL</td>
+						<td>MATOS OVIEDO</td>
+						<td>402-2880919-6</td>
+						<td>16 - 04 - 2021 17:41</td>
+						<td>16 - 04 - 2021</td>
+						<td>16 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>35</td>
+						<td>AUTO-AT-003210</td>
+						<td>JOHNNY RUDYS</td>
+						<td>GONZALEZ MARTINEZ</td>
+						<td>003-0087341-1</td>
+						<td>17 - 04 - 2021 09:44</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>36</td>
+						<td>AUTO-AT-003211</td>
+						<td>FREDDY ORLANDO </td>
+						<td>LOPEZ RODRIGUEZ</td>
+						<td>001-1825847-4</td>
+						<td>17 - 04 - 2021 11:01</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>37</td>
+						<td>AUTO-AT-003212</td>
+						<td>ANTHONY SANTIAGO </td>
+						<td>MATEO ALCANTARA</td>
+						<td>402-4591073-8</td>
+						<td>17 - 04 - 2021 11:08</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>38</td>
+						<td>AUTO-AT-003213</td>
+						<td>MARIA MELIDA </td>
+						<td>ROA CHALAS </td>
+						<td>003-0068264-8</td>
+						<td>17 - 04 - 2021 11:21</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>39</td>
+						<td>AUTO-AT-003214</td>
+						<td>MIESES IVAN</td>
+						<td>CRUZ ZABALA</td>
+						<td>003-0124036-2</td>
+						<td>17 - 04 - 2021 11:38</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>40</td>
+						<td>AUTO-AT-003215</td>
+						<td>EVARISTO ANTONIO</td>
+						<td>COLLADO RIVERA</td>
+						<td>036-0042728-4</td>
+						<td>17 - 04 - 2021 11:39</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 07 - 2021</td>
+						<td>68.75</td>
+						<td>26.67</td>
+						<td>42.08</td>
+					</tr><tr>
+						<td>41</td>
+						<td>AUTO-AT-003216</td>
+						<td>JUHANNY CAROLINA</td>
+						<td>DE LOS SANTOS CRUZ</td>
+						<td>402-1838430-9</td>
+						<td>17 - 04 - 2021 12:26</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>42</td>
+						<td>AUTO-AT-003217</td>
+						<td>ROSELIO MASAKI </td>
+						<td>BELLO KATO </td>
+						<td>001-1894830-6</td>
+						<td>17 - 04 - 2021 14:48</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 07 - 2021</td>
+						<td>68.75</td>
+						<td>26.67</td>
+						<td>42.08</td>
+					</tr><tr>
+						<td>43</td>
+						<td>AUTO-AT-003218</td>
+						<td>RICHEL MANUEL</td>
+						<td>CUEVA RODRIGUEZ</td>
+						<td>402-2050211-2</td>
+						<td>17 - 04 - 2021 14:53</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>1,875.00</td>
+						<td>727.37</td>
+						<td>1,147.63</td>
+					</tr><tr>
+						<td>44</td>
+						<td>AUTO-AT-003219</td>
+						<td>HECTOR MIGUEL</td>
+						<td>PEREZ MENDEZ</td>
+						<td>010-0090026-4</td>
+						<td>17 - 04 - 2021 15:49</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>1,875.00</td>
+						<td>727.37</td>
+						<td>1,147.63</td>
+					</tr><tr>
+						<td>45</td>
+						<td>AUTO-AT-003220</td>
+						<td>JEURIS ANTONIO</td>
+						<td>HENRIQUEZ SOTO</td>
+						<td>402-2839630-1</td>
+						<td>17 - 04 - 2021 16:02</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>46</td>
+						<td>AUTO-AT-003221</td>
+						<td>MELISSA</td>
+						<td>ZAPATA DIAZ</td>
+						<td>003-0118098-0</td>
+						<td>17 - 04 - 2021 17:07</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>1,875.00</td>
+						<td>727.37</td>
+						<td>1,147.63</td>
+					</tr><tr>
+						<td>47</td>
+						<td>AUTO-AT-003222</td>
+						<td>RAULIN </td>
+						<td>MARTINEZ </td>
+						<td>003-0118162-4</td>
+						<td>17 - 04 - 2021 17:14</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr>
+						<td>48</td>
+						<td>AUTO-AT-003223</td>
+						<td>STEPHANIE DARIANA</td>
+						<td>CASTILLO DE REYNOSO</td>
+						<td>003-0120519-1</td>
+						<td>17 - 04 - 2021 17:24</td>
+						<td>17 - 04 - 2021</td>
+						<td>17 - 04 - 2022</td>
+						<td>275.00</td>
+						<td>106.68</td>
+						<td>168.32</td>
+					</tr><tr style="font-size:14px; font-weight:bold">
+				<td colspan="8" align="right"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr style="font-size:14px; font-weight:bold">
+				<td colspan="9" align="right"> Total Primas:</td>
+				<td>$30,025.00</td>
+				<td></td>
+			</tr>
+			<tr style="font-size:14px; font-weight:bold">
+				<td colspan="9" align="right"> Total Comision:</td>
+				<td>$11,647.59</td>
+				<td></td>
+			</tr>
+			<tr style="font-size:14px; font-weight:bold">
+				<td colspan="9" align="right"> Total Remesas:</td>
+				<td>$18,377.41</td>
+				<td></td>
+			</tr>
+		</table>

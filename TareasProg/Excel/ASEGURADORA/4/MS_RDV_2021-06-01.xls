@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 01/06/2021 <b>Hasta:</b> 01/06/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003516</td>
+        <td>ANGEL ROSENDO</td>
+        <td>AYALA LABOUR</td>
+        <td>003-0006635-4</td>
+        <td>Penetracion, Edif 13, Piso 3, Apartamento 301</td>
+        <td>PERAVIA</td>
+        <td>809-729-4633</td>
+        <td>Camioneta</td>
+        <td>ISUZU                </td>
+        <td>ISUZU </td>
+        <td>1994</td>
+        <td>JAATFR16HR7110162</td>
+        <td align="right">L073896</td>
+        <td align="right">2021-06-01 01:57:52</td>
+        <td align="right">01-06-2021</td>
+        <td align="right">01-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003517</td>
+        <td>ROLDANI ANTONIO</td>
+        <td>HENRIQUEZ SANTOS</td>
+        <td>402-2670330-0</td>
+        <td>MONTELANO, PUERTO PLATA</td>
+        <td></td>
+        <td>829-381-6108</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>CG150</td>
+        <td>2017</td>
+        <td>LZ3JL10TAH8K98815</td>
+        <td align="right">K16800168</td>
+        <td align="right">2021-06-01 07:24:58</td>
+        <td align="right">01-06-2021</td>
+        <td align="right">01-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003518</td>
+        <td>JUANA</td>
+        <td>FLORENTINO MENDEZ</td>
+        <td>003-0068802-5</td>
+        <td>Calle 2da  18, Inespre, Bani</td>
+        <td>PERAVIA</td>
+        <td>809-703-6221</td>
+        <td>Jeep</td>
+        <td>MITSUBISHI           </td>
+        <td>PAJERO</td>
+        <td>2000</td>
+        <td>H57A0010509</td>
+        <td align="right">G024680</td>
+        <td align="right">2021-06-01 09:05:43</td>
+        <td align="right">01-06-2021</td>
+        <td align="right">01-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003519</td>
+        <td>SIMEON PLUTARCO</td>
+        <td>ABAD UREÑA</td>
+        <td>068-0033297-2</td>
+        <td>CCAMAÑO DE ÑO NO 27,el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-878-6788</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>LAND CRUISER</td>
+        <td>1998</td>
+        <td>JT3HT05J7W0001624</td>
+        <td align="right">G049530</td>
+        <td align="right">2021-06-01 10:27:36</td>
+        <td align="right">01-06-2021</td>
+        <td align="right">01-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003520</td>
+        <td>JUAN GREGORIO</td>
+        <td>MOTA MENDEZ</td>
+        <td>003-0091263-1</td>
+        <td>Calle Duarte  67 Esquina Las Carreras, Santa Cruz</td>
+        <td>PERAVIA</td>
+        <td>829-639-4757</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>PICK UP </td>
+        <td>1989</td>
+        <td>JT4RN81R2K0011976</td>
+        <td align="right">L016812</td>
+        <td align="right">2021-06-01 11:17:03</td>
+        <td align="right">01-06-2021</td>
+        <td align="right">01-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003521</td>
+        <td>CARLOS MANUEL</td>
+        <td>ROSARIO ALBERTO</td>
+        <td>001-1730625-8</td>
+        <td>los girasoles1 c,7no.39</td>
+        <td></td>
+        <td>809-444-3881</td>
+        <td>Motocicleta</td>
+        <td>MUSASHI              </td>
+        <td>MUSASHI </td>
+        <td>2013</td>
+        <td>GCLPCM501DC000214</td>
+        <td align="right">K1808526</td>
+        <td align="right">2021-06-01 14:33:53</td>
+        <td align="right">01-06-2021</td>
+        <td align="right">01-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003522</td>
+        <td>YOELIS ISABEL</td>
+        <td>ADAMES CASADO</td>
+        <td>003-0091698-8</td>
+        <td>cinaculada concepcion no.9, sombrero</td>
+        <td>PERAVIA</td>
+        <td>809-453-5919</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2021</td>
+        <td>LC6PAGA10M0010296</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-06-01 17:23:23</td>
+        <td align="right">01-06-2021</td>
+        <td align="right">01-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>9,525.00</h4></td>
+</tr></table>

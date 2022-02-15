@@ -1,0 +1,139 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 23/08/2020 <b>Hasta:</b> 23/08/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-030113</td>
+        <td>CLAUDI RAMON</td>
+        <td>CONTRERAS ROSARIO</td>
+        <td>402-2661906-8</td>
+        <td>BALLAGUANA</td>
+        <td></td>
+        <td>829-207-6229</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2000</td>
+        <td>EK21H3206</td>
+        <td align="right">A122466</td>
+        <td align="right">2020-08-23 13:14:25</td>
+        <td align="right">23-08-2020</td>
+        <td align="right">23-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-030114</td>
+        <td>DANY ANTONIO</td>
+        <td>PEREZ RAMIREZ</td>
+        <td>402-2453297-4</td>
+        <td>KM22 AUTOPISTA DUARTE</td>
+        <td></td>
+        <td>849-207-4731</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2014</td>
+        <td>TARPCM501EC005714</td>
+        <td align="right">K0440729</td>
+        <td align="right">2020-08-23 15:50:51</td>
+        <td align="right">23-08-2020</td>
+        <td align="right">23-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-030115</td>
+        <td>CARLOS ROGELIO</td>
+        <td>VARGAS FERNANDEZ</td>
+        <td>034-0050283-1</td>
+        <td>MAO</td>
+        <td></td>
+        <td>809-988-9845</td>
+        <td>Camion</td>
+        <td>DAIHATSU             </td>
+        <td>DELTA</td>
+        <td>2008</td>
+        <td>JDA00V11800028338</td>
+        <td align="right">L250243</td>
+        <td align="right">2020-08-23 17:56:17</td>
+        <td align="right">23-08-2020</td>
+        <td align="right">23-11-2020</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>1,000,000</td>
+        <td align="right">2,243.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,256.25</h4></td>
+</tr></table>

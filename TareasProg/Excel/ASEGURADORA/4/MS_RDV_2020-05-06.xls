@@ -1,0 +1,139 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 06/05/2020 <b>Hasta:</b> 06/05/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000852</td>
+        <td>RICHARD JOEL</td>
+        <td>VELASQUEZ ALBURQUERQUE</td>
+        <td>027-0035303-6</td>
+        <td>CENTRO HATO MAYOR DEL REY</td>
+        <td></td>
+        <td>809-370-8032</td>
+        <td>Jeepeta</td>
+        <td>JEEP                 </td>
+        <td>COMPAS LIMITED</td>
+        <td>2014</td>
+        <td>1C4NJCBA3ED560296</td>
+        <td align="right">X517514</td>
+        <td align="right">2020-05-06 08:14:39</td>
+        <td align="right">06-05-2020</td>
+        <td align="right">06-08-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000853</td>
+        <td>ASTENCION</td>
+        <td>MALDONADO ALMONTE</td>
+        <td>054-0065937-0</td>
+        <td>MOCA</td>
+        <td></td>
+        <td>809-396-5792</td>
+        <td>Motocicleta</td>
+        <td>FORCE</td>
+        <td>FORCE</td>
+        <td>2007</td>
+        <td>LWPPCJ2A371008079</td>
+        <td align="right">K0244658</td>
+        <td align="right">2020-05-06 10:59:45</td>
+        <td align="right">06-05-2020</td>
+        <td align="right">06-08-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000854</td>
+        <td>JUAN JOSE</td>
+        <td>YNIRIO ALCANTARA</td>
+        <td>026-0122040-9</td>
+        <td>F14 VILLA ESPANA</td>
+        <td></td>
+        <td>829-213-5403</td>
+        <td>Jeep</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>1997</td>
+        <td>JHLRD1846VC009206</td>
+        <td align="right">G109795</td>
+        <td align="right">2020-05-06 12:32:41</td>
+        <td align="right">06-05-2020</td>
+        <td align="right">06-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,412.50</h4></td>
+</tr></table>

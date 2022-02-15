@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 19/05/2021 <b>Hasta:</b> 19/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003427</td>
+        <td>ISRAEL</td>
+        <td>TERRERO ENCARNACION</td>
+        <td>014-0006413-3</td>
+        <td>SN BAT1STA EL  CERCAD0</td>
+        <td></td>
+        <td>829-743-4644</td>
+        <td>Motoneta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2007</td>
+        <td>LC8PAGA1070851944</td>
+        <td align="right">KO416473</td>
+        <td align="right">2021-05-19 09:35:58</td>
+        <td align="right">19-05-2021</td>
+        <td align="right">19-05-2022</td>
+        <td>50,000</td>
+        <td>25,000</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003428</td>
+        <td>FRANCIS MARINO</td>
+        <td>ZAPATA MATEO </td>
+        <td>003-0098177-6</td>
+        <td>BARRIO LA GRANJA,AL LADO DE LA CASA DE FRANCISCO AREPA </td>
+        <td>PERAVIA</td>
+        <td>829-792-1563</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>HA022634144</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-19 11:44:52</td>
+        <td align="right">19-05-2021</td>
+        <td align="right">19-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003429</td>
+        <td>RAFAEL NICOLAS </td>
+        <td>SANTIAGO ECHAVARRIA </td>
+        <td>402-2081166-1</td>
+        <td>AVE. INDEPENDENCIA KM 8 12, CALLE A URB. NORDESA III</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>849-763-1129</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>ZOOMER</td>
+        <td>1994</td>
+        <td>AF581513181</td>
+        <td align="right">0000000000</td>
+        <td align="right">2021-05-19 14:00:43</td>
+        <td align="right">19-05-2021</td>
+        <td align="right">19-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003430</td>
+        <td>ROBERTO ERNESTO </td>
+        <td>CRUZ GIL </td>
+        <td>047-0100539-1</td>
+        <td>DISTRITO NACIONAL </td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-519-3881</td>
+        <td>Motocicleta</td>
+        <td>LIFAN                </td>
+        <td>LIFAN </td>
+        <td>1994</td>
+        <td>DH20048</td>
+        <td align="right">0000000000</td>
+        <td align="right">2021-05-19 14:17:41</td>
+        <td align="right">19-05-2021</td>
+        <td align="right">19-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003431</td>
+        <td>CHRISTOPHER</td>
+        <td>MARTINEZ ENCARNACION</td>
+        <td>225-0082446-5</td>
+        <td>LA JAVILLA</td>
+        <td></td>
+        <td>829-725-0583</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td></td>
+        <td>1991</td>
+        <td>JT2AF94A3M3468637</td>
+        <td align="right">TOO8898</td>
+        <td align="right">2021-05-19 18:16:38</td>
+        <td align="right">19-05-2021</td>
+        <td align="right">19-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,768.75</h4></td>
+</tr></table>

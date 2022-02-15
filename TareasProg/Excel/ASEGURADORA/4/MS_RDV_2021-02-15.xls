@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 15/02/2021 <b>Hasta:</b> 15/02/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002760</td>
+        <td>JULIAN </td>
+        <td>DOÑE HERRERA</td>
+        <td>082-0000726-1</td>
+        <td>CARACELIS RAMIREZ, BARRIO NUEVO, YAGUATE</td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-782-9478</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>ACCORD</td>
+        <td>1999</td>
+        <td>JHMCG6678XC027020</td>
+        <td align="right">A099743</td>
+        <td align="right">2021-02-15 08:06:23</td>
+        <td align="right">15-02-2021</td>
+        <td align="right">15-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002761</td>
+        <td>CESAR EUCLIDES</td>
+        <td>SOTO FELIZ</td>
+        <td>003-0090953-8</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>829-791-7550</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191204173</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-15 08:53:31</td>
+        <td align="right">15-02-2021</td>
+        <td align="right">15-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002762</td>
+        <td>ESMERALDA SUGEIDY</td>
+        <td>PUJOLS MATOS</td>
+        <td>003-0119584-8</td>
+        <td>CPRINCIPAL NO.5, LOS TUMBAOS</td>
+        <td>PERAVIA</td>
+        <td>809-207-2228</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2009</td>
+        <td>KMHEU41MP9A642048</td>
+        <td align="right">A643174</td>
+        <td align="right">2021-02-15 09:55:38</td>
+        <td align="right">15-02-2021</td>
+        <td align="right">15-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002763</td>
+        <td>SILVERIO </td>
+        <td>RODRIGUEZ SUERO</td>
+        <td>003-0039354-3</td>
+        <td>cluperon,frente a willian hierro,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-371-1894</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 125</td>
+        <td>2021</td>
+        <td>MD2A76AX1MWG49093</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-15 10:08:33</td>
+        <td align="right">15-02-2021</td>
+        <td align="right">15-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002764</td>
+        <td>SALVADOR</td>
+        <td>CIPRIAN MARTINEZ</td>
+        <td>002-0100133-6</td>
+        <td>CCAMAÑO DEÑO NO.21, EL CRUCE DE ARROYO HONDO</td>
+        <td>PERAVIA</td>
+        <td>829-690-7911</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>PICK UP </td>
+        <td>1993</td>
+        <td>4TARN93P9PZ109872</td>
+        <td align="right">L144122</td>
+        <td align="right">2021-02-15 10:52:57</td>
+        <td align="right">15-02-2021</td>
+        <td align="right">15-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002765</td>
+        <td>VICTOR YOHAN</td>
+        <td>MATEO</td>
+        <td>003-0124995-9</td>
+        <td>cduarte lado abajo del col.andujar,villa fundacion</td>
+        <td>PERAVIA</td>
+        <td>829-258-8071</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J650345</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-15 11:16:15</td>
+        <td align="right">15-02-2021</td>
+        <td align="right">15-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002766</td>
+        <td>EZEQUIEL</td>
+        <td>PEREYRA ENCARNACION</td>
+        <td>001-0778586-7</td>
+        <td>Calle Manolo Tavares Justo 47, Urbanizacion Real</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-224-9367</td>
+        <td>Camioneta</td>
+        <td>FORD                 </td>
+        <td>F-150</td>
+        <td>2004</td>
+        <td>1FTPW14504KB11649</td>
+        <td align="right">L289453</td>
+        <td align="right">2021-02-15 15:53:55</td>
+        <td align="right">15-02-2021</td>
+        <td align="right">15-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>9,525.00</h4></td>
+</tr></table>

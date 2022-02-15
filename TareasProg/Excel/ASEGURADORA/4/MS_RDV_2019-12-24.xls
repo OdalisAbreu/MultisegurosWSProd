@@ -1,0 +1,163 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 24/12/2019 <b>Hasta:</b> 24/12/2019
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000335</td>
+        <td>DIONY DIOSIKY </td>
+        <td>MEDINA PEÑA</td>
+        <td>003-0113512-5</td>
+        <td>C02 DE MAYO BANI </td>
+        <td>PERAVIA</td>
+        <td>829-866-0960</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2018</td>
+        <td>LGVSMY50XJZ531042</td>
+        <td align="right">PROCESO </td>
+        <td align="right">2019-12-24 12:58:16</td>
+        <td align="right">24-12-2019</td>
+        <td align="right">24-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000336</td>
+        <td>RAUL GUILLERMO </td>
+        <td>ROA GOMEZ</td>
+        <td>001-1713593-9</td>
+        <td>CALLE EMILIANO TARDIF NO. 30</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>829-750-2151</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>GIORNO</td>
+        <td>1994</td>
+        <td>AF701060299</td>
+        <td align="right">0000000000</td>
+        <td align="right">2019-12-24 14:57:10</td>
+        <td align="right">24-12-2019</td>
+        <td align="right">24-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000337</td>
+        <td>DAISON EMILIO</td>
+        <td>OGANDO NOVOA</td>
+        <td>001-0066623-9</td>
+        <td>CELESTINA DUARTE</td>
+        <td></td>
+        <td>829-642-7052</td>
+        <td>Automovil</td>
+        <td>MITSUBISHI           </td>
+        <td>LANCER</td>
+        <td>2005</td>
+        <td>JMYSTCS3A5U004626</td>
+        <td align="right">A426046</td>
+        <td align="right">2019-12-24 15:32:02</td>
+        <td align="right">24-12-2019</td>
+        <td align="right">24-03-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000338</td>
+        <td>CLAUDIA JOSEFINA </td>
+        <td>DE LOS SANTOS TEJEDA </td>
+        <td>003-0095081-3</td>
+        <td>C MELLA 64 SABANA BUEY </td>
+        <td>PERAVIA</td>
+        <td>809-663-2610</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>1994</td>
+        <td>LC6PAGA16L0005781</td>
+        <td align="right">PROCESO </td>
+        <td align="right">2019-12-24 16:53:45</td>
+        <td align="right">24-12-2019</td>
+        <td align="right">24-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,820.00</h4></td>
+</tr></table>

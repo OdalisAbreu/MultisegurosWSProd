@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 21/04/2021 <b>Hasta:</b> 21/04/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003249</td>
+        <td>YORKI</td>
+        <td>PEGUERO</td>
+        <td>150-0000069-3</td>
+        <td>Teodoro Rivera  7 caña fistol Bani</td>
+        <td>PERAVIA</td>
+        <td>829-468-7244</td>
+        <td>Jeep</td>
+        <td>MITSUBISHI           </td>
+        <td>MONTERO</td>
+        <td>1999</td>
+        <td>JMYORK860WP800769</td>
+        <td align="right">G001343</td>
+        <td align="right">2021-04-21 09:06:48</td>
+        <td align="right">21-04-2021</td>
+        <td align="right">21-07-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003250</td>
+        <td>MAXIMO ARODIS</td>
+        <td>ARIAS ARIAS</td>
+        <td>003-0046468-2</td>
+        <td>barrio villa luz cprincipal casa 04,villa sombrero</td>
+        <td>PERAVIA</td>
+        <td>809-836-7219</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>RX</td>
+        <td>2003</td>
+        <td>MH33HB0082K264823</td>
+        <td align="right">K1290508</td>
+        <td align="right">2021-04-21 11:43:15</td>
+        <td align="right">21-04-2021</td>
+        <td align="right">21-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003251</td>
+        <td>JUARLIN </td>
+        <td>LARA VALDEZ</td>
+        <td>402-1385032-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-469-8798</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ7916464</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-21 12:01:05</td>
+        <td align="right">21-04-2021</td>
+        <td align="right">21-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003252</td>
+        <td>FRANCISCO JAVIER CONFESOR </td>
+        <td>ARIAS</td>
+        <td>003-0069151-6</td>
+        <td>Gaston Fernando Deligne ESQ trinitaria los cajuilito</td>
+        <td>PERAVIA</td>
+        <td>829-766-4679</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2011</td>
+        <td>LLCLPP204BE106383</td>
+        <td align="right">N769086</td>
+        <td align="right">2021-04-21 15:24:23</td>
+        <td align="right">21-04-2021</td>
+        <td align="right">21-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003253</td>
+        <td>LUIS JAVIER</td>
+        <td>NAVARRO MERCEDES</td>
+        <td>402-3115209-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-380-2434</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502405102</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-21 15:50:39</td>
+        <td align="right">21-04-2021</td>
+        <td align="right">21-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,568.75</h4></td>
+</tr></table>

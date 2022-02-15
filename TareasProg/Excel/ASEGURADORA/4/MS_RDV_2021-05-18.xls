@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 18/05/2021 <b>Hasta:</b> 18/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003419</td>
+        <td>INGRE DIOSENIA </td>
+        <td>SOTO SANCHEZ DE ENCARNACION </td>
+        <td>003-0068731-6</td>
+        <td>CNO.2 CASA NO.65 PARTE ATRAS DE LA ESCUELA </td>
+        <td>PERAVIA</td>
+        <td>809-254-1036</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>BZ-150</td>
+        <td>2021</td>
+        <td>LZRGOF1A4M1001922</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-18 11:37:07</td>
+        <td align="right">18-05-2021</td>
+        <td align="right">18-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003420</td>
+        <td>CELSY ADANANYI</td>
+        <td>ZAPATA SOTO</td>
+        <td>003-0124943-9</td>
+        <td>RIO ARRIBA</td>
+        <td>PERAVIA</td>
+        <td>829-803-7193</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>LEAD 125</td>
+        <td>2015</td>
+        <td>JF451017510</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-18 11:54:59</td>
+        <td align="right">18-05-2021</td>
+        <td align="right">18-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003421</td>
+        <td>MARCOS</td>
+        <td>DE JESUS DE LA CRUZ</td>
+        <td>003-0105031-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-899-9832</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J803663</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-05-18 14:22:59</td>
+        <td align="right">18-05-2021</td>
+        <td align="right">18-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003422</td>
+        <td>JOEL ALEXANDER</td>
+        <td>BAEZ TEJEDA</td>
+        <td>003-0113815-2</td>
+        <td>cjose de ortiz casa 2do nivel,el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-498-3016</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 150</td>
+        <td>2021</td>
+        <td>LRPRPJD02LA101471</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-18 15:32:11</td>
+        <td align="right">18-05-2021</td>
+        <td align="right">18-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003423</td>
+        <td>GAMALIER</td>
+        <td>VARGAS RAMIREZ</td>
+        <td>026-0118229-4</td>
+        <td>VILLA PEREYRA</td>
+        <td></td>
+        <td>829-291-0885</td>
+        <td>Automovil</td>
+        <td>CHEVROLET            </td>
+        <td>CHEVROLET </td>
+        <td>2011</td>
+        <td>KL1TM5CY5BB244032</td>
+        <td align="right">A566648</td>
+        <td align="right">2021-05-18 15:48:58</td>
+        <td align="right">18-05-2021</td>
+        <td align="right">18-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003424</td>
+        <td>ALEXIS ALEXANDER</td>
+        <td>BARIAS LARA </td>
+        <td>003-0070120-8</td>
+        <td>cfabio herrera casa 110,el pueblo de bani</td>
+        <td>PERAVIA</td>
+        <td>809-522-5032</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2020</td>
+        <td>LHJHJH209LB100151</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-18 17:34:59</td>
+        <td align="right">18-05-2021</td>
+        <td align="right">18-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003425</td>
+        <td>JOSELYN TAINA</td>
+        <td>MEDINA CALDERON</td>
+        <td>001-1090681-5</td>
+        <td>Av. 27 de Febrero No. 328, Ed. Rodríguez Sandoval, 3er. Piso, Bella Vista</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-383-0097</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>VELOSTER</td>
+        <td>2013</td>
+        <td>KMHTC61CBDU117486</td>
+        <td align="right">XXXXXXX</td>
+        <td align="right">2021-05-18 22:03:33</td>
+        <td align="right">18-05-2021</td>
+        <td align="right">18-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-003426</td>
+        <td>JOSELYN AMPARO</td>
+        <td>CALDERON TRONCOSO</td>
+        <td>001-0140795-5</td>
+        <td>CALLE EDUARDO VICIOSO NO. 68, TORRE FABRE I, APT. 6B, BELLA VISTA</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-532-0192</td>
+        <td>Jeep</td>
+        <td>HYUNDAI              </td>
+        <td>TUCSON</td>
+        <td>2008</td>
+        <td>KMHJM81BP8U841055</td>
+        <td align="right">XXXXXXX</td>
+        <td align="right">2021-05-18 22:07:06</td>
+        <td align="right">18-05-2021</td>
+        <td align="right">18-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>1,000,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>8,812.50</h4></td>
+</tr></table>

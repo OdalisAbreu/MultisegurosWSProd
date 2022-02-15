@@ -1,0 +1,108 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Plan Plus (Veh. Livianos) Exceso R/C RD$1,000,000
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 23/08/2021 <b>Hasta:</b> 23/08/2021
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		01:00:02
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>EX-AT-004992</td>
+        <td>JUAN BAUTISTA</td>
+        <td>PEÑA SANCHEZ</td>
+        <td>003-0059750-7</td>
+        <td>PERAVIA</td>
+        <td>829-271-4377</td>
+        <td>Automovil</td>
+        <td>KIA                  </td>
+        <td>K5</td>
+        <td>2014</td>
+        <td>KNAGN418BEA502294</td>
+        <td>A885359</td>
+        <td>06:57:09</td>
+		<td>46214</td>
+        <td>23 de  Agosto del 2021</td>
+        <td>23 de  Agosto del 2022</td>
+        <td>$281.55</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>EX-AT-004988</td>
+        <td>JULIO CESAR</td>
+        <td>PEREZ DITREN</td>
+        <td>082-0026098-5</td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-204-6581</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>2015</td>
+        <td>5YFBURHE6FP281074</td>
+        <td>A873688</td>
+        <td>05:04:50</td>
+		<td>46210</td>
+        <td>23 de  Agosto del 2021</td>
+        <td>23 de  Agosto del 2022</td>
+        <td>$563.10</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$844.65</td>
+   </tr>
+</table>

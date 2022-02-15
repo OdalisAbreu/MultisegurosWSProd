@@ -1,0 +1,163 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 26/12/2020 <b>Hasta:</b> 26/12/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002389</td>
+        <td>IDETEL </td>
+        <td>ZAPATA LARA</td>
+        <td>003-0060872-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-380-1655</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>1994</td>
+        <td>LJCTCJPX2KA000126</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-26 13:01:03</td>
+        <td align="right">26-12-2020</td>
+        <td align="right">26-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002390</td>
+        <td>JUDHIT </td>
+        <td>MEJIA PEREZ</td>
+        <td>003-0099632-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-603-5178</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA24J615347</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-26 13:08:53</td>
+        <td align="right">26-12-2020</td>
+        <td align="right">26-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002391</td>
+        <td>RAMONA</td>
+        <td>SUERO ORTIZ</td>
+        <td>003-0046359-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-522-7925</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF061210787</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-26 15:27:18</td>
+        <td align="right">26-12-2020</td>
+        <td align="right">26-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002392</td>
+        <td>ANGEL RAFAEL </td>
+        <td>PEGUERO MARTINEZ</td>
+        <td>402-1263077-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-673-8413</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J716222</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-26 16:45:48</td>
+        <td align="right">26-12-2020</td>
+        <td align="right">26-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,100.00</h4></td>
+</tr></table>

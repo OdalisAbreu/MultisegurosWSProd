@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 01/08/2020 <b>Hasta:</b> 01/08/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001448</td>
+        <td>MACULADO</td>
+        <td>LARA MEJIA </td>
+        <td>003-0081734-3</td>
+        <td>cprincipal casa 37.palmar de ocoa</td>
+        <td>PERAVIA</td>
+        <td>829-261-9395</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2020</td>
+        <td>LC6PAGA14L0013460</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-08-01 10:02:10</td>
+        <td align="right">01-08-2020</td>
+        <td align="right">01-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001449</td>
+        <td>DIONICIO ANTONIO</td>
+        <td>FLETE TINEO </td>
+        <td>001-0843189-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-358-5304</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502601930 </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-01 10:46:04</td>
+        <td align="right">01-08-2020</td>
+        <td align="right">01-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001450</td>
+        <td>SANTO SANTIAGO </td>
+        <td>MARTINEZ ZAPATA </td>
+        <td>003-0069057-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-642-6072</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502605287     </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-01 11:52:22</td>
+        <td align="right">01-08-2020</td>
+        <td align="right">01-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001451</td>
+        <td>HENRY ABEL</td>
+        <td>PEGUERO CASADO</td>
+        <td>013-0035515-1</td>
+        <td>clas calderas casa 07,los tumbaos </td>
+        <td>PERAVIA</td>
+        <td>829-350-1552</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2020</td>
+        <td>LLCLGL304LA101541</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-08-01 14:56:06</td>
+        <td align="right">01-08-2020</td>
+        <td align="right">01-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001452</td>
+        <td>CESAR FEDERICO </td>
+        <td>CUSTODIO ALCANTARA </td>
+        <td>003-0037591-2</td>
+        <td>C 27 DE FEBRERO NO 20 LOS TUMBAOS </td>
+        <td>PERAVIA</td>
+        <td>809-828-0761</td>
+        <td>Camioneta</td>
+        <td>MITSUBISHI           </td>
+        <td>L200</td>
+        <td>2001</td>
+        <td>MMBJRK7401D036576</td>
+        <td align="right">L148591</td>
+        <td align="right">2020-08-01 15:04:57</td>
+        <td align="right">01-08-2020</td>
+        <td align="right">01-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001453</td>
+        <td>MERCEDES INES</td>
+        <td>ARIAS CASTRO</td>
+        <td>402-2175830-9</td>
+        <td>canselmo pimentel casa 96,villa sombrero</td>
+        <td>PERAVIA</td>
+        <td>829-758-1814</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>LEAD</td>
+        <td>2020</td>
+        <td>LZRK1F00XL1000935</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-08-01 15:06:17</td>
+        <td align="right">01-08-2020</td>
+        <td align="right">01-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001454</td>
+        <td>ROSAILIN ARIAS </td>
+        <td>TEJEDA</td>
+        <td>402-2777737-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-903-3200</td>
+        <td>Furgoneta</td>
+        <td>DAIHATSU             </td>
+        <td>HIJET</td>
+        <td>2015</td>
+        <td>S321V0235726</td>
+        <td align="right">X562632</td>
+        <td align="right">2020-08-01 15:50:22</td>
+        <td align="right">01-08-2020</td>
+        <td align="right">01-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>6,325.00</h4></td>
+</tr></table>

@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 18/07/2021 <b>Hasta:</b> 18/07/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003834</td>
+        <td>CARLOS MANUEL</td>
+        <td>CAMPUSANO VILLANUEVA</td>
+        <td>093-0042179-0</td>
+        <td>LOS MAMEYES LA PARE12</td>
+        <td></td>
+        <td>849-763-0551</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>AXIS</td>
+        <td>2017</td>
+        <td>SB06J209811</td>
+        <td align="right">K2057191</td>
+        <td align="right">2021-07-18 09:41:25</td>
+        <td align="right">18-07-2021</td>
+        <td align="right">18-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003835</td>
+        <td>YONY ALBERTO</td>
+        <td>MARTINEZ GABINO</td>
+        <td>071-0052826-9</td>
+        <td>SANCHEZ</td>
+        <td></td>
+        <td>809-516-2275</td>
+        <td>Automovil</td>
+        <td>JEEP                 </td>
+        <td>JEEP </td>
+        <td>2008</td>
+        <td>KMHEU41MP8A474456</td>
+        <td align="right">XXXX</td>
+        <td align="right">2021-07-18 09:57:51</td>
+        <td align="right">18-07-2021</td>
+        <td align="right">18-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003836</td>
+        <td>CRUZ CRESCENCIO</td>
+        <td>ASENCIO MALDONADO</td>
+        <td>093-0022716-3</td>
+        <td>CAJUILITO</td>
+        <td></td>
+        <td>829-846-6504</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2015</td>
+        <td>5J6RM4H50FL046691</td>
+        <td align="right">X702975</td>
+        <td align="right">2021-07-18 12:01:21</td>
+        <td align="right">18-07-2021</td>
+        <td align="right">18-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003837</td>
+        <td>CARMEN TERESA</td>
+        <td>HERRERA SUAREZ</td>
+        <td>026-0028929-8</td>
+        <td>VILLA PEREYDA CALLE C</td>
+        <td></td>
+        <td>849-285-9375</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1989</td>
+        <td>SKJ 1980996</td>
+        <td align="right">NIGJ79</td>
+        <td align="right">2021-07-18 12:44:27</td>
+        <td align="right">18-07-2021</td>
+        <td align="right">18-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003838</td>
+        <td>ALEJANDRO</td>
+        <td>JIMENEZ CABRERA</td>
+        <td>016-0003880-4</td>
+        <td>.</td>
+        <td></td>
+        <td>809-844-9674</td>
+        <td>Motocicleta</td>
+        <td>GALAXI               </td>
+        <td>GALAXI </td>
+        <td>2012</td>
+        <td>LWPCJL1A12T005793</td>
+        <td align="right">K1129460</td>
+        <td align="right">2021-07-18 13:57:47</td>
+        <td align="right">18-07-2021</td>
+        <td align="right">18-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003839</td>
+        <td>ALBERT LUISHYUNDAI  ELAN2</td>
+        <td>CASTILLO HERNANDEZ</td>
+        <td>402-2704339-1</td>
+        <td>LA MABINA DE HERRERA</td>
+        <td></td>
+        <td>809-846-4992</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>ELANTRA</td>
+        <td>2014</td>
+        <td>KMHDH4AE5EU088297</td>
+        <td align="right">A880357</td>
+        <td align="right">2021-07-18 16:08:03</td>
+        <td align="right">18-07-2021</td>
+        <td align="right">18-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003840</td>
+        <td>MARIA ALTAGRACIA</td>
+        <td>DE LA CRUZ GERONIMO</td>
+        <td>402-2092721-0</td>
+        <td>LAS CARMELITAS CALLE 11, CASA 39 PARTE ATRAS</td>
+        <td></td>
+        <td>829-250-6390</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J352104</td>
+        <td align="right">N855139</td>
+        <td align="right">2021-07-18 16:33:34</td>
+        <td align="right">18-07-2021</td>
+        <td align="right">18-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,300.00</h4></td>
+</tr></table>

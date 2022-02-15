@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 23/01/2020 <b>Hasta:</b> 23/01/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000474</td>
+        <td>ROSELIO MASAKI </td>
+        <td>BELLO KATO</td>
+        <td>001-1894830-6</td>
+        <td>Calle Clara Pardo No. 01, San Gerónimo</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>829-750-2151</td>
+        <td>Motocicleta</td>
+        <td>KYMCO</td>
+        <td>KYMCO</td>
+        <td>1994</td>
+        <td>RFGAP12VOBS001528</td>
+        <td align="right">0000000000</td>
+        <td align="right">2020-01-23 09:53:51</td>
+        <td align="right">23-01-2020</td>
+        <td align="right">23-04-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000475</td>
+        <td>FREDDY</td>
+        <td>MONTERO MEDINA</td>
+        <td>012-0106729-3</td>
+        <td>FELIX BARITO MEJIA</td>
+        <td></td>
+        <td>829-938-6419</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LX125</td>
+        <td>2019</td>
+        <td>LLCLT1500KCK00443</td>
+        <td align="right">EN TRAMITE DGII</td>
+        <td align="right">2020-01-23 11:39:03</td>
+        <td align="right">23-01-2020</td>
+        <td align="right">23-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000476</td>
+        <td>YRENES BERENICE </td>
+        <td>PEÑA</td>
+        <td>003-0045007-9</td>
+        <td>MARCOS BREA, LLANO BANI</td>
+        <td>PERAVIA</td>
+        <td>829-788-3307</td>
+        <td>Camion</td>
+        <td>HYUNDAI              </td>
+        <td>PORTER</td>
+        <td>2014</td>
+        <td>KMFZCZ7KAEU009618</td>
+        <td align="right">L407635</td>
+        <td align="right">2020-01-23 14:58:03</td>
+        <td align="right">23-01-2020</td>
+        <td align="right">23-01-2021</td>
+        <td>300,000</td>
+        <td>0</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">8,250.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000477</td>
+        <td>JOSUE</td>
+        <td>SANCHEZ</td>
+        <td>224-0016506-8</td>
+        <td>CALLE K 13</td>
+        <td></td>
+        <td>829-305-5608</td>
+        <td>Jeep</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2011</td>
+        <td>JHLRE4830BC200514</td>
+        <td align="right">G247772</td>
+        <td align="right">2020-01-23 17:42:17</td>
+        <td align="right">23-01-2020</td>
+        <td align="right">23-04-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000478</td>
+        <td>MAXIMO HANNERY</td>
+        <td>GRULLON CRUZ</td>
+        <td>031-0325247-8</td>
+        <td>CARRETERA LUPERON KM7 68</td>
+        <td></td>
+        <td>849-884-9068</td>
+        <td>Motocicleta</td>
+        <td>BENYE</td>
+        <td>CG150</td>
+        <td>2017</td>
+        <td>LZ3JLX11THA103159</td>
+        <td align="right">K1632575</td>
+        <td align="right">2020-01-23 19:59:48</td>
+        <td align="right">23-01-2020</td>
+        <td align="right">23-04-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>9,670.00</h4></td>
+</tr></table>

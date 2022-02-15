@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 04/12/2020 <b>Hasta:</b> 04/12/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002229</td>
+        <td>OLGA ELIZABETH</td>
+        <td>SOTO</td>
+        <td>003-0101458-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-768-7091</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191226345</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-04 10:18:42</td>
+        <td align="right">04-12-2020</td>
+        <td align="right">04-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002230</td>
+        <td>SURELIS MARKISI</td>
+        <td>DIAZ</td>
+        <td>402-3777481-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-492-5823</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>SA16J455281</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-04 11:50:17</td>
+        <td align="right">04-12-2020</td>
+        <td align="right">04-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002231</td>
+        <td>RAMON</td>
+        <td>MATEO MANZANILLO</td>
+        <td>025-0030896-6</td>
+        <td>IRA 38 CONSUELO DISTRO NACIONAL</td>
+        <td></td>
+        <td>809-675-9417</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2000</td>
+        <td>JSIBF14B5Y2102445</td>
+        <td align="right">N085757</td>
+        <td align="right">2020-12-04 11:54:44</td>
+        <td align="right">04-12-2020</td>
+        <td align="right">04-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002232</td>
+        <td>HECTOR JOSELIN </td>
+        <td>ARISTY BELTRE</td>
+        <td>003-0105390-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-723-0595</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191225317</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-04 12:09:41</td>
+        <td align="right">04-12-2020</td>
+        <td align="right">04-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002233</td>
+        <td>MANUEL BIANNEY</td>
+        <td>CASTILLO CASTILLO</td>
+        <td>003-0074466-1</td>
+        <td>cmella casa 18 ,sabana buey</td>
+        <td>PERAVIA</td>
+        <td>829-214-7200</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>2009</td>
+        <td>ME1FE43C192007910</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-12-04 16:05:53</td>
+        <td align="right">04-12-2020</td>
+        <td align="right">04-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,237.50</h4></td>
+</tr></table>

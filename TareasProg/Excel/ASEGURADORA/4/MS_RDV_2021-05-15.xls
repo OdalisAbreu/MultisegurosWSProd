@@ -1,0 +1,163 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 15/05/2021 <b>Hasta:</b> 15/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003407</td>
+        <td>RAFAELMPMMMM</td>
+        <td>FERNANDEZ UCETA</td>
+        <td>086-0003456-8</td>
+        <td>DAJABON, 08 Casilda Garcia</td>
+        <td></td>
+        <td>809-467-3994</td>
+        <td>Camioneta</td>
+        <td>ISUZU                </td>
+        <td>DMAX</td>
+        <td>2008</td>
+        <td>MPATFS85H507684</td>
+        <td align="right">L250354</td>
+        <td align="right">2021-05-15 08:07:20</td>
+        <td align="right">15-05-2021</td>
+        <td align="right">15-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003408</td>
+        <td>MANUEL EMILIO </td>
+        <td>TEJEDA BREA </td>
+        <td>003-0039640-5</td>
+        <td>cluperon casa 15,sabana buey,</td>
+        <td>PERAVIA</td>
+        <td>829-207-5461</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2020</td>
+        <td>TARPCM500LC002204</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-15 09:09:35</td>
+        <td align="right">15-05-2021</td>
+        <td align="right">15-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003409</td>
+        <td>EVA MARIA</td>
+        <td>MATOS PATRICIO</td>
+        <td>010-0117619-5</td>
+        <td>LAS CARRERAS CASA 301</td>
+        <td>AZUA</td>
+        <td>829-963-2733</td>
+        <td>Automovil</td>
+        <td>MAZDA                </td>
+        <td>DEMIO</td>
+        <td>2014</td>
+        <td>DE3FS556843</td>
+        <td align="right">A835556</td>
+        <td align="right">2021-05-15 11:40:30</td>
+        <td align="right">15-05-2021</td>
+        <td align="right">15-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003410</td>
+        <td>JOSELINMOMOMMM</td>
+        <td>JAVIER</td>
+        <td>026-0084601-4</td>
+        <td>VILLA CALETA 12</td>
+        <td></td>
+        <td>809-828-0857</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>CG150</td>
+        <td>2017</td>
+        <td>LZ3JL9T16H7K97291</td>
+        <td align="right">K1686742</td>
+        <td align="right">2021-05-15 12:53:12</td>
+        <td align="right">15-05-2021</td>
+        <td align="right">15-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,693.75</h4></td>
+</tr></table>

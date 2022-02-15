@@ -1,0 +1,835 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 06/11/2020 <b>Hasta:</b> 06/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-032044</td>
+        <td>WILNE</td>
+        <td>ALZO CHALAS</td>
+        <td>402-3570533-8</td>
+        <td>EL CAMPONAL CASA 17</td>
+        <td></td>
+        <td>829-478-2936</td>
+        <td>Motocicleta</td>
+        <td>TVS                  </td>
+        <td>TVS </td>
+        <td>2016</td>
+        <td>MD625BF48K1A12888</td>
+        <td align="right">0000000</td>
+        <td align="right">2020-11-06 08:11:21</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-032045</td>
+        <td>CARLOS</td>
+        <td>MARTE PENA</td>
+        <td>001-0700716-3</td>
+        <td>CALLE JOSE RAMON ORTIZ NO.32</td>
+        <td></td>
+        <td>829-842-7301</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2016</td>
+        <td>LC6PAGA10G0002719</td>
+        <td align="right">K0596065</td>
+        <td align="right">2020-11-06 08:24:34</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-032046</td>
+        <td>JUAN BAUTISTA</td>
+        <td>TAPIA</td>
+        <td>045-0017692-2</td>
+        <td>LASMATASDESANTACRUZ</td>
+        <td></td>
+        <td>829-206-5630</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>CABSTAR</td>
+        <td>2001</td>
+        <td>JN1CJUD22Z0726388</td>
+        <td align="right">L212179</td>
+        <td align="right">2020-11-06 08:38:26</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,237.50</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-032047</td>
+        <td>TEODORO</td>
+        <td>AQUINO</td>
+        <td>090-0020890-1</td>
+        <td>SABANA GRANDE DE BOYA SECTOR DEPORTIVO CASA 0058</td>
+        <td></td>
+        <td>809-661-4215</td>
+        <td>Jeepeta</td>
+        <td>NISSAN               </td>
+        <td>XTRAIL</td>
+        <td>2001</td>
+        <td>5N1ED28TX1C517371</td>
+        <td align="right">G141478</td>
+        <td align="right">2020-11-06 08:56:36</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-032048</td>
+        <td>CRISTIAN</td>
+        <td>DE LA CRUZ GUZMAN</td>
+        <td>068-0035425-7</td>
+        <td>VILLA ALTAGRACIA</td>
+        <td></td>
+        <td>809-816-7483</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>NISSAN </td>
+        <td>1988</td>
+        <td>1N6ND11S2J381864</td>
+        <td align="right">LI38971</td>
+        <td align="right">2020-11-06 08:56:57</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-032049</td>
+        <td>JOEL ALBERTO</td>
+        <td>MENA DE LA CRUZ</td>
+        <td>402-1508120-5</td>
+        <td>LAS CEJAS URB GOLDEN VILLAGE</td>
+        <td></td>
+        <td>809-966-2484</td>
+        <td>Motocicleta</td>
+        <td>BENYE</td>
+        <td>CG150</td>
+        <td>2019</td>
+        <td>LBEJLX14TKA130616</td>
+        <td align="right">162FMJKAH13790</td>
+        <td align="right">2020-11-06 09:17:20</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-MSD-032050</td>
+        <td>GENORA</td>
+        <td>SANTANA</td>
+        <td>028-0008158-6</td>
+        <td>JUAN23</td>
+        <td></td>
+        <td>829-723-7493</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2001</td>
+        <td>RD11065255</td>
+        <td align="right">G194339</td>
+        <td align="right">2020-11-06 09:49:33</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-MSD-032051</td>
+        <td>FAUSTO ALLENDY</td>
+        <td>FERREIRAS</td>
+        <td>402-1232534-0</td>
+        <td>PUEBLO NUEVO</td>
+        <td></td>
+        <td>809-458-8656</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 150</td>
+        <td>2020</td>
+        <td>TARPCK509LC001038</td>
+        <td align="right">0000</td>
+        <td align="right">2020-11-06 10:41:06</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-MSD-032052</td>
+        <td>ZOILO</td>
+        <td>FRIAS HERNANDEZ</td>
+        <td>136-0003265-3</td>
+        <td>EL PAPAYO</td>
+        <td></td>
+        <td>829-302-0888</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C90</td>
+        <td>1984</td>
+        <td>HA022141771</td>
+        <td align="right">K0199886</td>
+        <td align="right">2020-11-06 11:09:25</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-MSD-032053</td>
+        <td>JUAN PABLO</td>
+        <td>POLANCO PICHARDO</td>
+        <td>055-0039025-6</td>
+        <td>OJO DE AGUA SALCEDO</td>
+        <td></td>
+        <td>809-462-4962</td>
+        <td>Jeep</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2013</td>
+        <td>2HKRM4H55DH681686</td>
+        <td align="right">G383073</td>
+        <td align="right">2020-11-06 11:24:55</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>11</td>
+        <td>AUTO-MSD-032054</td>
+        <td>DILZO</td>
+        <td>DE LA CRUZ</td>
+        <td>061-0032305-1</td>
+        <td>GASPAR HERNANDEZ</td>
+        <td></td>
+        <td>829-649-2259</td>
+        <td>Motocicleta</td>
+        <td>TURANO</td>
+        <td>CG-150</td>
+        <td>2016</td>
+        <td>LZ3JL8T16G6K90656</td>
+        <td align="right">K1650207</td>
+        <td align="right">2020-11-06 11:58:22</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>12</td>
+        <td>AUTO-MSD-032055</td>
+        <td>ADIA AGRIPINA</td>
+        <td>HENRIQUEZ DE PENALO</td>
+        <td>031-0110505-8</td>
+        <td>BORUCO,CALLE PRINCIPAL</td>
+        <td></td>
+        <td>809-751-0525</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>CG150</td>
+        <td>2013</td>
+        <td>LX3PCJL2TAK0B8639</td>
+        <td align="right">K1604354</td>
+        <td align="right">2020-11-06 12:15:44</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>13</td>
+        <td>AUTO-MSD-032056</td>
+        <td>IGINIO</td>
+        <td>ALVAREZ GERALDINO</td>
+        <td>001-1102936-9</td>
+        <td>CLOS JARDINE 4 VILLAMELLA</td>
+        <td></td>
+        <td>829-455-2770</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>SENTRA</td>
+        <td>1987</td>
+        <td>JN1PB2110HU532545</td>
+        <td align="right">129256</td>
+        <td align="right">2020-11-06 12:17:05</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+   		<td><b>14</td>
+        <td>AUTO-MSD-032057</td>
+        <td>REGINA</td>
+        <td>ROSARIO</td>
+        <td>096-0003850-0</td>
+        <td>VILLA BISONO DUARTE</td>
+        <td></td>
+        <td>809-751-0525</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>CG150</td>
+        <td>2016</td>
+        <td>LZ3GJL4FT15K72492</td>
+        <td align="right">K1634656</td>
+        <td align="right">2020-11-06 12:26:33</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>15</td>
+        <td>AUTO-MSD-032058</td>
+        <td>SIMEON</td>
+        <td>CUEVAS CORDERO</td>
+        <td>031-0045798-9</td>
+        <td>SANTIAGO</td>
+        <td></td>
+        <td>809-931-2131</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>2002</td>
+        <td>JTDBZ22E500005844</td>
+        <td align="right">A252845</td>
+        <td align="right">2020-11-06 12:28:05</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>16</td>
+        <td>AUTO-MSD-032059</td>
+        <td>DIANA VIANELKIS</td>
+        <td>SANTOS BAUTISTA</td>
+        <td>402-2301135-0</td>
+        <td>los espinola</td>
+        <td></td>
+        <td>829-793-5420</td>
+        <td>Automovil</td>
+        <td>MITSUBISHI           </td>
+        <td></td>
+        <td>2000</td>
+        <td>JMYORK96YP001432</td>
+        <td align="right">G052191</td>
+        <td align="right">2020-11-06 13:35:50</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>17</td>
+        <td>AUTO-MSD-032060</td>
+        <td>ERLYN IGNACIO</td>
+        <td>FERMIN BETANCOURT</td>
+        <td>001-0125537-0</td>
+        <td>FRANCISCO DOMONGUS CHARRO 14 STO DGO ISTITO NACIONAL</td>
+        <td></td>
+        <td>829-317-3048</td>
+        <td>Automovil</td>
+        <td>VOLKSWAGEN           </td>
+        <td>GOLF GL</td>
+        <td>1989</td>
+        <td>WWEZZ1HGZKW375466</td>
+        <td align="right">A276068</td>
+        <td align="right">2020-11-06 13:40:50</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>18</td>
+        <td>AUTO-MSD-032061</td>
+        <td>JOSE</td>
+        <td>RUIZ JIMENEZ</td>
+        <td>001-0900599-1</td>
+        <td>ALMOROSA1</td>
+        <td></td>
+        <td>809-440-0219</td>
+        <td>Automovil</td>
+        <td>CHEVROLET            </td>
+        <td>SONIC</td>
+        <td>2017</td>
+        <td>1G1JD5SH1H4178277</td>
+        <td align="right">X535854</td>
+        <td align="right">2020-11-06 14:15:07</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-02-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>19</td>
+        <td>AUTO-MSD-032062</td>
+        <td>JONATHAN</td>
+        <td>RAMIREZ JEREZ</td>
+        <td>402-2347866-6</td>
+        <td>VILLA OLIMPICA AVE. PENETRACION C1</td>
+        <td></td>
+        <td>809-812-5062</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>HIGHLANDER</td>
+        <td>2004</td>
+        <td>JTEEP21AD40051939</td>
+        <td align="right">G222790</td>
+        <td align="right">2020-11-06 14:15:14</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>20</td>
+        <td>AUTO-MSD-032063</td>
+        <td>JAISY</td>
+        <td>SIERRA</td>
+        <td>104-0019787-6</td>
+        <td>CALLE U NUM 11 PARTE ATRAS, LA FRANCIA, VILLA DUARTE</td>
+        <td></td>
+        <td>809-998-5865</td>
+        <td>Camioneta</td>
+        <td>DAIHATSU             </td>
+        <td>MONTACARGA</td>
+        <td>1998</td>
+        <td>S100P019853</td>
+        <td align="right">L245133</td>
+        <td align="right">2020-11-06 14:36:22</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-02-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">618.75</td>
+   </tr><tr>
+   		<td><b>21</td>
+        <td>AUTO-MSD-032064</td>
+        <td>CARLOS MANUEL</td>
+        <td>VALENZUELA DIAZ</td>
+        <td>037-0073948-9</td>
+        <td>LASTERRENAS</td>
+        <td></td>
+        <td>809-899-0169</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2017</td>
+        <td>TARPCM507JC004190</td>
+        <td align="right">XXX</td>
+        <td align="right">2020-11-06 14:58:47</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>22</td>
+        <td>AUTO-MSD-032065</td>
+        <td>EDISON</td>
+        <td>MALDONADO MEREJO</td>
+        <td>225-0047794-2</td>
+        <td>SAN PABLO LA VICTORIA</td>
+        <td></td>
+        <td>809-752-0281</td>
+        <td>Motocicleta</td>
+        <td>SUCATI</td>
+        <td></td>
+        <td>2019</td>
+        <td>LBEJLK15TKA154457</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-11-06 15:03:02</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>23</td>
+        <td>AUTO-MSD-032066</td>
+        <td>YULY YUDERKA</td>
+        <td>HERNANDEZ MERCEDES</td>
+        <td>023-0092928-4</td>
+        <td>BRISAS DEL MAR</td>
+        <td></td>
+        <td>829-701-3739</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2014</td>
+        <td>LLCLPP207EE110965</td>
+        <td align="right">K0560563</td>
+        <td align="right">2020-11-06 15:13:03</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>24</td>
+        <td>AUTO-MSD-032067</td>
+        <td>MARINO</td>
+        <td>PIMENTEL PINEDA</td>
+        <td>068-0028252-4</td>
+        <td>CALLE 13A, ESQ. PEPEYO RICARDO NO.34</td>
+        <td></td>
+        <td>809-699-3859</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>2001</td>
+        <td>MD502207137</td>
+        <td align="right">K1785118</td>
+        <td align="right">2020-11-06 15:38:53</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>25</td>
+        <td>AUTO-MSD-032068</td>
+        <td>ADRIAN DARIEL</td>
+        <td>DE LA CRUZ</td>
+        <td>402-4117545-0</td>
+        <td>LOS CAJUILES [EL SEIBO]</td>
+        <td></td>
+        <td>829-290-9613</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NC110</td>
+        <td>2018</td>
+        <td>XF1NC1102JL512777</td>
+        <td align="right">XXXXXXX</td>
+        <td align="right">2020-11-06 16:55:06</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-05-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>26</td>
+        <td>AUTO-MSD-032069</td>
+        <td>EDWIN RAMON8</td>
+        <td>FERNANDEZ BATISTA</td>
+        <td>047-0161541-3</td>
+        <td>CALLE 3 JARDINES</td>
+        <td></td>
+        <td>809-401-8216</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>RAV4</td>
+        <td>1998</td>
+        <td>JT3HP10V5W7105198</td>
+        <td align="right">G053453</td>
+        <td align="right">2020-11-06 16:55:16</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+   		<td><b>27</td>
+        <td>AUTO-MSD-032070</td>
+        <td>DENIO</td>
+        <td>FAJARDO PAULINO</td>
+        <td>031-0412394-2</td>
+        <td>CALLE 4 HATO MAYOR</td>
+        <td></td>
+        <td>829-765-9926</td>
+        <td>Motocicleta</td>
+        <td>SKYGO                </td>
+        <td>SKYGO </td>
+        <td>2007</td>
+        <td>LX8PCJ5087E012431</td>
+        <td align="right">K0384543</td>
+        <td align="right">2020-11-06 17:26:40</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>28</td>
+        <td>AUTO-MSD-032071</td>
+        <td>JHUNIOR</td>
+        <td>CONTRERAS SOSA</td>
+        <td>004-0013630-5</td>
+        <td>CALLE QUINTA 3 LOS GUARICANOS</td>
+        <td></td>
+        <td>829-990-1126</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>BAYALGA</td>
+        <td>2000</td>
+        <td>3N1DB41S4ZK030176</td>
+        <td align="right">A386247</td>
+        <td align="right">2020-11-06 17:47:17</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>29</td>
+        <td>AUTO-MSD-032072</td>
+        <td>RADHAMES</td>
+        <td>MEJIA CIPRIAN</td>
+        <td>010-0011076-5</td>
+        <td>RESPALDO MOISE</td>
+        <td></td>
+        <td>809-880-3955</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td></td>
+        <td>2014</td>
+        <td>LLCLPP205EE112522</td>
+        <td align="right">K0700231</td>
+        <td align="right">2020-11-06 17:48:11</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>30</td>
+        <td>AUTO-MSD-032073</td>
+        <td>FRANKLIN AMILCAR</td>
+        <td>BATISTA SANTANA</td>
+        <td>078-0014627-1</td>
+        <td>C.S.JOSE N.36 ENS.ISABELITA</td>
+        <td></td>
+        <td>829-580-9378</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1985</td>
+        <td>JT2AE84E1F3258859</td>
+        <td align="right">A137072</td>
+        <td align="right">2020-11-06 17:52:43</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-02-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>31</td>
+        <td>AUTO-MSD-032074</td>
+        <td>JAMES PAULA</td>
+        <td>PAULA</td>
+        <td>402-2027665-9</td>
+        <td>LOS FRAILE</td>
+        <td></td>
+        <td>809-317-3458</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>TUCSON</td>
+        <td>2006</td>
+        <td>KM8JM12B96U374973</td>
+        <td align="right">G243019</td>
+        <td align="right">2020-11-06 18:59:07</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>32</td>
+        <td>AUTO-MSD-032075</td>
+        <td>KEURY</td>
+        <td>BELTRAN SANCHEZ</td>
+        <td>402-2848323-2</td>
+        <td>cancino adentro</td>
+        <td></td>
+        <td>829-689-0061</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2013</td>
+        <td>LJCPAGLHODS018207</td>
+        <td align="right">K0738472</td>
+        <td align="right">2020-11-06 19:13:54</td>
+        <td align="right">06-11-2020</td>
+        <td align="right">06-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>26,931.25</h4></td>
+</tr></table>

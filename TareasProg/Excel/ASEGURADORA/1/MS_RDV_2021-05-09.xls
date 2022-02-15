@@ -1,0 +1,163 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 09/05/2021 <b>Hasta:</b> 09/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-037136</td>
+        <td>JOSE ALEJANDRO</td>
+        <td>PAULINO RAMIREZ</td>
+        <td>001-0960363-9</td>
+        <td>5 CASA 25</td>
+        <td></td>
+        <td>829-245-1110</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2016</td>
+        <td>TARPCM508GC008581</td>
+        <td align="right">K124123</td>
+        <td align="right">2021-05-09 11:30:04</td>
+        <td align="right">09-05-2021</td>
+        <td align="right">09-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-037137</td>
+        <td>ALBERTO</td>
+        <td>SEVERINO MOREL</td>
+        <td>136-0011660-5</td>
+        <td>CALLE SALOME URENA HERRERA</td>
+        <td></td>
+        <td>829-331-3361</td>
+        <td>Motoneta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2018</td>
+        <td>MD2A76AY6JWE48035</td>
+        <td align="right">K1792830</td>
+        <td align="right">2021-05-09 12:24:25</td>
+        <td align="right">09-05-2021</td>
+        <td align="right">09-05-2022</td>
+        <td>50,000</td>
+        <td>25,000</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-037138</td>
+        <td>JOSE MANUEL</td>
+        <td>BAEZ JIMENEZ</td>
+        <td>402-4354797-9</td>
+        <td>LOS MOGOTES</td>
+        <td></td>
+        <td>829-670-4025</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>3KJ6585600</td>
+        <td align="right">K1790238</td>
+        <td align="right">2021-05-09 16:40:45</td>
+        <td align="right">09-05-2021</td>
+        <td align="right">09-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-037139</td>
+        <td>WILINSON</td>
+        <td>ALCANTARA CASTILLO</td>
+        <td>001-1321685-7</td>
+        <td>RCD.PABLO.M;KM18.A43,402</td>
+        <td></td>
+        <td>829-934-4088</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD90</td>
+        <td>1994</td>
+        <td>MD902622668</td>
+        <td align="right">K1838409</td>
+        <td align="right">2021-05-09 20:51:20</td>
+        <td align="right">09-05-2021</td>
+        <td align="right">09-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,100.00</h4></td>
+</tr></table>

@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 18/03/2021 <b>Hasta:</b> 18/03/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002976</td>
+        <td>ARELYS MIGUELINA</td>
+        <td>ARIAS MERCEDES</td>
+        <td>023-0039069-3</td>
+        <td>C LAS ARTES</td>
+        <td></td>
+        <td>809-863-5292</td>
+        <td>Automovil</td>
+        <td>SUPER TUCAN</td>
+        <td>SUPER TUCAN</td>
+        <td>2019</td>
+        <td>L8YTCJP5XKG00333</td>
+        <td align="right">K1885071</td>
+        <td align="right">2021-03-18 10:12:59</td>
+        <td align="right">18-03-2021</td>
+        <td align="right">18-06-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002977</td>
+        <td>DARICO</td>
+        <td>SANTANA REYES</td>
+        <td>028-0029386-8</td>
+        <td>HIGUEY</td>
+        <td></td>
+        <td>809-844-3848</td>
+        <td>Motocicleta</td>
+        <td>DOMOTO               </td>
+        <td>CG150</td>
+        <td>2012</td>
+        <td>DMTPCK4A3CC000104</td>
+        <td align="right">K1745228</td>
+        <td align="right">2021-03-18 11:08:31</td>
+        <td align="right">18-03-2021</td>
+        <td align="right">18-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002978</td>
+        <td>YEISON </td>
+        <td>MONTERO MORA</td>
+        <td>402-3484566-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-671-2976</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2016</td>
+        <td>TARPCM501GC004310</td>
+        <td align="right">K0751400</td>
+        <td align="right">2021-03-18 11:28:43</td>
+        <td align="right">18-03-2021</td>
+        <td align="right">18-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002979</td>
+        <td>ANGEL ORLANDO </td>
+        <td>CORDERO ROSARIO</td>
+        <td>003-0114639-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-710-9007</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191302939</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-18 11:49:01</td>
+        <td align="right">18-03-2021</td>
+        <td align="right">18-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002980</td>
+        <td>ARIEL MANUEL </td>
+        <td>MUÑOZ MATEO</td>
+        <td>003-0118611-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-527-8134</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J703708</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-18 13:34:04</td>
+        <td align="right">18-03-2021</td>
+        <td align="right">18-09-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002981</td>
+        <td>LEIDY SORIBEL</td>
+        <td>SOTO LARA</td>
+        <td>003-0103493-0</td>
+        <td>cen el col.sory ,los tumbaos</td>
+        <td>PERAVIA</td>
+        <td>829-429-4894</td>
+        <td>Jeep</td>
+        <td>DAIHATSU             </td>
+        <td>ROCKY</td>
+        <td>1992</td>
+        <td>JDA000F9500000193</td>
+        <td align="right">G258954</td>
+        <td align="right">2021-03-18 14:35:12</td>
+        <td align="right">18-03-2021</td>
+        <td align="right">18-03-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002982</td>
+        <td>MARTIN</td>
+        <td>SAVIÑON CUEVAS</td>
+        <td>018-0071001-2</td>
+        <td>CAVENIDA EN PROYECTO NO,27</td>
+        <td>BARAHONA</td>
+        <td>829-318-2553</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2018</td>
+        <td>LUPPCKEF2JE000028</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-18 15:20:46</td>
+        <td align="right">18-03-2021</td>
+        <td align="right">18-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002983</td>
+        <td>LUISA DEYANIRA</td>
+        <td>ANDUJAR ORTIZ</td>
+        <td>010-0010815-7</td>
+        <td>Resp. 30 marzo casa 19 Azua R.D</td>
+        <td>AZUA</td>
+        <td>809-219-7429</td>
+        <td>Automovil</td>
+        <td>KIA                  </td>
+        <td>PICANTO</td>
+        <td>2021</td>
+        <td>KNAB2511BMT777246</td>
+        <td align="right">X0629906</td>
+        <td align="right">2021-03-18 16:20:53</td>
+        <td align="right">18-03-2021</td>
+        <td align="right">18-06-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002984</td>
+        <td>RICARDO DE JESUS</td>
+        <td>VIÑAS ESPINOLA</td>
+        <td>003-0042640-0</td>
+        <td>CPRINCIPAL , ARROYO HONDO</td>
+        <td>PERAVIA</td>
+        <td>809-613-0403</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2021</td>
+        <td>LLCLGL305MA106815</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-18 16:28:33</td>
+        <td align="right">18-03-2021</td>
+        <td align="right">18-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002985</td>
+        <td>MERVIN</td>
+        <td>CUELLO</td>
+        <td>040-0014530-2</td>
+        <td>CALLE MISTOLIN 18 VALLE ENCANTADO</td>
+        <td></td>
+        <td>809-441-7793</td>
+        <td>Motocicleta</td>
+        <td>DOMOTO               </td>
+        <td>CG150</td>
+        <td>2015</td>
+        <td>LV7MGZ406FA905516</td>
+        <td align="right">K0450220</td>
+        <td align="right">2021-03-18 18:32:39</td>
+        <td align="right">18-03-2021</td>
+        <td align="right">18-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,600.00</h4></td>
+</tr></table>

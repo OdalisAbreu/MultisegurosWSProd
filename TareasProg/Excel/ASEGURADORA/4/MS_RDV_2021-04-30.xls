@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 30/04/2021 <b>Hasta:</b> 30/04/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003306</td>
+        <td>GREGORIO ALBERTO</td>
+        <td>SANCHEZ SANCHEZ</td>
+        <td>402-2360025-1</td>
+        <td>c27 de febrero casa 10,quija quieta</td>
+        <td>PERAVIA</td>
+        <td>849-244-1886</td>
+        <td>Automovil</td>
+        <td>ACURA</td>
+        <td>INTEGRA</td>
+        <td>1990</td>
+        <td>JH4DA9348LS016312</td>
+        <td align="right">A195372</td>
+        <td align="right">2021-04-30 11:07:30</td>
+        <td align="right">30-04-2021</td>
+        <td align="right">30-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003307</td>
+        <td>SANTO NOLITO</td>
+        <td>GONZALEZ FERNANDEZ</td>
+        <td>003-0024148-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-790-2538</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ7455555</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-30 13:01:58</td>
+        <td align="right">30-04-2021</td>
+        <td align="right">30-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003308</td>
+        <td>CELIDA NARIA</td>
+        <td>LARA PEÑA</td>
+        <td>003-0108696-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-740-6165</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502501163</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-30 15:06:11</td>
+        <td align="right">30-04-2021</td>
+        <td align="right">30-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003309</td>
+        <td>GEREMIAS ELIEQUER</td>
+        <td>MATEO</td>
+        <td>402-3895630-0</td>
+        <td>ccamino real casa 95,boca canasta</td>
+        <td>PERAVIA</td>
+        <td>829-270-8238</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2021</td>
+        <td>LC6PAGA10M0011836</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-04-30 15:08:45</td>
+        <td align="right">30-04-2021</td>
+        <td align="right">30-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003310</td>
+        <td>EDWAR</td>
+        <td>PEÑA BREA</td>
+        <td>003-0045019-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-219-4673</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2021</td>
+        <td>TARTCJ30XL0500183</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-30 15:48:16</td>
+        <td align="right">30-04-2021</td>
+        <td align="right">30-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003311</td>
+        <td>BELKIS ESTHER</td>
+        <td>GUZMAN SANTOS DE RIJO</td>
+        <td>026-0000993-6</td>
+        <td>CALETA CALLE 2DA</td>
+        <td></td>
+        <td>829-917-1499</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1989</td>
+        <td>JT2AE92E5K3256597</td>
+        <td align="right">A102537</td>
+        <td align="right">2021-04-30 16:28:26</td>
+        <td align="right">30-04-2021</td>
+        <td align="right">30-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003312</td>
+        <td>ANGEL LUIS</td>
+        <td>CEDENO ARECHE</td>
+        <td>028-0059401-8</td>
+        <td>CALLE 2DA CALETA</td>
+        <td></td>
+        <td>829-917-1499</td>
+        <td>Jeep</td>
+        <td>CHEVROLET            </td>
+        <td>BLAZER</td>
+        <td>1998</td>
+        <td>1GNCS13WXW2263341</td>
+        <td align="right">G021335</td>
+        <td align="right">2021-04-30 16:31:54</td>
+        <td align="right">30-04-2021</td>
+        <td align="right">30-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-003313</td>
+        <td>BRYAN ALFREDO</td>
+        <td>LUNA SOTO</td>
+        <td>402-1320209-2</td>
+        <td>cpedro mir casa 33,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-867-8927</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2016</td>
+        <td>LXYJCML09G0248058</td>
+        <td align="right">K1197023</td>
+        <td align="right">2021-04-30 16:44:44</td>
+        <td align="right">30-04-2021</td>
+        <td align="right">30-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-003314</td>
+        <td>DIOMARIS YUDERKIS </td>
+        <td>RUIZ PEÑA</td>
+        <td>003-0100756-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-672-1669</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J558918</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-30 17:46:09</td>
+        <td align="right">30-04-2021</td>
+        <td align="right">30-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>7,275.00</h4></td>
+</tr></table>

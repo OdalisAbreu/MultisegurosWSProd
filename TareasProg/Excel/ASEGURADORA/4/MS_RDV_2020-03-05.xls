@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 05/03/2020 <b>Hasta:</b> 05/03/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000685</td>
+        <td>VICTOR ELIAN GONZALES </td>
+        <td>PIMENTEL </td>
+        <td>402-1374716-1</td>
+        <td>B A N I</td>
+        <td>PERAVIA</td>
+        <td>829-498-4753</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451000235</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-03-05 08:39:54</td>
+        <td align="right">05-03-2020</td>
+        <td align="right">05-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000686</td>
+        <td>DANIEL</td>
+        <td>BAEZ REYNA</td>
+        <td>093-0043733-3</td>
+        <td>ADAMANAY 91</td>
+        <td></td>
+        <td>849-359-7378</td>
+        <td>Jeep</td>
+        <td>FORD                 </td>
+        <td>ESCAPE</td>
+        <td>2010</td>
+        <td>1FMCUOC76AKC89574</td>
+        <td align="right">G336652</td>
+        <td align="right">2020-03-05 11:57:28</td>
+        <td align="right">05-03-2020</td>
+        <td align="right">05-09-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,215.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000687</td>
+        <td>SMAYLIN</td>
+        <td>COLON</td>
+        <td>002-1899277-5</td>
+        <td>9823 northgate</td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-912-5111</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>NISSAN </td>
+        <td>2015</td>
+        <td>1N4AZ0CP7FC314311</td>
+        <td align="right">.X544932</td>
+        <td align="right">2020-03-05 14:03:13</td>
+        <td align="right">05-03-2020</td>
+        <td align="right">05-06-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000688</td>
+        <td>RENI ALEXANDER </td>
+        <td>CUELLO ENCARNACION </td>
+        <td>003-0099658-4</td>
+        <td>cmanolo tavares justo casa 21,fundacion</td>
+        <td>PERAVIA</td>
+        <td>809-376-8783</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J567707</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-03-05 16:07:34</td>
+        <td align="right">05-03-2020</td>
+        <td align="right">05-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000689</td>
+        <td>RAFAEL EDUARDO </td>
+        <td>MORON ACEVEDO</td>
+        <td>001-1856231-3</td>
+        <td>C GALVAN ESQ. FRANCIA NO. 24, GAZCUE </td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-931-7119</td>
+        <td>Motocicleta</td>
+        <td>HARLEY-DAVIDSON</td>
+        <td>HARLEY-DAVIDSON</td>
+        <td>2005</td>
+        <td>5HD1BJY195Y028767</td>
+        <td align="right">K0412241</td>
+        <td align="right">2020-03-05 17:20:27</td>
+        <td align="right">05-03-2020</td>
+        <td align="right">05-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-000690</td>
+        <td>RAMON EMILIO</td>
+        <td>MATOS PARRA</td>
+        <td>402-2467495-8</td>
+        <td>Calle Sanchez 21, San Francisco</td>
+        <td>AZUA</td>
+        <td>809-855-1042</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1993</td>
+        <td>1NXAE09E4PZ052038</td>
+        <td align="right">A600542</td>
+        <td align="right">2020-03-05 20:00:34</td>
+        <td align="right">05-03-2020</td>
+        <td align="right">05-03-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,910.00</h4></td>
+</tr></table>

@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 19/10/2020 <b>Hasta:</b> 19/10/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001923</td>
+        <td>MARIA ARGENTINA</td>
+        <td>LARA SOTO</td>
+        <td>003-0037703-3</td>
+        <td>cprincipal casa 7 los tumbaos</td>
+        <td>PERAVIA</td>
+        <td>829-973-4283</td>
+        <td>Jeep</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2006</td>
+        <td>SHSRD78846U427523</td>
+        <td align="right">G261556</td>
+        <td align="right">2020-10-19 14:21:27</td>
+        <td align="right">19-10-2020</td>
+        <td align="right">19-01-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001924</td>
+        <td>JOSE ALTAGRACIA</td>
+        <td>DEL JESUS</td>
+        <td>402-3824747-8</td>
+        <td>barrio washintong calle 2da casa 8,matanzas</td>
+        <td>PERAVIA</td>
+        <td>829-725-9414</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>NISSAN </td>
+        <td>1989</td>
+        <td>1N6ND11Y6KC368833</td>
+        <td align="right">L175806</td>
+        <td align="right">2020-10-19 16:31:29</td>
+        <td align="right">19-10-2020</td>
+        <td align="right">19-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001925</td>
+        <td>WADIS LOAMMI</td>
+        <td>DE LEON MARIÑEZ</td>
+        <td>082-0025111-7</td>
+        <td>CALLE GASTONE F. DELIGNE NO.17, CENTRO </td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-719-0848</td>
+        <td>Camion Cabezote</td>
+        <td>FREIGHTLINER         </td>
+        <td>FDL112</td>
+        <td>2001</td>
+        <td>1FUJAHBDX1LH83260</td>
+        <td align="right">L355120</td>
+        <td align="right">2020-10-19 16:32:56</td>
+        <td align="right">19-10-2020</td>
+        <td align="right">19-10-2021</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">8,250.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001926</td>
+        <td>CARLOS MANUEL</td>
+        <td>POLANCO DE LA PAZ</td>
+        <td>093-0044010-5</td>
+        <td>C CAMBRONAL · 36 BARRIO LOS PESCADORES</td>
+        <td>PERAVIA</td>
+        <td>809-376-5833</td>
+        <td>Automovil</td>
+        <td>PEUGEOT              </td>
+        <td>206</td>
+        <td>2006</td>
+        <td>VF32AKFWU6W015203</td>
+        <td align="right">A453242</td>
+        <td align="right">2020-10-19 16:39:58</td>
+        <td align="right">19-10-2020</td>
+        <td align="right">19-01-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001928</td>
+        <td>ANGEL GUILLERMO</td>
+        <td>FRANCO BOBADILLA</td>
+        <td>003-0013956-5</td>
+        <td>C Sanchez  42, Jardines del Valle</td>
+        <td>PERAVIA</td>
+        <td>809-906-4465</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>1993</td>
+        <td>4T1SK12E8PU205677</td>
+        <td align="right">A001896</td>
+        <td align="right">2020-10-19 17:15:08</td>
+        <td align="right">19-10-2020</td>
+        <td align="right">19-01-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001929</td>
+        <td>JHONNY ENRIQUE </td>
+        <td>SOTO PIMENTEL</td>
+        <td>003-0046347-8</td>
+        <td>canselmo pimentel casa 431,sombrero</td>
+        <td>PERAVIA</td>
+        <td>809-787-0593</td>
+        <td>Motocicleta</td>
+        <td>NISSAN               </td>
+        <td>SENTRA</td>
+        <td>1991</td>
+        <td>1N4EB31B0MC761865</td>
+        <td align="right">A001779</td>
+        <td align="right">2020-10-19 17:53:58</td>
+        <td align="right">19-10-2020</td>
+        <td align="right">19-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>12,406.25</h4></td>
+</tr></table>

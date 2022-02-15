@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 01/08/2021 <b>Hasta:</b> 01/08/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-004323</td>
+        <td>LUCIANO</td>
+        <td>GONZALES ZAPATA</td>
+        <td>402-3871430-3</td>
+        <td>1RA 31MIRAMAR</td>
+        <td></td>
+        <td>829-288-9461</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2018</td>
+        <td>MD2A76AY9JWA48163</td>
+        <td align="right">K1212475</td>
+        <td align="right">2021-08-01 10:00:05</td>
+        <td align="right">01-08-2021</td>
+        <td align="right">01-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-004324</td>
+        <td>MIGUEL ALBERTO</td>
+        <td>VALLEJO CORREA</td>
+        <td>402-2494959-0</td>
+        <td>DUVEAUX CPRINCIPAL, YAGUATE, S.C</td>
+        <td></td>
+        <td>849-343-0397</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1991</td>
+        <td>13X005203</td>
+        <td align="right">NS9469</td>
+        <td align="right">2021-08-01 10:14:29</td>
+        <td align="right">01-08-2021</td>
+        <td align="right">01-08-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-004325</td>
+        <td>SAMUEL KIHOVINKI</td>
+        <td>SEGURA AQUINO</td>
+        <td>402-1013002-3</td>
+        <td>24 DE ABRIL</td>
+        <td></td>
+        <td>829-475-0373</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2018</td>
+        <td>XF1N01102JL511431</td>
+        <td align="right">N439827</td>
+        <td align="right">2021-08-01 10:29:53</td>
+        <td align="right">01-08-2021</td>
+        <td align="right">01-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-004326</td>
+        <td>OCTAVIO DE JESUS</td>
+        <td>ESPINAL CRUZ</td>
+        <td>031-0155301-8</td>
+        <td>LOS LIMONES ,SAN JOSE DE LA MATAS</td>
+        <td></td>
+        <td>829-931-7701</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>BAJAJ</td>
+        <td>2017</td>
+        <td>MD2A21BZ4HWC48290</td>
+        <td align="right">K1171923</td>
+        <td align="right">2021-08-01 11:31:39</td>
+        <td align="right">01-08-2021</td>
+        <td align="right">01-08-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-004327</td>
+        <td>EBERME MERVIL</td>
+        <td>MERCEDES</td>
+        <td>402-4084229-0</td>
+        <td>CALLE REAL</td>
+        <td></td>
+        <td>809-767-5753</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2014</td>
+        <td>LS6PAJK15F0024357</td>
+        <td align="right">KL123</td>
+        <td align="right">2021-08-01 12:09:01</td>
+        <td align="right">01-08-2021</td>
+        <td align="right">01-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-004328</td>
+        <td>MANOLIN</td>
+        <td>MATEO MEDINA</td>
+        <td>402-3597677-2</td>
+        <td>CARLOS TEO CRUZ</td>
+        <td></td>
+        <td>809-678-0342</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2012</td>
+        <td>XF1AX100AHNOO2469</td>
+        <td align="right">NKA156</td>
+        <td align="right">2021-08-01 14:30:58</td>
+        <td align="right">01-08-2021</td>
+        <td align="right">01-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-004329</td>
+        <td>JENSY GERALDO</td>
+        <td>REYES FERRERAS</td>
+        <td>223-0176430-8</td>
+        <td>RESTAURACION 26 SAN ANTONIO DE GUERRA CENTRO SANTO DOMINGO ESTE</td>
+        <td></td>
+        <td>829-610-5304</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2000</td>
+        <td>EK33100156</td>
+        <td align="right">A151686</td>
+        <td align="right">2021-08-01 14:52:19</td>
+        <td align="right">01-08-2021</td>
+        <td align="right">01-08-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-004330</td>
+        <td>STARLEY</td>
+        <td>GRULLON MARTINES</td>
+        <td>402-2852938-0</td>
+        <td>AV.CIRCUVALACION 434 MARILOPEZ</td>
+        <td></td>
+        <td>809-265-9713</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 250</td>
+        <td>2019</td>
+        <td>LRPRPMB04KA000483</td>
+        <td align="right">19</td>
+        <td align="right">2021-08-01 14:56:30</td>
+        <td align="right">01-08-2021</td>
+        <td align="right">01-08-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-004331</td>
+        <td>DOMINGO</td>
+        <td>FELIZ ANDINO</td>
+        <td>018-0017297-3</td>
+        <td>Calle 2da  09, Los Solares de Milton</td>
+        <td>BARAHONA</td>
+        <td>829-665-8979</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2008</td>
+        <td>KMRE741MP3A467971</td>
+        <td align="right">A625572</td>
+        <td align="right">2021-08-01 16:32:05</td>
+        <td align="right">01-08-2021</td>
+        <td align="right">01-08-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-004332</td>
+        <td>ROBERTO</td>
+        <td>PEREZ REYES</td>
+        <td>001-1265911-5</td>
+        <td>SANTA BARBARA EL 6</td>
+        <td></td>
+        <td>809-662-1019</td>
+        <td>Jeep</td>
+        <td>MITSUBISHI           </td>
+        <td>MONTERO</td>
+        <td>1997</td>
+        <td>JA4MT4LP4VP010145</td>
+        <td align="right">G034309</td>
+        <td align="right">2021-08-01 17:38:10</td>
+        <td align="right">01-08-2021</td>
+        <td align="right">01-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,856.25</h4></td>
+</tr></table>

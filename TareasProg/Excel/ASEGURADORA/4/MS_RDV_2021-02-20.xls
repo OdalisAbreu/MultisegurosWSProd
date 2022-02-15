@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 20/02/2021 <b>Hasta:</b> 20/02/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002795</td>
+        <td>MELVIN ANTONIO</td>
+        <td>ALCANTARA ARIAS </td>
+        <td>013-0039081-0</td>
+        <td>c2da esq.duarte,villa pereyra,la romana</td>
+        <td>LA ROMANA</td>
+        <td>809-349-5366</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502301986</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-20 09:22:21</td>
+        <td align="right">20-02-2021</td>
+        <td align="right">20-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002796</td>
+        <td>MELVIN ANTONIO</td>
+        <td>ALCANTARA ARIAS</td>
+        <td>013-0039081-0</td>
+        <td>c2da esq.duarte,villa pereyra,la romana</td>
+        <td>LA ROMANA</td>
+        <td>809-349-5366</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502403243</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-20 09:25:15</td>
+        <td align="right">20-02-2021</td>
+        <td align="right">20-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002797</td>
+        <td>AGUSTIN SILVESTRE</td>
+        <td>ENCARNACION DE OLEO</td>
+        <td>014-0014609-6</td>
+        <td>VILLA CERRO</td>
+        <td></td>
+        <td>829-371-2203</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C90</td>
+        <td>1994</td>
+        <td>HA022704205</td>
+        <td align="right">N892293</td>
+        <td align="right">2021-02-20 10:01:03</td>
+        <td align="right">20-02-2021</td>
+        <td align="right">20-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002798</td>
+        <td>KARI SUJEIDI </td>
+        <td>GONZALEZ SUAZO </td>
+        <td>003-0094009-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-370-1517</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2020</td>
+        <td>L5YTCKPA8L1126662</td>
+        <td align="right">PROCESO </td>
+        <td align="right">2021-02-20 11:27:01</td>
+        <td align="right">20-02-2021</td>
+        <td align="right">20-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002799</td>
+        <td>MARINELLY DEL VALLE </td>
+        <td>GOMEZ HERNAO </td>
+        <td>000-8095021-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-659-7865</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2020</td>
+        <td>LAEFWZCJ7LMG15222</td>
+        <td align="right">PROCESO </td>
+        <td align="right">2021-02-20 11:31:30</td>
+        <td align="right">20-02-2021</td>
+        <td align="right">20-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002800</td>
+        <td>JOSE MIGUEL</td>
+        <td>GONZALEZ RAMIREZ</td>
+        <td>402-2493685-2</td>
+        <td>Carret. Sanchez casa 01, Azua R.D</td>
+        <td>AZUA</td>
+        <td>829-579-6018</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>1991</td>
+        <td>JHMEE4865MS002083</td>
+        <td align="right">A620524</td>
+        <td align="right">2021-02-20 12:00:19</td>
+        <td align="right">20-02-2021</td>
+        <td align="right">20-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002801</td>
+        <td>GABRIEL</td>
+        <td>BUENO CONCEPCION</td>
+        <td>402-2000149-5</td>
+        <td>HATO MAYOR</td>
+        <td></td>
+        <td>809-759-8673</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2019</td>
+        <td>LRPRPLB0XJA007026</td>
+        <td align="right">K1675946</td>
+        <td align="right">2021-02-20 12:03:02</td>
+        <td align="right">20-02-2021</td>
+        <td align="right">20-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002802</td>
+        <td>CARLOS MANUEL</td>
+        <td>POLANCO QUITERIO</td>
+        <td>002-0153503-6</td>
+        <td>Calle Integral B casa numero Madre Vieja Sur</td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-678-7118</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2002</td>
+        <td>2HGES16872H902177</td>
+        <td align="right">A468274</td>
+        <td align="right">2021-02-20 14:24:56</td>
+        <td align="right">20-02-2021</td>
+        <td align="right">20-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002803</td>
+        <td>JOHAN ALEXIS </td>
+        <td>ANTUNA BRITO</td>
+        <td>003-0115221-1</td>
+        <td>cdetras del almacen julio santo casa 3 .el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-502-0745</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>ACCORD</td>
+        <td>1994</td>
+        <td>1HGCD5637RA144802</td>
+        <td align="right">A001225</td>
+        <td align="right">2021-02-20 14:53:16</td>
+        <td align="right">20-02-2021</td>
+        <td align="right">20-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,731.25</h4></td>
+</tr></table>

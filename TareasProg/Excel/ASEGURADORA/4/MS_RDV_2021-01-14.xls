@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 14/01/2021 <b>Hasta:</b> 14/01/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002522</td>
+        <td>RICARDO YUNIOR</td>
+        <td>MARTINEZ GREEN</td>
+        <td>026-0053077-4</td>
+        <td>VILLA VERDE CBERMUDEZ</td>
+        <td></td>
+        <td>809-218-4757</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2013</td>
+        <td>KMHEU41MBDA829128</td>
+        <td align="right">A868334</td>
+        <td align="right">2021-01-14 09:00:16</td>
+        <td align="right">14-01-2021</td>
+        <td align="right">14-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002523</td>
+        <td>EZEQUIEL</td>
+        <td>PEREYRA ECARNACION</td>
+        <td>001-0778586-7</td>
+        <td>Calle Manolo Tavarez Justo  47, Sector Real </td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-224-9367</td>
+        <td>Automovil</td>
+        <td>LEXUS                </td>
+        <td>ES - 300</td>
+        <td>2003</td>
+        <td>JTHBF30G830124560</td>
+        <td align="right">A441564</td>
+        <td align="right">2021-01-14 09:38:26</td>
+        <td align="right">14-01-2021</td>
+        <td align="right">14-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002524</td>
+        <td>ABRAHAN AUGUSTO</td>
+        <td>BAEZ VIOLA</td>
+        <td>012-0107814-2</td>
+        <td>C CENTRAL NO. 20</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-912-0512</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>ZOOMER</td>
+        <td>1994</td>
+        <td>AF581009076</td>
+        <td align="right">K1876212</td>
+        <td align="right">2021-01-14 11:31:17</td>
+        <td align="right">14-01-2021</td>
+        <td align="right">14-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002525</td>
+        <td>MIGUEL ARTURO </td>
+        <td>GARRIDO ALFAU</td>
+        <td>001-1888690-2</td>
+        <td>C MERCEDES AMIAMA NO. 66</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-441-8333</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AF551401570</td>
+        <td align="right">K1879828</td>
+        <td align="right">2021-01-14 14:23:38</td>
+        <td align="right">14-01-2021</td>
+        <td align="right">14-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002526</td>
+        <td>ANDRY JEAN MARY</td>
+        <td>RIVERA RAMIREZ</td>
+        <td>223-0075975-4</td>
+        <td>NENEYC0MAS 50</td>
+        <td></td>
+        <td>809-491-9459</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>2018</td>
+        <td>C502118668</td>
+        <td align="right">A</td>
+        <td align="right">2021-01-14 14:43:21</td>
+        <td align="right">14-01-2021</td>
+        <td align="right">14-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002527</td>
+        <td>DANIEL ALEXANDER</td>
+        <td>RAMIREZ GUZMAN</td>
+        <td>001-1884836-5</td>
+        <td>C OLOFF PALMER NO. 13</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-817-1477</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AF611582255</td>
+        <td align="right">K1860598</td>
+        <td align="right">2021-01-14 14:48:47</td>
+        <td align="right">14-01-2021</td>
+        <td align="right">14-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002528</td>
+        <td>JUAN LEOVIGILDO </td>
+        <td>RODRIGUEZ DEL CASTILLO</td>
+        <td>001-0157644-5</td>
+        <td>C U NO. 15</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-447-4779</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JA101084142</td>
+        <td align="right">K1876186</td>
+        <td align="right">2021-01-14 14:57:25</td>
+        <td align="right">14-01-2021</td>
+        <td align="right">14-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002529</td>
+        <td>ANTONIO JOSE </td>
+        <td>BERGES ABREU</td>
+        <td>001-1779137-6</td>
+        <td>AV. SANTO CERRO NO. 10</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>829-532-7265</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>TW</td>
+        <td>1994</td>
+        <td>2JL039834</td>
+        <td align="right">K1879398</td>
+        <td align="right">2021-01-14 15:05:30</td>
+        <td align="right">14-01-2021</td>
+        <td align="right">14-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002530</td>
+        <td>YENNIFER KARINA </td>
+        <td>ANDUJAR MEJIA</td>
+        <td>003-0126343-0</td>
+        <td>c27 de febrero casa 13,los tumbaos</td>
+        <td>PERAVIA</td>
+        <td>829-848-7591</td>
+        <td>Jeep</td>
+        <td>FORD                 </td>
+        <td>EXPLORER</td>
+        <td>2002</td>
+        <td>1FMZU73E52UC13321</td>
+        <td align="right">G182393</td>
+        <td align="right">2021-01-14 15:42:45</td>
+        <td align="right">14-01-2021</td>
+        <td align="right">14-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002531</td>
+        <td>ANANIO</td>
+        <td>AMADOR</td>
+        <td>014-0010569-6</td>
+        <td>PRINCIPAL   S  N [RURAL] SAN JUAN DE LA MAGUANA</td>
+        <td></td>
+        <td>809-988-3020</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2015</td>
+        <td>LC6PAGA11F0021844</td>
+        <td align="right">K0377986</td>
+        <td align="right">2021-01-14 19:23:42</td>
+        <td align="right">14-01-2021</td>
+        <td align="right">14-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>7,550.00</h4></td>
+</tr></table>

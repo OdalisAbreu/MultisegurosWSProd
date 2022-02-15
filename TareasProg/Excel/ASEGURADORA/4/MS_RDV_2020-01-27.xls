@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 27/01/2020 <b>Hasta:</b> 27/01/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000491</td>
+        <td>MAXIMO SILIE</td>
+        <td>MEDINA</td>
+        <td>295-0004561-1</td>
+        <td>VILLA PROGRESO</td>
+        <td></td>
+        <td>809-360-9067</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2019</td>
+        <td>TARPCM501C002680</td>
+        <td align="right">EN TRAMITE</td>
+        <td align="right">2020-01-27 08:29:14</td>
+        <td align="right">27-01-2020</td>
+        <td align="right">27-04-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000492</td>
+        <td>CARLOS MIGUEL</td>
+        <td>MERCADO GONZALEZ</td>
+        <td>049-0077710-5</td>
+        <td>CHOSTOS 125,BPBLO.NVO,COTUI</td>
+        <td></td>
+        <td>829-959-3161</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2011</td>
+        <td>KMHEU41MBBA812930</td>
+        <td align="right">A723093</td>
+        <td align="right">2020-01-27 09:08:42</td>
+        <td align="right">27-01-2020</td>
+        <td align="right">27-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000493</td>
+        <td>DENNIS JARODISJF06102JJ</td>
+        <td>PEGUERO MEJIA</td>
+        <td>001-0958149-6</td>
+        <td>CALLE 4 NO. 25</td>
+        <td></td>
+        <td>809-714-1987</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>LEAD 90</td>
+        <td>1990</td>
+        <td>JF061012349</td>
+        <td align="right">K0183663</td>
+        <td align="right">2020-01-27 10:06:38</td>
+        <td align="right">27-01-2020</td>
+        <td align="right">27-04-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000494</td>
+        <td>SANTO NICAEL </td>
+        <td>GONZALEZ CASTILLO</td>
+        <td>402-3670479-3</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>829-869-3568</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C70</td>
+        <td>1994</td>
+        <td>C701427785</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-01-27 10:19:44</td>
+        <td align="right">27-01-2020</td>
+        <td align="right">27-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000495</td>
+        <td>SILLO MARA </td>
+        <td>GARCIAS SANTAN </td>
+        <td>003-0105248-6</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>829-326-2121</td>
+        <td>Motocicleta</td>
+        <td>TVS                  </td>
+        <td>TVS </td>
+        <td>2019</td>
+        <td>MD634KE64K2A02007</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-01-27 10:22:03</td>
+        <td align="right">27-01-2020</td>
+        <td align="right">27-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-000496</td>
+        <td>RAFAEL OSCAR</td>
+        <td>VALENZUELA</td>
+        <td>010-0071382-4</td>
+        <td>viente noble casa 14</td>
+        <td>AZUA</td>
+        <td>973-477-0442</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TACOMA</td>
+        <td>2001</td>
+        <td>5TEHN72N41Z731702</td>
+        <td align="right">L277653</td>
+        <td align="right">2020-01-27 12:09:05</td>
+        <td align="right">27-01-2020</td>
+        <td align="right">27-04-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">995.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-000497</td>
+        <td>LUISA MARIA </td>
+        <td>ROMAN PEREZ DE LUNA</td>
+        <td>031-0511378-5</td>
+        <td>Calle 5, No. 09, Las Colinas, Santiago </td>
+        <td>SANTIAGO</td>
+        <td>829-892-3868</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>ZOOMER</td>
+        <td>1994</td>
+        <td>AF581208203</td>
+        <td align="right">K1774071</td>
+        <td align="right">2020-01-27 14:31:10</td>
+        <td align="right">27-01-2020</td>
+        <td align="right">27-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-000498</td>
+        <td>JULIO MELVIN </td>
+        <td>GONZALEZ FRANCO </td>
+        <td>003-0083144-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-330-0000</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2018</td>
+        <td>TBLPCK4J6K2000280</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-01-27 15:41:11</td>
+        <td align="right">27-01-2020</td>
+        <td align="right">27-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-000499</td>
+        <td>ANGEL SAMUEL</td>
+        <td>RODRIGUEZ</td>
+        <td>001-1710337-4</td>
+        <td>CALLE 10 NO15 BO. 27 FEBRERO</td>
+        <td></td>
+        <td>829-232-2717</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>1994</td>
+        <td>JT2SK12E1R0190382</td>
+        <td align="right">A256395</td>
+        <td align="right">2020-01-27 18:14:27</td>
+        <td align="right">27-01-2020</td>
+        <td align="right">27-04-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,415.00</h4></td>
+</tr></table>

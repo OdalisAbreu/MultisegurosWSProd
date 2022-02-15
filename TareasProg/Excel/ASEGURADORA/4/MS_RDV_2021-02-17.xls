@@ -1,0 +1,139 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 17/02/2021 <b>Hasta:</b> 17/02/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002770</td>
+        <td>RAMON ANTONIO</td>
+        <td>GONZALEZ FRANCO</td>
+        <td>003-0056014-1</td>
+        <td>CPRINCIPAL , FRENTE A LA FERRETERIA EN LOS TUMBAOS</td>
+        <td>PERAVIA</td>
+        <td>809-629-3401</td>
+        <td>Furgoneta</td>
+        <td>DAIHATSU             </td>
+        <td>HIJET</td>
+        <td>2000</td>
+        <td>S83V469753</td>
+        <td align="right">1043174</td>
+        <td align="right">2021-02-17 10:18:52</td>
+        <td align="right">17-02-2021</td>
+        <td align="right">17-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002771</td>
+        <td>MAIKOL RAMON</td>
+        <td>PEREZ PEREZ</td>
+        <td>402-4517964-9</td>
+        <td>BARRIO LAS FLORES CASA 07,PALMAR DE OCOA</td>
+        <td>PERAVIA</td>
+        <td>829-858-5348</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>CG-150</td>
+        <td>2021</td>
+        <td>TBLPCK4J4M2000636</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-17 10:49:16</td>
+        <td align="right">17-02-2021</td>
+        <td align="right">17-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002772</td>
+        <td>RAMON ANTONIO</td>
+        <td>SOTO GONZALEZ</td>
+        <td>003-0067830-7</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>849-456-4493</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502405426</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-17 17:15:48</td>
+        <td align="right">17-02-2021</td>
+        <td align="right">17-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,025.00</h4></td>
+</tr></table>

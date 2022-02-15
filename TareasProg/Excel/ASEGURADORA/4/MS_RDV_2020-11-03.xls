@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 03/11/2020 <b>Hasta:</b> 03/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002034</td>
+        <td>JOSE RAFAEL</td>
+        <td>RODRIGUEZ CABRERA</td>
+        <td>034-0029883-6</td>
+        <td>TAVARES JUSTO 12</td>
+        <td></td>
+        <td>829-857-8931</td>
+        <td>Motocicleta</td>
+        <td>Z300</td>
+        <td>CG150</td>
+        <td>2019</td>
+        <td>LBEJLX14TKA128929</td>
+        <td align="right">A</td>
+        <td align="right">2020-11-03 10:24:43</td>
+        <td align="right">03-11-2020</td>
+        <td align="right">03-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002035</td>
+        <td>WENFIL RAFAEL </td>
+        <td>PRESTOL SANCHEZ</td>
+        <td>003-0042485-0</td>
+        <td>CCAVUL NO.13, LAS CALDERAS </td>
+        <td>PERAVIA</td>
+        <td>809-862-5054</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>1995</td>
+        <td>JHMEG8658SS023776</td>
+        <td align="right">A365860</td>
+        <td align="right">2020-11-03 11:39:08</td>
+        <td align="right">03-11-2020</td>
+        <td align="right">03-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002036</td>
+        <td>ANDERSON ANTONIO</td>
+        <td>RODRIGUEZ</td>
+        <td>402-1975410-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-635-0295</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>1994</td>
+        <td>TARPCK50XLC000206</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-03 16:04:43</td>
+        <td align="right">03-11-2020</td>
+        <td align="right">03-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002037</td>
+        <td>ARGENTINA</td>
+        <td>EUSEBIO PUENTE</td>
+        <td>025-0034874-9</td>
+        <td>SEIBO R.D</td>
+        <td></td>
+        <td>829-584-0710</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>VITZ</td>
+        <td>2012</td>
+        <td>NSP1352013317</td>
+        <td align="right">A748264</td>
+        <td align="right">2020-11-03 19:17:38</td>
+        <td align="right">03-11-2020</td>
+        <td align="right">03-02-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002038</td>
+        <td>SADO ELEUTERIO </td>
+        <td>DIAZ ZAPATA</td>
+        <td>003-0022885-5</td>
+        <td>30 de mayo calle 4 25 </td>
+        <td>PERAVIA</td>
+        <td>829-645-8157</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>D-21</td>
+        <td>1992</td>
+        <td>UNMD21438193</td>
+        <td align="right">L031541</td>
+        <td align="right">2020-11-03 19:43:22</td>
+        <td align="right">03-11-2020</td>
+        <td align="right">03-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,368.75</h4></td>
+</tr></table>

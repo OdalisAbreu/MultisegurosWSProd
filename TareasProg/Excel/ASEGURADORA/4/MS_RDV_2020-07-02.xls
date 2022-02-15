@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 02/07/2020 <b>Hasta:</b> 02/07/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001284</td>
+        <td>JUAN RAMON</td>
+        <td>MATEO ROSARIO</td>
+        <td>001-1130307-9</td>
+        <td>CANCINO ADENTRO</td>
+        <td></td>
+        <td>829-720-9218</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1990</td>
+        <td>3KJ2476162</td>
+        <td align="right">K0306930</td>
+        <td align="right">2020-07-02 08:29:10</td>
+        <td align="right">02-07-2020</td>
+        <td align="right">02-10-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001285</td>
+        <td>YNES CARINA</td>
+        <td>GONZALEZ RAPOZO</td>
+        <td>071-0004836-7</td>
+        <td>CALLE SALOME URENA NO. 9, NAGUA</td>
+        <td></td>
+        <td>829-341-3978</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>HILUX</td>
+        <td>2014</td>
+        <td>MR0FZ29G802536762</td>
+        <td align="right">L328481</td>
+        <td align="right">2020-07-02 08:30:09</td>
+        <td align="right">02-07-2020</td>
+        <td align="right">02-10-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">618.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001286</td>
+        <td>PABLO </td>
+        <td>ALVAREZ </td>
+        <td>402-2303735-5</td>
+        <td>Bani</td>
+        <td>PERAVIA</td>
+        <td>829-370-2719</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1994</td>
+        <td>C500605171</td>
+        <td align="right">K1872357</td>
+        <td align="right">2020-07-02 10:36:48</td>
+        <td align="right">02-07-2020</td>
+        <td align="right">02-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001287</td>
+        <td>MIURLEY NATHALI </td>
+        <td>SOTO PINEDA </td>
+        <td>135-0001712-7</td>
+        <td>CLA ALTAGRACIA CASA NO 1 PALMAR DE OCOA </td>
+        <td>AZUA</td>
+        <td>829-349-5825</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2020</td>
+        <td>LZRK1F008L1000772</td>
+        <td align="right">TRAMITE </td>
+        <td align="right">2020-07-02 15:18:44</td>
+        <td align="right">02-07-2020</td>
+        <td align="right">02-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001288</td>
+        <td>HABIB </td>
+        <td>SAUD GERALDINO</td>
+        <td>001-1603038-8</td>
+        <td>C Proyecto 1 no. 06, Arroyo Hondo</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-697-6597</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>ZOOMER</td>
+        <td>1994</td>
+        <td>AF581004896</td>
+        <td align="right">0000000000</td>
+        <td align="right">2020-07-02 16:11:35</td>
+        <td align="right">02-07-2020</td>
+        <td align="right">02-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001289</td>
+        <td>ANDRES JULIO </td>
+        <td>MEDINA PIMENTEL</td>
+        <td>402-2572259-0</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>829-517-7619</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>SUNNY</td>
+        <td>2002</td>
+        <td>FB14370131</td>
+        <td align="right">A527955</td>
+        <td align="right">2020-07-02 16:24:30</td>
+        <td align="right">02-07-2020</td>
+        <td align="right">02-07-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>1,000,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001290</td>
+        <td>MARIA DAMASO</td>
+        <td>FABIAN</td>
+        <td>402-2411724-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-659-8785</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J582304</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-02 17:26:01</td>
+        <td align="right">02-07-2020</td>
+        <td align="right">02-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-001291</td>
+        <td>ANA DAMASO</td>
+        <td>FABIAN</td>
+        <td>003-0089082-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-568-9875</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2019</td>
+        <td>LLCLXHCA5KA102640</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-02 17:32:40</td>
+        <td align="right">02-07-2020</td>
+        <td align="right">02-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-001292</td>
+        <td>EYLEEN RAFELINA</td>
+        <td>BRUGAL JIMENEZ</td>
+        <td>027-0039701-7</td>
+        <td>HATO MAYOR</td>
+        <td></td>
+        <td>829-259-1907</td>
+        <td>Automovil</td>
+        <td>JEEP                 </td>
+        <td>CHEROKEE</td>
+        <td>2014</td>
+        <td>1C4PJMCS4EW265394</td>
+        <td align="right">XXX</td>
+        <td align="right">2020-07-02 20:48:10</td>
+        <td align="right">02-07-2020</td>
+        <td align="right">02-10-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,381.25</h4></td>
+</tr></table>

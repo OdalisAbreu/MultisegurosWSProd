@@ -1,0 +1,108 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Plan Plus (Veh. Livianos) Exceso R/C RD$1,000,000
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 08/07/2020 <b>Hasta:</b> 08/07/2020
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		01:00:02
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>EX-AT-001323</td>
+        <td>CECILIO </td>
+        <td>PINALES LAPAIX</td>
+        <td>082-0019932-4</td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-564-9909</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>PICK UP </td>
+        <td>1991</td>
+        <td>JT4RN81P3M5105921</td>
+        <td>L183201</td>
+        <td>03:25:20</td>
+		<td>32664</td>
+        <td>08 de  Julio del 2020</td>
+        <td>08 de  Julio del 2021</td>
+        <td>$281.55</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>EX-AT-001321</td>
+        <td>CARLOS MANUEL</td>
+        <td>POLANCO DE LA PAZ</td>
+        <td>093-0044010-5</td>
+        <td>PERAVIA</td>
+        <td>809-376-5833</td>
+        <td>Camioneta</td>
+        <td>CHEVROLET            </td>
+        <td>AVALANCHE</td>
+        <td>2004</td>
+        <td>3GNEK12T34G252251</td>
+        <td>L161439</td>
+        <td>12:07:36</td>
+		<td>32658</td>
+        <td>08 de  Julio del 2020</td>
+        <td>08 de  Octubre del 2020</td>
+        <td>$351.94</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$633.49</td>
+   </tr>
+</table>

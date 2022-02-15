@@ -1,0 +1,247 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 70px; color: #d9261c;">Multi</b><b style="font-size: 70px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	CMA - Casa del Conductor
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 01/04/2018 <b>Hasta:</b> 30/04/2018
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td>#</td>
+    	<td>No.Poliza</td>
+    	<td>Aseguradora</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>AUTO-MSD-001634</td>
+		<td>Dominicana de Seguros </td>
+        <td>ROSSY MILENY </td>
+        <td>GIL RODRIGUEZ</td>
+        <td></td>
+        <td>CALLE AMALFIS CASA 37, SECTOR ITALIA</td>
+        <td>SANTO DOMINGO</td>
+        <td>809-917-7419</td>
+		<td></td>
+        <td></td>
+        <td>MAZDA                </td>
+        <td>DEMIO</td>
+        <td>2010</td>
+        <td>DE3FS262195</td>
+        <td align="right">A652626</td>
+        <td align="right">2018-04-02 16:04:38</td>
+        <td align="right">02-04-2018</td>
+        <td align="right">02-04-2019</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td align="right">1,875</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>240139-001114</td>
+		<td>General de Seguros</td>
+        <td>ROBERTO ROLANDO</td>
+        <td>VALDEZ INOA</td>
+        <td></td>
+        <td>jesus maestro casa 13, mirador sur</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>829-342-3335</td>
+		<td></td>
+        <td></td>
+        <td>CHEVROLET            </td>
+        <td>EXPRESS-VAN</td>
+        <td>2008</td>
+        <td>1GBHG31C981168092</td>
+        <td align="right">I066569</td>
+        <td align="right">2018-04-05 13:30:27</td>
+        <td align="right">05-04-2018</td>
+        <td align="right">05-04-2019</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td align="right">2,475</td>
+   </tr>
+	<tr>
+   		<td>3</td>
+        <td>240139-001157</td>
+		<td>General de Seguros</td>
+        <td>APOLINAR NICOLAS</td>
+        <td>MUNOZ NUNEZ</td>
+        <td></td>
+        <td>AV. MEXICO ESQ. VICENTE NOBLE EDIF. A2 APTO9</td>
+        <td>SANTO DOMINGO</td>
+        <td>809-805-2559</td>
+		<td></td>
+        <td></td>
+        <td>TOYOTA               </td>
+        <td>SIENNA</td>
+        <td>2002</td>
+        <td>4T3Z19C62U507217</td>
+        <td align="right">I045751</td>
+        <td align="right">2018-04-10 13:03:27</td>
+        <td align="right">10-04-2018</td>
+        <td align="right">10-04-2019</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td align="right">4,575</td>
+   </tr>
+	<tr>
+   		<td>4</td>
+        <td>240139-001176</td>
+		<td>General de Seguros</td>
+        <td>DANEL</td>
+        <td>RODRIGUEZ</td>
+        <td></td>
+        <td>DIR</td>
+        <td>SANTIAGO</td>
+        <td>829-421-8649</td>
+		<td></td>
+        <td></td>
+        <td>HONDA                </td>
+        <td></td>
+        <td>2006</td>
+        <td>X</td>
+        <td align="right">X</td>
+        <td align="right">2018-04-16 12:02:52</td>
+        <td align="right">16-04-2018</td>
+        <td align="right">16-07-2018</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td align="right">185</td>
+   </tr>
+	<tr>
+   		<td>5</td>
+        <td>240139-001197</td>
+		<td>General de Seguros</td>
+        <td>BIENVENIDO ALBERTO</td>
+        <td>COSTE MENA</td>
+        <td></td>
+        <td>SOSUA</td>
+        <td></td>
+        <td>849-846-4462</td>
+		<td></td>
+        <td></td>
+        <td>FORD                 </td>
+        <td>F150</td>
+        <td>2010</td>
+        <td>1FTEW1E88AFA54962</td>
+        <td align="right">L332258</td>
+        <td align="right">2018-04-19 09:40:11</td>
+        <td align="right">19-04-2018</td>
+        <td align="right">19-04-2019</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td align="right">2,475</td>
+   </tr>
+	<tr>
+   		<td>6</td>
+        <td>240139-001223</td>
+		<td>General de Seguros</td>
+        <td>PEDRO JOSE</td>
+        <td>CAPELLAN HERNANDEZ</td>
+        <td></td>
+        <td>DUARTE 88</td>
+        <td></td>
+        <td>809-804-3636</td>
+		<td></td>
+        <td></td>
+        <td>NISSAN               </td>
+        <td>TITAN</td>
+        <td>2005</td>
+        <td>JN1TESY61Z0555270</td>
+        <td align="right">G028476</td>
+        <td align="right">2018-04-23 10:06:22</td>
+        <td align="right">23-04-2018</td>
+        <td align="right">23-04-2019</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td align="right">1,875</td>
+   </tr>
+	<tr>
+   		<td>7</td>
+        <td>240139-001224</td>
+		<td>General de Seguros</td>
+        <td>PEDRO JOSE</td>
+        <td>CAPELLAN HERNANDEZ</td>
+        <td></td>
+        <td>DUARTE 88</td>
+        <td></td>
+        <td>809-804-3636</td>
+		<td></td>
+        <td></td>
+        <td>MITSUBISHI           </td>
+        <td>PAJERO</td>
+        <td>2000</td>
+        <td>V244002368</td>
+        <td align="right">G133649</td>
+        <td align="right">2018-04-23 10:09:57</td>
+        <td align="right">23-04-2018</td>
+        <td align="right">23-04-2019</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td align="right">1,875</td>
+   </tr>
+<tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>15,335.00</h4></td>
+</tr></table>

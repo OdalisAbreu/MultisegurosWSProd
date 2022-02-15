@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 07/01/2021 <b>Hasta:</b> 07/01/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002457</td>
+        <td>MIGUEL ANTONIO</td>
+        <td>HERNANDEZ</td>
+        <td>026-0036271-5</td>
+        <td>VILLA CALETA C9</td>
+        <td></td>
+        <td>809-782-5407</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C70</td>
+        <td>1987</td>
+        <td>C70B040286</td>
+        <td align="right">K0427515</td>
+        <td align="right">2021-01-07 08:42:59</td>
+        <td align="right">07-01-2021</td>
+        <td align="right">07-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002458</td>
+        <td>FRANDY STERLING</td>
+        <td>VALERA</td>
+        <td>402-2742430-2</td>
+        <td>LA ROMANA</td>
+        <td></td>
+        <td>829-453-3042</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>ACCENT</td>
+        <td>2014</td>
+        <td>KMHCT4AE5EU749104</td>
+        <td align="right">A895117</td>
+        <td align="right">2021-01-07 09:47:58</td>
+        <td align="right">07-01-2021</td>
+        <td align="right">07-04-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002459</td>
+        <td>ELADIA DOMINGA</td>
+        <td>ESTEPAN MEJIA </td>
+        <td>003-0070533-2</td>
+        <td>barrio washington casa 32,matanzas</td>
+        <td>PERAVIA</td>
+        <td>829-202-7420</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1994</td>
+        <td>AA013042617</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-07 10:09:58</td>
+        <td align="right">07-01-2021</td>
+        <td align="right">07-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002460</td>
+        <td>MILCIO ANTONIO</td>
+        <td>BAEZ CABRAL</td>
+        <td>003-0038269-4</td>
+        <td>c1ra casa 6,arroyo hondo</td>
+        <td>PERAVIA</td>
+        <td>809-462-6438</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2000</td>
+        <td>EK33500726</td>
+        <td align="right">A111066</td>
+        <td align="right">2021-01-07 11:37:48</td>
+        <td align="right">07-01-2021</td>
+        <td align="right">07-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002461</td>
+        <td>YONATAN</td>
+        <td>TAVERAS DE LOS SANTOS</td>
+        <td>402-3248867-2</td>
+        <td>CALLE RICARDO ROJAS 15 LOS ALCARRIZOS</td>
+        <td></td>
+        <td>849-277-6940</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td></td>
+        <td>1994</td>
+        <td>AA011432490</td>
+        <td align="right">AA01E1261659</td>
+        <td align="right">2021-01-07 17:45:12</td>
+        <td align="right">07-01-2021</td>
+        <td align="right">07-04-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,962.50</h4></td>
+</tr></table>

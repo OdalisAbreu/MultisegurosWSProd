@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 04/03/2021 <b>Hasta:</b> 04/03/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002878</td>
+        <td>SANTA JULIA</td>
+        <td>GONZALEZ GONZALEZ</td>
+        <td>003-0107135-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-660-6769</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>1994</td>
+        <td>LZRK1F000M1000248</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-04 11:36:15</td>
+        <td align="right">04-03-2021</td>
+        <td align="right">04-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002879</td>
+        <td>RAMON ANTONIO</td>
+        <td>SOTO GONZALEZ</td>
+        <td>003-0067830-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-456-4493</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2021</td>
+        <td>LM0CJV50XL1904722</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-04 12:03:17</td>
+        <td align="right">04-03-2021</td>
+        <td align="right">04-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002880</td>
+        <td>JUAN ALEXIS </td>
+        <td>RUIZ TEJEDA</td>
+        <td>402-2626262-0</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>809-488-0393</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2021</td>
+        <td>TBLPCK4J2M2001607</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-04 15:35:17</td>
+        <td align="right">04-03-2021</td>
+        <td align="right">04-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002881</td>
+        <td>JUAN DE DIOS</td>
+        <td>GUERRERO AVILA</td>
+        <td>028-0058582-6</td>
+        <td>ADAMANAE, 85, HIGUEY, DISTRITO NACIONAL</td>
+        <td></td>
+        <td>829-478-7329</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C70</td>
+        <td>1984</td>
+        <td>C708645050</td>
+        <td align="right">K0190089</td>
+        <td align="right">2021-03-04 15:57:29</td>
+        <td align="right">04-03-2021</td>
+        <td align="right">04-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002882</td>
+        <td>YUDY MARGARITA</td>
+        <td>ORTIZ</td>
+        <td>013-0045253-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-396-6489</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2020</td>
+        <td>L5YTCKPA9J1159523</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-04 16:07:51</td>
+        <td align="right">04-03-2021</td>
+        <td align="right">04-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002883</td>
+        <td>LUIS ALFREDO</td>
+        <td>GARCIA DIAZ </td>
+        <td>003-0105003-5</td>
+        <td>crespaldo duarte casa 36,los tumbaos</td>
+        <td>PERAVIA</td>
+        <td>809-499-9021</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD90</td>
+        <td>1994</td>
+        <td>MD902619677</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-04 17:05:46</td>
+        <td align="right">04-03-2021</td>
+        <td align="right">04-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002884</td>
+        <td>ANYIBELIS </td>
+        <td>RUIZ SANTANA</td>
+        <td>402-0879447-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-513-0099</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191217537</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-04 17:49:58</td>
+        <td align="right">04-03-2021</td>
+        <td align="right">04-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,925.00</h4></td>
+</tr></table>

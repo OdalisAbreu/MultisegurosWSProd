@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 31/08/2020 <b>Hasta:</b> 31/08/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001631</td>
+        <td>SANTO ANTOLIN</td>
+        <td>BAEZ </td>
+        <td>003-0042675-6</td>
+        <td>cprincipal,parte atras al lado de bedioca,salinas </td>
+        <td>PERAVIA</td>
+        <td>809-931-0993</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2012</td>
+        <td>LLCLPP20XCE105269</td>
+        <td align="right">K0226522</td>
+        <td align="right">2020-08-31 08:11:52</td>
+        <td align="right">31-08-2020</td>
+        <td align="right">31-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001632</td>
+        <td>JOSE ALTAGRACIA </td>
+        <td>SOTO</td>
+        <td>010-0037838-8</td>
+        <td>cguarionex casa 9 palmar de ocoa</td>
+        <td>PERAVIA</td>
+        <td>829-898-7625</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>FRONTIER</td>
+        <td>2004</td>
+        <td>1N6ED27Y14C432955</td>
+        <td align="right">L251553</td>
+        <td align="right">2020-08-31 09:13:36</td>
+        <td align="right">31-08-2020</td>
+        <td align="right">31-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001633</td>
+        <td>ANGEL ANTONIO </td>
+        <td>MATEO SANCHEZ </td>
+        <td>013-0041608-6</td>
+        <td>FRENTE AL BACILON,SALINAS</td>
+        <td>PERAVIA</td>
+        <td>829-294-3760</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>ACCORD</td>
+        <td>2010</td>
+        <td>5KBCP3F80AB008000</td>
+        <td align="right">A662255</td>
+        <td align="right">2020-08-31 10:58:06</td>
+        <td align="right">31-08-2020</td>
+        <td align="right">31-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001634</td>
+        <td>JEAN CARLOS </td>
+        <td>GERMAN VILLAR</td>
+        <td>003-0093435-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-215-6494</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>TOYOTA</td>
+        <td>1991</td>
+        <td>JT2AE94K1M3454759</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-31 11:23:30</td>
+        <td align="right">31-08-2020</td>
+        <td align="right">31-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001635</td>
+        <td>MANUEL ANTONIO </td>
+        <td>SANTOS PUJOLS</td>
+        <td>003-0038071-4</td>
+        <td>C27 DE FEBRERO CASA 24 QUIJA QUIETA </td>
+        <td>PERAVIA</td>
+        <td>829-973-9602</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>RZ</td>
+        <td>2000</td>
+        <td>JYARJ04E61A019220</td>
+        <td align="right">XXXXX </td>
+        <td align="right">2020-08-31 11:32:50</td>
+        <td align="right">31-08-2020</td>
+        <td align="right">31-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001636</td>
+        <td>JOSE LUIS </td>
+        <td>MEJIA VILLAR </td>
+        <td>402-2533656-5</td>
+        <td>cpedro mir no 52</td>
+        <td>PERAVIA</td>
+        <td>809-956-7238</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>ACCORD</td>
+        <td>2000</td>
+        <td>1HGCG5650YA500094</td>
+        <td align="right">A175631</td>
+        <td align="right">2020-08-31 11:42:59</td>
+        <td align="right">31-08-2020</td>
+        <td align="right">31-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001637</td>
+        <td>SEVERO</td>
+        <td>DALMASI GUZMAN</td>
+        <td>026-0037236-7</td>
+        <td>VILLA HERMOSA</td>
+        <td></td>
+        <td>809-550-6489</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2009</td>
+        <td>LGPCJBS990SO4157</td>
+        <td align="right">K0133344</td>
+        <td align="right">2020-08-31 13:01:47</td>
+        <td align="right">31-08-2020</td>
+        <td align="right">31-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-001638</td>
+        <td>MANUEL GUZMAN </td>
+        <td>ANTIGUA</td>
+        <td>001-1710186-5</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>809-630-5485</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF061210906</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-31 16:30:22</td>
+        <td align="right">31-08-2020</td>
+        <td align="right">31-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>9,200.00</h4></td>
+</tr></table>

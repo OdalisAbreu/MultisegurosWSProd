@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 16/01/2022 <b>Hasta:</b> 16/01/2022
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-011093</td>
+        <td>BLASINA</td>
+        <td>MARTE DIAZ</td>
+        <td>049-0070205-3</td>
+        <td>EL BATEY</td>
+        <td>Sosúa</td>
+        <td>809-856-6249</td>
+        <td>Jeep</td>
+        <td>CHEVROLET            </td>
+        <td>EQUINOX</td>
+        <td>2005</td>
+        <td>2CNDL73F256003882</td>
+        <td align="right">G262335</td>
+        <td align="right">2022-01-16 11:38:57</td>
+        <td align="right">16-01-2022</td>
+        <td align="right">16-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-011094</td>
+        <td>ALEJANDRO ISAAC</td>
+        <td>GUERRERO MONTEAGUADO</td>
+        <td>402-1969732-9</td>
+        <td>EL TAMARINDO</td>
+        <td>La Romana</td>
+        <td>829-480-6425</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>GATO</td>
+        <td>2020</td>
+        <td>LKXXCHLP1N0016068</td>
+        <td align="right">EN PROCESO</td>
+        <td align="right">2022-01-16 11:58:03</td>
+        <td align="right">16-01-2022</td>
+        <td align="right">16-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-011095</td>
+        <td>PEDRO JOSE</td>
+        <td>SANTOS MENDEZ</td>
+        <td>033-0031587-0</td>
+        <td>CALLE DUARTE , BARRIO NORTE</td>
+        <td>Esperanza</td>
+        <td>829-534-3518</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>3KJ7777146</td>
+        <td align="right">K1694274</td>
+        <td align="right">2022-01-16 14:25:02</td>
+        <td align="right">16-01-2022</td>
+        <td align="right">16-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-011096</td>
+        <td>MIGUEL ANGEL</td>
+        <td>PAULINO BAEZ</td>
+        <td>068-0046842-0</td>
+        <td>LAS DELICIAS N0.09, VILLA ALTAGRACIA</td>
+        <td>Villa Altagracia</td>
+        <td>849-278-8391</td>
+        <td>Automovil</td>
+        <td>MITSUBISHI           </td>
+        <td>LANCER</td>
+        <td>1995</td>
+        <td>DSKCB2ARU03025</td>
+        <td align="right">A001791</td>
+        <td align="right">2022-01-16 15:26:57</td>
+        <td align="right">16-01-2022</td>
+        <td align="right">16-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-011097</td>
+        <td>MAIQUEL JHONSON</td>
+        <td>MATEO</td>
+        <td>402-1538143-1</td>
+        <td>CAYACOA, QUISQUELLA</td>
+        <td>La Romana</td>
+        <td>829-691-5969</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>LEAD 100</td>
+        <td>1995</td>
+        <td>JF06E1115781</td>
+        <td align="right">N181153</td>
+        <td align="right">2022-01-16 16:09:03</td>
+        <td align="right">16-01-2022</td>
+        <td align="right">16-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-011098</td>
+        <td>CLAUDIA CAROLINA</td>
+        <td>VIZCAINO FEBLES</td>
+        <td>026-0139456-8</td>
+        <td>VILLA PEREYDA CALLE1</td>
+        <td>La Romana</td>
+        <td>829-981-7494</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>3KJ8084150</td>
+        <td align="right">K1230717</td>
+        <td align="right">2022-01-16 16:31:54</td>
+        <td align="right">16-01-2022</td>
+        <td align="right">16-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-011099</td>
+        <td>RAFAEL</td>
+        <td>CASTILLO</td>
+        <td>150-0001369-6</td>
+        <td>HABANICO DE HERRERA</td>
+        <td>Santo Domingo Oeste</td>
+        <td>829-693-5152</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502209651</td>
+        <td align="right">K2017054</td>
+        <td align="right">2022-01-16 17:59:29</td>
+        <td align="right">16-01-2022</td>
+        <td align="right">16-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,831.25</h4></td>
+</tr></table>

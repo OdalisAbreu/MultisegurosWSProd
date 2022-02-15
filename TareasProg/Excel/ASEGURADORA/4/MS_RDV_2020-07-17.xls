@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 17/07/2020 <b>Hasta:</b> 17/07/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001374</td>
+        <td>FRANCISCO JAVIER</td>
+        <td>UBRIS ZORRILLA</td>
+        <td>026-0118701-2</td>
+        <td>CALETA C8</td>
+        <td></td>
+        <td>829-431-8482</td>
+        <td>Automovil</td>
+        <td>CHANGAN              </td>
+        <td>CHANGAN</td>
+        <td>2010</td>
+        <td>LS4BDB3D2AF400035</td>
+        <td align="right">I059148</td>
+        <td align="right">2020-07-17 08:46:56</td>
+        <td align="right">17-07-2020</td>
+        <td align="right">17-10-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001375</td>
+        <td>WILLIAM RAFAEL </td>
+        <td>LARA</td>
+        <td>402-4129961-5</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>809-439-2370</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J575700</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-17 11:14:51</td>
+        <td align="right">17-07-2020</td>
+        <td align="right">17-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001376</td>
+        <td>YSABEL CECILIA </td>
+        <td>BERNABE ROJAS </td>
+        <td>003-0120291-7</td>
+        <td>Bani</td>
+        <td>PERAVIA</td>
+        <td>809-762-9650</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td></td>
+        <td>1994</td>
+        <td>JF451016764    </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-17 13:55:41</td>
+        <td align="right">17-07-2020</td>
+        <td align="right">17-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001377</td>
+        <td>KENIA DAYANA </td>
+        <td>MEJIA LARA </td>
+        <td>003-0096773-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-445-0744</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J709074</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-17 15:17:59</td>
+        <td align="right">17-07-2020</td>
+        <td align="right">17-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001378</td>
+        <td>JUNIOR BIENVENIDO </td>
+        <td>LARA ARIAS </td>
+        <td>003-0066058-6</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>809-356-8794</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD50 2603450</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-17 15:29:45</td>
+        <td align="right">17-07-2020</td>
+        <td align="right">17-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001379</td>
+        <td>REINALDO</td>
+        <td>DE LA CRUZ RODRIGUEZ</td>
+        <td>025-0015976-5</td>
+        <td>PENA BLANCA, SANTA CRUZ DEL SEIBO</td>
+        <td></td>
+        <td>809-509-0346</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>4RUNNER</td>
+        <td>2009</td>
+        <td>JTEBU17R30K035963</td>
+        <td align="right">G203245</td>
+        <td align="right">2020-07-17 16:04:54</td>
+        <td align="right">17-07-2020</td>
+        <td align="right">17-10-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001380</td>
+        <td>RAUL ERNESTO </td>
+        <td>GUZMAN CROES</td>
+        <td>001-1833998-5</td>
+        <td>CALLE CLARA CELIA PARDO NO. 01</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>829-380-6252</td>
+        <td>Four Wheel</td>
+        <td>YAMAHA               </td>
+        <td>FOURWHEEL</td>
+        <td>1996</td>
+        <td>JY43GGA08TA084307</td>
+        <td align="right">K0568064</td>
+        <td align="right">2020-07-17 17:26:13</td>
+        <td align="right">17-07-2020</td>
+        <td align="right">17-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,312.50</h4></td>
+</tr></table>

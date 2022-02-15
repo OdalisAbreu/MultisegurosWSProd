@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 19/04/2020 <b>Hasta:</b> 19/04/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-026197</td>
+        <td>NATANAEL</td>
+        <td>FABRE NUNEZ</td>
+        <td>001-1343904-6</td>
+        <td>CALLE 13 12 LOS ALCARRIZOS</td>
+        <td></td>
+        <td>829-878-3264</td>
+        <td>Automovil</td>
+        <td>KIA                  </td>
+        <td>K5</td>
+        <td>2013</td>
+        <td>KNAGN418BDA327571</td>
+        <td align="right">A752153</td>
+        <td align="right">2020-04-19 08:20:56</td>
+        <td align="right">19-04-2020</td>
+        <td align="right">19-07-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-026198</td>
+        <td>YISELINA</td>
+        <td>BETO SENTIL</td>
+        <td>402-4209299-3</td>
+        <td>GUERRA</td>
+        <td></td>
+        <td>809-352-7363</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1982</td>
+        <td>3M5018554</td>
+        <td align="right">N029220</td>
+        <td align="right">2020-04-19 09:21:16</td>
+        <td align="right">19-04-2020</td>
+        <td align="right">19-04-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-026199</td>
+        <td>FRAILIN JOSE</td>
+        <td>PEREZ SAN PABLO</td>
+        <td>402-2793603-2</td>
+        <td>LOS CABRERA, NAJAYO EN MEDIO</td>
+        <td></td>
+        <td>829-776-1730</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2010</td>
+        <td>LJCPAGLH5B1001892</td>
+        <td align="right">N797692</td>
+        <td align="right">2020-04-19 10:07:35</td>
+        <td align="right">19-04-2020</td>
+        <td align="right">19-04-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-026200</td>
+        <td>AMAURI</td>
+        <td>GONZALEZ</td>
+        <td>227-0002920-4</td>
+        <td>GUERRA</td>
+        <td></td>
+        <td>829-894-3112</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>CG150</td>
+        <td>2015</td>
+        <td>LZ3GJL1T15AK54149</td>
+        <td align="right">K1126741</td>
+        <td align="right">2020-04-19 10:21:34</td>
+        <td align="right">19-04-2020</td>
+        <td align="right">19-04-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-026201</td>
+        <td>AGUSTINA</td>
+        <td>PRENSA DE LA CRUZ</td>
+        <td>223-0011652-6</td>
+        <td>GUERRA</td>
+        <td></td>
+        <td>809-526-5673</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2017</td>
+        <td>LLCLT1S04HCK00650</td>
+        <td align="right">K0350211</td>
+        <td align="right">2020-04-19 10:48:46</td>
+        <td align="right">19-04-2020</td>
+        <td align="right">19-04-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,568.75</h4></td>
+</tr></table>

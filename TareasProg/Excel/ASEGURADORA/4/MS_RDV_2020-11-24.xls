@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 24/11/2020 <b>Hasta:</b> 24/11/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002161</td>
+        <td>ROBERT ALEXANDER </td>
+        <td>SANTOS PIMENTEL</td>
+        <td>003-0042561-8</td>
+        <td>c07 manuel tejeda  casa 164,las calderas </td>
+        <td>PERAVIA</td>
+        <td>809-786-1881</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1984</td>
+        <td>C503265362</td>
+        <td align="right">K0819903</td>
+        <td align="right">2020-11-24 08:04:46</td>
+        <td align="right">24-11-2020</td>
+        <td align="right">24-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002162</td>
+        <td>YESSICA </td>
+        <td>LARA CASTRO</td>
+        <td>003-0116534-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-415-0388</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451001139</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-11-24 09:55:07</td>
+        <td align="right">24-11-2020</td>
+        <td align="right">24-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002163</td>
+        <td>FRANCISCO</td>
+        <td>ENCARNACION CASTILLO</td>
+        <td>014-0014957-9</td>
+        <td>FRANCISCO ENCARNACION CASTILLO</td>
+        <td></td>
+        <td>809-606-5354</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2004</td>
+        <td>LC6PAGA1040813030</td>
+        <td align="right">N028049</td>
+        <td align="right">2020-11-24 10:05:27</td>
+        <td align="right">24-11-2020</td>
+        <td align="right">24-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002164</td>
+        <td>JOAN MANUEL</td>
+        <td>CABRERA RUIZ</td>
+        <td>001-1724251-1</td>
+        <td>CALLE 26 13SAVICA LOS ALCARRIZOS</td>
+        <td></td>
+        <td>849-456-4317</td>
+        <td>Jeepeta</td>
+        <td>TOYOTA               </td>
+        <td>HIGHLANDER</td>
+        <td>2012</td>
+        <td>5TDBK3EH2C5160420</td>
+        <td align="right">XXXX</td>
+        <td align="right">2020-11-24 11:51:12</td>
+        <td align="right">24-11-2020</td>
+        <td align="right">24-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002165</td>
+        <td>KERLIN</td>
+        <td>SOLER SANTANA</td>
+        <td>028-0095196-0</td>
+        <td>HIGUEY,ANGEL MERINO 16</td>
+        <td></td>
+        <td>829-835-0609</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2018</td>
+        <td>LC6PAGA12J0011168</td>
+        <td align="right">K1668550</td>
+        <td align="right">2020-11-24 12:25:32</td>
+        <td align="right">24-11-2020</td>
+        <td align="right">24-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,975.00</h4></td>
+</tr></table>

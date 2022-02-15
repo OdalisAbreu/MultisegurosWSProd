@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 19/03/2021 <b>Hasta:</b> 19/03/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002986</td>
+        <td>MARTIRES</td>
+        <td>RAMIREZ GARCIA </td>
+        <td>003-0078534-0</td>
+        <td>cduarte casa 08 detras del parque,el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-429-7548</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 150</td>
+        <td>2020</td>
+        <td>LRPRPJD03LA101480</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-19 09:04:46</td>
+        <td align="right">19-03-2021</td>
+        <td align="right">19-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002987</td>
+        <td>CARLOS ANDRES</td>
+        <td>PEÑA ORTIZ </td>
+        <td>003-0046818-8</td>
+        <td>crespaldo bani casa 28 villa sombrero </td>
+        <td>PERAVIA</td>
+        <td>809-844-6262</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2021</td>
+        <td>LRPRPLB03MA200347</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-19 10:27:42</td>
+        <td align="right">19-03-2021</td>
+        <td align="right">19-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002988</td>
+        <td>ISKRALIN MASIEL</td>
+        <td>ARIAS MORETA</td>
+        <td>402-2154460-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-352-7937</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191230141</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-19 10:37:57</td>
+        <td align="right">19-03-2021</td>
+        <td align="right">19-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002989</td>
+        <td>DIONICIO</td>
+        <td>MARQUEZ MORETA</td>
+        <td>011-0024549-5</td>
+        <td>cluperon donde william hierro,el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-760-0713</td>
+        <td>Camioneta</td>
+        <td>DAIHATSU             </td>
+        <td>HIJET</td>
+        <td>1997</td>
+        <td>S83P000331</td>
+        <td align="right">L124483</td>
+        <td align="right">2021-03-19 10:39:23</td>
+        <td align="right">19-03-2021</td>
+        <td align="right">19-03-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002990</td>
+        <td>DIONICIO </td>
+        <td>MARQUEZ MORETA</td>
+        <td>011-0024549-5</td>
+        <td>cluperon donde william hierro,el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-760-0713</td>
+        <td>Motocicleta</td>
+        <td>X-PRO</td>
+        <td>X-PRO</td>
+        <td>2016</td>
+        <td>LDLPCKLA6G6000058</td>
+        <td align="right">K1224120</td>
+        <td align="right">2021-03-19 10:41:33</td>
+        <td align="right">19-03-2021</td>
+        <td align="right">19-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002991</td>
+        <td>RAUFRY ALEXANDER</td>
+        <td>AMANCIO ZAPATA</td>
+        <td>402-1354554-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-839-2254</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ7665331</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-19 10:56:46</td>
+        <td align="right">19-03-2021</td>
+        <td align="right">19-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002992</td>
+        <td>WENDY MARIA</td>
+        <td>RUIZ ARIAS</td>
+        <td>003-0114186-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-980-8345</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J605659</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-19 11:40:38</td>
+        <td align="right">19-03-2021</td>
+        <td align="right">19-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002993</td>
+        <td>ANGEL DAVID</td>
+        <td>AYBAR SANCHEZ</td>
+        <td>003-0044702-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-847-2343</td>
+        <td>Motocicleta</td>
+        <td>DELTA                </td>
+        <td>DELTA </td>
+        <td>2006</td>
+        <td>RIVASCNAT05120054</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-03-19 15:33:53</td>
+        <td align="right">19-03-2021</td>
+        <td align="right">19-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002994</td>
+        <td>YASSEL</td>
+        <td>MELO ARIAS </td>
+        <td>402-2675519-3</td>
+        <td>CROSENDO ERRERA NO 6 SANTA ROSA </td>
+        <td>PERAVIA</td>
+        <td>809-762-5485</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>SUZUKI</td>
+        <td>2017</td>
+        <td>0LC6TCJC94H000791</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-19 15:40:54</td>
+        <td align="right">19-03-2021</td>
+        <td align="right">19-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002995</td>
+        <td>ALFRANNYBAJBBA</td>
+        <td>MARTE EUSEBIO</td>
+        <td>402-2599563-4</td>
+        <td>JUAN MARICHAL 22</td>
+        <td></td>
+        <td>829-941-8804</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>BAJAJ</td>
+        <td>2020</td>
+        <td>MD2B37AYELWE48082</td>
+        <td align="right">PFYWKD03622</td>
+        <td align="right">2021-03-19 16:16:00</td>
+        <td align="right">19-03-2021</td>
+        <td align="right">19-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,950.00</h4></td>
+</tr></table>

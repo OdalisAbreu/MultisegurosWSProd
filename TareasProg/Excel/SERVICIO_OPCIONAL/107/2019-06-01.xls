@@ -1,0 +1,188 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Accidentes Personales RD$100,000
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 01/06/2019 <b>Hasta:</b> 05/07/2019
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		08:40:00
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>AP-DOM-014333</td>
+        <td>ELAINE MARGARITA</td>
+        <td>PICHARDO PERALTA DE SALAZAR</td>
+        <td>033-0021133-5</td>
+        <td></td>
+        <td>829-693-8079</td>
+        <td>Jeepeta</td>
+        <td>FORD                 </td>
+        <td>ESCAPE</td>
+        <td>2009</td>
+        <td>1FMCU03G69KA12239</td>
+        <td>G333797</td>
+        <td>07:56:09</td>
+		<td>16699</td>
+        <td>22 de  Junio del 2019</td>
+        <td>22 de  Junio del 2020</td>
+        <td>$150.00</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>AP-DOM-013938</td>
+        <td>OSIRIS RAMON</td>
+        <td>ROSA CANDELIER</td>
+        <td>054-0087429-2</td>
+        <td></td>
+        <td>809-462-5164</td>
+        <td>Camioneta</td>
+        <td>MITSUBISHI           </td>
+        <td>SPACE-WAGON</td>
+        <td>2000</td>
+        <td>MMBJNK740YD04448</td>
+        <td>L012027</td>
+        <td>10:38:25</td>
+		<td>16304</td>
+        <td>14 de  Junio del 2019</td>
+        <td>14 de  Junio del 2020</td>
+        <td>$300.00</td>
+   </tr>
+	<tr>
+   		<td>3</td>
+        <td>AP-DOM-013550</td>
+        <td>PABLO AUGUSTO</td>
+        <td>DIAZ CUETO</td>
+        <td>040-0000161-2</td>
+        <td></td>
+        <td>809-461-8331</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1984</td>
+        <td>C509152927</td>
+        <td>N886718</td>
+        <td>06:38:26</td>
+		<td>15916</td>
+        <td>05 de  Junio del 2019</td>
+        <td>05 de  Junio del 2020</td>
+        <td>$450.00</td>
+   </tr>
+	<tr>
+   		<td>4</td>
+        <td>AP-DOM-013479</td>
+        <td>ARIEL</td>
+        <td>SANTOS REYES</td>
+        <td>090-0020017-1</td>
+        <td></td>
+        <td>809-751-0864</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td></td>
+        <td>1984</td>
+        <td>HA022008675</td>
+        <td>XX</td>
+        <td>03:00:06</td>
+		<td>15845</td>
+        <td>04 de  Junio del 2019</td>
+        <td>04 de  Junio del 2020</td>
+        <td>$600.00</td>
+   </tr>
+	<tr>
+   		<td>5</td>
+        <td>AP-DOM-013433</td>
+        <td>MARIO SAMUEL</td>
+        <td>MORENO SANCHEZ</td>
+        <td>001-1493381-5</td>
+        <td></td>
+        <td>809-703-7730</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td></td>
+        <td>2007</td>
+        <td>LWPPGG4A971000458</td>
+        <td>N391941</td>
+        <td>05:57:27</td>
+		<td>15799</td>
+        <td>03 de  Junio del 2019</td>
+        <td>03 de  Junio del 2020</td>
+        <td>$750.00</td>
+   </tr>
+	<tr>
+   		<td>6</td>
+        <td>AP-DOM-013432</td>
+        <td>MARIO SAMUEL</td>
+        <td>MORENO SANCHEZ</td>
+        <td>001-1493381-5</td>
+        <td></td>
+        <td>809-703-7730</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td></td>
+        <td>1984</td>
+        <td>G503429870</td>
+        <td>K0021226</td>
+        <td>05:52:49</td>
+		<td>15798</td>
+        <td>03 de  Junio del 2019</td>
+        <td>03 de  Junio del 2020</td>
+        <td>$900.00</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$3,150.00</td>
+   </tr>
+</table>

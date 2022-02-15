@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 22/08/2021 <b>Hasta:</b> 22/08/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-004955</td>
+        <td>MARTIN</td>
+        <td>RODRIGUEZ</td>
+        <td>029-0003137-4</td>
+        <td>KM 10</td>
+        <td></td>
+        <td>829-322-4514</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2001</td>
+        <td>LC6PAGA1XY0027255</td>
+        <td align="right">NLUW16</td>
+        <td align="right">2021-08-22 10:06:53</td>
+        <td align="right">22-08-2021</td>
+        <td align="right">22-08-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-004956</td>
+        <td>RIGOBERTO DE JESUS</td>
+        <td>ALMONTE AGUILERA</td>
+        <td>036-0043157-5</td>
+        <td>LAS PLACETAS, SAN JOSE DE LAS MATAS</td>
+        <td></td>
+        <td>829-494-3550</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2018</td>
+        <td>LRPRPLB01JA008968</td>
+        <td align="right">K1659740</td>
+        <td align="right">2021-08-22 11:19:15</td>
+        <td align="right">22-08-2021</td>
+        <td align="right">22-08-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-004957</td>
+        <td>JOEL</td>
+        <td>DEL ROSARIO DE LA CRUZ</td>
+        <td>402-2075695-7</td>
+        <td>MANUEL DE JESUS GALVAN CASA 72</td>
+        <td></td>
+        <td>829-757-8131</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2015</td>
+        <td>LLCLPP207FE105203</td>
+        <td align="right">K0726623</td>
+        <td align="right">2021-08-22 11:46:17</td>
+        <td align="right">22-08-2021</td>
+        <td align="right">22-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-004958</td>
+        <td>JORGE LUIS</td>
+        <td>GONZALEZ ACOSTA</td>
+        <td>071-0052107-4</td>
+        <td>BUENOS AIRE</td>
+        <td></td>
+        <td>849-468-4754</td>
+        <td>Camioneta</td>
+        <td>DAIHATSU             </td>
+        <td>HIJET</td>
+        <td>2001</td>
+        <td>S82P051402</td>
+        <td align="right">L296449</td>
+        <td align="right">2021-08-22 11:49:02</td>
+        <td align="right">22-08-2021</td>
+        <td align="right">22-08-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-004959</td>
+        <td>JUAN DANIEL</td>
+        <td>NUNEZ MORA</td>
+        <td>402-1546964-0</td>
+        <td>NUEVA JERUSALEMCALLEHABRAHAN18</td>
+        <td></td>
+        <td>829-743-4009</td>
+        <td>Motocicleta</td>
+        <td>TOUGH                </td>
+        <td>TOUGH </td>
+        <td>2006</td>
+        <td>LGVSGP3017Z929107</td>
+        <td align="right">N120036</td>
+        <td align="right">2021-08-22 12:56:48</td>
+        <td align="right">22-08-2021</td>
+        <td align="right">22-08-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-004960</td>
+        <td>LUIS ANTONIO</td>
+        <td>FRANCO VICENTE</td>
+        <td>402-2536319-7</td>
+        <td>3RA HICAYAGUA CASA 10</td>
+        <td></td>
+        <td>829-492-8704</td>
+        <td>Motocicleta</td>
+        <td>PGO                  </td>
+        <td>PGO </td>
+        <td>2014</td>
+        <td>RFVCPCPC5F1017817</td>
+        <td align="right">K1616865</td>
+        <td align="right">2021-08-22 13:29:45</td>
+        <td align="right">22-08-2021</td>
+        <td align="right">22-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,506.25</h4></td>
+</tr></table>

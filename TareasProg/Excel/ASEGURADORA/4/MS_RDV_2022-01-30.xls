@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 30/01/2022 <b>Hasta:</b> 30/01/2022
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-011743</td>
+        <td>ARIEL</td>
+        <td>DE AZA MARIANO</td>
+        <td>026-0139234-9</td>
+        <td>HECTOR PEQUEZADA 31</td>
+        <td>La Romana</td>
+        <td>829-334-3132</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NC110</td>
+        <td>2008</td>
+        <td>XG7NC110AAL505808</td>
+        <td align="right">N483858</td>
+        <td align="right">2022-01-30 09:30:10</td>
+        <td align="right">30-01-2022</td>
+        <td align="right">30-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-011744</td>
+        <td>JULIAN</td>
+        <td>VIZCAINO</td>
+        <td>001-1546949-6</td>
+        <td>EL CALICHE</td>
+        <td>Boca Chica</td>
+        <td>809-234-1612</td>
+        <td>Motocicleta</td>
+        <td>GALAXI               </td>
+        <td>GALAXI </td>
+        <td>2011</td>
+        <td>GLXYJLT2011200202</td>
+        <td align="right">K1183777</td>
+        <td align="right">2022-01-30 09:43:00</td>
+        <td align="right">30-01-2022</td>
+        <td align="right">30-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-011745</td>
+        <td>KELVIN</td>
+        <td>DE LA ROSA DE LA CRUZ</td>
+        <td>402-2256923-4</td>
+        <td>CENTRAL NO 105</td>
+        <td>Distrito Nacional</td>
+        <td>829-769-3586</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>STARLET</td>
+        <td>2000</td>
+        <td>EP910106236</td>
+        <td align="right">A122545</td>
+        <td align="right">2022-01-30 12:04:11</td>
+        <td align="right">30-01-2022</td>
+        <td align="right">30-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-011746</td>
+        <td>DANIEL</td>
+        <td>DOTEL RECIO</td>
+        <td>224-0062282-9</td>
+        <td>PUNTA CANA</td>
+        <td>Santo Domingo Este</td>
+        <td>829-913-4972</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td></td>
+        <td>2017</td>
+        <td>LLCLP1C04GE102160</td>
+        <td align="right">K1162201</td>
+        <td align="right">2022-01-30 14:46:57</td>
+        <td align="right">30-01-2022</td>
+        <td align="right">30-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-011747</td>
+        <td>Yudelka</td>
+        <td>Bonilla Almonte</td>
+        <td>037-0100697-9</td>
+        <td>San Marcos </td>
+        <td>PUERTO PLATA</td>
+        <td>809-965-4650</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>ACCENT</td>
+        <td>2012</td>
+        <td>KMHCT41CBCU153943</td>
+        <td align="right">A575812</td>
+        <td align="right">2022-01-30 15:03:15</td>
+        <td align="right">30-01-2022</td>
+        <td align="right">30-01-2023</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-011748</td>
+        <td>ALEXIS CORNELIO04657</td>
+        <td>ORTIZ</td>
+        <td>001-0461376-5</td>
+        <td>CALLE P.RICO .N29 ALMAROSA</td>
+        <td>Santo Domingo Este</td>
+        <td>849-409-6244</td>
+        <td>Automovil</td>
+        <td>SUZUKI               </td>
+        <td>GRAND VITARA</td>
+        <td>2007</td>
+        <td>JS3TE944274201922</td>
+        <td align="right">G241193</td>
+        <td align="right">2022-01-30 16:33:48</td>
+        <td align="right">30-01-2022</td>
+        <td align="right">30-07-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-011749</td>
+        <td>Luis Alfredo</td>
+        <td>Francisco Gomez</td>
+        <td>229-0012311-2</td>
+        <td>Calle 26 No.26 Pueblo Nuevo</td>
+        <td>SANTO DOMINGO</td>
+        <td>809-874-8152</td>
+        <td>Automovil</td>
+        <td>DAIHATSU             </td>
+        <td></td>
+        <td>2015</td>
+        <td>LA300S1279992</td>
+        <td align="right">A888870</td>
+        <td align="right">2022-01-30 17:20:38</td>
+        <td align="right">30-01-2022</td>
+        <td align="right">30-01-2023</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,981.25</h4></td>
+</tr></table>

@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 08/08/2021 <b>Hasta:</b> 08/08/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-004557</td>
+        <td>ALTAGRACIA</td>
+        <td>MARCIAL</td>
+        <td>008-0027742-8</td>
+        <td>MP</td>
+        <td></td>
+        <td>809-432-0107</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2019</td>
+        <td>LLCLT1S05LCK00875</td>
+        <td align="right">K2042114</td>
+        <td align="right">2021-08-08 11:06:04</td>
+        <td align="right">08-08-2021</td>
+        <td align="right">08-08-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-004558</td>
+        <td>SERAPIO ANTONIO</td>
+        <td>SEVERINO FRIAS</td>
+        <td>008-0003142-9</td>
+        <td>MP</td>
+        <td></td>
+        <td>809-432-0107</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>2001</td>
+        <td>C509930619</td>
+        <td align="right">K0496004</td>
+        <td align="right">2021-08-08 11:08:32</td>
+        <td align="right">08-08-2021</td>
+        <td align="right">08-08-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-004559</td>
+        <td>SALVADOR</td>
+        <td>DIAZ BRIOSO</td>
+        <td>402-2052177-3</td>
+        <td>CALLEJOSEFAPOLONIAPEREZ</td>
+        <td></td>
+        <td>829-694-1515</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1976</td>
+        <td>C504014593</td>
+        <td align="right">NAAF83</td>
+        <td align="right">2021-08-08 11:29:25</td>
+        <td align="right">08-08-2021</td>
+        <td align="right">08-08-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-004560</td>
+        <td>DIEGO</td>
+        <td>DE AZA</td>
+        <td>402-3719920-9</td>
+        <td>LA ROMANA</td>
+        <td></td>
+        <td>829-463-5569</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>LEAD 100</td>
+        <td>1997</td>
+        <td>JF061222500</td>
+        <td align="right">K0438747</td>
+        <td align="right">2021-08-08 11:53:06</td>
+        <td align="right">08-08-2021</td>
+        <td align="right">08-11-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-004561</td>
+        <td>JORGE</td>
+        <td>VALDEZ MARTINEZ</td>
+        <td>001-1192063-3</td>
+        <td>LA NUEVA BARQUITA</td>
+        <td></td>
+        <td>829-643-3044</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2004</td>
+        <td>LJCPAGLHX41001617</td>
+        <td align="right">K0346327</td>
+        <td align="right">2021-08-08 14:55:14</td>
+        <td align="right">08-08-2021</td>
+        <td align="right">08-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-004562</td>
+        <td>ANITA</td>
+        <td>JEAN JOSE</td>
+        <td>402-2096346-2</td>
+        <td>YUMA</td>
+        <td></td>
+        <td>829-514-4299</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>FIT</td>
+        <td>2015</td>
+        <td>GK41006260</td>
+        <td align="right">A870184</td>
+        <td align="right">2021-08-08 15:35:50</td>
+        <td align="right">08-08-2021</td>
+        <td align="right">08-11-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-004563</td>
+        <td>LUCI BELL</td>
+        <td>TAVERAS PEREZ</td>
+        <td>402-1434970-2</td>
+        <td>CPRINCIPAL30,LACANELASANTIAGO</td>
+        <td></td>
+        <td>849-650-8878</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2014</td>
+        <td>5J6RM4H35EL025526</td>
+        <td align="right">G332501</td>
+        <td align="right">2021-08-08 15:37:19</td>
+        <td align="right">08-08-2021</td>
+        <td align="right">08-08-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-004564</td>
+        <td>ALCIDES</td>
+        <td>BRITO BRITO</td>
+        <td>026-0099834-4</td>
+        <td>VILLA HERMOSA PIEDRA LINDA</td>
+        <td></td>
+        <td>849-359-4952</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2006</td>
+        <td>XG7NC110AAL505042</td>
+        <td align="right">N468016</td>
+        <td align="right">2021-08-08 18:50:29</td>
+        <td align="right">08-08-2021</td>
+        <td align="right">08-08-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,650.00</h4></td>
+</tr></table>

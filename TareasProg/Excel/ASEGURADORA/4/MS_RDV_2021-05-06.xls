@@ -1,0 +1,139 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 06/05/2021 <b>Hasta:</b> 06/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003344</td>
+        <td>FELIX MARIA </td>
+        <td>GONZALEZ DEL VILLAR</td>
+        <td>003-0010421-3</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>809-820-2727</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 150</td>
+        <td>2021</td>
+        <td>TARPCK50XMC000370</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-05-06 12:50:34</td>
+        <td align="right">06-05-2021</td>
+        <td align="right">06-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003345</td>
+        <td>EDWAR AYASMIL</td>
+        <td>ESCOTO MARTINEZ</td>
+        <td>402-2496905-1</td>
+        <td>SANTIAGO</td>
+        <td></td>
+        <td>829-821-0824</td>
+        <td>Motocicleta</td>
+        <td>BERETTA</td>
+        <td></td>
+        <td>2017</td>
+        <td>LZ3JL10TH8K100474</td>
+        <td align="right">K1631938</td>
+        <td align="right">2021-05-06 14:03:48</td>
+        <td align="right">06-05-2021</td>
+        <td align="right">06-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003346</td>
+        <td>JOEL ANTONIO</td>
+        <td>CASTRO CEDENO</td>
+        <td>026-0121884-1</td>
+        <td>BAVARO</td>
+        <td></td>
+        <td>829-367-9147</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>HIGHLANDER</td>
+        <td>2004</td>
+        <td>JTEGP21A640032918</td>
+        <td align="right">G99993</td>
+        <td align="right">2021-05-06 18:58:05</td>
+        <td align="right">06-05-2021</td>
+        <td align="right">06-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,018.75</h4></td>
+</tr></table>

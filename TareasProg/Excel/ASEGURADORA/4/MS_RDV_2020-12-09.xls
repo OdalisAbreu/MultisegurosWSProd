@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 09/12/2020 <b>Hasta:</b> 09/12/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002260</td>
+        <td>VIRGINIA CONCEPCION</td>
+        <td>PICHARDO MINAYA DE NAVARRO</td>
+        <td>001-0084028-9</td>
+        <td>HUSCAR TEJADA RESIDENCIAL BLANCA AURORA ZONA UNIVERSITARIA</td>
+        <td></td>
+        <td>829-380-4063</td>
+        <td>Jeepeta</td>
+        <td>TOYOTA               </td>
+        <td>RAV4</td>
+        <td>2000</td>
+        <td>JT172SC1100234030</td>
+        <td align="right">G114416</td>
+        <td align="right">2020-12-09 14:50:13</td>
+        <td align="right">09-12-2020</td>
+        <td align="right">09-03-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002261</td>
+        <td>JUNIOR BIENVENIDO</td>
+        <td>LARA ARIAS</td>
+        <td>003-0066058-6</td>
+        <td>csan martin no.29 , las tablas</td>
+        <td>PERAVIA</td>
+        <td>829-786-1927</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502608481</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-12-09 16:30:07</td>
+        <td align="right">09-12-2020</td>
+        <td align="right">09-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002262</td>
+        <td>JOSE RAMON </td>
+        <td>SOTO ALCANTARA</td>
+        <td>003-0060729-8</td>
+        <td>cluperon casa 3b,sabana buey</td>
+        <td>PERAVIA</td>
+        <td>829-931-2547</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2020</td>
+        <td>TARPCM507LC002118</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-12-09 16:41:41</td>
+        <td align="right">09-12-2020</td>
+        <td align="right">09-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002263</td>
+        <td>RAFAEL</td>
+        <td>FERNANDEZ UCETA</td>
+        <td>086-0003456-8</td>
+        <td>DAJABON, 08 Casilda Garcia</td>
+        <td></td>
+        <td>809-467-3994</td>
+        <td>Jeep</td>
+        <td>MERCEDES BENZ        </td>
+        <td>ML 430</td>
+        <td>1999</td>
+        <td>4JGAB72E4XA077258</td>
+        <td align="right">G214560</td>
+        <td align="right">2020-12-09 16:57:31</td>
+        <td align="right">09-12-2020</td>
+        <td align="right">09-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002264</td>
+        <td>ERICK ROBERT</td>
+        <td>VARGAS</td>
+        <td>402-1483383-8</td>
+        <td>CARRETERA JANICO KM 112 LOS RANCHOS</td>
+        <td></td>
+        <td>809-664-9434</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>SUZUKI</td>
+        <td>2013</td>
+        <td>LRPRPLB02LA201228</td>
+        <td align="right">XXX</td>
+        <td align="right">2020-12-09 18:56:56</td>
+        <td align="right">09-12-2020</td>
+        <td align="right">09-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,168.75</h4></td>
+</tr></table>

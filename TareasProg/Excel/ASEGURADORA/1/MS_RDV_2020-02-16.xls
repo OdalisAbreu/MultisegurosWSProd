@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 16/02/2020 <b>Hasta:</b> 16/02/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-024667</td>
+        <td>CARLOS JOEL</td>
+        <td>MARTINEZ</td>
+        <td>402-4222376-2</td>
+        <td>CPEDRITO BLANCO LOS TOCONES</td>
+        <td></td>
+        <td>809-295-9953</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1983</td>
+        <td>3YK6228397</td>
+        <td align="right">N9075989</td>
+        <td align="right">2020-02-16 09:57:31</td>
+        <td align="right">16-02-2020</td>
+        <td align="right">16-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-024668</td>
+        <td>SAMUL FRANCISCO</td>
+        <td>SANTANA MARTES</td>
+        <td>402-4058064-3</td>
+        <td>CALLE PUMAROL</td>
+        <td></td>
+        <td>829-455-6577</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>SUZUKI</td>
+        <td>1995</td>
+        <td>BE11A189674</td>
+        <td align="right">XXX</td>
+        <td align="right">2020-02-16 09:58:13</td>
+        <td align="right">16-02-2020</td>
+        <td align="right">16-05-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-024669</td>
+        <td>RAMON AMBIORIX8</td>
+        <td>PENA DURAN</td>
+        <td>068-0026574-3</td>
+        <td>C21 ENERO,ESQ. CESAR EVERTZ NO.19</td>
+        <td></td>
+        <td>809-609-4965</td>
+        <td>Automovil</td>
+        <td>MAZDA                </td>
+        <td>MX-3</td>
+        <td>2007</td>
+        <td>JM1BK123371617252</td>
+        <td align="right">A573550</td>
+        <td align="right">2020-02-16 11:24:51</td>
+        <td align="right">16-02-2020</td>
+        <td align="right">16-05-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-024670</td>
+        <td>RUDDY</td>
+        <td>ORTIZ CAMPUSANO</td>
+        <td>093-0052834-7</td>
+        <td>C PRINCIPAL  EL CARRIL SAN CRISTOBAL</td>
+        <td></td>
+        <td>829-797-7127</td>
+        <td>Motocicleta</td>
+        <td>MAX MOTORS</td>
+        <td></td>
+        <td>2006</td>
+        <td>LLCLPM6007K00711</td>
+        <td align="right">K0005357</td>
+        <td align="right">2020-02-16 12:26:11</td>
+        <td align="right">16-02-2020</td>
+        <td align="right">16-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-024671</td>
+        <td>REYNALDO ANDRES</td>
+        <td>RODRIGUEZ PARRA</td>
+        <td>054-0105982-8</td>
+        <td>M0CA REP. DOM</td>
+        <td></td>
+        <td>809-899-4742</td>
+        <td>Automovil</td>
+        <td>BAJAJ</td>
+        <td>BAJAJ</td>
+        <td>2019</td>
+        <td>MD2A68CYXKWD00015</td>
+        <td align="right">AB14730</td>
+        <td align="right">2020-02-16 13:26:26</td>
+        <td align="right">16-02-2020</td>
+        <td align="right">16-02-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-024672</td>
+        <td>DIEGO EUCLIDES</td>
+        <td>ALVAREZ POLANCO</td>
+        <td>223-0052799-5</td>
+        <td>CALLE3 ESQUINA4 ALPES1 VILLA FARO</td>
+        <td></td>
+        <td>809-236-9058</td>
+        <td>Jeepeta</td>
+        <td>SUZUKI               </td>
+        <td>GRAND VITARA</td>
+        <td>2007</td>
+        <td>JS3TD94V174201986</td>
+        <td align="right">G159280</td>
+        <td align="right">2020-02-16 22:41:57</td>
+        <td align="right">16-02-2020</td>
+        <td align="right">16-05-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,190.00</h4></td>
+</tr></table>

@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 12/12/2020 <b>Hasta:</b> 12/12/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002287</td>
+        <td>YELSON ANTONIO</td>
+        <td>ROA MARTINEZ</td>
+        <td>402-2202102-0</td>
+        <td>ceugenio maria de hostos casa 35,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-856-1695</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2021</td>
+        <td>LLCLGL309MA103822</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-12-12 10:11:57</td>
+        <td align="right">12-12-2020</td>
+        <td align="right">12-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002288</td>
+        <td>YURNIO EDUARDO</td>
+        <td>RODRIGUEZ GIL</td>
+        <td>001-0487256-9</td>
+        <td>ABGAIL MEJIA 65</td>
+        <td></td>
+        <td>829-405-0430</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>1998</td>
+        <td>4T1BF22K8WU073390</td>
+        <td align="right">A109997</td>
+        <td align="right">2020-12-12 11:59:47</td>
+        <td align="right">12-12-2020</td>
+        <td align="right">12-03-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002289</td>
+        <td>ENNY QUEURIS</td>
+        <td>FLORIMON REYNOSO</td>
+        <td>136-0013896-3</td>
+        <td>CALLE 06 LOS BORDAS CASA 36</td>
+        <td></td>
+        <td>829-640-2004</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>RX</td>
+        <td>1998</td>
+        <td>MH33HB007WK213867</td>
+        <td align="right">K0117364</td>
+        <td align="right">2020-12-12 13:20:17</td>
+        <td align="right">12-12-2020</td>
+        <td align="right">12-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002290</td>
+        <td>JOSE ALBERTO</td>
+        <td>BAEZ DE LA ROSA</td>
+        <td>003-0128217-4</td>
+        <td>CRESTAURACION NO.25, QUIJA QUIETA</td>
+        <td>PERAVIA</td>
+        <td>829-201-2219</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C70</td>
+        <td>1998</td>
+        <td>C705547803</td>
+        <td align="right">N061448</td>
+        <td align="right">2020-12-12 14:26:12</td>
+        <td align="right">12-12-2020</td>
+        <td align="right">12-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002291</td>
+        <td>WARLIN JOEL</td>
+        <td>PEÑA</td>
+        <td>402-1329828-0</td>
+        <td>c27 de febrero al arcides en quija quieta</td>
+        <td>PERAVIA</td>
+        <td>829-325-1929</td>
+        <td>Minivan (Hasta 15 Pasajeros)</td>
+        <td>HONDA                </td>
+        <td>ODYSSEY</td>
+        <td>2003</td>
+        <td>5FNRL18003B061492</td>
+        <td align="right">I049703</td>
+        <td align="right">2020-12-12 15:42:25</td>
+        <td align="right">12-12-2020</td>
+        <td align="right">12-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">4,575.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002292</td>
+        <td>ANA MIGUELINA </td>
+        <td>DUME PIMENTEL</td>
+        <td>003-0081709-5</td>
+        <td>cmaria trinidad sanchez casa 21,fundacion</td>
+        <td>PERAVIA</td>
+        <td>809-452-8062</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2020</td>
+        <td>L5YTCKPA7L1126619</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-12-12 16:29:35</td>
+        <td align="right">12-12-2020</td>
+        <td align="right">12-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>6,006.25</h4></td>
+</tr></table>

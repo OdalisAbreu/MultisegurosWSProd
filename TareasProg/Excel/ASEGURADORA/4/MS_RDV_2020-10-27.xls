@@ -1,0 +1,355 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 27/10/2020 <b>Hasta:</b> 27/10/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001979</td>
+        <td>JUAN</td>
+        <td>OTANO OTANO</td>
+        <td>011-0018298-7</td>
+        <td>EL QUEMAO LAS MATAS DEFALFAN SAN JUAN MAGUAN</td>
+        <td></td>
+        <td>809-454-1701</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2008</td>
+        <td>LC8PAGA1180822972</td>
+        <td align="right">K0315608</td>
+        <td align="right">2020-10-27 09:42:36</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001980</td>
+        <td>JOSE GABRIEL </td>
+        <td>HEINSEN RIZEK</td>
+        <td>001-1847970-8</td>
+        <td>ARROYO HONDO</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-627-6778</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>350 Z</td>
+        <td>2003</td>
+        <td>JN1GAAZ33Z0000403</td>
+        <td align="right">A274277</td>
+        <td align="right">2020-10-27 10:45:20</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001981</td>
+        <td>JOSE ANTONIO</td>
+        <td>MOJICA</td>
+        <td>003-0008324-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-986-0163</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>1994</td>
+        <td>TARPCM502LC002818</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-27 12:07:08</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001982</td>
+        <td>MAURO ALEXIS</td>
+        <td>GOMEZ ARAUJO</td>
+        <td>003-0097051-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-269-2114</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD902612946</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-27 13:14:45</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001983</td>
+        <td>CARLOS JAVIER </td>
+        <td>QUEZADA NEWMAN</td>
+        <td>001-1894230-9</td>
+        <td>C CORONEL FERNANDEZ NO. 09</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-760-4550</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA55J085989</td>
+        <td align="right">0000000000</td>
+        <td align="right">2020-10-27 13:15:09</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001984</td>
+        <td>SANTA BERENICE</td>
+        <td>MARTINEZ BAUTISTA</td>
+        <td>003-0079282-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-645-3418</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J660681</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-27 14:30:08</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001985</td>
+        <td>EMILIANO ANTONIO</td>
+        <td>CASTILLO</td>
+        <td>013-0011364-2</td>
+        <td>CPADRE BILLINI NO.3, ARROYO HONDO</td>
+        <td>PERAVIA</td>
+        <td>809-207-8423</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>PICK UP </td>
+        <td>1982</td>
+        <td>JT4RN34R7C0040079</td>
+        <td align="right">L049802</td>
+        <td align="right">2020-10-27 15:17:41</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-001986</td>
+        <td>MARCO ANTONIO </td>
+        <td>ZAPATA GONZALEZ</td>
+        <td>003-0104603-3</td>
+        <td>CPRINCIPAL , EL CRUCE DE ARROYO HONDO </td>
+        <td>PERAVIA</td>
+        <td>829-882-5566</td>
+        <td>Grua</td>
+        <td>INTERNATIONAL        </td>
+        <td>INTERNATIONAL </td>
+        <td>1986</td>
+        <td>1HTLAHEK5GHA64393</td>
+        <td align="right">L320219</td>
+        <td align="right">2020-10-27 15:43:15</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">6,775.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-001987</td>
+        <td>LUIS ALBERTO</td>
+        <td>PEÑA MEDINA</td>
+        <td>003-0105939-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-529-8009</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451308576</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-27 16:10:14</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-001988</td>
+        <td>NELSON JULIO</td>
+        <td>HERRERA GUERRERO</td>
+        <td>402-2257441-6</td>
+        <td>LA ROMANA</td>
+        <td></td>
+        <td>829-274-9601</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1997</td>
+        <td>2T1BA02E3VC168808</td>
+        <td align="right">A421673</td>
+        <td align="right">2020-10-27 16:28:57</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>11</td>
+        <td>AUTO-AT-001989</td>
+        <td>JOSE MIGUEL </td>
+        <td>GONZALEZ PEÑA</td>
+        <td>402-2212170-5</td>
+        <td>cduarte casa 38,los tumbaos </td>
+        <td>PERAVIA</td>
+        <td>829-630-0176</td>
+        <td>Automovil</td>
+        <td>MERCEDES BENZ        </td>
+        <td>CLA 250</td>
+        <td>2014</td>
+        <td>WDDSJ4EB6EN041773</td>
+        <td align="right">A680240</td>
+        <td align="right">2020-10-27 17:03:32</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>12</td>
+        <td>AUTO-AT-001990</td>
+        <td>ARGELIS VLADIMIR</td>
+        <td>VILLEGAS NUÑEZ</td>
+        <td>402-2230476-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-654-9054</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191215799</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-27 17:33:05</td>
+        <td align="right">27-10-2020</td>
+        <td align="right">27-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>16,800.00</h4></td>
+</tr></table>

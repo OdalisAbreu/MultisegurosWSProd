@@ -1,0 +1,139 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 17/01/2021 <b>Hasta:</b> 17/01/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002545</td>
+        <td>CESAR FRANCISCO</td>
+        <td>AQUINO GUZMAN</td>
+        <td>082-0019207-1</td>
+        <td>CPRINCIPAL 82B,LOS MOÑOS, LAS MERCEDES</td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-285-8524</td>
+        <td>Jeep</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2014</td>
+        <td>5J6RM3H72EL025349</td>
+        <td align="right">X517469</td>
+        <td align="right">2021-01-17 09:39:41</td>
+        <td align="right">17-01-2021</td>
+        <td align="right">17-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002546</td>
+        <td>RAMON HOMERO</td>
+        <td>BELLO VALDEZ</td>
+        <td>016-0016938-5</td>
+        <td>C3 N3</td>
+        <td></td>
+        <td>829-650-2701</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TACOMA</td>
+        <td>2004</td>
+        <td>5TENL42N24Z466032</td>
+        <td align="right">L253857</td>
+        <td align="right">2021-01-17 13:28:24</td>
+        <td align="right">17-01-2021</td>
+        <td align="right">17-04-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">618.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002547</td>
+        <td>ALEXI </td>
+        <td>PINALES HERNA</td>
+        <td>001-1054100-0</td>
+        <td>Calle 22 casa 111 Sector Lebron Los Alcarrizos.</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-865-3181</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>1998</td>
+        <td>1HGFJ6671XL010007</td>
+        <td align="right">A415875</td>
+        <td align="right">2021-01-17 18:24:52</td>
+        <td align="right">17-01-2021</td>
+        <td align="right">17-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,368.75</h4></td>
+</tr></table>

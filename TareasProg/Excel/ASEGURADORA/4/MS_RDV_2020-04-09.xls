@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 09/04/2020 <b>Hasta:</b> 09/04/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000786</td>
+        <td>ADONIS</td>
+        <td>LOPEZ</td>
+        <td>402-3546861-4</td>
+        <td>MOCA</td>
+        <td></td>
+        <td>829-210-2020</td>
+        <td>Motocicleta</td>
+        <td>MUSASHI              </td>
+        <td>MUSASHI </td>
+        <td>2013</td>
+        <td>GCLPCM505CC000392</td>
+        <td align="right">N944362</td>
+        <td align="right">2020-04-09 10:46:00</td>
+        <td align="right">09-04-2020</td>
+        <td align="right">09-04-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000787</td>
+        <td>ENMANUEL DE JESUS</td>
+        <td>GARCIA HENRIQUEZ</td>
+        <td>402-4652293-8</td>
+        <td>MOCA</td>
+        <td></td>
+        <td>809-449-5091</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2014</td>
+        <td>TARPCM500EC004019</td>
+        <td align="right">K0335080</td>
+        <td align="right">2020-04-09 10:53:34</td>
+        <td align="right">09-04-2020</td>
+        <td align="right">09-07-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000788</td>
+        <td>SANDI DE JESUS</td>
+        <td>FERNANDEZ REYES</td>
+        <td>054-0150833-7</td>
+        <td>MOCA</td>
+        <td></td>
+        <td>809-208-1031</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>Z3000</td>
+        <td>2019</td>
+        <td>LBEPCX14TKB148857</td>
+        <td align="right">00000</td>
+        <td align="right">2020-04-09 10:59:14</td>
+        <td align="right">09-04-2020</td>
+        <td align="right">09-07-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000789</td>
+        <td>KELVIN JOHAN</td>
+        <td>SANTOS</td>
+        <td>402-0871293-1</td>
+        <td>MOCA</td>
+        <td></td>
+        <td>829-272-2949</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>SUZUKI</td>
+        <td>1994</td>
+        <td>CF46A111695</td>
+        <td align="right">0000</td>
+        <td align="right">2020-04-09 11:05:36</td>
+        <td align="right">09-04-2020</td>
+        <td align="right">09-07-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000790</td>
+        <td>FRANKLIN ANTONIO</td>
+        <td>BAEZ SILVERIO</td>
+        <td>054-0112543-9</td>
+        <td>MOCA</td>
+        <td></td>
+        <td>809-428-1372</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1981</td>
+        <td>C500492783</td>
+        <td align="right">NQD717</td>
+        <td align="right">2020-04-09 11:12:12</td>
+        <td align="right">09-04-2020</td>
+        <td align="right">09-07-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-000791</td>
+        <td>ELFRY JOSE</td>
+        <td>SANTOS CANDELIER</td>
+        <td>402-1515013-3</td>
+        <td>MOCA</td>
+        <td></td>
+        <td>829-686-1025</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ7775476</td>
+        <td align="right">0000</td>
+        <td align="right">2020-04-09 11:21:51</td>
+        <td align="right">09-04-2020</td>
+        <td align="right">09-07-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>618.75</h4></td>
+</tr></table>

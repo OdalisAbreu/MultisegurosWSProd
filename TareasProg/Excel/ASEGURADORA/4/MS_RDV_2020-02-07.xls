@@ -1,0 +1,163 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 07/02/2020 <b>Hasta:</b> 07/02/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000535</td>
+        <td>DAYVI ALEXANDER </td>
+        <td>PIMENTEL MATEO</td>
+        <td>003-0104658-7</td>
+        <td>VILLA SOMBRERO BANI</td>
+        <td>PERAVIA</td>
+        <td>829-619-0074</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>RX</td>
+        <td>1999</td>
+        <td>MH33HB007WK219392</td>
+        <td align="right">K0780289</td>
+        <td align="right">2020-02-07 16:36:44</td>
+        <td align="right">07-02-2020</td>
+        <td align="right">07-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000536</td>
+        <td>RAFAEL LEONIDAS </td>
+        <td>AGUASVIVAS MEJIA</td>
+        <td>003-0105740-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-461-7948</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J*28220</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-02-07 17:10:18</td>
+        <td align="right">07-02-2020</td>
+        <td align="right">07-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000537</td>
+        <td>FELIX RADHAMES </td>
+        <td>SANTANA LUGO</td>
+        <td>402-2469800-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-525-2792</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>3KJ1996804</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-02-07 18:16:01</td>
+        <td align="right">07-02-2020</td>
+        <td align="right">07-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000538</td>
+        <td>OLIVER</td>
+        <td>DURAN ENCARNACION</td>
+        <td>136-0021149-7</td>
+        <td>LAS TERRENAS</td>
+        <td></td>
+        <td>829-877-2826</td>
+        <td>Motocicleta</td>
+        <td>PGO                  </td>
+        <td></td>
+        <td>2010</td>
+        <td>RFVCPC5A1010993</td>
+        <td align="right">K0496032</td>
+        <td align="right">2020-02-07 18:25:11</td>
+        <td align="right">07-02-2020</td>
+        <td align="right">07-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,500.00</h4></td>
+</tr></table>

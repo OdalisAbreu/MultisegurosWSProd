@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 03/10/2020 <b>Hasta:</b> 03/10/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001822</td>
+        <td>ANGEL AUGUSTO</td>
+        <td>NIVAR MARCANO</td>
+        <td>003-0042948-7</td>
+        <td>CHERMANAS MIRABAL CASA NO.44, LOS TUMBAOS </td>
+        <td>PERAVIA</td>
+        <td>809-929-4662</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502214017</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-10-03 09:12:33</td>
+        <td align="right">03-10-2020</td>
+        <td align="right">03-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001823</td>
+        <td>FLOR MARIA</td>
+        <td>BAEZ BREA</td>
+        <td>003-0092973-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-297-6566</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>1994</td>
+        <td>LYDTCJNA2L1200083</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-03 13:33:34</td>
+        <td align="right">03-10-2020</td>
+        <td align="right">03-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001824</td>
+        <td>JUAN CARLOS</td>
+        <td>MEJIA AGUASVIVAS</td>
+        <td>003-0120857-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-606-3960</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>1994</td>
+        <td>LRPYCMLY3L0361120</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-03 14:09:50</td>
+        <td align="right">03-10-2020</td>
+        <td align="right">03-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001825</td>
+        <td>DOMINGO ALBERTO </td>
+        <td>RUIZ RODRIGUEZ </td>
+        <td>003-0120678-5</td>
+        <td>cprincipal no 6 los tumbaos </td>
+        <td>PERAVIA</td>
+        <td>809-530-1279</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2019</td>
+        <td>TARPCM50XKC000684</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-10-03 14:41:01</td>
+        <td align="right">03-10-2020</td>
+        <td align="right">03-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001826</td>
+        <td>VANESSA STEFHANIA</td>
+        <td>VILLAR TURBI</td>
+        <td>402-005559-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-844-8289</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J552621</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-03 15:19:08</td>
+        <td align="right">03-10-2020</td>
+        <td align="right">03-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001827</td>
+        <td>KASSANDRA ESTEFANIA</td>
+        <td>PEREZ MEJIA</td>
+        <td>003-0120525-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-792-7593</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J576746</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-03 16:36:27</td>
+        <td align="right">03-10-2020</td>
+        <td align="right">03-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,650.00</h4></td>
+</tr></table>

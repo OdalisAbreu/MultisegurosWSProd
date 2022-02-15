@@ -1,0 +1,128 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Asistencia Vial (Grua)
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 31/03/2021 <b>Hasta:</b> 31/03/2021
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		01:00:02
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>AUTO-AT-003094</td>
+        <td>DIOMEDES ANTONIO</td>
+        <td>PEREZ CUEVAS</td>
+        <td>091-0000318-6</td>
+        <td></td>
+        <td>829-365-6195</td>
+        <td>Camioneta</td>
+        <td>ISUZU                </td>
+        <td></td>
+        <td>2014</td>
+        <td>MPATFR86JET000116</td>
+        <td>L325498</td>
+        <td>11:46:17</td>
+		<td>41351</td>
+        <td>31 de  Marzo del 2021</td>
+        <td>31 de  Marzo del 2022</td>
+        <td>$600.00</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>AUTO-MSD-035986</td>
+        <td>DAVID EMERITO</td>
+        <td>MARTE REYES</td>
+        <td>025-0040354-4</td>
+        <td></td>
+        <td>829-388-8924</td>
+        <td>Jeep</td>
+        <td>FORD                 </td>
+        <td>ESCAPE</td>
+        <td>2014</td>
+        <td>1FMCU9GX0EUB37508</td>
+        <td>G489729</td>
+        <td>10:28:36</td>
+		<td>41342</td>
+        <td>31 de  Marzo del 2021</td>
+        <td>31 de  Marzo del 2022</td>
+        <td>$1,200.00</td>
+   </tr>
+	<tr>
+   		<td>3</td>
+        <td>AUTO-MSD-035977</td>
+        <td>DOLORES</td>
+        <td>CIPION MESA</td>
+        <td>108-0005269-7</td>
+        <td>SAN JUAN</td>
+        <td>809-252-6311</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>FIT</td>
+        <td>2014</td>
+        <td>GK63000978</td>
+        <td>A900782</td>
+        <td>09:36:04</td>
+		<td>41333</td>
+        <td>31 de  Marzo del 2021</td>
+        <td>31 de  Marzo del 2022</td>
+        <td>$1,800.00</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$3,600.00</td>
+   </tr>
+</table>

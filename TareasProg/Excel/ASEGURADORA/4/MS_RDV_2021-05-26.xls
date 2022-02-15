@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 26/05/2021 <b>Hasta:</b> 26/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003471</td>
+        <td>CARLOS MANUEL</td>
+        <td>RAVELO VIZCAINO</td>
+        <td>003-0086493-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-843-0505</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2021</td>
+        <td>LM0CHV8C2L1904697</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-05-26 09:10:41</td>
+        <td align="right">26-05-2021</td>
+        <td align="right">26-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003472</td>
+        <td>FAUSTINO</td>
+        <td>FELIZ FELIZ</td>
+        <td>026-0087845-4</td>
+        <td>TARINDO FRENTE A LAIGLEISIA PILIER</td>
+        <td></td>
+        <td>809-497-2811</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2013</td>
+        <td>XF1NC1102DL503133</td>
+        <td align="right">K0245768</td>
+        <td align="right">2021-05-26 09:47:59</td>
+        <td align="right">26-05-2021</td>
+        <td align="right">26-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003473</td>
+        <td>YDELIO AMADO</td>
+        <td>ARIAS SANTANA</td>
+        <td>003-0070815-3</td>
+        <td>crogelio medina casa 8,el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-393-2773</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 150</td>
+        <td>2020</td>
+        <td>TARPCK508LC000172</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-26 10:09:17</td>
+        <td align="right">26-05-2021</td>
+        <td align="right">26-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003474</td>
+        <td>RAFAEL EMILIO</td>
+        <td>MARTINEZ PIMENTEL</td>
+        <td>003-0076216-8</td>
+        <td>Calle 5, 16, Santa Elena, Bani</td>
+        <td>PERAVIA</td>
+        <td>829-757-3866</td>
+        <td>Van (Hasta 15 Pasajeros)</td>
+        <td>HONDA                </td>
+        <td>ODYSSEY</td>
+        <td>2005</td>
+        <td>5FNRL38755B122508</td>
+        <td align="right">I053628</td>
+        <td align="right">2021-05-26 10:19:04</td>
+        <td align="right">26-05-2021</td>
+        <td align="right">26-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,143.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003475</td>
+        <td>JUAN ALEXANDER</td>
+        <td>MATEO SANTOS</td>
+        <td>082-0029338-2</td>
+        <td>Calle Sánchez No.19, Sector Barrio Viejo</td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-452-4183</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>1997</td>
+        <td>2HGEJ864XVH511408</td>
+        <td align="right">A299344</td>
+        <td align="right">2021-05-26 11:51:54</td>
+        <td align="right">26-05-2021</td>
+        <td align="right">26-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003476</td>
+        <td>DAVID IGNACIO</td>
+        <td>DIAZ OCHOA</td>
+        <td>402-4004281-8</td>
+        <td>cmaximo gomez casa 17,palmar de ocoa</td>
+        <td>PERAVIA</td>
+        <td>829-217-3710</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2021</td>
+        <td>LRPYCMLY3M3301168</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-26 16:23:14</td>
+        <td align="right">26-05-2021</td>
+        <td align="right">26-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003477</td>
+        <td>TOMAS LEONIDAS </td>
+        <td>GUERRERO TEJEDA</td>
+        <td>001-0713873-7</td>
+        <td>cm bloque 2 casa 2 la feria ,santo domingo</td>
+        <td>SANTO DOMINGO</td>
+        <td>809-605-2945</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502214004</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-26 16:54:39</td>
+        <td align="right">26-05-2021</td>
+        <td align="right">26-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-003478</td>
+        <td>RADHAMES DAVID </td>
+        <td>RECIO ANDUJAR</td>
+        <td>003-0059156-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-340-6761</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451424587</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-05-26 17:30:44</td>
+        <td align="right">26-05-2021</td>
+        <td align="right">26-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>200,000</td>
+        <td align="right">570.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-003479</td>
+        <td>LYNN </td>
+        <td>BETANCES PAGAN</td>
+        <td>402-2000245-1</td>
+        <td>C ERCILIA PEPIN NO. 2</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-729-8645</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>GIORNO</td>
+        <td>1994</td>
+        <td>AF701036879</td>
+        <td align="right">0000000000</td>
+        <td align="right">2021-05-26 18:10:09</td>
+        <td align="right">26-05-2021</td>
+        <td align="right">26-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,238.75</h4></td>
+</tr></table>

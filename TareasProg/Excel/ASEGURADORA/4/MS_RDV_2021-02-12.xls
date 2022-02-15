@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 12/02/2021 <b>Hasta:</b> 12/02/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002735</td>
+        <td>DAVID ERNESTO</td>
+        <td>LARA VILLAR</td>
+        <td>003-0042350-6</td>
+        <td>cmella casa 09,quija quieta</td>
+        <td>PERAVIA</td>
+        <td>809-297-0203</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502600804</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-12 09:45:15</td>
+        <td align="right">12-02-2021</td>
+        <td align="right">12-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002736</td>
+        <td>LUIS ALFREDO</td>
+        <td>COCA</td>
+        <td>001-1588236-7</td>
+        <td>barrio brisas del este casa 18,arroyo hondo</td>
+        <td>PERAVIA</td>
+        <td>829-288-6571</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD90</td>
+        <td>1994</td>
+        <td>MD902607854</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-12 11:57:28</td>
+        <td align="right">12-02-2021</td>
+        <td align="right">12-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002737</td>
+        <td>LUIS EMILIO </td>
+        <td>ROA CHALA</td>
+        <td>002-0006702-3</td>
+        <td>clas calderas casa 36,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-439-7635</td>
+        <td>Camion Volteo</td>
+        <td>NISSAN               </td>
+        <td>NISSAN </td>
+        <td>1976</td>
+        <td>UL78009972</td>
+        <td align="right">L095642</td>
+        <td align="right">2021-02-12 15:20:51</td>
+        <td align="right">12-02-2021</td>
+        <td align="right">12-02-2022</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">7,275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002738</td>
+        <td>WILMER AUGUSTO</td>
+        <td>MARTINEZ SOTO</td>
+        <td>402-0983810-7</td>
+        <td>ccarlos julio tejeda no.19, matanzas</td>
+        <td>PERAVIA</td>
+        <td>809-522-0897</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>LEAD</td>
+        <td>2021</td>
+        <td>L5YTCKPAXL1172493</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-12 15:57:40</td>
+        <td align="right">12-02-2021</td>
+        <td align="right">12-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002739</td>
+        <td>WILMA MIRELIS </td>
+        <td>CALDERON SERRANO</td>
+        <td>402-2731615-1</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>809-357-1565</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>SA16J454783</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-12 16:00:05</td>
+        <td align="right">12-02-2021</td>
+        <td align="right">12-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002740</td>
+        <td>SUSANNYS</td>
+        <td>ISA TEJEDA</td>
+        <td>001-1513502-2</td>
+        <td>AV.MONUMENTAL RES. MONUMENTAL</td>
+        <td></td>
+        <td>809-856-6526</td>
+        <td>Jeep</td>
+        <td>MERCEDES BENZ        </td>
+        <td>GL320</td>
+        <td>2008</td>
+        <td>WDC1648221A334357</td>
+        <td align="right">G178596</td>
+        <td align="right">2021-02-12 16:09:54</td>
+        <td align="right">12-02-2021</td>
+        <td align="right">12-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>1,000,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002741</td>
+        <td>YEURIS</td>
+        <td>DIAZ MARIÑEZ</td>
+        <td>003-0046603-4</td>
+        <td>cluperon casa 26,villa sombrero</td>
+        <td>PERAVIA</td>
+        <td>809-424-9734</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502302159</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-12 16:18:11</td>
+        <td align="right">12-02-2021</td>
+        <td align="right">12-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002742</td>
+        <td>YEURIS</td>
+        <td>DIAZ MARIÑEZ</td>
+        <td>003-0046603-4</td>
+        <td>cluperon casa 26,villa sombrero</td>
+        <td>PERAVIA</td>
+        <td>809-424-9734</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502403541</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-12 16:23:48</td>
+        <td align="right">12-02-2021</td>
+        <td align="right">12-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002743</td>
+        <td>ANGEL MANUEL</td>
+        <td>MARTINEZ ROSARIO</td>
+        <td>001-1690191-9</td>
+        <td>CALLE MANUEL GOMEZ</td>
+        <td></td>
+        <td>829-394-6154</td>
+        <td>Jeep</td>
+        <td>HYUNDAI              </td>
+        <td>TUCSON</td>
+        <td>2005</td>
+        <td>KM8JM12BX5U191127</td>
+        <td align="right">G262842</td>
+        <td align="right">2021-02-12 16:55:05</td>
+        <td align="right">12-02-2021</td>
+        <td align="right">12-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002744</td>
+        <td>JHOEL MIGUELIN</td>
+        <td>ROA SANTANA</td>
+        <td>003-0110825-4</td>
+        <td>ccaamaño deño,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-470-6397</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2021</td>
+        <td>LLCLGL307MA106346</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-12 17:41:55</td>
+        <td align="right">12-02-2021</td>
+        <td align="right">12-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>12,518.75</h4></td>
+</tr></table>

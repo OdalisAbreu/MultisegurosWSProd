@@ -1,0 +1,108 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Plan Plus (Veh. Livianos) Exceso R/C RD$1,000,000
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 31/05/2021 <b>Hasta:</b> 31/05/2021
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		01:00:02
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>EX-AT-003515</td>
+        <td>SANTO SEFERINO </td>
+        <td>GUZMAN GONZALES</td>
+        <td>003-0056876-3</td>
+        <td>PERAVIA</td>
+        <td>809-703-6221</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>VITZ</td>
+        <td>2008</td>
+        <td>SC0902072935</td>
+        <td>A636043</td>
+        <td>08:19:15</td>
+		<td>43461</td>
+        <td>10 de  Junio del 2021</td>
+        <td>10 de  Junio del 2022</td>
+        <td>$281.55</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>EX-DOM-037673</td>
+        <td>JOSE</td>
+        <td>GRULLON</td>
+        <td>001-1203330-3</td>
+        <td>PUERTO PLATA</td>
+        <td>809-787-6716</td>
+        <td>Automovil</td>
+        <td>KIA                  </td>
+        <td>FORTE</td>
+        <td>2021</td>
+        <td>ADFASDFASDF</td>
+        <td>ASDFASDFAS</td>
+        <td>04:19:54</td>
+		<td>43451</td>
+        <td>31 de  Mayo del 2021</td>
+        <td>31 de  Agosto del 2021</td>
+        <td>$351.94</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$633.49</td>
+   </tr>
+</table>

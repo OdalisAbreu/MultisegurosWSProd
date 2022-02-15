@@ -1,0 +1,139 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 02/12/2020 <b>Hasta:</b> 02/12/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002211</td>
+        <td>EDDY </td>
+        <td>RUIZ</td>
+        <td>003-0042542-8</td>
+        <td>cflorentino hatton,esquina sanchez,sabana buey</td>
+        <td>PERAVIA</td>
+        <td>829-639-6900</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2021</td>
+        <td>LLCLGL303MA104061</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-12-02 09:58:51</td>
+        <td align="right">02-12-2020</td>
+        <td align="right">02-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002212</td>
+        <td>SANDY JOSE</td>
+        <td>BUENO SEPULVEDA</td>
+        <td>031-0506164-6</td>
+        <td>MANOLO JUSTO 20 B. LINDO STGO</td>
+        <td></td>
+        <td>809-517-2218</td>
+        <td>Camion</td>
+        <td>DAIHATSU             </td>
+        <td>DELTA</td>
+        <td>2003</td>
+        <td>V11620095</td>
+        <td align="right">L141496</td>
+        <td align="right">2020-12-02 17:01:42</td>
+        <td align="right">02-12-2020</td>
+        <td align="right">02-12-2021</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">7,275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002213</td>
+        <td>PANTALEON</td>
+        <td>PUELLO GUZMAN</td>
+        <td>100-0006418-7</td>
+        <td>HIGUEY ANAMUYA CALLE 19 CASA 7</td>
+        <td></td>
+        <td>809-218-4177</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2006</td>
+        <td>LC6PAGA1160805246</td>
+        <td align="right">K1814942</td>
+        <td align="right">2020-12-02 17:15:02</td>
+        <td align="right">02-12-2020</td>
+        <td align="right">02-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>7,825.00</h4></td>
+</tr></table>

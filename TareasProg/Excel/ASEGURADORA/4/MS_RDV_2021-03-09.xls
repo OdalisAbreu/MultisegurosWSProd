@@ -1,0 +1,139 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 09/03/2021 <b>Hasta:</b> 09/03/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002908</td>
+        <td>SANTO SEFERINO</td>
+        <td>GUZMAN GONZALEZ</td>
+        <td>003-0056876-3</td>
+        <td>prol. 27 de febrero casa 84</td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-703-6221</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1994</td>
+        <td>MD503605513</td>
+        <td align="right">K0797547</td>
+        <td align="right">2021-03-09 10:08:47</td>
+        <td align="right">09-03-2021</td>
+        <td align="right">09-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002909</td>
+        <td>KELVIN ANTONIO </td>
+        <td>VILLAR PRESINAL</td>
+        <td>013-0054246-9</td>
+        <td>CDOMINGO DE ORTIZ NO.5, MATANZAS </td>
+        <td>PERAVIA</td>
+        <td>829-233-6865</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191228423</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-09 15:45:01</td>
+        <td align="right">09-03-2021</td>
+        <td align="right">09-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002910</td>
+        <td>NELSON ALBERTO</td>
+        <td>BAEZ SOTO</td>
+        <td>402-2361006-0</td>
+        <td>C3 CASA NO.05 VILLA REAL </td>
+        <td>PERAVIA</td>
+        <td>829-786-1362</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>LEAD</td>
+        <td>2021</td>
+        <td>LZRK1F004L1002406</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-03-09 16:09:26</td>
+        <td align="right">09-03-2021</td>
+        <td align="right">09-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>825.00</h4></td>
+</tr></table>

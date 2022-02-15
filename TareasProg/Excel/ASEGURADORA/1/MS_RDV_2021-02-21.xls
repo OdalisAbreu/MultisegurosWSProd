@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 21/02/2021 <b>Hasta:</b> 21/02/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-034977</td>
+        <td>DINORAH DEL CARMEN</td>
+        <td>ESPINAL DIAZ</td>
+        <td>031-0289309-0</td>
+        <td>Las pinas los  ciruelitos</td>
+        <td></td>
+        <td>809-857-9082</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>TERCEL</td>
+        <td>1988</td>
+        <td>JT2EL32N0J0266002</td>
+        <td align="right">A236691</td>
+        <td align="right">2021-02-21 09:18:39</td>
+        <td align="right">21-02-2021</td>
+        <td align="right">21-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-034978</td>
+        <td>Ariel</td>
+        <td>Martinez</td>
+        <td>037-0082431-5</td>
+        <td>San Marcos</td>
+        <td>PUERTO PLATA</td>
+        <td>809-986-5167</td>
+        <td>Jeep</td>
+        <td>FORD                 </td>
+        <td>ESCAPE</td>
+        <td>2014</td>
+        <td>1FMCU0G99EUD32956</td>
+        <td align="right">G411183</td>
+        <td align="right">2021-02-21 09:32:21</td>
+        <td align="right">21-02-2021</td>
+        <td align="right">21-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-034979</td>
+        <td>ROSA</td>
+        <td>MEJIA DOROTEO</td>
+        <td>028-0043671-5</td>
+        <td>HIGUEY ANAMUYA C 7 CASA 44</td>
+        <td></td>
+        <td>829-444-3535</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NC-90</td>
+        <td>2016</td>
+        <td>XF1NC090AGL010406</td>
+        <td align="right">K1233818</td>
+        <td align="right">2021-02-21 10:10:23</td>
+        <td align="right">21-02-2021</td>
+        <td align="right">21-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-034980</td>
+        <td>JOSE GABRIEL</td>
+        <td>BREA RIVAS</td>
+        <td>001-1842919-0</td>
+        <td>CALLE A 45 Res.Alexandra Km.7 12 Av. Independencia</td>
+        <td></td>
+        <td>809-423-1190</td>
+        <td>Jeepeta</td>
+        <td>CHEVROLET            </td>
+        <td>TAHOE</td>
+        <td>2010</td>
+        <td>1GNUKCE07AR165764</td>
+        <td align="right">G230264</td>
+        <td align="right">2021-02-21 10:13:45</td>
+        <td align="right">21-02-2021</td>
+        <td align="right">21-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-034981</td>
+        <td>JOSE OSVALDO</td>
+        <td>RODRIGUEZ CRUZ</td>
+        <td>001-1066455-4</td>
+        <td>LOS CIRUELITOS</td>
+        <td></td>
+        <td>829-578-7424</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>FRONTIER</td>
+        <td>2001</td>
+        <td>1N6ED27Y81C323002</td>
+        <td align="right">L249852</td>
+        <td align="right">2021-02-21 11:03:05</td>
+        <td align="right">21-02-2021</td>
+        <td align="right">21-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-034982</td>
+        <td>JOSE RAMON</td>
+        <td>MARMOLEJOS RODRIGUEZ</td>
+        <td>037-0073510-7</td>
+        <td>LOS LIMONES C6</td>
+        <td></td>
+        <td>829-759-2111</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td></td>
+        <td>2007</td>
+        <td>LF3PAG4A07B011684</td>
+        <td align="right">N358301</td>
+        <td align="right">2021-02-21 12:09:58</td>
+        <td align="right">21-02-2021</td>
+        <td align="right">21-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-MSD-034983</td>
+        <td>RAMON ANTONIO</td>
+        <td>PANIAGUA CARELA</td>
+        <td>402-2143453-9</td>
+        <td>Duarte Vieja 193, Guananitos</td>
+        <td></td>
+        <td>829-648-4450</td>
+        <td>Automovil</td>
+        <td>VOLKSWAGEN           </td>
+        <td>JETTA</td>
+        <td>2001</td>
+        <td>3VWSD29M41M056209</td>
+        <td align="right">A439528</td>
+        <td align="right">2021-02-21 14:50:29</td>
+        <td align="right">21-02-2021</td>
+        <td align="right">21-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-MSD-034984</td>
+        <td>BLAS</td>
+        <td>DE LOS SANTOS NUNEZ</td>
+        <td>225-0043831-6</td>
+        <td>SAN FELIPE DE VILLA MELLA</td>
+        <td></td>
+        <td>849-635-1305</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2021</td>
+        <td>MDZA76AX9MWG47933</td>
+        <td align="right">NO TIENE</td>
+        <td align="right">2021-02-21 16:36:11</td>
+        <td align="right">21-02-2021</td>
+        <td align="right">21-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>7,518.75</h4></td>
+</tr></table>

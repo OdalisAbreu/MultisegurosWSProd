@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 07/02/2021 <b>Hasta:</b> 07/02/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-034677</td>
+        <td>JUAN MANUEL DE JESUS</td>
+        <td>BONILLA JIMENEZ</td>
+        <td>034-0028643-5</td>
+        <td>CALLE COLON NO. 38, BO. NORTE, ESPERANZA, MAO,</td>
+        <td></td>
+        <td>809-512-9494</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td></td>
+        <td>2008</td>
+        <td>JN1CJUD22Z0093162</td>
+        <td align="right">L257617</td>
+        <td align="right">2021-02-07 08:56:02</td>
+        <td align="right">07-02-2021</td>
+        <td align="right">07-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-034678</td>
+        <td>LUIS DANIEL</td>
+        <td>RODRIGUEZ RODRIGUEZ</td>
+        <td>402-1368129-5</td>
+        <td>LOS ALMACIGOS ,LA CANELA</td>
+        <td></td>
+        <td>829-743-2605</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C70</td>
+        <td>1980</td>
+        <td>C70A064079</td>
+        <td align="right">K0247341</td>
+        <td align="right">2021-02-07 09:01:31</td>
+        <td align="right">07-02-2021</td>
+        <td align="right">07-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-034679</td>
+        <td>ADONIS</td>
+        <td>DE JESUS RAMIREZ</td>
+        <td>223-0158478-9</td>
+        <td>WENCESLAO DELA CONCHA 126</td>
+        <td></td>
+        <td>809-720-9644</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>CG150</td>
+        <td>2017</td>
+        <td>LZ3JL4T16G2K78698</td>
+        <td align="right">K1194101</td>
+        <td align="right">2021-02-07 10:08:36</td>
+        <td align="right">07-02-2021</td>
+        <td align="right">07-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-034680</td>
+        <td>RAMON ANTONIO</td>
+        <td>ENCARNACION RUIZ</td>
+        <td>026-0042283-2</td>
+        <td>BUENA VISTA SUR N0. 312</td>
+        <td></td>
+        <td>809-232-7577</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>CG</td>
+        <td>1995</td>
+        <td>00000CG1251221138</td>
+        <td align="right">K0413861</td>
+        <td align="right">2021-02-07 11:08:44</td>
+        <td align="right">07-02-2021</td>
+        <td align="right">07-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-034681</td>
+        <td>AMARILIS</td>
+        <td>MEREDES BRITO</td>
+        <td>008-0018057-2</td>
+        <td>GENERAL MATIAS MORENO</td>
+        <td></td>
+        <td>829-869-5554</td>
+        <td>Jeep</td>
+        <td>MITSUBISHI           </td>
+        <td>ENDEAVOR LS</td>
+        <td>2008</td>
+        <td>4A4MN21SX8E030435</td>
+        <td align="right">G306375</td>
+        <td align="right">2021-02-07 13:20:51</td>
+        <td align="right">07-02-2021</td>
+        <td align="right">07-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-034682</td>
+        <td>ALFREDO ELIAS</td>
+        <td>TAVERAS</td>
+        <td>054-0008066-8</td>
+        <td>MOCA</td>
+        <td></td>
+        <td>809-776-3097</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TACOMA LX</td>
+        <td>2001</td>
+        <td>5TENL42N21Z718194</td>
+        <td align="right">L219550</td>
+        <td align="right">2021-02-07 17:50:30</td>
+        <td align="right">07-02-2021</td>
+        <td align="right">07-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">618.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,387.50</h4></td>
+</tr></table>

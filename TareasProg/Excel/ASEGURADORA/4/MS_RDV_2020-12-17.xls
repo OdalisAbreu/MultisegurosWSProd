@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 17/12/2020 <b>Hasta:</b> 17/12/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002319</td>
+        <td>JACK LUIS</td>
+        <td>MATOS GONZALEZ</td>
+        <td>402-1300773-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-870-4850</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AF181525732</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-17 08:43:52</td>
+        <td align="right">17-12-2020</td>
+        <td align="right">17-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002320</td>
+        <td>JOSEFINA </td>
+        <td>ENCARNACION MEJIA </td>
+        <td>003-0088596-9</td>
+        <td>cprincipal donde marcial comercial,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-497-4770</td>
+        <td>Automovil</td>
+        <td>CHEVROLET            </td>
+        <td>AVEO</td>
+        <td>2011</td>
+        <td>KL1TD6DE7BB255155</td>
+        <td align="right">A762052</td>
+        <td align="right">2020-12-17 09:18:08</td>
+        <td align="right">17-12-2020</td>
+        <td align="right">17-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002321</td>
+        <td>JOSE FRANCISCO</td>
+        <td>LARA MARTINEZ</td>
+        <td>003-0110465-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-497-7150</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451102498</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-17 09:58:24</td>
+        <td align="right">17-12-2020</td>
+        <td align="right">17-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002322</td>
+        <td>JOSE DE JESUS </td>
+        <td>MARTINEZ BRITO</td>
+        <td>001-1653244-1</td>
+        <td>C Principal No. 22, Arroyo Hondo </td>
+        <td>DISTRITO NACIONAL</td>
+        <td>829-846-1854</td>
+        <td>Motocicleta</td>
+        <td>KEEWAY               </td>
+        <td>KEEWAY </td>
+        <td>2019</td>
+        <td>LBBPGM2H8KBA37886</td>
+        <td align="right">K1855335</td>
+        <td align="right">2020-12-17 13:40:36</td>
+        <td align="right">17-12-2020</td>
+        <td align="right">17-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002323</td>
+        <td>RAMON</td>
+        <td>CABRAL</td>
+        <td>028-0068290-4</td>
+        <td>EL TAMARINDO CAVELINOCHALE</td>
+        <td></td>
+        <td>829-638-1162</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>DT</td>
+        <td>2002</td>
+        <td>DE02X005229</td>
+        <td align="right">K0186809</td>
+        <td align="right">2020-12-17 16:54:17</td>
+        <td align="right">17-12-2020</td>
+        <td align="right">17-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,768.75</h4></td>
+</tr></table>

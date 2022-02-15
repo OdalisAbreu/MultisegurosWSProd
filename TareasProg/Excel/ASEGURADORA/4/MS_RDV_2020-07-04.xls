@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 04/07/2020 <b>Hasta:</b> 04/07/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001297</td>
+        <td>SURIS JASMIN</td>
+        <td>DIAZ JIMENEZ DE RAMIREZ</td>
+        <td>003-0082709-4</td>
+        <td>CPENETRACION NO.3 51 LOS MELONES</td>
+        <td>PERAVIA</td>
+        <td>809-501-0511</td>
+        <td>Automovil</td>
+        <td>FORD                 </td>
+        <td>FOCUS</td>
+        <td>2016</td>
+        <td>1FADP3K26GL313467</td>
+        <td align="right">X558807</td>
+        <td align="right">2020-07-04 11:47:59</td>
+        <td align="right">04-07-2020</td>
+        <td align="right">04-10-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001298</td>
+        <td>ALLISON BIENVENIDO </td>
+        <td>GUERRERO BATISTA </td>
+        <td>003-0042797-8</td>
+        <td>COBIDIO TEJEDA NO6 MATANZAS </td>
+        <td>PERAVIA</td>
+        <td>829-425-1706</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>GATO</td>
+        <td>2019</td>
+        <td>LRPRPLB05LA203233</td>
+        <td align="right">TRAMITE </td>
+        <td align="right">2020-07-04 15:05:42</td>
+        <td align="right">04-07-2020</td>
+        <td align="right">04-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001299</td>
+        <td>LUIS MIGUEL</td>
+        <td>SANTANA VISCAINO</td>
+        <td>003-0116861-3</td>
+        <td>DUVERGE</td>
+        <td>PERAVIA</td>
+        <td>829-818-9790</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>ACCORD</td>
+        <td>2016</td>
+        <td>1HGCR2F81GA248078</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-07-04 15:14:05</td>
+        <td align="right">04-07-2020</td>
+        <td align="right">04-07-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001300</td>
+        <td>JORGE BENZANT </td>
+        <td>ISABEL</td>
+        <td>002-0004896-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-836-2366</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502400489</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-04 16:08:46</td>
+        <td align="right">04-07-2020</td>
+        <td align="right">04-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001301</td>
+        <td>JORGE BENZANT </td>
+        <td>ISABEL </td>
+        <td>002-0004896-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-878-5427</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502501387</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-04 16:11:22</td>
+        <td align="right">04-07-2020</td>
+        <td align="right">04-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001302</td>
+        <td>YUDERKIS DAMARIS </td>
+        <td>SOTO CASTILLO </td>
+        <td>003-0075976-8</td>
+        <td>CNICOLAS DE GURIDI NO 6 SABANA BUEY </td>
+        <td>PERAVIA</td>
+        <td>809-522-9679</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>BZ-150</td>
+        <td>2020</td>
+        <td>LZRGOF1AXL1002555</td>
+        <td align="right">TRAMITE </td>
+        <td align="right">2020-07-04 16:44:27</td>
+        <td align="right">04-07-2020</td>
+        <td align="right">04-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001303</td>
+        <td>BERTICO</td>
+        <td>DOLORES</td>
+        <td>026-0130174-6</td>
+        <td>FREDDY P CASTILLO NO. 73 V. HERMOSA L.R.</td>
+        <td></td>
+        <td>829-274-4654</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2016</td>
+        <td>XF1AX100AGN002244</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-07-04 18:49:56</td>
+        <td align="right">04-07-2020</td>
+        <td align="right">04-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,581.25</h4></td>
+</tr></table>

@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 21/05/2021 <b>Hasta:</b> 21/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003439</td>
+        <td>ANGEL GERALDO</td>
+        <td>DE LEON FERRERA</td>
+        <td>109-0003770-5</td>
+        <td>Anastacio lagares no. 25, ojo de Agua, de sabana yegua</td>
+        <td>AZUA</td>
+        <td>829-301-0178</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2019</td>
+        <td>LLCLPP203CE114413</td>
+        <td align="right">000000009</td>
+        <td align="right">2021-05-21 07:21:23</td>
+        <td align="right">21-05-2021</td>
+        <td align="right">21-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003440</td>
+        <td>ROSA MAGDIEL</td>
+        <td>SALCEDO ALVAREZ</td>
+        <td>402-2524243-3</td>
+        <td>Penetracion, Edif ,j Piso , Apartamento 102</td>
+        <td>SANTO DOMINGO</td>
+        <td>829-665-8979</td>
+        <td>Jeep</td>
+        <td>KIA                  </td>
+        <td>SORENTO</td>
+        <td>2012</td>
+        <td>5XYKU3A69CG294644</td>
+        <td align="right">G418949</td>
+        <td align="right">2021-05-21 12:54:17</td>
+        <td align="right">21-05-2021</td>
+        <td align="right">21-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003441</td>
+        <td>DANNY DANIEL</td>
+        <td>DOROTEO</td>
+        <td>025-0032201-7</td>
+        <td>LUIS ERERA 10 HIGUEY</td>
+        <td></td>
+        <td>829-694-9854</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2016</td>
+        <td>LLCLPP203GE103983</td>
+        <td align="right">K1155506</td>
+        <td align="right">2021-05-21 13:17:51</td>
+        <td align="right">21-05-2021</td>
+        <td align="right">21-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003442</td>
+        <td>JUAN CARLOS</td>
+        <td>REYES</td>
+        <td>003-0045146-5</td>
+        <td>cromilio frandi casa 10,el llano</td>
+        <td>PERAVIA</td>
+        <td>809-380-1488</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>GATO</td>
+        <td>2021</td>
+        <td>LKXXCHLP1M0045813</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-21 14:20:16</td>
+        <td align="right">21-05-2021</td>
+        <td align="right">21-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003443</td>
+        <td>JHOEL MIGUELIN</td>
+        <td>ROA SANTANA</td>
+        <td>003-0110825-4</td>
+        <td>ccamaño deño casa 36,el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-461-8334</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>LEAD</td>
+        <td>2021</td>
+        <td>L5YTCKPA9L1172498</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-21 14:32:29</td>
+        <td align="right">21-05-2021</td>
+        <td align="right">21-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003444</td>
+        <td>MANUEL LEONARDO</td>
+        <td>SOTO LARA</td>
+        <td>135-0001400-9</td>
+        <td>cageda amador casa 08,palmar de ocoa</td>
+        <td>PERAVIA</td>
+        <td>829-457-0654</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>PRUSS 200</td>
+        <td>2021</td>
+        <td>LLCLGL305MA106720</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-21 14:37:04</td>
+        <td align="right">21-05-2021</td>
+        <td align="right">21-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,250.00</h4></td>
+</tr></table>

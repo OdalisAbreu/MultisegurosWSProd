@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 13/05/2021 <b>Hasta:</b> 13/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003393</td>
+        <td>GABRIEL OSVALDO</td>
+        <td>SOTO ARIAS</td>
+        <td>003-0043076-6</td>
+        <td>barrio las flores casa 72,salinas </td>
+        <td>PERAVIA</td>
+        <td>829-571-4732</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>RAV4</td>
+        <td>2001</td>
+        <td>JTEGH20VX10018727</td>
+        <td align="right">G072450</td>
+        <td align="right">2021-05-13 08:43:56</td>
+        <td align="right">13-05-2021</td>
+        <td align="right">13-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003394</td>
+        <td>DANNY ISABEL </td>
+        <td>MATEO TEJEDA</td>
+        <td>003-0055199-1</td>
+        <td>cmaximo gomez casa 49,villa fundacion</td>
+        <td>PERAVIA</td>
+        <td>829-321-1582</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 150</td>
+        <td>2021</td>
+        <td>LRPRPJD04MA100646</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-13 10:18:26</td>
+        <td align="right">13-05-2021</td>
+        <td align="right">13-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003395</td>
+        <td>VICTOR </td>
+        <td>GONZALEZ PEGUERO</td>
+        <td>003-0113309-6</td>
+        <td>csanchez km7 al lado de la plaza gonzalez,paya</td>
+        <td>PERAVIA</td>
+        <td>849-343-7151</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>GATO</td>
+        <td>2021</td>
+        <td>LKXXCHLP3M0045814</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-05-13 10:43:35</td>
+        <td align="right">13-05-2021</td>
+        <td align="right">13-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003396</td>
+        <td>LUCIA MARGARITA</td>
+        <td>BAEZ GUERRERO</td>
+        <td>003-0001318-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-380-0580</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J717511</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-05-13 11:51:47</td>
+        <td align="right">13-05-2021</td>
+        <td align="right">13-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003397</td>
+        <td>JULIO ARMANDO</td>
+        <td>CUELLO GOMEZ</td>
+        <td>010-0021458-3</td>
+        <td>ENRIQUILLO ESQ .CAONABO 01 DERRUMBADERO RURAL EL CERCADO</td>
+        <td></td>
+        <td>829-564-8638</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>SOLARA</td>
+        <td>1990</td>
+        <td>JT4RN81R8L5088999</td>
+        <td align="right">L173033</td>
+        <td align="right">2021-05-13 12:53:13</td>
+        <td align="right">13-05-2021</td>
+        <td align="right">13-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003398</td>
+        <td>JOSE ARMANDO</td>
+        <td>MARTINEZ</td>
+        <td>402-4070878-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>849-277-8520</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502601551</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-05-13 14:56:40</td>
+        <td align="right">13-05-2021</td>
+        <td align="right">13-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,450.00</h4></td>
+</tr></table>

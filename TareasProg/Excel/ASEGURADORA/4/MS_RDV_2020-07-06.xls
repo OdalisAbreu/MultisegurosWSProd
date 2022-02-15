@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 06/07/2020 <b>Hasta:</b> 06/07/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001304</td>
+        <td>CARLOS WANFIELD</td>
+        <td>PRESTOL SANCHEZ</td>
+        <td>003-0069772-9</td>
+        <td>CLUPERON CASA 21 ARROYO HONDO BANI</td>
+        <td>PERAVIA</td>
+        <td>809-228-7503</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>LEXUS</td>
+        <td>2001</td>
+        <td>JTJGF10U810086839</td>
+        <td align="right">G151103</td>
+        <td align="right">2020-07-06 09:14:40</td>
+        <td align="right">06-07-2020</td>
+        <td align="right">06-07-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001305</td>
+        <td>SANTO SANTIAGO</td>
+        <td>MARTINEZ ZAPATA</td>
+        <td>003-0069057-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-794-3229</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502605303</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-06 11:46:09</td>
+        <td align="right">06-07-2020</td>
+        <td align="right">06-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001306</td>
+        <td>LUIS ADOLFO </td>
+        <td>PIMENTEL COLON</td>
+        <td>402-0985309-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-380-3961</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191108438</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-06 12:17:58</td>
+        <td align="right">06-07-2020</td>
+        <td align="right">06-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001307</td>
+        <td>ADOLFO</td>
+        <td>RUIZ BORQUEZ</td>
+        <td>028-0103261-2</td>
+        <td>VILLA CERRO</td>
+        <td></td>
+        <td>829-750-4801</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2014</td>
+        <td>LC6OAGA10E0007853</td>
+        <td align="right">N9110059</td>
+        <td align="right">2020-07-06 12:45:12</td>
+        <td align="right">06-07-2020</td>
+        <td align="right">06-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001308</td>
+        <td>ANGEL WILFREDO</td>
+        <td>MEJIA BENS</td>
+        <td>139-0000635-7</td>
+        <td>VILLA PENCA</td>
+        <td></td>
+        <td>829-428-4501</td>
+        <td>Motocicleta</td>
+        <td>DOMOTO               </td>
+        <td>CG150</td>
+        <td>2015</td>
+        <td>LV7MGZ405FA904440</td>
+        <td align="right">K0369293</td>
+        <td align="right">2020-07-06 14:48:07</td>
+        <td align="right">06-07-2020</td>
+        <td align="right">06-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001309</td>
+        <td>RICKENSON </td>
+        <td>FORTUNA GUERRERO </td>
+        <td>402-2692579-6</td>
+        <td>crogelio medina casa 43 ,el cruce </td>
+        <td>PERAVIA</td>
+        <td>829-356-4265</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2020</td>
+        <td>TARTCJ305LC500060</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-07-06 15:11:05</td>
+        <td align="right">06-07-2020</td>
+        <td align="right">06-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001310</td>
+        <td>HUMBERTO</td>
+        <td>DE LOS SANTOS</td>
+        <td>026-0066692-5</td>
+        <td>CB VILLA ESPANA CASA05</td>
+        <td></td>
+        <td>809-257-3729</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2017</td>
+        <td>XF1AX100AJN003781</td>
+        <td align="right">EPROCESO</td>
+        <td align="right">2020-07-06 16:56:01</td>
+        <td align="right">06-07-2020</td>
+        <td align="right">06-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-001311</td>
+        <td>AURELUS JEAN</td>
+        <td>ROBERT</td>
+        <td>000-3455968-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-642-6072</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2019</td>
+        <td>LJCPAGLF7K1001912</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-06 17:29:16</td>
+        <td align="right">06-07-2020</td>
+        <td align="right">06-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-001312</td>
+        <td>VIA YANIBEL </td>
+        <td>MELO PUJOLS</td>
+        <td>402-2319727-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-330-2217</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451009272</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-07-06 17:34:55</td>
+        <td align="right">06-07-2020</td>
+        <td align="right">06-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-001313</td>
+        <td>PEDRO ALEJANDRO</td>
+        <td>DIPP ANICO</td>
+        <td>402-2079368-7</td>
+        <td>JOSE AMADO SOLER 66</td>
+        <td></td>
+        <td>829-592-8728</td>
+        <td>Automovil</td>
+        <td>FORD                 </td>
+        <td>FOCUS</td>
+        <td>2014</td>
+        <td>1FADP3F23EL159825</td>
+        <td align="right">X566561</td>
+        <td align="right">2020-07-06 19:00:45</td>
+        <td align="right">06-07-2020</td>
+        <td align="right">06-10-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,543.75</h4></td>
+</tr></table>

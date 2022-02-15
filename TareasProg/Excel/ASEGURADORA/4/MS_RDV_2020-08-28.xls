@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 28/08/2020 <b>Hasta:</b> 28/08/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001617</td>
+        <td>SMAYLIN FRANCISCO </td>
+        <td>COLON CALDERON </td>
+        <td>002-0140108-0</td>
+        <td>Calle doctor Báez 5</td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-288-6530</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TACOMA</td>
+        <td>2005</td>
+        <td>5TEKU72N75Z067412</td>
+        <td align="right">L287391</td>
+        <td align="right">2020-08-28 14:21:56</td>
+        <td align="right">28-08-2020</td>
+        <td align="right">28-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001618</td>
+        <td>NELSON ENGELBERT</td>
+        <td>QUEZADA HENRIQUEZ</td>
+        <td>001-1264596-5</td>
+        <td>Ave. Los Beisbolitas No. 109, Manoguayabo</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>849-318-2952</td>
+        <td>Motocicleta</td>
+        <td>PGO                  </td>
+        <td>PGO </td>
+        <td>1994</td>
+        <td>RFVCPC541003664</td>
+        <td align="right">0000000000</td>
+        <td align="right">2020-08-28 14:55:23</td>
+        <td align="right">28-08-2020</td>
+        <td align="right">28-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001619</td>
+        <td>JEFFRY ALEXANDER</td>
+        <td>SANCHEZ ORTIZ</td>
+        <td>003-0122180-0</td>
+        <td>Calle La Traba  3, Villa Sombrero</td>
+        <td>PERAVIA</td>
+        <td>829-827-4499</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>1997</td>
+        <td>4T1BF22KIVU904663</td>
+        <td align="right">A429792</td>
+        <td align="right">2020-08-28 16:21:27</td>
+        <td align="right">28-08-2020</td>
+        <td align="right">28-11-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001620</td>
+        <td>KENDY YUDELYS</td>
+        <td>MARTE BAEZ</td>
+        <td>402-2119474-5</td>
+        <td>cmaximo gomez casa 35,palmar de ocoa</td>
+        <td>PERAVIA</td>
+        <td>809-479-9266</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>GATO</td>
+        <td>2020</td>
+        <td>LYDTCJ514L1200375</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-08-28 16:23:55</td>
+        <td align="right">28-08-2020</td>
+        <td align="right">28-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001621</td>
+        <td>JESUS JOSE </td>
+        <td>SOTO MENDEZ</td>
+        <td>003-0124624-5</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>809-658-9784</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J904016</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-08-28 17:18:45</td>
+        <td align="right">28-08-2020</td>
+        <td align="right">28-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001622</td>
+        <td>JOSE LUIS </td>
+        <td>TAVAREZ POLANCO</td>
+        <td>072-0010859-0</td>
+        <td>RESIDENCIAL VALERA GUZMÁN C3 NO.11</td>
+        <td>PERAVIA</td>
+        <td>829-964-6072</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J717386</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-08-28 17:48:00</td>
+        <td align="right">28-08-2020</td>
+        <td align="right">28-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001623</td>
+        <td>GEORGE JESUS </td>
+        <td>ARIAS CABRAL</td>
+        <td>402-1518126-0</td>
+        <td>PROYECTO VALERA GUZMAN , CALLE 2 ,NO.11</td>
+        <td>PERAVIA</td>
+        <td>849-220-8093</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2020</td>
+        <td>TBLYCMLE1L0B34800</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-08-28 18:03:36</td>
+        <td align="right">28-08-2020</td>
+        <td align="right">28-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,318.75</h4></td>
+</tr></table>

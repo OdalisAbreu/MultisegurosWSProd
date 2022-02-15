@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 22/02/2021 <b>Hasta:</b> 22/02/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002805</td>
+        <td>MODESTO </td>
+        <td>BOCIO NOVA</td>
+        <td>022-0000505-2</td>
+        <td>cwilkin garcia zaleta,palmar de ocoa</td>
+        <td>PERAVIA</td>
+        <td>829-931-5700</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TOYOTA</td>
+        <td>1989</td>
+        <td>JT4N13P1K6003111</td>
+        <td align="right">L155550</td>
+        <td align="right">2021-02-22 11:46:35</td>
+        <td align="right">22-02-2021</td>
+        <td align="right">22-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002806</td>
+        <td>ARBELIO</td>
+        <td>LEDESMA LARA</td>
+        <td>003-0126585-6</td>
+        <td>C1ra  26 Residencial Claudia</td>
+        <td>PERAVIA</td>
+        <td>829-899-8771</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TACOMA</td>
+        <td>1997</td>
+        <td>4TAWM72N8VZ231808</td>
+        <td align="right">L034977</td>
+        <td align="right">2021-02-22 14:50:09</td>
+        <td align="right">22-02-2021</td>
+        <td align="right">22-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002807</td>
+        <td>NICAURIS ELIZABETH </td>
+        <td>GONZALEZ TAVAREZ</td>
+        <td>003-0095914-5</td>
+        <td>C Primera 26 Res. Doña Claudia </td>
+        <td>PERAVIA</td>
+        <td>829-899-8771</td>
+        <td>Jeep</td>
+        <td>MITSUBISHI           </td>
+        <td>MONTERO</td>
+        <td>2014</td>
+        <td>JMYLRV76W1J000478</td>
+        <td align="right">G108732</td>
+        <td align="right">2021-02-22 15:20:03</td>
+        <td align="right">22-02-2021</td>
+        <td align="right">22-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002808</td>
+        <td>MAIKOL JOEL </td>
+        <td>LARA ARIAS </td>
+        <td>135-0001985-9</td>
+        <td>CJOAQUIN BALAGUER CASA 32 </td>
+        <td>PERAVIA</td>
+        <td>809-875-6248</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>LEAD</td>
+        <td>2021</td>
+        <td>LZRK1F006M1000299</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-22 16:01:28</td>
+        <td align="right">22-02-2021</td>
+        <td align="right">22-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002809</td>
+        <td>MAYELIN CRISTINA </td>
+        <td>COCCO DE RODRIGUEZ </td>
+        <td>019-0018087-6</td>
+        <td>C Presidente Baez 15</td>
+        <td>PERAVIA</td>
+        <td>809-882-6798</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>NOTE</td>
+        <td>2011</td>
+        <td>E11705997</td>
+        <td align="right">A795564</td>
+        <td align="right">2021-02-22 16:13:56</td>
+        <td align="right">22-02-2021</td>
+        <td align="right">22-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002810</td>
+        <td>YONEIRY</td>
+        <td>RODRIGUEZ NUNEZ</td>
+        <td>103-0011464-1</td>
+        <td>JUAN MARICHAL</td>
+        <td></td>
+        <td>849-353-8262</td>
+        <td>Automovil</td>
+        <td>DAIHATSU             </td>
+        <td>SIRION</td>
+        <td>2001</td>
+        <td>jdan100S000540786</td>
+        <td align="right">A204282</td>
+        <td align="right">2021-02-22 16:41:28</td>
+        <td align="right">22-02-2021</td>
+        <td align="right">22-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002811</td>
+        <td>JUAN DEL JESUS </td>
+        <td>ROMERO PEREZ</td>
+        <td>402-2253070-7</td>
+        <td>CDUARTE NO.52, EL GUAYABAL, AZUA </td>
+        <td>PERAVIA</td>
+        <td>829-836-5296</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2018</td>
+        <td>TARPCM50XJ0004720</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-22 16:43:38</td>
+        <td align="right">22-02-2021</td>
+        <td align="right">22-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002812</td>
+        <td>HAMLET ARTURO RAFAEL</td>
+        <td>CRUZ GONZALES</td>
+        <td>003-0009563-5</td>
+        <td>c sanchez. entrada de matagorda 2</td>
+        <td>PERAVIA</td>
+        <td>809-351-8305</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>HILUX</td>
+        <td>1986</td>
+        <td>JT4RN50R2G0143028</td>
+        <td align="right">L124259</td>
+        <td align="right">2021-02-22 20:54:18</td>
+        <td align="right">22-02-2021</td>
+        <td align="right">22-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>1,000,000</td>
+        <td align="right">3,450.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002813</td>
+        <td>HAMLET ARTURO RAFAEL</td>
+        <td>CRUZ GONZALEZ</td>
+        <td>003-0009563-5</td>
+        <td>c sanchez. entrada mata gorda 2</td>
+        <td>PERAVIA</td>
+        <td>809-351-8305</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>RAV4</td>
+        <td>2009</td>
+        <td>2T3BF33VX9W014660</td>
+        <td align="right">G321500</td>
+        <td align="right">2021-02-22 20:59:41</td>
+        <td align="right">22-02-2021</td>
+        <td align="right">22-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>1,000,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002814</td>
+        <td>HAMLET ARTURO RAFAEL</td>
+        <td>CRUZ GONZALEZ</td>
+        <td>003-0009563-5</td>
+        <td>c zanchez. entrada mata gorda 2</td>
+        <td>PERAVIA</td>
+        <td>809-351-8305</td>
+        <td>Camion</td>
+        <td>DAIHATSU             </td>
+        <td>DELTA</td>
+        <td>1998</td>
+        <td>V11809326</td>
+        <td align="right">L074004</td>
+        <td align="right">2021-02-22 21:06:14</td>
+        <td align="right">22-02-2021</td>
+        <td align="right">22-02-2022</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>1,000,000</td>
+        <td align="right">8,250.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>25,243.75</h4></td>
+</tr></table>

@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 16/06/2021 <b>Hasta:</b> 16/06/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003609</td>
+        <td>ALEJANDRO</td>
+        <td>CALDERON</td>
+        <td>028-0072139-7</td>
+        <td>LOS RIOS</td>
+        <td></td>
+        <td>809-253-6995</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>RD</td>
+        <td>2001</td>
+        <td>MH33HB008YK243887</td>
+        <td align="right">K0451566</td>
+        <td align="right">2021-06-16 08:43:33</td>
+        <td align="right">16-06-2021</td>
+        <td align="right">16-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003610</td>
+        <td>JANI</td>
+        <td>RODRIGUEZ GUTIERREZ</td>
+        <td>034-0036170-9</td>
+        <td>PLAZA VANRAY 20, CALLE PEDRO CLISANTE, EL BATEY, SOSUA PUERTO PLATA</td>
+        <td>PUERTO PLATA</td>
+        <td>829-383-6566</td>
+        <td>Camion</td>
+        <td>ISUZU                </td>
+        <td>ELF 2.5 METROS</td>
+        <td>2003</td>
+        <td>NKR8167002310</td>
+        <td align="right">EN TRAMITE</td>
+        <td align="right">2021-06-16 13:39:18</td>
+        <td align="right">16-06-2021</td>
+        <td align="right">16-06-2022</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>1,000,000</td>
+        <td align="right">8,250.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003611</td>
+        <td>SURIS JASMIN</td>
+        <td>DIAZ JIMENEZ DE RAMIREZ</td>
+        <td>003-0082709-4</td>
+        <td>PENETRACION 3 CASA NO.51 LOS MELONES</td>
+        <td>PERAVIA</td>
+        <td>809-505-0511</td>
+        <td>Automovil</td>
+        <td>FORD                 </td>
+        <td>FOCUS</td>
+        <td>2016</td>
+        <td>1FADP3K26GL313467</td>
+        <td align="right">A916995</td>
+        <td align="right">2021-06-16 13:46:22</td>
+        <td align="right">16-06-2021</td>
+        <td align="right">16-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003612</td>
+        <td>MARINA </td>
+        <td>VALENZUELA PAYANO</td>
+        <td>082-0017948-2</td>
+        <td>CALLE PRINCIPAL NO.99, LOS MOÑOS, LAS MERCEDES</td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-705-3583</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>2009</td>
+        <td>2T1BU40E89C111303</td>
+        <td align="right">A592682</td>
+        <td align="right">2021-06-16 15:51:28</td>
+        <td align="right">16-06-2021</td>
+        <td align="right">16-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003613</td>
+        <td>RAMONA ELADIA</td>
+        <td>LARA DE SOLANO </td>
+        <td>003-0089794-9</td>
+        <td>C DUARTE NO.26, VILLA FUNDACION</td>
+        <td>PERAVIA</td>
+        <td>829-372-1591</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>2014</td>
+        <td>LALPCJ0E8E3004720</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-06-16 16:12:15</td>
+        <td align="right">16-06-2021</td>
+        <td align="right">16-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003614</td>
+        <td>HARAMS</td>
+        <td>PHILISTIN GERMAIN</td>
+        <td>402-2609331-4</td>
+        <td>LOS CASTILLOS</td>
+        <td></td>
+        <td>829-522-1410</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>Z3000</td>
+        <td>2019</td>
+        <td>LZ3JLX13TKA116449</td>
+        <td align="right">198500335724</td>
+        <td align="right">2021-06-16 16:28:28</td>
+        <td align="right">16-06-2021</td>
+        <td align="right">16-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003615</td>
+        <td>DOMINGO</td>
+        <td>ENCARNACION MONTERO</td>
+        <td>014-0010765-0</td>
+        <td>LA  PRINCIPAL CASA  N, 90 SECTOR DAMIAN</td>
+        <td></td>
+        <td>829-916-8713</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>HI LUX SURF</td>
+        <td>1993</td>
+        <td>4TARN81AXPZ115141</td>
+        <td align="right">L021971</td>
+        <td align="right">2021-06-16 17:42:32</td>
+        <td align="right">16-06-2021</td>
+        <td align="right">16-06-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>15,300.00</h4></td>
+</tr></table>

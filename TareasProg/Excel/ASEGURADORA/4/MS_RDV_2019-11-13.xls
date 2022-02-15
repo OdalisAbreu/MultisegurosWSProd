@@ -1,0 +1,169 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 13/11/2019 <b>Hasta:</b> 13/11/2019
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000179</td>
+        <td>BARBARA</td>
+        <td>CORDERO</td>
+        <td>003-0077553-3</td>
+        <td>NUESTRA SEÑORA DE REGLA No.109A</td>
+        <td>PERAVIA</td>
+        <td>809-498-8868</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td></td>
+        <td>2010</td>
+        <td>JTEBK3EH9A2155960</td>
+        <td align="right">G363420</td>
+        <td align="right">2019-11-13 14:18:54</td>
+        <td align="right">13-11-2019</td>
+        <td align="right">13-11-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr>
+	<tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000180</td>
+        <td>OSCAR LUIS</td>
+        <td>FERMIN SANABIA</td>
+        <td>001-1234165-6</td>
+        <td>JOSE HERNANDEZ NO. 25</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-890-9192</td>
+        <td>Motocicleta</td>
+        <td>HUSABERG</td>
+        <td>FE 390</td>
+        <td>2011</td>
+        <td>VBKHAA403BM260208</td>
+        <td align="right">K1664520</td>
+        <td align="right">2019-11-13 14:45:33</td>
+        <td align="right">13-11-2019</td>
+        <td align="right">13-11-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr>
+	<tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000181</td>
+        <td>JOSE RAFAEL </td>
+        <td>ACOSTA CRUZ </td>
+        <td>001-1704250-7</td>
+        <td>LOS TRINITARIOS CCARLOS MORENO </td>
+        <td>PERAVIA</td>
+        <td>829-783-5500</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451018240  </td>
+        <td align="right">PROCESO </td>
+        <td align="right">2019-11-13 16:28:22</td>
+        <td align="right">13-11-2019</td>
+        <td align="right">13-11-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr>
+	<tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000182</td>
+        <td>CARLOS MIGUEL</td>
+        <td>MARIANO</td>
+        <td>026-0037840-6</td>
+        <td>C 2 NO. 17 RIVERA CUMAYASA LA ROMANA</td>
+        <td></td>
+        <td>829-818-2928</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>AXIS</td>
+        <td>1994</td>
+        <td>SB01J126715</td>
+        <td align="right">NR. L586</td>
+        <td align="right">2019-11-13 17:23:52</td>
+        <td align="right">13-11-2019</td>
+        <td align="right">13-11-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr>
+<tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,000.00</h4></td>
+</tr></table>

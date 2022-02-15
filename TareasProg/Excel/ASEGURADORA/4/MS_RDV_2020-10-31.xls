@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 31/10/2020 <b>Hasta:</b> 31/10/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002018</td>
+        <td>CESARINA </td>
+        <td>RIVERA</td>
+        <td>003-0113782-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-838-0930</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J584461</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-31 10:50:55</td>
+        <td align="right">31-10-2020</td>
+        <td align="right">31-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002019</td>
+        <td>YORDANIS </td>
+        <td>MATOS MONTERO</td>
+        <td>001-1722975-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-790-6952</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502401350</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-31 11:05:13</td>
+        <td align="right">31-10-2020</td>
+        <td align="right">31-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002020</td>
+        <td>OSIRIS</td>
+        <td>VALDEZ VELOZ</td>
+        <td>093-0014361-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-802-9015</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502404977</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-31 12:38:26</td>
+        <td align="right">31-10-2020</td>
+        <td align="right">31-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002021</td>
+        <td>JUAN LUIS </td>
+        <td>MARTINEZ</td>
+        <td>003-0078273-7</td>
+        <td>cprincipal casa 33,las calderas</td>
+        <td>PERAVIA</td>
+        <td>829-704-2371</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2019</td>
+        <td>TARPCM503JC007958</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-10-31 14:24:04</td>
+        <td align="right">31-10-2020</td>
+        <td align="right">31-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002022</td>
+        <td>LINO ALEJANDRO</td>
+        <td>VALDEZ ZAPATA</td>
+        <td>003-0042105-4</td>
+        <td>CDUARTE NO.23, LOS TUMBAOS </td>
+        <td>PERAVIA</td>
+        <td>809-781-6550</td>
+        <td>Jeep</td>
+        <td>NISSAN               </td>
+        <td>MURANO</td>
+        <td>2003</td>
+        <td>JN8AZ08W43W207855</td>
+        <td align="right">G154591</td>
+        <td align="right">2020-10-31 14:44:08</td>
+        <td align="right">31-10-2020</td>
+        <td align="right">31-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002023</td>
+        <td>SANTA MARTA</td>
+        <td>ARIAS CASTILLO</td>
+        <td>003-0105842-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-685-3927</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J575559</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-31 15:53:56</td>
+        <td align="right">31-10-2020</td>
+        <td align="right">31-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002024</td>
+        <td>JUAN FRANCISCO </td>
+        <td>PINALE MEJIA</td>
+        <td>003-0015846-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-475-1903</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1995</td>
+        <td>JF191212968</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-31 16:52:59</td>
+        <td align="right">31-10-2020</td>
+        <td align="right">31-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,525.00</h4></td>
+</tr></table>

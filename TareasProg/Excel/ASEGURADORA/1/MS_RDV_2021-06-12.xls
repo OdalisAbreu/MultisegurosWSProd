@@ -1,0 +1,571 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 12/06/2021 <b>Hasta:</b> 12/06/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-037996</td>
+        <td>LUIS EFRODIS</td>
+        <td>GONZALEZ BURGOS</td>
+        <td>066-0016228-0</td>
+        <td>LUISA BLANCA</td>
+        <td></td>
+        <td>809-829-3853</td>
+        <td>Motocicleta</td>
+        <td>TVS                  </td>
+        <td>TVS </td>
+        <td>2015</td>
+        <td>MD626BG79N2AX0142</td>
+        <td align="right">XXXX</td>
+        <td align="right">2021-06-12 07:43:59</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-037997</td>
+        <td>KELVIN ALEXANDER</td>
+        <td>DE LA CRUZ VALENZUELA</td>
+        <td>402-3751540-4</td>
+        <td>LA COLDILLERA</td>
+        <td></td>
+        <td>829-458-7988</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1992</td>
+        <td>3KJ5027264</td>
+        <td align="right">XXXXXXXX</td>
+        <td align="right">2021-06-12 09:05:42</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-037998</td>
+        <td>NATALIA</td>
+        <td>BENJAMIN METIVIER</td>
+        <td>402-4353727-7</td>
+        <td>EL LIMON (coyote)</td>
+        <td></td>
+        <td>809-602-6633</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LX125</td>
+        <td>2009</td>
+        <td>LLCLPP2017E000173</td>
+        <td align="right">N260832</td>
+        <td align="right">2021-06-12 09:17:13</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-09-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-037999</td>
+        <td>LEOVALDO</td>
+        <td>CUEVAS GUEVARA</td>
+        <td>080-0004209-6</td>
+        <td>CPEDRO  ABREU 61</td>
+        <td></td>
+        <td>829-779-8023</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>ELANTRA</td>
+        <td>2005</td>
+        <td>KMHDN46DX5U020997</td>
+        <td align="right">A566241</td>
+        <td align="right">2021-06-12 09:41:26</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-09-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-038000</td>
+        <td>JUAN</td>
+        <td>ALVAREZ MINAYA</td>
+        <td>029-0014551-3</td>
+        <td>LA GINA</td>
+        <td></td>
+        <td>829-690-1774</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2021</td>
+        <td>LC6EAGA1XM0011844</td>
+        <td align="right">EN PROCESO</td>
+        <td align="right">2021-06-12 10:11:15</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-038001</td>
+        <td>JOSE ALBERTO</td>
+        <td>PEREZ PEREZ</td>
+        <td>036-0045171-4</td>
+        <td>LAS PLACETAS SAN JOSE DE LAS MATAS</td>
+        <td></td>
+        <td>829-982-1237</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 250</td>
+        <td>2016</td>
+        <td>TARPCN505GC000539</td>
+        <td align="right">K1180198</td>
+        <td align="right">2021-06-12 10:32:30</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-MSD-038002</td>
+        <td>ANGEL ALBERTO</td>
+        <td>VASQUEZ TORRES</td>
+        <td>402-1174125-7</td>
+        <td>CALLE 5 74  LA PINA CIEN FUEGO</td>
+        <td></td>
+        <td>849-868-9835</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 250</td>
+        <td>2020</td>
+        <td>LRPRPMB00LA100016</td>
+        <td align="right">200000016</td>
+        <td align="right">2021-06-12 10:53:40</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-MSD-038003</td>
+        <td>ALEXANDER RAFAEL</td>
+        <td>RODRIGUEZ</td>
+        <td>402-3614047-7</td>
+        <td>CORONA PLAZA LA BARRANQUITA</td>
+        <td></td>
+        <td>809-492-1918</td>
+        <td>Jeepeta</td>
+        <td>BMW                  </td>
+        <td>X5</td>
+        <td>2003</td>
+        <td>5UXFB33513LH42974</td>
+        <td align="right">G190716</td>
+        <td align="right">2021-06-12 11:01:45</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-09-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-MSD-038004</td>
+        <td>ELIZABETH</td>
+        <td>SOSA SANTIAGO</td>
+        <td>026-0127202-0</td>
+        <td>COLINA DON GUILLERMO</td>
+        <td></td>
+        <td>829-815-7148</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td></td>
+        <td>2018</td>
+        <td>LC6TCJC98J0005576</td>
+        <td align="right">K1726609</td>
+        <td align="right">2021-06-12 11:01:54</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-MSD-038005</td>
+        <td>RAMON ANTONIO</td>
+        <td>BARET</td>
+        <td>031-0356918-6</td>
+        <td>SANTIAGO</td>
+        <td></td>
+        <td>809-757-4299</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2015</td>
+        <td>LFFWJTOBIF1900164</td>
+        <td align="right">K1227250</td>
+        <td align="right">2021-06-12 11:12:08</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>11</td>
+        <td>AUTO-MSD-038006</td>
+        <td>JOSE HUMBERTO</td>
+        <td>HERNANDEZ FIGUEROA</td>
+        <td>047-0012559-6</td>
+        <td>LAS CARMELITA LA VEGA RD 10 DISTRITO NACIONAL</td>
+        <td></td>
+        <td>809-264-0344</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1986</td>
+        <td>3KJ7714661</td>
+        <td align="right">N201909</td>
+        <td align="right">2021-06-12 11:26:11</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>12</td>
+        <td>AUTO-MSD-038007</td>
+        <td>RAMON</td>
+        <td>BERIGUETE</td>
+        <td>093-0042169-1</td>
+        <td>BAJOS DE HAINA</td>
+        <td></td>
+        <td>809-493-3329</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>BAJAJ</td>
+        <td>2017</td>
+        <td>MD2A21BZ0HWF48036</td>
+        <td align="right">K1141558</td>
+        <td align="right">2021-06-12 11:53:04</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>13</td>
+        <td>AUTO-MSD-038008</td>
+        <td>FRANCISCO ALBERTO</td>
+        <td>CORCINO SANCHEZ</td>
+        <td>017-0016944-2</td>
+        <td>BAJOS DE HAINA</td>
+        <td></td>
+        <td>829-605-0778</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>BAJAJ</td>
+        <td>2017</td>
+        <td>MD2A21BZGWJ48848</td>
+        <td align="right">A0711341</td>
+        <td align="right">2021-06-12 11:58:02</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>14</td>
+        <td>AUTO-MSD-038009</td>
+        <td>EUCARYS</td>
+        <td>TORIBIO LOPEZ</td>
+        <td>402-2817025-0</td>
+        <td>LA URENA CSANTIAGO APOSTOL</td>
+        <td></td>
+        <td>829-945-6893</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>AXIS</td>
+        <td>1994</td>
+        <td>3VR165835</td>
+        <td align="right">K1223157</td>
+        <td align="right">2021-06-12 12:13:32</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>15</td>
+        <td>AUTO-MSD-038010</td>
+        <td>RAYMUNDO</td>
+        <td>PEREZ SANTANA</td>
+        <td>026-0001959-6</td>
+        <td>B 13 VILLA PEREYDA</td>
+        <td></td>
+        <td>849-205-1320</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2007</td>
+        <td>LC6PAGA1870853005</td>
+        <td align="right">K0332425</td>
+        <td align="right">2021-06-12 12:24:10</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-09-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>16</td>
+        <td>AUTO-MSD-038011</td>
+        <td>YONY</td>
+        <td>AQUINO DE PAULA</td>
+        <td>225-0024181-9</td>
+        <td>CARRETERA YAMASA KM 26</td>
+        <td></td>
+        <td>829-906-9223</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1998</td>
+        <td>2T1BR18E3WCO40995</td>
+        <td align="right">AO82836</td>
+        <td align="right">2021-06-12 12:33:21</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-09-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>17</td>
+        <td>AUTO-MSD-038012</td>
+        <td>RUBER</td>
+        <td>GARCIA CASTILLO</td>
+        <td>402-3148009-2</td>
+        <td>CJUANICA DEL ROSARIO VILLA CERRO HIGUEY</td>
+        <td></td>
+        <td>829-397-0526</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C90</td>
+        <td>1984</td>
+        <td>HA021913299</td>
+        <td align="right">K1764419</td>
+        <td align="right">2021-06-12 12:35:02</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>18</td>
+        <td>AUTO-MSD-038013</td>
+        <td>EMMANUELTOYTIOIYT</td>
+        <td>JOLINGER SOTO</td>
+        <td>061-0029455-9</td>
+        <td>GASPAR HERNANDEZ</td>
+        <td></td>
+        <td>809-671-3712</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1991</td>
+        <td>2T1AE94A3MC103499</td>
+        <td align="right">A220488</td>
+        <td align="right">2021-06-12 12:42:45</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+   		<td><b>19</td>
+        <td>AUTO-MSD-038014</td>
+        <td>SULEMA</td>
+        <td>MOYA CONCEPCION</td>
+        <td>134-0002287-0</td>
+        <td>LAS TERRENAS</td>
+        <td></td>
+        <td>829-279-5857</td>
+        <td>Motocicleta</td>
+        <td>SANYANG              </td>
+        <td></td>
+        <td>2018</td>
+        <td>LXMAE12w8JX009358</td>
+        <td align="right">K1607153</td>
+        <td align="right">2021-06-12 14:39:37</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>20</td>
+        <td>AUTO-MSD-038015</td>
+        <td>JUAN ARIEL SOTO</td>
+        <td>SOTO</td>
+        <td>402-2632749-8</td>
+        <td>RUTA LOS MAESTROS</td>
+        <td></td>
+        <td>829-940-7512</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2020</td>
+        <td>XF1AX100ALN005316</td>
+        <td align="right">EN TRAMITE</td>
+        <td align="right">2021-06-12 16:15:17</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>21</td>
+        <td>AUTO-MSD-038016</td>
+        <td>CRISTHIAN DE JESUS</td>
+        <td>ESPINAL CABRERA</td>
+        <td>036-0045971-7</td>
+        <td>LAS PLACETAS SAN JOSE DE LAS MATAS</td>
+        <td></td>
+        <td>829-330-4786</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2015</td>
+        <td>TARPCM505FC008424</td>
+        <td align="right">K1179887</td>
+        <td align="right">2021-06-12 17:46:58</td>
+        <td align="right">12-06-2021</td>
+        <td align="right">12-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>6,331.25</h4></td>
+</tr></table>

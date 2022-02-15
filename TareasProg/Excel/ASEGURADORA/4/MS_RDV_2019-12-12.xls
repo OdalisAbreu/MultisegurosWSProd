@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 12/12/2019 <b>Hasta:</b> 12/12/2019
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000287</td>
+        <td>ONEIXY ANTONIO </td>
+        <td>LOVERAS MARTE</td>
+        <td>001-1429806-0</td>
+        <td>C Santiago No. 06, Santa Marta</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>829-705-5088</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>ZOOMER</td>
+        <td>1994</td>
+        <td>AF581904837</td>
+        <td align="right">000000000</td>
+        <td align="right">2019-12-12 10:56:56</td>
+        <td align="right">12-12-2019</td>
+        <td align="right">12-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000288</td>
+        <td>YODEIRY</td>
+        <td>FONG QUAN</td>
+        <td>223-0065943-4</td>
+        <td>MARIA TRIBIDAD SANCHEZ NO.14</td>
+        <td></td>
+        <td>849-245-0888</td>
+        <td>Camioneta</td>
+        <td>MITSUBISHI           </td>
+        <td>L200</td>
+        <td>2000</td>
+        <td>MMBJNK740YD051294</td>
+        <td align="right">L103062</td>
+        <td align="right">2019-12-12 11:09:29</td>
+        <td align="right">12-12-2019</td>
+        <td align="right">12-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000289</td>
+        <td>SANTO AURELIO </td>
+        <td>BAEZ ARIAS </td>
+        <td>003-0088883-1</td>
+        <td>Santo Rosa</td>
+        <td>PERAVIA</td>
+        <td>809-935-2768</td>
+        <td>Jeep</td>
+        <td>NISSAN               </td>
+        <td>MURANO</td>
+        <td>2005</td>
+        <td>JN8AZ08T05W312983</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2019-12-12 13:21:12</td>
+        <td align="right">12-12-2019</td>
+        <td align="right">12-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000290</td>
+        <td>RICARDO HUMBERTO</td>
+        <td>MONTERO FERRERA</td>
+        <td>229-0008493-4</td>
+        <td>LOS ALCARRIZOS 24</td>
+        <td></td>
+        <td>829-850-9755</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>1999</td>
+        <td>2HGEJ6678XH536972</td>
+        <td align="right">A539463</td>
+        <td align="right">2019-12-12 17:08:24</td>
+        <td align="right">12-12-2019</td>
+        <td align="right">12-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000291</td>
+        <td>JOSE ANTONIO</td>
+        <td>PEGUERO MATEO</td>
+        <td>003-0006465-6</td>
+        <td>calle 3ra 41 Alto de los Melones, Bani</td>
+        <td>PERAVIA</td>
+        <td>809-756-1382</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>1999</td>
+        <td>2T1BR12E9XC224543</td>
+        <td align="right">A356076</td>
+        <td align="right">2019-12-12 17:20:54</td>
+        <td align="right">12-12-2019</td>
+        <td align="right">12-12-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-000292</td>
+        <td>HENRY ALFONSO</td>
+        <td>FRANCO FERNANDEZ</td>
+        <td>001-1018198-9</td>
+        <td>C Miguel Angel Monclus No. 03, Mirador Norte</td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-707-7979</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>LPRSE24106A103721</td>
+        <td align="right">0000000000</td>
+        <td align="right">2019-12-12 17:29:22</td>
+        <td align="right">12-12-2019</td>
+        <td align="right">12-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>8,850.00</h4></td>
+</tr></table>

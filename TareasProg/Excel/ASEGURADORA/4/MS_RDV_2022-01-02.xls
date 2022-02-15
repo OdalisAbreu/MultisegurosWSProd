@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 02/01/2022 <b>Hasta:</b> 02/01/2022
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-010422</td>
+        <td>HORBIS</td>
+        <td>JAVIER MARTE</td>
+        <td>402-1080678-8</td>
+        <td>LOS RIELES DE SANCHEZ</td>
+        <td>Sánchez</td>
+        <td>809-259-5870</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2018</td>
+        <td>TARPCM504JC003885</td>
+        <td align="right">XXXX</td>
+        <td align="right">2022-01-02 09:30:39</td>
+        <td align="right">02-01-2022</td>
+        <td align="right">02-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-010423</td>
+        <td>MAXIMO</td>
+        <td>DE LEON</td>
+        <td>001-0379823-7</td>
+        <td>CALL6 NO. 10 MICON CEUTA</td>
+        <td>Santo Domingo Norte</td>
+        <td>849-450-5099</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>AXIS</td>
+        <td>1990</td>
+        <td>00000003VP2024343</td>
+        <td align="right">K1257700</td>
+        <td align="right">2022-01-02 09:36:10</td>
+        <td align="right">02-01-2022</td>
+        <td align="right">02-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-010424</td>
+        <td>ISIDRO</td>
+        <td>TRINIDAD TRINIDAD</td>
+        <td>402-2042802-9</td>
+        <td>HIGUANAMA CASA 22 SECTOR CAMBELEN</td>
+        <td>Higüey</td>
+        <td>829-424-5301</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>HILUX</td>
+        <td>2014</td>
+        <td>MROFZ29G401689659</td>
+        <td align="right">L320056</td>
+        <td align="right">2022-01-02 09:41:22</td>
+        <td align="right">02-01-2022</td>
+        <td align="right">02-01-2023</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-010425</td>
+        <td>RONNY ARISTY</td>
+        <td>TAVERA HERNANDEZ</td>
+        <td>031-0454388-3</td>
+        <td>LOS ALMACIGOS ,LA CANELA</td>
+        <td>Santiago de los Caballeros</td>
+        <td>809-924-3325</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2017</td>
+        <td>TARPCM506HC001565</td>
+        <td align="right">REGISTRADO</td>
+        <td align="right">2022-01-02 11:44:05</td>
+        <td align="right">02-01-2022</td>
+        <td align="right">02-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-010426</td>
+        <td>BELIS RAMON</td>
+        <td>GUTIERREZ PEREZ</td>
+        <td>031-0505764-4</td>
+        <td>C57 CASA34</td>
+        <td>Santiago de los Caballeros</td>
+        <td>809-717-4165</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 300</td>
+        <td>2017</td>
+        <td>LRPRPN105HA000041</td>
+        <td align="right">K12240948</td>
+        <td align="right">2022-01-02 11:55:48</td>
+        <td align="right">02-01-2022</td>
+        <td align="right">02-01-2023</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-010427</td>
+        <td>LEONARDO DE JESUS</td>
+        <td>VALERIO PLACENCIO</td>
+        <td>031-0407733-8</td>
+        <td>C6 N22</td>
+        <td>Santiago de los Caballeros</td>
+        <td>849-459-2055</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>FORTUNER</td>
+        <td>2006</td>
+        <td>8AJYZ59G303005924</td>
+        <td align="right">G067239</td>
+        <td align="right">2022-01-02 12:11:10</td>
+        <td align="right">02-01-2022</td>
+        <td align="right">02-01-2023</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-010428</td>
+        <td>JARLYN</td>
+        <td>SANTIAGO SANTOS</td>
+        <td>402-2608027-9</td>
+        <td>LAS TERRENAS</td>
+        <td>Samaná</td>
+        <td>829-943-9381</td>
+        <td>Automovil</td>
+        <td>PEUGEOT              </td>
+        <td>406</td>
+        <td>1998</td>
+        <td>VF38BR6E480443321</td>
+        <td align="right">A163186</td>
+        <td align="right">2022-01-02 19:15:16</td>
+        <td align="right">02-01-2022</td>
+        <td align="right">02-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,918.75</h4></td>
+</tr></table>

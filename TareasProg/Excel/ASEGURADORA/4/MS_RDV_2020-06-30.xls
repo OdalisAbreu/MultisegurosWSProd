@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 30/06/2020 <b>Hasta:</b> 30/06/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001265</td>
+        <td>FRANKLIN ENRIQUE </td>
+        <td>OLAVERRIA CASTILLO</td>
+        <td>013-0024823-2</td>
+        <td>cmaximo gomez casa 7.el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-524-1147</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>CABSTAR</td>
+        <td>2005</td>
+        <td>JN1CJUD22Z0069352</td>
+        <td align="right">L194319</td>
+        <td align="right">2020-06-30 09:56:53</td>
+        <td align="right">30-06-2020</td>
+        <td align="right">30-06-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001266</td>
+        <td>CESAR PLINIO</td>
+        <td>SOTO SOTO</td>
+        <td>003-0079428-6</td>
+        <td>CHERMANAS MIRABAL NO.24, PALMAR DE OCOA</td>
+        <td>PERAVIA</td>
+        <td>829-850-0325</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YZF</td>
+        <td>2000</td>
+        <td>GG11W000056</td>
+        <td align="right">K1165469</td>
+        <td align="right">2020-06-30 10:31:12</td>
+        <td align="right">30-06-2020</td>
+        <td align="right">30-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001267</td>
+        <td>ALBERTO ANTONIO</td>
+        <td>MARCELINO RICHARDSON</td>
+        <td>001-0765080-6</td>
+        <td>HATILLO S.C.</td>
+        <td></td>
+        <td>829-641-5609</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2016</td>
+        <td>MD2A76AZ7GWJ48325</td>
+        <td align="right">K0689353</td>
+        <td align="right">2020-06-30 13:56:34</td>
+        <td align="right">30-06-2020</td>
+        <td align="right">30-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001268</td>
+        <td>JACINTO</td>
+        <td>JIMENEZ VENTURA</td>
+        <td>049-0047490-1</td>
+        <td>CALLE 5 NO.19,LOS CAJUILES,COTUI</td>
+        <td></td>
+        <td>809-543-5945</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>NISSAN </td>
+        <td>1995</td>
+        <td>LB12019611</td>
+        <td align="right">L196047</td>
+        <td align="right">2020-06-30 14:29:00</td>
+        <td align="right">30-06-2020</td>
+        <td align="right">30-09-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">618.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001269</td>
+        <td>LISET MARGARITA </td>
+        <td>MEJIA MEJIA</td>
+        <td>003-0036527-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-380-0525</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2019</td>
+        <td>L5YTCKPAXJ1172085</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-06-30 16:36:28</td>
+        <td align="right">30-06-2020</td>
+        <td align="right">30-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001270</td>
+        <td>FELICIA YOSELYN </td>
+        <td>ORTIZ BAE</td>
+        <td>003-0110812-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-522-6987</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2020</td>
+        <td>LYDTCJNA8L1200055</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-06-30 16:45:39</td>
+        <td align="right">30-06-2020</td>
+        <td align="right">30-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,193.75</h4></td>
+</tr></table>

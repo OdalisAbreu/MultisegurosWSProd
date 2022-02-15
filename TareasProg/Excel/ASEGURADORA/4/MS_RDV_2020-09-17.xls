@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 17/09/2020 <b>Hasta:</b> 17/09/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001731</td>
+        <td>JUAN DE LA CRUZ </td>
+        <td>ROSARIO ENCARNACION</td>
+        <td>003-0038916-0</td>
+        <td>cprincipal casa 21,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-641-8852</td>
+        <td>Maquinaria Pesada</td>
+        <td>NEW HOLLAND          </td>
+        <td>NEW HOLLAND</td>
+        <td>2017</td>
+        <td>HCCZTL95THC158849</td>
+        <td align="right">U015063</td>
+        <td align="right">2020-09-17 09:33:13</td>
+        <td align="right">17-09-2020</td>
+        <td align="right">17-09-2021</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">6,775.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001732</td>
+        <td>DAVID ALBERTO </td>
+        <td>CASTILLO SIRI</td>
+        <td>051-0000061-0</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>809-730-0902</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502603337</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-09-17 14:14:34</td>
+        <td align="right">17-09-2020</td>
+        <td align="right">17-09-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001733</td>
+        <td>JOSE DOLORES</td>
+        <td>CABRAL PUJOLS</td>
+        <td>013-0025399-2</td>
+        <td>residencial el invi casa 01,los tumbaos</td>
+        <td>PERAVIA</td>
+        <td>829-548-5465</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD902610031</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-09-17 15:16:24</td>
+        <td align="right">17-09-2020</td>
+        <td align="right">17-09-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001734</td>
+        <td>ALEXANDRA </td>
+        <td>MOSCAT DE ANZIANI</td>
+        <td>003-0128130-9</td>
+        <td>BANI </td>
+        <td>PERAVIA</td>
+        <td>829-350-6312</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451016840</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-09-17 15:21:21</td>
+        <td align="right">17-09-2020</td>
+        <td align="right">17-09-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001735</td>
+        <td>ANDRINA MARIBEL</td>
+        <td>VILLAR ARIAS</td>
+        <td>003-0125512-1</td>
+        <td>calle 3 5 Altos de guazuma</td>
+        <td>PERAVIA</td>
+        <td>809-517-9940</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>LEAD</td>
+        <td>2020</td>
+        <td>LZRK1F000L1000975</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-09-17 16:05:15</td>
+        <td align="right">17-09-2020</td>
+        <td align="right">17-09-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001736</td>
+        <td>STIVEN ABEL</td>
+        <td>BAEZ TERRERO</td>
+        <td>402-3379971-3</td>
+        <td>hatillo carretera sanchez casa 21 </td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-543-5342</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502214013</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-09-17 17:09:03</td>
+        <td align="right">17-09-2020</td>
+        <td align="right">17-09-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001737</td>
+        <td>JOSE ANTONIO</td>
+        <td>PEGUERO PERDOMO</td>
+        <td>070-0000921-2</td>
+        <td>CALLE MARIA TRINIDAD SANCHEZ 1 A</td>
+        <td></td>
+        <td>829-601-3234</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>LAND CRUISER</td>
+        <td>2006</td>
+        <td>JTEBY25JX00039981</td>
+        <td align="right">G256313</td>
+        <td align="right">2020-09-17 18:53:48</td>
+        <td align="right">17-09-2020</td>
+        <td align="right">17-09-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>10,025.00</h4></td>
+</tr></table>

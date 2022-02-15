@@ -1,0 +1,379 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 05/10/2020 <b>Hasta:</b> 05/10/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001829</td>
+        <td>ENMANUEL HERMES</td>
+        <td>MEJIA NUÑEZ</td>
+        <td>082-0015897-3</td>
+        <td>CALLE PRINCIPAL NO.130, LAS MERCEDES, S. C.</td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-924-7168</td>
+        <td>Automovil</td>
+        <td>KIA                  </td>
+        <td>K5</td>
+        <td>2013</td>
+        <td>KNAGN418BDA388978</td>
+        <td align="right">A746854</td>
+        <td align="right">2020-10-05 08:10:30</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001830</td>
+        <td>JULIO ENRIQUE</td>
+        <td>NOLASCO SOSA</td>
+        <td>100-0001752-4</td>
+        <td>EL VALLE</td>
+        <td></td>
+        <td>809-559-0245</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>HILUX</td>
+        <td>2071</td>
+        <td>MR0HZ8CD300503769</td>
+        <td align="right">L3359529</td>
+        <td align="right">2020-10-05 10:32:53</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>1,000,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001831</td>
+        <td>HANSEL</td>
+        <td>BUENO JONES</td>
+        <td>224-0039538-4</td>
+        <td>SAMANA</td>
+        <td></td>
+        <td>829-743-6292</td>
+        <td>Jeep</td>
+        <td>NISSAN               </td>
+        <td>XTERRA</td>
+        <td>2005</td>
+        <td>5N1AN08W05C610867</td>
+        <td align="right">G245294</td>
+        <td align="right">2020-10-05 10:42:35</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-01-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001832</td>
+        <td>MANUEL ODALIS</td>
+        <td>SOTO</td>
+        <td>003-0043065-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-377-3396</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502216394</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-05 12:08:20</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001833</td>
+        <td>ALEXIS FERMIN </td>
+        <td>NAVARRO</td>
+        <td>001-0896369-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-697-7554</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502605291</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-05 14:08:30</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001834</td>
+        <td>ARABELLY MARILYS </td>
+        <td>SANTANA DE MEL</td>
+        <td>003-0008324-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-382-4360</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>1994</td>
+        <td>TBLJCNLR5J0A26459</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-05 14:27:58</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001835</td>
+        <td>ASHLY MICHELL</td>
+        <td>LARA DE LOS SANTOS</td>
+        <td>402-3295952-4</td>
+        <td>CHERMANAS MIRABAL NO.17., PALMAR DE OCOA</td>
+        <td>PERAVIA</td>
+        <td>829-899-6743</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>GATO</td>
+        <td>2020</td>
+        <td>LFFWHV6D6L1900852</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-10-05 15:17:14</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-001836</td>
+        <td>ANGEL DARIEL</td>
+        <td>MARTINEZ PUJOLS</td>
+        <td>402-2112748-9</td>
+        <td>CMEXICO NO.16, EL CRUCE DE ARROYO HONDO</td>
+        <td>PERAVIA</td>
+        <td>829-429-4731</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AA011025966</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-10-05 15:28:02</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-001837</td>
+        <td>MERTRIK JAVIER</td>
+        <td>ORTIZ JIMENEZ</td>
+        <td>402-2561833-5</td>
+        <td>INDEPENDECIA NO. 15 CAÑAFISTOL</td>
+        <td>PERAVIA</td>
+        <td>809-522-8567</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 250</td>
+        <td>2019</td>
+        <td>LRPRPMB01JA001332</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-10-05 15:41:08</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-001838</td>
+        <td>EZEQUIER DOMINICO </td>
+        <td>YOSEF</td>
+        <td>402-4173455-3</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-282-7945</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>1994</td>
+        <td>LZRGOF1A6L1002665</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-05 16:26:34</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>11</td>
+        <td>AUTO-AT-001839</td>
+        <td>RAIBEL</td>
+        <td>ORTIZ</td>
+        <td>003-0068046-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-355-6503</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502608044</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-05 17:28:06</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>12</td>
+        <td>AUTO-AT-001840</td>
+        <td>ADONI DINI</td>
+        <td>CUSTODIO</td>
+        <td>402-3743326-9</td>
+        <td>CPRINCIPAL NO.3, SOMBRERO</td>
+        <td>PERAVIA</td>
+        <td>829-821-1143</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2019</td>
+        <td>LRPRPLB07KA201398</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-10-05 17:40:51</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>13</td>
+        <td>AUTO-AT-001841</td>
+        <td>YINELY</td>
+        <td>ALCANTARA MORA</td>
+        <td>223-0016566-3</td>
+        <td>C3ra edificio 3 villa magdalena San pedro de Macoris</td>
+        <td></td>
+        <td>809-418-6193</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>H-100</td>
+        <td>2012</td>
+        <td>MALAM51BBCM955399</td>
+        <td align="right">A570543</td>
+        <td align="right">2020-10-05 18:57:00</td>
+        <td align="right">05-10-2020</td>
+        <td align="right">05-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>10,518.75</h4></td>
+</tr></table>

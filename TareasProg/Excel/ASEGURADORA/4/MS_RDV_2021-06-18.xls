@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 18/06/2021 <b>Hasta:</b> 18/06/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003625</td>
+        <td>DANIELA MAITE </td>
+        <td>SANCHEZ DIAZ </td>
+        <td>402-3293717-3</td>
+        <td>LOS TUMBAO PROYECTO NUEVA ESPERANZA 21B </td>
+        <td>PERAVIA</td>
+        <td>829-796-0156</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>GATO</td>
+        <td>2021</td>
+        <td>LXYJCNL06M0118336</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-06-18 11:09:02</td>
+        <td align="right">18-06-2021</td>
+        <td align="right">18-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003626</td>
+        <td>SANTA MIGUELINA </td>
+        <td>SOTO TEJEDA</td>
+        <td>402-1479000-4</td>
+        <td>CMAXIMO GOMEZ NO.36, SABANA BUEY</td>
+        <td>PERAVIA</td>
+        <td>849-203-5790</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2020</td>
+        <td>LZRG0F1A8L1002683</td>
+        <td align="right">K2063292</td>
+        <td align="right">2021-06-18 14:28:03</td>
+        <td align="right">18-06-2021</td>
+        <td align="right">18-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003627</td>
+        <td>MARIO</td>
+        <td>MONTERO ENCARNACION</td>
+        <td>014-0005894-5</td>
+        <td>DUARTE N.36  LA PRINCIPAL.</td>
+        <td></td>
+        <td>849-853-3325</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>1977</td>
+        <td>AX100502862</td>
+        <td align="right">NT1006</td>
+        <td align="right">2021-06-18 15:22:14</td>
+        <td align="right">18-06-2021</td>
+        <td align="right">18-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003628</td>
+        <td>STEFANY</td>
+        <td>MATOS</td>
+        <td>003-0060948-4</td>
+        <td>GUSADERA  NO.9, LOS TUMABAOS </td>
+        <td>PERAVIA</td>
+        <td>809-222-3351</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2021</td>
+        <td>MD2A76AX2LWJ40092</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-06-18 15:22:17</td>
+        <td align="right">18-06-2021</td>
+        <td align="right">18-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003629</td>
+        <td>YESSICA SUREIDY</td>
+        <td>BERNABE MARTINEZ</td>
+        <td>402-3416198-8</td>
+        <td>cmanuel tejeda casa 24,villa sombrero</td>
+        <td>PERAVIA</td>
+        <td>809-377-3887</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2021</td>
+        <td>TARTCJ304MC500410</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-06-18 17:35:51</td>
+        <td align="right">18-06-2021</td>
+        <td align="right">18-06-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,375.00</h4></td>
+</tr></table>

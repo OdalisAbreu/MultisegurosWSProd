@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 02/02/2020 <b>Hasta:</b> 02/02/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-024158</td>
+        <td>PRINCIPE GARISBALDYS PASCUAL</td>
+        <td>OZORIO ORTEGA</td>
+        <td>402-2037713-5</td>
+        <td>HAINA</td>
+        <td></td>
+        <td>829-924-7821</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2000</td>
+        <td>EK33032623</td>
+        <td align="right">A443487</td>
+        <td align="right">2020-02-02 07:21:47</td>
+        <td align="right">02-02-2020</td>
+        <td align="right">02-08-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,215.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-024159</td>
+        <td>JARLISON</td>
+        <td>DOMINGUEZ PEREZ</td>
+        <td>402-0935376-8</td>
+        <td>GURABO</td>
+        <td></td>
+        <td>809-721-9305</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1990</td>
+        <td>3YK3151221</td>
+        <td align="right">N930639</td>
+        <td align="right">2020-02-02 08:23:55</td>
+        <td align="right">02-02-2020</td>
+        <td align="right">02-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-024160</td>
+        <td>CRISTIAN</td>
+        <td>RUIZ VASQUEZ</td>
+        <td>001-1401040-8</td>
+        <td>ALMAROSA</td>
+        <td></td>
+        <td>809-440-0219</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>H-100</td>
+        <td>2016</td>
+        <td>KMFZBX7BAGU215546</td>
+        <td align="right">L344338</td>
+        <td align="right">2020-02-02 08:52:22</td>
+        <td align="right">02-02-2020</td>
+        <td align="right">02-02-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-024161</td>
+        <td>ORLANDO</td>
+        <td>HICHEZ MERENO</td>
+        <td>227-0000321-7</td>
+        <td>LA REFORMA</td>
+        <td></td>
+        <td>849-631-4075</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2019</td>
+        <td>TARPCK500KC000469</td>
+        <td align="right">XXX</td>
+        <td align="right">2020-02-02 10:14:39</td>
+        <td align="right">02-02-2020</td>
+        <td align="right">02-08-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-024162</td>
+        <td>ANYELO</td>
+        <td>DIAZ  TEJADA</td>
+        <td>402-1390551-2</td>
+        <td>LOS CHARAMICOS</td>
+        <td></td>
+        <td>849-225-1074</td>
+        <td>Motocicleta</td>
+        <td>SANYOU</td>
+        <td>SANYOU</td>
+        <td>2016</td>
+        <td>LSYA04FTK15016401</td>
+        <td align="right">K1709665</td>
+        <td align="right">2020-02-02 11:30:42</td>
+        <td align="right">02-02-2020</td>
+        <td align="right">02-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-024163</td>
+        <td>NELSON RAMON</td>
+        <td>ANDUJAR PEREZ</td>
+        <td>002-0061942-7</td>
+        <td>TEO CRUZ</td>
+        <td></td>
+        <td>809-834-1939</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>HI LUX SURF</td>
+        <td>1984</td>
+        <td>JF4RN66D7E5018463</td>
+        <td align="right">L105692</td>
+        <td align="right">2020-02-02 13:03:02</td>
+        <td align="right">02-02-2020</td>
+        <td align="right">02-02-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-MSD-024164</td>
+        <td>NICANOR</td>
+        <td>AQUINO FLORENTINO</td>
+        <td>068-0031359-2</td>
+        <td>GUANANITO</td>
+        <td></td>
+        <td>809-453-7712</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1984</td>
+        <td>C508136035</td>
+        <td align="right">NIG023</td>
+        <td align="right">2020-02-02 14:47:38</td>
+        <td align="right">02-02-2020</td>
+        <td align="right">02-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-MSD-024165</td>
+        <td>ALEXANDER</td>
+        <td>SANCHEZ LOPEZ</td>
+        <td>023-0097709-3</td>
+        <td>SAN PEDRO DE M.</td>
+        <td></td>
+        <td>809-667-0377</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>2002</td>
+        <td>4T1BE32K82U016240</td>
+        <td align="right">A471980</td>
+        <td align="right">2020-02-02 17:24:05</td>
+        <td align="right">02-02-2020</td>
+        <td align="right">02-08-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,215.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-MSD-024166</td>
+        <td>MIGUEL ALEJANDRO</td>
+        <td>SANCHEZ RODRIGUEZ</td>
+        <td>001-1204323-7</td>
+        <td>QUITA SUENO DEHAINA CALLE 1PR36</td>
+        <td></td>
+        <td>809-493-0102</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2015</td>
+        <td>KMHEC41LBFA677869</td>
+        <td align="right">A844054</td>
+        <td align="right">2020-02-02 20:30:51</td>
+        <td align="right">02-02-2020</td>
+        <td align="right">02-08-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,215.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-MSD-024167</td>
+        <td>ELIZABETH</td>
+        <td>CRUZ VASQUEZ</td>
+        <td>031-0462710-8</td>
+        <td>CRISTO REY CALLE 11 53</td>
+        <td></td>
+        <td>829-320-4704</td>
+        <td>Motocicleta</td>
+        <td>TURANO</td>
+        <td>CG-150</td>
+        <td>2019</td>
+        <td>LBEJLX14TKA128195</td>
+        <td align="right">G150</td>
+        <td align="right">2020-02-02 21:50:50</td>
+        <td align="right">02-02-2020</td>
+        <td align="right">02-02-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>9,770.00</h4></td>
+</tr></table>

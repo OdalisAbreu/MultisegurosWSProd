@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 29/10/2020 <b>Hasta:</b> 29/10/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001999</td>
+        <td>RAMON ANTONIO</td>
+        <td>CAMACHO</td>
+        <td>001-0691884-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-505-9197</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502404916</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-29 14:49:36</td>
+        <td align="right">29-10-2020</td>
+        <td align="right">29-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002000</td>
+        <td>JUAN SALVADOR</td>
+        <td>VARGAS GARCIA</td>
+        <td>001-0699478-3</td>
+        <td>1RA 69 LA ALTAGRACIA ENSANCHE</td>
+        <td></td>
+        <td>809-392-4345</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2016</td>
+        <td>MD2A76AZ7GWF48047</td>
+        <td align="right">K0656046</td>
+        <td align="right">2020-10-29 15:49:29</td>
+        <td align="right">29-10-2020</td>
+        <td align="right">29-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002001</td>
+        <td>EDDY BIENVENIDO</td>
+        <td>MORETA BERNARD</td>
+        <td>011-0032238-5</td>
+        <td>JUAN EVANGELISTA 12 LAS MATAS DE FALFAN</td>
+        <td></td>
+        <td>809-392-4345</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2006</td>
+        <td>LOPAGA1760805395</td>
+        <td align="right">N100258</td>
+        <td align="right">2020-10-29 15:57:10</td>
+        <td align="right">29-10-2020</td>
+        <td align="right">29-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002002</td>
+        <td>ANEURY JOSE</td>
+        <td>ZARZUELA CORONA</td>
+        <td>033-0037092-5</td>
+        <td>VILLA VERDE C TRUJILLO CASA 4</td>
+        <td></td>
+        <td>809-258-7686</td>
+        <td>Camioneta</td>
+        <td>MITSUBISHI           </td>
+        <td>L300</td>
+        <td>2011</td>
+        <td>JMYJNP15VBA001044</td>
+        <td align="right">295838</td>
+        <td align="right">2020-10-29 16:43:44</td>
+        <td align="right">29-10-2020</td>
+        <td align="right">29-10-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002003</td>
+        <td>MATEO</td>
+        <td>RINCON</td>
+        <td>001-1736858-9</td>
+        <td>CARRETERA DE MENDOZA NO.47</td>
+        <td></td>
+        <td>809-712-0753</td>
+        <td>Motocicleta</td>
+        <td>SUCATI</td>
+        <td>SUCATI</td>
+        <td>2019</td>
+        <td>LBEJLX15TKA154177</td>
+        <td align="right">XXXXXXXXXXXXXXX</td>
+        <td align="right">2020-10-29 16:50:41</td>
+        <td align="right">29-10-2020</td>
+        <td align="right">29-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002004</td>
+        <td>FELIPE</td>
+        <td>ENCARNACION</td>
+        <td>003-0026130-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-646-5610</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD902602958</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-10-29 17:16:50</td>
+        <td align="right">29-10-2020</td>
+        <td align="right">29-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002005</td>
+        <td>RAMON NICOLAS</td>
+        <td>MORONTA MARTE</td>
+        <td>031-0186970-3</td>
+        <td>PROYECTO 03 CLUB BARRIO IMBERT</td>
+        <td></td>
+        <td>829-203-1197</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>LEAD 100</td>
+        <td>1990</td>
+        <td>JF061202325</td>
+        <td align="right">N556570</td>
+        <td align="right">2020-10-29 17:48:03</td>
+        <td align="right">29-10-2020</td>
+        <td align="right">29-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,125.00</h4></td>
+</tr></table>

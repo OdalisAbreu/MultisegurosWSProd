@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 23/02/2021 <b>Hasta:</b> 23/02/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002815</td>
+        <td>SANTA ALEXANDRA</td>
+        <td>BAEZ TEJEDA</td>
+        <td>003-0081033-0</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>829-522-1720</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J720716</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-23 10:09:55</td>
+        <td align="right">23-02-2021</td>
+        <td align="right">23-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002816</td>
+        <td>ELMINA</td>
+        <td>LAGUE YAN</td>
+        <td>028-0065438-2</td>
+        <td>ANAMUYA</td>
+        <td></td>
+        <td>849-855-3409</td>
+        <td>Motocicleta</td>
+        <td>PGO                  </td>
+        <td>PGO </td>
+        <td>2015</td>
+        <td>RFVCPCPC5G1018736</td>
+        <td align="right">K0729974</td>
+        <td align="right">2021-02-23 11:24:37</td>
+        <td align="right">23-02-2021</td>
+        <td align="right">23-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002817</td>
+        <td>EUDIS ISAIAS </td>
+        <td>DIAZ CABRAL</td>
+        <td>003-0112175-2</td>
+        <td>C activo 2030 25</td>
+        <td>PERAVIA</td>
+        <td>829-665-8979</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>STARLET</td>
+        <td>2000</td>
+        <td>EP910148100</td>
+        <td align="right">A500824</td>
+        <td align="right">2021-02-23 12:12:06</td>
+        <td align="right">23-02-2021</td>
+        <td align="right">23-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002818</td>
+        <td>JOEL ALEXANDER </td>
+        <td>MOTA COLON</td>
+        <td>402-2265419-2</td>
+        <td>C TRINITARIA 61 ARROYO HONDO</td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-665-8979</td>
+        <td>Automovil</td>
+        <td>VOLKSWAGEN           </td>
+        <td>GOLF</td>
+        <td>2005</td>
+        <td>9BWCB05X95P047288</td>
+        <td align="right">A087145</td>
+        <td align="right">2021-02-23 12:42:29</td>
+        <td align="right">23-02-2021</td>
+        <td align="right">23-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002819</td>
+        <td>YRIS DEL CARMEN</td>
+        <td>RODRIGUEZ PEREZ</td>
+        <td>031-0073173-0</td>
+        <td>SAIVADOR CUCURULLO 183 LA JOYA SANTIAGO</td>
+        <td></td>
+        <td>809-654-0910</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>LITE-ACE</td>
+        <td>1986</td>
+        <td>JT3YR26VV3G502379</td>
+        <td align="right">1019769</td>
+        <td align="right">2021-02-23 13:45:09</td>
+        <td align="right">23-02-2021</td>
+        <td align="right">23-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002820</td>
+        <td>MADELIN VALERIA </td>
+        <td>ARIAS LARA</td>
+        <td>003-0117089-0</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>829-216-3217</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J026083</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-23 14:25:12</td>
+        <td align="right">23-02-2021</td>
+        <td align="right">23-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002821</td>
+        <td>NURYS MAGALIS </td>
+        <td>CANARIO VILLAR </td>
+        <td>003-0089567-9</td>
+        <td>CLAS CALDERAS CASA NO 03</td>
+        <td>PERAVIA</td>
+        <td>829-983-2991</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2021</td>
+        <td>LZRK1F000M1000573</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-23 15:51:30</td>
+        <td align="right">23-02-2021</td>
+        <td align="right">23-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002822</td>
+        <td>SANTO PASCUAL </td>
+        <td>BERNABE SUAZO </td>
+        <td>013-0028444-3</td>
+        <td>CCAAMAÑO DE ÑO NO18 </td>
+        <td>PERAVIA</td>
+        <td>829-362-1594</td>
+        <td>Jeep</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2001</td>
+        <td>JHLRD18691C018154</td>
+        <td align="right">G087564</td>
+        <td align="right">2021-02-23 17:26:41</td>
+        <td align="right">23-02-2021</td>
+        <td align="right">23-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002823</td>
+        <td>FAUSTO SANCHEZ</td>
+        <td>ALMONTE</td>
+        <td>003-0119300-9</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>829-766-4734</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>AF181092497</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-23 18:41:52</td>
+        <td align="right">23-02-2021</td>
+        <td align="right">23-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>8,875.00</h4></td>
+</tr></table>

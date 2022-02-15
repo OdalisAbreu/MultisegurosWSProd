@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 14/02/2021 <b>Hasta:</b> 14/02/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-034871</td>
+        <td>MARGARITA ROSA</td>
+        <td>GERMAN CRUZ</td>
+        <td>001-0084309-3</td>
+        <td>LAS PLACETAS SAN JOSE DE LAS MATAS</td>
+        <td></td>
+        <td>829-202-0938</td>
+        <td>Jeep</td>
+        <td>NISSAN               </td>
+        <td>PATHFINDER</td>
+        <td>1990</td>
+        <td>JN8HD17Y3LW211126</td>
+        <td align="right">G075506</td>
+        <td align="right">2021-02-14 10:11:05</td>
+        <td align="right">14-02-2021</td>
+        <td align="right">14-02-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-034872</td>
+        <td>ERIN ALBERTO</td>
+        <td>SOLANO ROSARIO</td>
+        <td>004-0022496-0</td>
+        <td>DR.ELIZARDO</td>
+        <td></td>
+        <td>829-641-3130</td>
+        <td>Automovil</td>
+        <td>MITSUBISHI           </td>
+        <td>STAR-WAGON</td>
+        <td>2000</td>
+        <td>JA4LS21G9YP041447</td>
+        <td align="right">G071432</td>
+        <td align="right">2021-02-14 10:54:25</td>
+        <td align="right">14-02-2021</td>
+        <td align="right">14-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-034873</td>
+        <td>DOMINGO ANTONIO</td>
+        <td>CERDA TEJADA</td>
+        <td>001-1335067-2</td>
+        <td>CALLE 20 LOS ANGELES 39</td>
+        <td></td>
+        <td>829-494-6042</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>NISSAN </td>
+        <td>2013</td>
+        <td>3N1AB7AP6DL708364</td>
+        <td align="right">A846683</td>
+        <td align="right">2021-02-14 11:21:49</td>
+        <td align="right">14-02-2021</td>
+        <td align="right">14-08-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-034874</td>
+        <td>JOSE MARIA</td>
+        <td>MARICHAL FERNANDEZ</td>
+        <td>031-0378619-4</td>
+        <td>VERON PUNTA CANA</td>
+        <td></td>
+        <td>829-504-6516</td>
+        <td>Automovil</td>
+        <td>FORD                 </td>
+        <td>FOCUS</td>
+        <td>2014</td>
+        <td>1FADP3K23L295636</td>
+        <td align="right">A850224</td>
+        <td align="right">2021-02-14 12:19:18</td>
+        <td align="right">14-02-2021</td>
+        <td align="right">14-05-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-034875</td>
+        <td>FRANKLIN AMADO</td>
+        <td>DE LA CRUZ NUNEZ</td>
+        <td>225-0074535-5</td>
+        <td>KM26 CARRET YAMASA</td>
+        <td></td>
+        <td>809-671-5715</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2017</td>
+        <td>MD2A76AZ9HWA48408</td>
+        <td align="right">K0753181</td>
+        <td align="right">2021-02-14 15:27:45</td>
+        <td align="right">14-02-2021</td>
+        <td align="right">14-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-034876</td>
+        <td>JOSE REYNALDO</td>
+        <td>DE LEON PINALES</td>
+        <td>023-0045396-2</td>
+        <td>CALLE 17 29 APART1A LA PINA</td>
+        <td></td>
+        <td>849-330-0782</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2016</td>
+        <td>MD2A76AZXGWM44018</td>
+        <td align="right">K0723540</td>
+        <td align="right">2021-02-14 18:42:57</td>
+        <td align="right">14-02-2021</td>
+        <td align="right">14-08-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,162.50</h4></td>
+</tr></table>

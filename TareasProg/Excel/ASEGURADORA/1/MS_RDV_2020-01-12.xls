@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 12/01/2020 <b>Hasta:</b> 12/01/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-023280</td>
+        <td>ROSENDO</td>
+        <td>SURIEL CEBALLOS</td>
+        <td>031-0063259-9</td>
+        <td>calle  10 Esquina chepe almonte  38</td>
+        <td></td>
+        <td>809-668-9511</td>
+        <td>Automovil</td>
+        <td>NISSAN               </td>
+        <td>TIIDA</td>
+        <td>2007</td>
+        <td>SC11077318</td>
+        <td align="right">A604603</td>
+        <td align="right">2020-01-12 12:19:50</td>
+        <td align="right">12-01-2020</td>
+        <td align="right">12-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-023281</td>
+        <td>LUIS MIGUEL</td>
+        <td>DE LOS SANTOS MOTA</td>
+        <td>402-2396097-8</td>
+        <td>COscar A. Romero21Juan Pablo Duarte S.P.M</td>
+        <td></td>
+        <td>849-208-3101</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2012</td>
+        <td>KMHEU41MBCA826117</td>
+        <td align="right">A782733</td>
+        <td align="right">2020-01-12 12:56:18</td>
+        <td align="right">12-01-2020</td>
+        <td align="right">12-04-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-023282</td>
+        <td>RAMON ERNESTO</td>
+        <td>ARIAS JIMENEZ</td>
+        <td>054-0008142-7</td>
+        <td>CALLE8 NO 7  PUEBLO NUEVO</td>
+        <td></td>
+        <td>809-437-9499</td>
+        <td>Motocicleta</td>
+        <td>TUCANO</td>
+        <td>CG200</td>
+        <td>2016</td>
+        <td>LZ3JL8T16G6K93729</td>
+        <td align="right">K1686347</td>
+        <td align="right">2020-01-12 13:58:00</td>
+        <td align="right">12-06-2020</td>
+        <td align="right">12-12-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-023283</td>
+        <td>PEDRO EFRAIN</td>
+        <td>FERNANDEZ BATISTA</td>
+        <td>047-0186690-9</td>
+        <td>LOS ALAMOS</td>
+        <td></td>
+        <td>829-909-1697</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>SONATA</td>
+        <td>2012</td>
+        <td>KMHEU41MBCA818694</td>
+        <td align="right">A724016</td>
+        <td align="right">2020-01-12 14:57:58</td>
+        <td align="right">12-01-2020</td>
+        <td align="right">12-07-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,215.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-023284</td>
+        <td>BLAIFER AURELIO</td>
+        <td>PIMENTEL DIAZ</td>
+        <td>402-1286683-0</td>
+        <td>CDUARTE62</td>
+        <td></td>
+        <td>809-738-0733</td>
+        <td>Motocicleta</td>
+        <td>GACELA</td>
+        <td>GACELA</td>
+        <td>2011</td>
+        <td>L7GPCKLY7A4201104</td>
+        <td align="right">K0149589</td>
+        <td align="right">2020-01-12 15:45:05</td>
+        <td align="right">12-01-2020</td>
+        <td align="right">12-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-023285</td>
+        <td>XIOMARA</td>
+        <td>HIDALGO ROSARIO</td>
+        <td>402-2481080-0</td>
+        <td>MAMA TINGO  33, PRIMAVERAL, SANTO DOMINGO NORTE</td>
+        <td></td>
+        <td>809-952-4582</td>
+        <td>Automovil</td>
+        <td>MITSUBISHI           </td>
+        <td>NATIVA</td>
+        <td>2003</td>
+        <td>JMYORK960YP011287</td>
+        <td align="right">G010310</td>
+        <td align="right">2020-01-12 17:09:39</td>
+        <td align="right">12-01-2020</td>
+        <td align="right">12-04-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-MSD-023286</td>
+        <td>ANDROVEL</td>
+        <td>MORA ZAYAS</td>
+        <td>012-0099749-0</td>
+        <td>CRAFAEL PEREZ18</td>
+        <td></td>
+        <td>809-443-2636</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>1993</td>
+        <td>4T1SK12E3PU267049</td>
+        <td align="right">A221867</td>
+        <td align="right">2020-01-12 17:14:32</td>
+        <td align="right">12-01-2020</td>
+        <td align="right">12-04-2020</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">695.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>5,825.00</h4></td>
+</tr></table>

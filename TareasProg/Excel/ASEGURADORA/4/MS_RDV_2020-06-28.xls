@@ -1,0 +1,139 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 28/06/2020 <b>Hasta:</b> 28/06/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001256</td>
+        <td>GREGORIO RAFAEL</td>
+        <td>VARGAS MALDONADO</td>
+        <td>402-3917692-4</td>
+        <td>VILLA REAL JUAN 316 CASA 8</td>
+        <td></td>
+        <td>809-396-4511</td>
+        <td>Grua</td>
+        <td>CHEVROLET            </td>
+        <td>CHEVROLET </td>
+        <td>1999</td>
+        <td>1GBJ6H1C6XJ107248</td>
+        <td align="right">L338645</td>
+        <td align="right">2020-06-28 09:31:08</td>
+        <td align="right">28-06-2020</td>
+        <td align="right">28-06-2021</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">6,775.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001257</td>
+        <td>LUIS ANTONIO</td>
+        <td>SENCION</td>
+        <td>010-0111045-9</td>
+        <td>Resp. 30 de marzo</td>
+        <td>AZUA</td>
+        <td>829-510-8253</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2012</td>
+        <td>19XFB2F82CE039035</td>
+        <td align="right">TRANSMITE</td>
+        <td align="right">2020-06-28 13:40:11</td>
+        <td align="right">28-06-2020</td>
+        <td align="right">28-06-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001258</td>
+        <td>MANUEL ALEXANDRO</td>
+        <td>MELO MATEO</td>
+        <td>003-0115556-0</td>
+        <td>LA PUYA</td>
+        <td></td>
+        <td>809-986-4429</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>PLATINA 100</td>
+        <td>2017</td>
+        <td>MD2A76AZ3HWB48343</td>
+        <td align="right">K0783714</td>
+        <td align="right">2020-06-28 14:46:57</td>
+        <td align="right">28-06-2020</td>
+        <td align="right">28-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>8,925.00</h4></td>
+</tr></table>

@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 02/01/2020 <b>Hasta:</b> 02/01/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000372</td>
+        <td>JUAN</td>
+        <td>TERRERO MENDEZ</td>
+        <td>001-0919905-9</td>
+        <td>MAXIMO GOME EDIF. D18 APTO 301 LA ISABELA D.N.</td>
+        <td></td>
+        <td>829-981-2960</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>2002</td>
+        <td>4T1BE32K42U528545</td>
+        <td align="right">A259123</td>
+        <td align="right">2020-01-02 12:02:07</td>
+        <td align="right">02-01-2020</td>
+        <td align="right">02-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000373</td>
+        <td>JOSE DOLORES </td>
+        <td>COLON CALDERON</td>
+        <td>026-0099644-7</td>
+        <td>DOCTOR BAEZ 5 SAN CRISTOBAL </td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-288-6530</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2012</td>
+        <td>LWPPCJL2T20122910</td>
+        <td align="right">K0810904</td>
+        <td align="right">2020-01-02 12:59:04</td>
+        <td align="right">02-01-2020</td>
+        <td align="right">02-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000374</td>
+        <td>HENRY</td>
+        <td>GARCIA TEJEDA</td>
+        <td>003-0075928-9</td>
+        <td>Calle Las Acacias  13, Residencial El Laurel, Bani</td>
+        <td>PERAVIA</td>
+        <td>809-952-3580</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TACOMA</td>
+        <td>1997</td>
+        <td>4TANL42N2VZ314826</td>
+        <td align="right">L138718</td>
+        <td align="right">2020-01-02 16:37:22</td>
+        <td align="right">02-01-2020</td>
+        <td align="right">02-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000375</td>
+        <td>ALTAGRACIA ENEIDA </td>
+        <td>PEREZ LARA </td>
+        <td>003-0051764-6</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-272-4392</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191206761</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-01-02 16:58:11</td>
+        <td align="right">02-01-2020</td>
+        <td align="right">02-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000376</td>
+        <td>HENRY</td>
+        <td>GARCIA TEJEDA</td>
+        <td>003-0075928-9</td>
+        <td>Calle Las Acacias  13, Residencial El Laurel, Bani</td>
+        <td>PERAVIA</td>
+        <td>809-952-3580</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>FIT</td>
+        <td>2010</td>
+        <td>GE61219965</td>
+        <td align="right">A662908</td>
+        <td align="right">2020-01-02 17:04:56</td>
+        <td align="right">03-01-2020</td>
+        <td align="right">03-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-000377</td>
+        <td>HENRY</td>
+        <td>GARCIA TEJEDA</td>
+        <td>003-0075928-9</td>
+        <td>Calle Las Acacias  13, Residencial El Laurel, Bani</td>
+        <td>PERAVIA</td>
+        <td>809-952-3580</td>
+        <td>Jeepeta</td>
+        <td>TOYOTA               </td>
+        <td>HIGHLANDER</td>
+        <td>2008</td>
+        <td>JTEES41A982008754</td>
+        <td align="right">G312316</td>
+        <td align="right">2020-01-02 17:14:52</td>
+        <td align="right">03-01-2020</td>
+        <td align="right">03-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-000378</td>
+        <td>HENRY </td>
+        <td>GARCIA TEJEDA</td>
+        <td>003-0075928-9</td>
+        <td>Calle Las Acacias  13, Residencial El Laurel, Bani</td>
+        <td>PERAVIA</td>
+        <td>809-952-3580</td>
+        <td>Camioneta</td>
+        <td>DODGE                </td>
+        <td>DODGE </td>
+        <td>1988</td>
+        <td>JB7FM54E3JP093008</td>
+        <td align="right">L328624</td>
+        <td align="right">2020-01-02 17:35:51</td>
+        <td align="right">03-01-2020</td>
+        <td align="right">03-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-000379</td>
+        <td>JUANA OSMARLIN</td>
+        <td>AQUINO BRITO</td>
+        <td>402-2617906-3</td>
+        <td>LOS SUIZOS</td>
+        <td></td>
+        <td>829-228-5350</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>C50</td>
+        <td>1976</td>
+        <td>C503422106</td>
+        <td align="right">K0357234</td>
+        <td align="right">2020-01-02 18:36:10</td>
+        <td align="right">02-01-2020</td>
+        <td align="right">02-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>11,700.00</h4></td>
+</tr></table>

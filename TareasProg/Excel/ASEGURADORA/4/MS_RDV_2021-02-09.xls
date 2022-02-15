@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 09/02/2021 <b>Hasta:</b> 09/02/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002699</td>
+        <td>ANGEL ENMANUEL </td>
+        <td>DIAZ OCHOA</td>
+        <td>402-1362446-9</td>
+        <td>cmaximo gomez casa 35,palmar de ocoa</td>
+        <td>PERAVIA</td>
+        <td>829-474-1167</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>GATO</td>
+        <td>2021</td>
+        <td>LYDTCJ513M1201003</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-09 10:05:01</td>
+        <td align="right">09-02-2021</td>
+        <td align="right">09-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002700</td>
+        <td>JORGE DOMINGO</td>
+        <td>ROA TEJEDA</td>
+        <td>013-0033864-5</td>
+        <td>c/ Pedro mir casa 05, el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-287-9296</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>LEAD</td>
+        <td>2018</td>
+        <td>LZRK1F006L1000964</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-09 10:48:25</td>
+        <td align="right">09-02-2021</td>
+        <td align="right">09-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002701</td>
+        <td>ROSA MARIA</td>
+        <td>JIMENEZ PEREZ</td>
+        <td>003-0081458-9</td>
+        <td>CAGUEDA AMADOR CASA 39, DUVERGE </td>
+        <td>PERAVIA</td>
+        <td>809-358-8634</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>BZ-150</td>
+        <td>2021</td>
+        <td>LZRGOF1A8M1001213</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-02-09 11:19:45</td>
+        <td align="right">09-02-2021</td>
+        <td align="right">09-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002702</td>
+        <td>ROSALVA MARIA</td>
+        <td>RIVERA AQUINO</td>
+        <td>084-0015900-3</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>829-283-0380</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502304160</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-09 11:59:54</td>
+        <td align="right">09-02-2021</td>
+        <td align="right">09-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002703</td>
+        <td>ROSALVA MARIA</td>
+        <td>RIVERA AQUINO</td>
+        <td>084-0015900-3</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>829-283-0380</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502501470</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-09 12:02:52</td>
+        <td align="right">09-02-2021</td>
+        <td align="right">09-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002704</td>
+        <td>YASMIN ZULEICA</td>
+        <td>ECHAVARRIA BAUTISTA</td>
+        <td>402-2033418-5</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>829-784-2937</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF451000639</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-09 13:36:05</td>
+        <td align="right">09-02-2021</td>
+        <td align="right">09-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002705</td>
+        <td>SANTO RUFINO </td>
+        <td>GONZALEZ CARVAJAL</td>
+        <td>003-0012609-1</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>809-522-1280</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ7959882</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-09 13:50:38</td>
+        <td align="right">09-02-2021</td>
+        <td align="right">09-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002706</td>
+        <td>NIKAWRY EVANGELISTA </td>
+        <td>MARTINEZ</td>
+        <td>402-2051822-5</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>829-851-0670</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>SA16J930366</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-09 14:10:15</td>
+        <td align="right">09-02-2021</td>
+        <td align="right">09-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002707</td>
+        <td>SANTO WILFREDO</td>
+        <td>HEREDIA FUENTES</td>
+        <td>402-1361964-2</td>
+        <td>bani</td>
+        <td>PERAVIA</td>
+        <td>809-512-3783</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ7694028</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-02-09 16:49:48</td>
+        <td align="right">09-02-2021</td>
+        <td align="right">09-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002708</td>
+        <td>MIGUEL ANTONIO</td>
+        <td>ALCANTARA ALCANTARA</td>
+        <td>019-0015969-8</td>
+        <td>CCONTROL N.06</td>
+        <td></td>
+        <td>829-391-6026</td>
+        <td>Motocicleta</td>
+        <td>KYM                  </td>
+        <td>KYM </td>
+        <td>2007</td>
+        <td>LJCXCFLA076000359</td>
+        <td align="right">K0263645</td>
+        <td align="right">2021-02-09 17:09:29</td>
+        <td align="right">09-02-2021</td>
+        <td align="right">09-02-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,750.00</h4></td>
+</tr></table>

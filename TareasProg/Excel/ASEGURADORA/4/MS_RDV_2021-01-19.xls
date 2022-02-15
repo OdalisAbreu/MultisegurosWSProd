@@ -1,0 +1,403 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 19/01/2021 <b>Hasta:</b> 19/01/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002554</td>
+        <td>KATE ELIZABETH</td>
+        <td>CORDONES ESPINAL</td>
+        <td>402-2004562-5</td>
+        <td>VISTA HERMOSA</td>
+        <td></td>
+        <td>809-699-9534</td>
+        <td>Jeepeta</td>
+        <td>HYUNDAI              </td>
+        <td>SANTA FE (JEEP)</td>
+        <td>2013</td>
+        <td>5XYZUDLB7DG001100</td>
+        <td align="right">G467671</td>
+        <td align="right">2021-01-19 08:21:24</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-04-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002555</td>
+        <td>ASOCIACION DE PRODUCTORES DE BANANO</td>
+        <td>APROBANO</td>
+        <td>430-0000472-3</td>
+        <td>Calle Salome Ureña 31 , D M . Doña Emma Balaguer de Vallejo</td>
+        <td>AZUA</td>
+        <td>829-613-2344</td>
+        <td>Camioneta</td>
+        <td>NISSAN               </td>
+        <td>FRONTIER</td>
+        <td>2007</td>
+        <td>JN1CJUD22Z0746176</td>
+        <td align="right">L240314</td>
+        <td align="right">2021-01-19 09:26:18</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002556</td>
+        <td>ASOSIACION DE PRODUCTORES DE BANANO</td>
+        <td>APROBANO</td>
+        <td>430-0000472-3</td>
+        <td>Calle Salome Ureña 31 , D M . Doña Emma Balaguer de Vallejo</td>
+        <td>AZUA</td>
+        <td>829-613-2344</td>
+        <td>Autobuses (De 16 a 60 Pasajeros)</td>
+        <td>TOYOTA               </td>
+        <td>COASTER</td>
+        <td>2013</td>
+        <td>JTGFB518101053082</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-19 09:32:24</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-01-2022</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">6,995.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002557</td>
+        <td>ASOSIACION DE PRODUCTORES DE BANANO</td>
+        <td>APROBANO</td>
+        <td>430-0000472-3</td>
+        <td>Calle Salome Ureña 31 , D M . Doña Emma Balaguer de Vallejo</td>
+        <td>AZUA</td>
+        <td>829-613-2344</td>
+        <td>Camion Volteo</td>
+        <td>DAIHATSU             </td>
+        <td>DELTA</td>
+        <td>2007</td>
+        <td>JDA00V11800071675</td>
+        <td align="right">S011949</td>
+        <td align="right">2021-01-19 09:41:35</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-01-2022</td>
+        <td>300,000</td>
+        <td>25,000</td>
+        <td>300,000</td>
+        <td>600,000</td>
+		<td>500,000</td>
+        <td align="right">7,275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002558</td>
+        <td>MARIA ARGENTINA</td>
+        <td>LARA SOTO</td>
+        <td>003-0037703-3</td>
+        <td>cprincipal casa 07,los tumbaos </td>
+        <td>PERAVIA</td>
+        <td>809-491-9245</td>
+        <td>Jeep</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2006</td>
+        <td>SHSRD78846U427523</td>
+        <td align="right">G261556</td>
+        <td align="right">2021-01-19 11:05:22</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002559</td>
+        <td>ROBIN</td>
+        <td>CUEVAS</td>
+        <td>079-0017798-6</td>
+        <td>Central casa 64</td>
+        <td></td>
+        <td>849-357-9828</td>
+        <td>Automovil</td>
+        <td>MAZDA                </td>
+        <td>CX-9</td>
+        <td>2008</td>
+        <td>M3TB38A180141023</td>
+        <td align="right">G179616</td>
+        <td align="right">2021-01-19 11:09:15</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-04-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002560</td>
+        <td>MARIA ARGENTINA </td>
+        <td>LARA SOTO</td>
+        <td>003-0037703-3</td>
+        <td>cprincipal casa 07,los tumbaos </td>
+        <td>PERAVIA</td>
+        <td>809-491-9245</td>
+        <td>Jeep</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2006</td>
+        <td>SHSRD78846U427523</td>
+        <td align="right">G261556</td>
+        <td align="right">2021-01-19 11:12:55</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-04-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002561</td>
+        <td>CARLOS ENRIQUEZ </td>
+        <td>GONZALEZ PRESINAL </td>
+        <td>402-2759100-1</td>
+        <td>CMEXICO NO3 QUIJAQUIETA </td>
+        <td>PERAVIA</td>
+        <td>809-881-6621</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>ACCORD</td>
+        <td>1992</td>
+        <td>1HGCB7655NA042296</td>
+        <td align="right">NA260506</td>
+        <td align="right">2021-01-19 11:28:33</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002562</td>
+        <td>Antonio</td>
+        <td>De la rosa Ramirez</td>
+        <td>005-0035669-6</td>
+        <td>principal manzana. 16 casaA03</td>
+        <td></td>
+        <td>849-751-1643</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>CG200</td>
+        <td>2019</td>
+        <td>LBEPCX17TKB167882</td>
+        <td align="right">En tramites</td>
+        <td align="right">2021-01-19 11:30:54</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002563</td>
+        <td>CARLOS GREGORIO</td>
+        <td>CASTILLO PIMENTEL</td>
+        <td>001-0954787-7</td>
+        <td>CLA GRANJA NO.92, LAS CALDERAS</td>
+        <td>PERAVIA</td>
+        <td>809-758-5110</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>LEAD</td>
+        <td>2021</td>
+        <td>LZRK1F00XM1000306</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-19 15:41:00</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>11</td>
+        <td>AUTO-AT-002564</td>
+        <td>JUAN JOSE</td>
+        <td>LARA BLANCO</td>
+        <td>402-1506970-5</td>
+        <td>crogelio medina ,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-680-4780</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2005</td>
+        <td>LF3PCJ5095B048209</td>
+        <td align="right">K0184346</td>
+        <td align="right">2021-01-19 16:04:42</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>12</td>
+        <td>AUTO-AT-002565</td>
+        <td>RONAL DAVID</td>
+        <td>FULGENCIO RODRIGUEZ</td>
+        <td>093-0071045-7</td>
+        <td>CLUIS MORILLO</td>
+        <td></td>
+        <td>809-445-2440</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>HILUX</td>
+        <td>1993</td>
+        <td>YN850048429</td>
+        <td align="right">LO49515</td>
+        <td align="right">2021-01-19 16:26:06</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-07-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,237.50</td>
+   </tr><tr>
+   		<td><b>13</td>
+        <td>AUTO-AT-002566</td>
+        <td>KATIA MARIBEL</td>
+        <td>BAEZ TEJEDA</td>
+        <td>003-0055433-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-363-1143</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD90</td>
+        <td>1994</td>
+        <td>MD902409737</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-01-19 16:41:56</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>14</td>
+        <td>AUTO-AT-002567</td>
+        <td>JOSE LUIS</td>
+        <td>CRUZ DIAZ</td>
+        <td>003-0113081-1</td>
+        <td>ccprincipal casa 56,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-493-7161</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>1997</td>
+        <td>4T1BG22KXVU014658</td>
+        <td align="right">A050929</td>
+        <td align="right">2021-01-19 16:42:54</td>
+        <td align="right">19-01-2021</td>
+        <td align="right">19-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>26,113.75</h4></td>
+</tr></table>

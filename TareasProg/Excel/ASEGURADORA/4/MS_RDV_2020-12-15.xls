@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 15/12/2020 <b>Hasta:</b> 15/12/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002297</td>
+        <td>DENICES SUCEY</td>
+        <td>FELIZ VALDEZ</td>
+        <td>402-2626261-2</td>
+        <td>ccanada casa 20,el cruce</td>
+        <td>PERAVIA</td>
+        <td>849-633-1702</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>VITZ</td>
+        <td>2010</td>
+        <td>KSP902089707</td>
+        <td align="right">A641951</td>
+        <td align="right">2020-12-15 11:40:15</td>
+        <td align="right">15-12-2020</td>
+        <td align="right">15-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002298</td>
+        <td>MARIELIS</td>
+        <td>JIMENEZ</td>
+        <td>023-0170353-0</td>
+        <td>CJuan Scalante 1 Barrio Lindo S. P. M.</td>
+        <td></td>
+        <td>829-537-1730</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NC110</td>
+        <td>2018</td>
+        <td>XF1NC1102JL511927</td>
+        <td align="right">K1728708</td>
+        <td align="right">2020-12-15 13:23:21</td>
+        <td align="right">15-12-2020</td>
+        <td align="right">15-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002299</td>
+        <td>ROBERT ESMELYN </td>
+        <td>POLO DIAZ</td>
+        <td>001-1460362-4</td>
+        <td>c27 de febrero nro 58 casa 06 sabana buey</td>
+        <td>PERAVIA</td>
+        <td>978-327-9839</td>
+        <td>Jeep</td>
+        <td>LINCOLN              </td>
+        <td>NAVIGATOR</td>
+        <td>2005</td>
+        <td>5LMFU28545LJ21770</td>
+        <td align="right">G170201</td>
+        <td align="right">2020-12-15 15:11:23</td>
+        <td align="right">15-12-2020</td>
+        <td align="right">15-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002300</td>
+        <td>DAVID ABRAHAM </td>
+        <td>MARTINEZ JIMENEZ</td>
+        <td>001-1929566-5</td>
+        <td>C Enriquillo No. 12, Ensanche Quisqueya </td>
+        <td>DISTRITO NACIONAL</td>
+        <td>809-437-6168</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>ZOOMER</td>
+        <td>1994</td>
+        <td>AF581609465</td>
+        <td align="right">0000000000</td>
+        <td align="right">2020-12-15 15:43:03</td>
+        <td align="right">15-12-2020</td>
+        <td align="right">15-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002301</td>
+        <td>JUAN ESTEBAN</td>
+        <td>ZAPATA DE LA CRUZ</td>
+        <td>003-0122890-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-367-3054</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>HA021919714</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-15 16:12:52</td>
+        <td align="right">15-12-2020</td>
+        <td align="right">15-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002302</td>
+        <td>SAMUEL </td>
+        <td>MEJIA AQUINO</td>
+        <td>002-0096078-9</td>
+        <td>CPRINCIPAL NO.179, LAS MERCEDES</td>
+        <td>SAN CRISTOBAL</td>
+        <td>849-883-5340</td>
+        <td>Jeep</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2014</td>
+        <td>2HKRM3H35EH507594</td>
+        <td align="right">G443925</td>
+        <td align="right">2020-12-15 16:27:30</td>
+        <td align="right">15-12-2020</td>
+        <td align="right">15-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>1,000,000</td>
+        <td align="right">2,850.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002303</td>
+        <td>ELOANNY MARGARITA </td>
+        <td>GONZALEZ ARIAS</td>
+        <td>003-0110354-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-843-3620</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191218782</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-15 16:47:05</td>
+        <td align="right">15-12-2020</td>
+        <td align="right">15-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002304</td>
+        <td>ANA CECILIA </td>
+        <td>ANTUNA MEJIA </td>
+        <td>402-4132338-1</td>
+        <td>ccanada casa 18,el cruce</td>
+        <td>PERAVIA</td>
+        <td>829-272-7010</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>ARTISTICA</td>
+        <td>1994</td>
+        <td>3KJ7933970</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-12-15 16:57:50</td>
+        <td align="right">15-12-2020</td>
+        <td align="right">15-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002305</td>
+        <td>SUPERCADO</td>
+        <td>ISARIC</td>
+        <td>132-2066730-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-440-2470</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502607371</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-15 17:32:19</td>
+        <td align="right">15-12-2020</td>
+        <td align="right">15-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002306</td>
+        <td>DEIVI JESUS </td>
+        <td>PEGUERO ROSSIS</td>
+        <td>003-0118764-7</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-409-6606</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF191222453</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-12-15 18:07:18</td>
+        <td align="right">15-12-2020</td>
+        <td align="right">15-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>8,525.00</h4></td>
+</tr></table>

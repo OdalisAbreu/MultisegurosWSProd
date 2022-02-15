@@ -1,0 +1,148 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Casa del Conductor
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 20/06/2019 <b>Hasta:</b> 27/06/2019
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		07:08:55
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>AUTO-MSD-014594</td>
+        <td>BENITO</td>
+        <td>SANCHEZ GARCIA</td>
+        <td>001-0436898-0</td>
+        <td></td>
+        <td>829-284-4163</td>
+        <td>Camioneta</td>
+        <td>MITSUBISHI           </td>
+        <td>L200</td>
+        <td>2002</td>
+        <td>MMBJNK7402D021625</td>
+        <td>L390396</td>
+        <td>01:26:30</td>
+		<td>16960</td>
+        <td>27 de  Junio del 2019</td>
+        <td>27 de  Junio del 2020</td>
+        <td>$1,180.00</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>AUTO-MSD-014582</td>
+        <td>ROCIO</td>
+        <td>TUNUBALA</td>
+        <td>031-0536206-9</td>
+        <td></td>
+        <td>809-962-9796</td>
+        <td>Automovil</td>
+        <td>KIA                  </td>
+        <td>SORENTO</td>
+        <td>2011</td>
+        <td>5XYKT4A10BG145910</td>
+        <td>G339257</td>
+        <td>10:42:31</td>
+		<td>16948</td>
+        <td>27 de  Junio del 2019</td>
+        <td>27 de  Junio del 2020</td>
+        <td>$2,360.00</td>
+   </tr>
+	<tr>
+   		<td>3</td>
+        <td>AUTO-MSD-014538</td>
+        <td>JOSE LUIS</td>
+        <td>LEONARDO DE JESUS</td>
+        <td>001-1191013-9</td>
+        <td></td>
+        <td>809-704-9751</td>
+        <td>Jeep</td>
+        <td>KIA                  </td>
+        <td>SORENTO</td>
+        <td>2011</td>
+        <td>5XYKTCA1XBG171988</td>
+        <td>G383716</td>
+        <td>11:43:00</td>
+		<td>16904</td>
+        <td>26 de  Junio del 2019</td>
+        <td>26 de  Junio del 2020</td>
+        <td>$3,540.00</td>
+   </tr>
+	<tr>
+   		<td>4</td>
+        <td>AUTO-MSD-014537</td>
+        <td>JOSE LUIS</td>
+        <td>LEONARDO DE JESUS</td>
+        <td>001-1191013-9</td>
+        <td></td>
+        <td>809-704-9751</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>ACCENT</td>
+        <td>2014</td>
+        <td>KMHCT51CBEU131090</td>
+        <td>A613040</td>
+        <td>11:35:09</td>
+		<td>16903</td>
+        <td>26 de  Junio del 2019</td>
+        <td>26 de  Junio del 2020</td>
+        <td>$4,720.00</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$11,800.00</td>
+   </tr>
+</table>

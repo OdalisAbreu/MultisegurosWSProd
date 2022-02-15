@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 05/09/2021 <b>Hasta:</b> 05/09/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-005385</td>
+        <td>LEIBY MARIA</td>
+        <td>RAMIREZ EVANGELISTA</td>
+        <td>402-2184947-0</td>
+        <td>SABANA PIEDRA, VILLA ALTAGRACIA</td>
+        <td>San Cristóbal</td>
+        <td>849-405-1357</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>PASSO</td>
+        <td>2015</td>
+        <td>KGC300192197</td>
+        <td align="right">A870970</td>
+        <td align="right">2021-09-05 09:02:17</td>
+        <td align="right">05-09-2021</td>
+        <td align="right">05-09-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-005386</td>
+        <td>EDWIN JOSE</td>
+        <td>RODRIGUEZ RAMOS</td>
+        <td>402-0061533-0</td>
+        <td>C VENUS 1galaxia</td>
+        <td>Santo Domingo Oeste</td>
+        <td>849-925-6520</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>ACCORD</td>
+        <td>2019</td>
+        <td>1HGCV1F39KA091368</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-09-05 12:37:40</td>
+        <td align="right">05-09-2021</td>
+        <td align="right">05-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-005387</td>
+        <td>CRISTINO</td>
+        <td>GERALDINO RODRIGUEZ</td>
+        <td>037-0094889-0</td>
+        <td>LOS BORDAS CALLE  17</td>
+        <td>San Felipe de Puerto Plata Puerto Plata</td>
+        <td>829-854-7514</td>
+        <td>Motocicleta</td>
+        <td>TVS                  </td>
+        <td>TVS </td>
+        <td>2019</td>
+        <td>MD634KE42K2A33027</td>
+        <td align="right">K2019798</td>
+        <td align="right">2021-09-05 13:13:43</td>
+        <td align="right">05-09-2021</td>
+        <td align="right">05-03-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-005388</td>
+        <td>RAMON DE LA</td>
+        <td>CRUZ HIDALGO</td>
+        <td>026-0037234-2</td>
+        <td>VILLA VERE</td>
+        <td>La Romana</td>
+        <td>829-522-6090</td>
+        <td>Motocicleta</td>
+        <td>JINCHENG             </td>
+        <td>JINCHENG </td>
+        <td>2016</td>
+        <td>LJCPAGLH2G1000403</td>
+        <td align="right">K0753311</td>
+        <td align="right">2021-09-05 14:22:12</td>
+        <td align="right">05-09-2021</td>
+        <td align="right">05-09-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-005389</td>
+        <td>AMAURY JACOBO</td>
+        <td>VASQUEZ BADIA</td>
+        <td>001-1515243-1</td>
+        <td>Ruben Dario No. 23</td>
+        <td>SANTO DOMINGO</td>
+        <td>809-543-2777</td>
+        <td>Jeepeta</td>
+        <td>CHEVROLET            </td>
+        <td>TAHOE</td>
+        <td>2007</td>
+        <td>1GNFK13057R297592</td>
+        <td align="right">G272506</td>
+        <td align="right">2021-09-05 15:35:40</td>
+        <td align="right">05-09-2021</td>
+        <td align="right">05-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,225.00</h4></td>
+</tr></table>

@@ -1,0 +1,108 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Plan Plus (Veh. Livianos) Exceso R/C RD$1,000,000
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 01/06/2019 <b>Hasta:</b> 05/07/2019
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		08:40:00
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>EX-DOM-013878</td>
+        <td>MARINA</td>
+        <td>VALENZUELA PAYANO</td>
+        <td>082-0017948-2</td>
+        <td>SAN CRISTOBAL</td>
+        <td>809-705-3583</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>2009</td>
+        <td>2T1BU40E89C111303</td>
+        <td>A592682</td>
+        <td>04:40:10</td>
+		<td>16244</td>
+        <td>12 de  Junio del 2019</td>
+        <td>12 de  Junio del 2020</td>
+        <td>$281.55</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>EX-DOM-013874</td>
+        <td>JOSE MANUEL</td>
+        <td>TURBI NUNEZ</td>
+        <td>082-0023580-5</td>
+        <td>SAN CRISTOBAL</td>
+        <td>829-589-3792</td>
+        <td>Jeepeta</td>
+        <td>MITSUBISHI           </td>
+        <td>MONTERO</td>
+        <td>2000</td>
+        <td>JA4LS21H5YP814231</td>
+        <td>G063905</td>
+        <td>04:13:14</td>
+		<td>16240</td>
+        <td>12 de  Junio del 2019</td>
+        <td>12 de  Junio del 2020</td>
+        <td>$563.10</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$844.65</td>
+   </tr>
+</table>

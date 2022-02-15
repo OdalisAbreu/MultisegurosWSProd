@@ -1,0 +1,307 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 18/12/2020 <b>Hasta:</b> 18/12/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002324</td>
+        <td>JUAN EMILIO</td>
+        <td>RAMIREZ VILCHEZ</td>
+        <td>010-0019833-1</td>
+        <td>Profesora Altagracia Vilchez  10, Alto las Flores</td>
+        <td>AZUA</td>
+        <td>829-248-2845</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>AVANTE</td>
+        <td>2015</td>
+        <td>KMHDG41LBFU185820</td>
+        <td align="right">A751065</td>
+        <td align="right">2020-12-18 07:52:08</td>
+        <td align="right">18-12-2020</td>
+        <td align="right">18-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002325</td>
+        <td>DOMINGO</td>
+        <td>FLORENTINO GERALDO</td>
+        <td>295-0002638-9</td>
+        <td>CALETA C17</td>
+        <td></td>
+        <td>809-835-5082</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>LEAD 90</td>
+        <td>1992</td>
+        <td>HF051211650</td>
+        <td align="right">K1785225</td>
+        <td align="right">2020-12-18 08:57:38</td>
+        <td align="right">18-12-2020</td>
+        <td align="right">18-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002326</td>
+        <td>PEDRO ANTONIO</td>
+        <td>ZAPATA TEJEDA</td>
+        <td>003-0038194-4</td>
+        <td>cprincipal casa 25,el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-321-8318</td>
+        <td>Camioneta</td>
+        <td>DAIHATSU             </td>
+        <td>HIJET</td>
+        <td>1998</td>
+        <td>S100P068726</td>
+        <td align="right">L263661</td>
+        <td align="right">2020-12-18 09:17:31</td>
+        <td align="right">18-12-2020</td>
+        <td align="right">18-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002327</td>
+        <td>SIMEON</td>
+        <td>DISLA DE LA CRUZ</td>
+        <td>402-2187782-8</td>
+        <td>maimon</td>
+        <td></td>
+        <td>809-404-9121</td>
+        <td>Automovil</td>
+        <td>MITSUBISHI           </td>
+        <td>MONTERO SPORT 4 X 2</td>
+        <td>2000</td>
+        <td>JA4MT31H9YP035972</td>
+        <td align="right">G118028</td>
+        <td align="right">2020-12-18 11:15:52</td>
+        <td align="right">18-12-2020</td>
+        <td align="right">18-06-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">937.50</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002328</td>
+        <td>MANUEL ELIAS</td>
+        <td>NUÑEZ</td>
+        <td>003-0094075-6</td>
+        <td>cmaximo gomez casa 92,el cruce</td>
+        <td>PERAVIA</td>
+        <td>809-356-4201</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td>X-1000 </td>
+        <td>2012</td>
+        <td>LF3PAG4A6CB001431</td>
+        <td align="right">N835571</td>
+        <td align="right">2020-12-18 11:21:16</td>
+        <td align="right">18-12-2020</td>
+        <td align="right">18-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002329</td>
+        <td>MIGUEL </td>
+        <td>SUAZO</td>
+        <td>003-0042056-9</td>
+        <td>detras de makumba,el cruce</td>
+        <td>PERAVIA</td>
+        <td>862-271-5402</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2012</td>
+        <td>XF1CG150ACY001083</td>
+        <td align="right">K0185243</td>
+        <td align="right">2020-12-18 11:52:38</td>
+        <td align="right">18-12-2020</td>
+        <td align="right">18-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">137.50</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002330</td>
+        <td>JOSE ANGEL</td>
+        <td>PERDOMO</td>
+        <td>402-1030542-7</td>
+        <td>SAN CRISTOBAL</td>
+        <td></td>
+        <td>829-853-3412</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td></td>
+        <td>2014</td>
+        <td>TLB20P10XEHJ57842</td>
+        <td align="right">K0360746</td>
+        <td align="right">2020-12-18 13:20:52</td>
+        <td align="right">18-12-2020</td>
+        <td align="right">18-03-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002331</td>
+        <td>RAYMOND</td>
+        <td>FELIZ DE LEON </td>
+        <td>402-2214718-9</td>
+        <td>cprimera casa 01,vicente noble</td>
+        <td>BARAHONA</td>
+        <td>809-905-7393</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2020</td>
+        <td>LC6PAGA18M0000468</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-12-18 15:42:41</td>
+        <td align="right">18-12-2020</td>
+        <td align="right">18-12-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002332</td>
+        <td>RADHAMES</td>
+        <td>MORALES ECHAVARRIA</td>
+        <td>027-0030575-4</td>
+        <td>CENTRO DE LA CIUDAD</td>
+        <td></td>
+        <td>809-771-3877</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>PICK UP </td>
+        <td>1989</td>
+        <td>JT4RN13P7K6006952</td>
+        <td align="right">L039311</td>
+        <td align="right">2020-12-18 18:31:57</td>
+        <td align="right">18-12-2020</td>
+        <td align="right">18-03-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">618.75</td>
+   </tr><tr>
+   		<td><b>10</td>
+        <td>AUTO-AT-002333</td>
+        <td>LUIS ERNESTO</td>
+        <td>FRANCISCO SOSA</td>
+        <td>034-0049044-1</td>
+        <td>SEFERINA CALDERON 11</td>
+        <td></td>
+        <td>829-962-1415</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2000</td>
+        <td>EK33110831</td>
+        <td align="right">A515539</td>
+        <td align="right">2020-12-18 20:44:33</td>
+        <td align="right">18-12-2020</td>
+        <td align="right">18-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>8,606.25</h4></td>
+</tr></table>

@@ -1,0 +1,187 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 16/01/2020 <b>Hasta:</b> 16/01/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-000449</td>
+        <td>MAIKEL ANTONIO</td>
+        <td>MADRIGAL REYES</td>
+        <td>402-2265838-3</td>
+        <td>YERBA BUENA</td>
+        <td></td>
+        <td>829-518-5155</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>SUZUKI</td>
+        <td>2018</td>
+        <td>LC6TCJC95J0001243</td>
+        <td align="right">K1298889</td>
+        <td align="right">2020-01-16 09:27:18</td>
+        <td align="right">16-01-2020</td>
+        <td align="right">16-04-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-000450</td>
+        <td>DANIEL</td>
+        <td>DELGADO SARMIENTO</td>
+        <td>001-0770326-6</td>
+        <td>HIGUEY</td>
+        <td></td>
+        <td>809-361-9229</td>
+        <td>Motocicleta</td>
+        <td>PGO                  </td>
+        <td>PGO </td>
+        <td>2015</td>
+        <td>RFVCPCPC5E1017607</td>
+        <td align="right">XXX</td>
+        <td align="right">2020-01-16 10:09:34</td>
+        <td align="right">16-01-2020</td>
+        <td align="right">16-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-000451</td>
+        <td>ARACELIS MERCEDES</td>
+        <td>LARA ANDUJAR</td>
+        <td>028-0086673-9</td>
+        <td>VILLA NAVARRO</td>
+        <td></td>
+        <td>829-957-8739</td>
+        <td>Motocicleta</td>
+        <td>PGO                  </td>
+        <td>PGO </td>
+        <td>2011</td>
+        <td>RFVCPCPC5B1011638</td>
+        <td align="right">N746342</td>
+        <td align="right">2020-01-16 10:51:25</td>
+        <td align="right">16-01-2020</td>
+        <td align="right">16-01-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">375.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-000452</td>
+        <td>KELVIN</td>
+        <td>POLANCO DURAN</td>
+        <td>061-0024983-5</td>
+        <td>UVERO ALTO</td>
+        <td></td>
+        <td>829-803-5016</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CAMRY</td>
+        <td>2007</td>
+        <td>JTNBB46E873004241</td>
+        <td align="right">A591105</td>
+        <td align="right">2020-01-16 12:06:57</td>
+        <td align="right">16-01-2020</td>
+        <td align="right">16-01-2021</td>
+        <td>100,000</td>
+        <td>0</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-000453</td>
+        <td>ANA LUISA</td>
+        <td>ASENCIO NINA</td>
+        <td>002-0132247-6</td>
+        <td>DOMINGO ASENCIO 37</td>
+        <td></td>
+        <td>829-706-7146</td>
+        <td>Motocicleta</td>
+        <td>KYM                  </td>
+        <td>KYM </td>
+        <td>2006</td>
+        <td>LJCPAGLHX71004585</td>
+        <td align="right">K0287143</td>
+        <td align="right">2020-01-16 14:12:02</td>
+        <td align="right">16-01-2020</td>
+        <td align="right">16-04-2020</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">175.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,975.00</h4></td>
+</tr></table>

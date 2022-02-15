@@ -1,0 +1,259 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 22/06/2020 <b>Hasta:</b> 22/06/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001216</td>
+        <td>JHONATAN MIGUEL</td>
+        <td>FELIZ PEREZ</td>
+        <td>001-1821911-2</td>
+        <td>AV. VEGA REAL LA PUYA AROLLO HONO</td>
+        <td></td>
+        <td>809-215-1606</td>
+        <td>Motocicleta</td>
+        <td>BAJAJ</td>
+        <td>BAJAJ 125</td>
+        <td>2017</td>
+        <td>MD2A18AZOHWJ34264</td>
+        <td align="right">K1194805</td>
+        <td align="right">2020-06-22 08:38:42</td>
+        <td align="right">22-06-2020</td>
+        <td align="right">22-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001217</td>
+        <td>RADHAMES</td>
+        <td>MORALES ECHAVARRIA</td>
+        <td>027-0030575-4</td>
+        <td>CENTRO DE LA CIUDAD</td>
+        <td></td>
+        <td>829-510-5534</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>PICK UP </td>
+        <td>1989</td>
+        <td>JT4RN13P7K6006952</td>
+        <td align="right">L039311</td>
+        <td align="right">2020-06-22 11:05:12</td>
+        <td align="right">22-06-2020</td>
+        <td align="right">22-09-2020</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">618.75</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001218</td>
+        <td>JOSEFINA </td>
+        <td>REYES </td>
+        <td>003-0076536-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-380-2556</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>3KJ78299947 </td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-06-22 16:03:38</td>
+        <td align="right">22-06-2020</td>
+        <td align="right">22-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-001219</td>
+        <td>ROBINSON RAFAEL </td>
+        <td>LARA</td>
+        <td>003-0049154-5</td>
+        <td>NICOLAS HEREDIA 24</td>
+        <td>PERAVIA</td>
+        <td>829-313-9558</td>
+        <td>Jeep</td>
+        <td>HYUNDAI              </td>
+        <td>HYUNDAI </td>
+        <td>2010</td>
+        <td>KMHJM81BBAU166751</td>
+        <td align="right">G227785</td>
+        <td align="right">2020-06-22 16:05:21</td>
+        <td align="right">22-06-2020</td>
+        <td align="right">22-06-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-001220</td>
+        <td>JOSEFINA</td>
+        <td>REYES</td>
+        <td>003-0076536-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-836-2366</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td></td>
+        <td>2019</td>
+        <td>TBLPCK4J1K2000008</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-06-22 16:06:36</td>
+        <td align="right">22-06-2020</td>
+        <td align="right">22-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-001221</td>
+        <td>NILCIO DE JESUS </td>
+        <td>CASTRO MORDAN </td>
+        <td>003-0054486-3</td>
+        <td>CPRINCIPAL NO 78 LOS TUMBAOS </td>
+        <td>PERAVIA</td>
+        <td>829-723-5033</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TACOMA</td>
+        <td>2002</td>
+        <td>5TEVL52N22Z109288</td>
+        <td align="right">L238217</td>
+        <td align="right">2020-06-22 17:24:47</td>
+        <td align="right">22-06-2020</td>
+        <td align="right">22-06-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-001222</td>
+        <td>ANGEL DANIEL </td>
+        <td>ARIAS TEJEDA</td>
+        <td>402-2206204-0</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>003-007-8599</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>1994</td>
+        <td>LZRKJF00XK1000271</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-06-22 17:25:56</td>
+        <td align="right">22-06-2020</td>
+        <td align="right">22-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-001223</td>
+        <td>SOLENNY </td>
+        <td>GERMAN </td>
+        <td>003-0094934-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>003-007-8599</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J583303</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2020-06-22 17:53:11</td>
+        <td align="right">22-06-2020</td>
+        <td align="right">22-06-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>6,343.75</h4></td>
+</tr></table>

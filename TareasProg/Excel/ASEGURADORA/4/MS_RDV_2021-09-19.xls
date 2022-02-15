@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 19/09/2021 <b>Hasta:</b> 19/09/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-005863</td>
+        <td>FRANKLIN RAUL</td>
+        <td>PACHECO DIAZ</td>
+        <td>027-0022090-4</td>
+        <td>HATO MAYOR</td>
+        <td>Hato Mayor del Rey</td>
+        <td>849-210-7383</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>HILUX</td>
+        <td>1992</td>
+        <td>JT4RN93P3N5052660</td>
+        <td align="right">L068854</td>
+        <td align="right">2021-09-19 07:49:40</td>
+        <td align="right">19-09-2021</td>
+        <td align="right">19-12-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">618.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-005864</td>
+        <td>YELSON RAFAEL</td>
+        <td>PEREZ BORGES</td>
+        <td>021-0009616-9</td>
+        <td>ANGEL M.MONTE DE OCA6</td>
+        <td>Tamayo</td>
+        <td>829-836-9659</td>
+        <td>Jeepeta</td>
+        <td>HYUNDAI              </td>
+        <td>SANTA FE (JEEP)</td>
+        <td>2007</td>
+        <td>KMHSH81WP7U184411</td>
+        <td align="right">G165033</td>
+        <td align="right">2021-09-19 12:08:12</td>
+        <td align="right">19-09-2021</td>
+        <td align="right">19-09-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-005865</td>
+        <td>JUAN ALBERTO</td>
+        <td>DIAZ PRESINAL</td>
+        <td>013-0041731-6</td>
+        <td>CCALLEJON DE REJINA ESQ. E</td>
+        <td>Santo Domingo Oeste</td>
+        <td>829-957-0025</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>HILUX</td>
+        <td>2006</td>
+        <td>8AJFZ29G706023153</td>
+        <td align="right">L222524</td>
+        <td align="right">2021-09-19 12:09:27</td>
+        <td align="right">19-09-2021</td>
+        <td align="right">19-09-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-005866</td>
+        <td>ARIEL JOSE</td>
+        <td>BRITO   BAUTISTA</td>
+        <td>402-2914668-9</td>
+        <td>PEDRO A.LLUBERES 180</td>
+        <td>La Romana</td>
+        <td>829-520-2170</td>
+        <td>Automovil</td>
+        <td>LAND ROVER           </td>
+        <td>LAND-ROVER</td>
+        <td>2005</td>
+        <td>SALAA25415A301413</td>
+        <td align="right">G143924</td>
+        <td align="right">2021-09-19 12:30:50</td>
+        <td align="right">19-09-2021</td>
+        <td align="right">19-09-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-005867</td>
+        <td>LUIS JOSE</td>
+        <td>POLANCO SANCHEZ</td>
+        <td>402-2474464-5</td>
+        <td>RESPGRAL.RODRIGUE REYES 16</td>
+        <td>Distrito Nacional</td>
+        <td>829-610-1008</td>
+        <td>Motocicleta</td>
+        <td>SANYANG              </td>
+        <td>WOLF 125</td>
+        <td>2011</td>
+        <td>EH156FMI11100113</td>
+        <td align="right">N806904</td>
+        <td align="right">2021-09-19 19:11:22</td>
+        <td align="right">19-09-2021</td>
+        <td align="right">19-09-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-005868</td>
+        <td>RONNY ALEXANDER </td>
+        <td>PEGUERO GUZMAN </td>
+        <td>003-0109119-5</td>
+        <td>calle 7 3 pueblo nuevo</td>
+        <td>PERAVIA</td>
+        <td>849-264-3366</td>
+        <td>Motocicleta</td>
+        <td>Z3000</td>
+        <td>CG150</td>
+        <td>2015</td>
+        <td>1Z3GJL2T14AK31386</td>
+        <td align="right">K098927</td>
+        <td align="right">2021-09-19 21:51:32</td>
+        <td align="right">19-09-2021</td>
+        <td align="right">19-09-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-005869</td>
+        <td>CHARLES BRIANT </td>
+        <td>POLANCO FELIZ</td>
+        <td>402-3867976-1</td>
+        <td>C cambronal 36 barrio los pescadores</td>
+        <td>PERAVIA</td>
+        <td>829-346-6100</td>
+        <td>Motoneta</td>
+        <td>HONDA                </td>
+        <td>C90</td>
+        <td>1994</td>
+        <td>HA021943145</td>
+        <td align="right">K0575277</td>
+        <td align="right">2021-09-19 22:05:02</td>
+        <td align="right">19-09-2021</td>
+        <td align="right">19-09-2022</td>
+        <td>50,000</td>
+        <td>25,000</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>7,668.75</h4></td>
+</tr></table>

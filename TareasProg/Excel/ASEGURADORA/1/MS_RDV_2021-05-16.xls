@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Dominicana de Seguros 
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 16/05/2021 <b>Hasta:</b> 16/05/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-MSD-037284</td>
+        <td>CAROLINA</td>
+        <td>ESPINAL MORILLO</td>
+        <td>001-1901967-7</td>
+        <td>PADRE LAS CASAS CALLE 1</td>
+        <td></td>
+        <td>849-201-0453</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>3KJ7898702</td>
+        <td align="right">K0614319</td>
+        <td align="right">2021-05-16 08:15:27</td>
+        <td align="right">16-05-2021</td>
+        <td align="right">16-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-MSD-037285</td>
+        <td>PASCUAL</td>
+        <td>MUNOZ DE LOS SANTOS</td>
+        <td>118-0005430-3</td>
+        <td>MAIMON</td>
+        <td></td>
+        <td>809-389-0449</td>
+        <td>Motocicleta</td>
+        <td>JET PRO</td>
+        <td>CG-150</td>
+        <td>2012</td>
+        <td>LUPPCK1A9C2000378</td>
+        <td align="right">N980094</td>
+        <td align="right">2021-05-16 09:58:51</td>
+        <td align="right">16-05-2021</td>
+        <td align="right">16-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-MSD-037286</td>
+        <td>LUIS MIGUEL</td>
+        <td>AQUINO SOTO</td>
+        <td>402-1022617-7</td>
+        <td>LAS MERCEDES, CLOS GUZMANES , YAGUATE, S.C</td>
+        <td></td>
+        <td>829-485-1832</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2018</td>
+        <td>TARPCM506JC006836</td>
+        <td align="right">XXXX</td>
+        <td align="right">2021-05-16 10:00:42</td>
+        <td align="right">16-05-2021</td>
+        <td align="right">16-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-MSD-037287</td>
+        <td>ABEL</td>
+        <td>MEJIAS BASTARDO</td>
+        <td>402-2161395-9</td>
+        <td>BENITO MONCION NO10 MICHES</td>
+        <td></td>
+        <td>809-208-8106</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2021</td>
+        <td>XF1NC1102ML517243</td>
+        <td align="right">EN PROCESO</td>
+        <td align="right">2021-05-16 10:25:59</td>
+        <td align="right">16-05-2021</td>
+        <td align="right">16-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-MSD-037288</td>
+        <td>MARTIN</td>
+        <td>PERALTA</td>
+        <td>028-0068477-7</td>
+        <td>HIGUEY</td>
+        <td></td>
+        <td>829-218-7016</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2018</td>
+        <td>XF1AX100AJN003082</td>
+        <td align="right">0000000</td>
+        <td align="right">2021-05-16 11:12:05</td>
+        <td align="right">16-05-2021</td>
+        <td align="right">16-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-MSD-037289</td>
+        <td>BRYAN MICHAEL</td>
+        <td>RODRIGUEZ DE LA ROSA</td>
+        <td>026-0129976-7</td>
+        <td>VILLA PEREYDA</td>
+        <td></td>
+        <td>849-340-6804</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td></td>
+        <td>2019</td>
+        <td>LLCJPJT02JA110196</td>
+        <td align="right">000000</td>
+        <td align="right">2021-05-16 11:43:03</td>
+        <td align="right">16-05-2021</td>
+        <td align="right">16-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-MSD-037290</td>
+        <td>FELIX DANIEL</td>
+        <td>NIVAR GARCIA</td>
+        <td>090-0002271-6</td>
+        <td>MATADERO No 48 SABANAA GRANDE DE BOYA</td>
+        <td></td>
+        <td>809-840-9433</td>
+        <td>Camioneta</td>
+        <td>MITSUBISHI           </td>
+        <td>MITSUBISHI </td>
+        <td>2001</td>
+        <td>MMBJRK7401D052624</td>
+        <td align="right">LBIC54</td>
+        <td align="right">2021-05-16 11:53:59</td>
+        <td align="right">16-05-2021</td>
+        <td align="right">16-05-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-MSD-037291</td>
+        <td>JOSE MIGUEL</td>
+        <td>SANTANA RODRIGUEZ</td>
+        <td>031-0577305-9</td>
+        <td>BATEI I LA CANELA CPRINCIPAL CASA 11</td>
+        <td></td>
+        <td>829-609-8638</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2014</td>
+        <td>LXAPCM4A2EC000391</td>
+        <td align="right">K0504921</td>
+        <td align="right">2021-05-16 12:09:50</td>
+        <td align="right">16-05-2021</td>
+        <td align="right">16-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-MSD-037292</td>
+        <td>ESMEILY</td>
+        <td>DE LA CRUZ LAGARES</td>
+        <td>402-1367430-8</td>
+        <td>BUENA VISTA DE YAQUE SAN JUAN</td>
+        <td></td>
+        <td>809-299-5325</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td></td>
+        <td>2016</td>
+        <td>TBL20P10XGHF50486</td>
+        <td align="right">K0758411</td>
+        <td align="right">2021-05-16 14:50:50</td>
+        <td align="right">16-05-2021</td>
+        <td align="right">16-05-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>4,675.00</h4></td>
+</tr></table>

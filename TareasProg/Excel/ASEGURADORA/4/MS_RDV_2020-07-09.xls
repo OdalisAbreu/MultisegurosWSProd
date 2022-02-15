@@ -1,0 +1,139 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 09/07/2020 <b>Hasta:</b> 09/07/2020
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-001328</td>
+        <td>ANGEL SALVADOR</td>
+        <td>RIVAS ESCANIO</td>
+        <td>010-0015273-4</td>
+        <td>C Amapola  10, Residencial Paraiso, Azua</td>
+        <td>AZUA</td>
+        <td>809-223-8581</td>
+        <td>Jeep</td>
+        <td>JEEP                 </td>
+        <td>CHEROKEE</td>
+        <td>2012</td>
+        <td>1C4RJFAG7CC218894</td>
+        <td align="right">G420989</td>
+        <td align="right">2020-07-09 09:52:52</td>
+        <td align="right">09-07-2020</td>
+        <td align="right">09-07-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-001329</td>
+        <td>LUIS MIGUEL</td>
+        <td>SOTO ARIAS</td>
+        <td>402-2466257-3</td>
+        <td>VILLA SOMBRERO SAN ANTONIO CASA 01.</td>
+        <td>PERAVIA</td>
+        <td>829-510-4490</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>TAURO</td>
+        <td>2019</td>
+        <td>LGVSNY508KZ828079</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2020-07-09 10:30:24</td>
+        <td align="right">09-07-2020</td>
+        <td align="right">09-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-001330</td>
+        <td>JORGE ANTONIO </td>
+        <td>CASTILLO </td>
+        <td>003-0011324-8</td>
+        <td>CSANCHEZ CASA 03 SABANA BUEY </td>
+        <td>PERAVIA</td>
+        <td>809-801-0690</td>
+        <td>Motocicleta</td>
+        <td>GATO</td>
+        <td>CG 200</td>
+        <td>2019</td>
+        <td>LRPRPLB05KA202078</td>
+        <td align="right">TRAMITE </td>
+        <td align="right">2020-07-09 18:18:37</td>
+        <td align="right">09-07-2020</td>
+        <td align="right">09-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>2,425.00</h4></td>
+</tr></table>

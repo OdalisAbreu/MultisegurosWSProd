@@ -1,0 +1,283 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 06/01/2021 <b>Hasta:</b> 06/01/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-002448</td>
+        <td>VICENTE</td>
+        <td>BERAS CONSTANZO</td>
+        <td>103-0000861-1</td>
+        <td>CALETA C13</td>
+        <td></td>
+        <td>829-442-6842</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2011</td>
+        <td>LLCLPP203BE109419</td>
+        <td align="right">K0595253</td>
+        <td align="right">2021-01-06 09:29:26</td>
+        <td align="right">06-01-2021</td>
+        <td align="right">06-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-002449</td>
+        <td>RAFAEL</td>
+        <td>CASTRO AGUILERA</td>
+        <td>054-0090056-8</td>
+        <td>BARRIO LOS LOPEZ MOCA</td>
+        <td></td>
+        <td>809-671-5310</td>
+        <td>Motocicleta</td>
+        <td>TUCANO</td>
+        <td>CG200</td>
+        <td>2019</td>
+        <td>LZ3PCX13TKB118185</td>
+        <td align="right">K1737462</td>
+        <td align="right">2021-01-06 12:06:26</td>
+        <td align="right">06-01-2021</td>
+        <td align="right">06-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-002450</td>
+        <td>MARIA ALTAGRACIA</td>
+        <td>CASTILLO ZABALA</td>
+        <td>012-0075915-5</td>
+        <td>ANACAONA 24 CENTRO DE LA CIUDAD SAN JUAN DE LA MAGUANA</td>
+        <td></td>
+        <td>829-914-5812</td>
+        <td>Motocicleta</td>
+        <td>SUZUKI               </td>
+        <td>AX100</td>
+        <td>2010</td>
+        <td>LC8PAGA17A817099</td>
+        <td align="right">K0110428</td>
+        <td align="right">2021-01-06 13:13:23</td>
+        <td align="right">06-01-2021</td>
+        <td align="right">06-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-002451</td>
+        <td>ENMANUEL</td>
+        <td>SHEGUI BRITO</td>
+        <td>402-2758778-5</td>
+        <td>AV. LA VEGA REAL LA PUYA DE ARROYO HONDO</td>
+        <td></td>
+        <td>849-458-7837</td>
+        <td>Motocicleta</td>
+        <td>TAURO</td>
+        <td>CG 200</td>
+        <td>2015</td>
+        <td>TARPCM507FC000096</td>
+        <td align="right">K0521450</td>
+        <td align="right">2021-01-06 15:02:44</td>
+        <td align="right">06-01-2021</td>
+        <td align="right">06-04-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-002452</td>
+        <td>ADDERLY STEVENSON </td>
+        <td>CASTILLO SOTO</td>
+        <td>402-2303054-1</td>
+        <td>c2da casa 21 ,las salinas</td>
+        <td>PERAVIA</td>
+        <td>809-750-7759</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>MD50</td>
+        <td>1994</td>
+        <td>MD502216341</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-06 15:39:51</td>
+        <td align="right">06-01-2021</td>
+        <td align="right">06-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-002453</td>
+        <td>ARCENIO</td>
+        <td>PERALTA GARCIA </td>
+        <td>003-0002965-9</td>
+        <td>cla noria casa 11A matanzas </td>
+        <td>PERAVIA</td>
+        <td>809-210-8252</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LX125</td>
+        <td>2019</td>
+        <td>LLCLP1TOXKA102972</td>
+        <td align="right">TRAMITE</td>
+        <td align="right">2021-01-06 16:20:44</td>
+        <td align="right">06-01-2021</td>
+        <td align="right">06-01-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-002454</td>
+        <td>HENRY</td>
+        <td>GARCIA TEJEDA</td>
+        <td>003-0075928-9</td>
+        <td>Calle Las acacias  13, Residencial El Laurel, Bani</td>
+        <td>PERAVIA</td>
+        <td>809-952-3580</td>
+        <td>Camioneta</td>
+        <td>DODGE                </td>
+        <td>DODGE </td>
+        <td>1998</td>
+        <td>JB7FM54E3JP093008</td>
+        <td align="right">L328624</td>
+        <td align="right">2021-01-06 16:45:34</td>
+        <td align="right">06-01-2021</td>
+        <td align="right">06-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>8</td>
+        <td>AUTO-AT-002455</td>
+        <td>HENRY</td>
+        <td>GARCIA TEJEDA</td>
+        <td>003-0075928-9</td>
+        <td>Calle Las acacias  13, Residencial El Laurel, Bani</td>
+        <td>PERAVIA</td>
+        <td>809-952-3580</td>
+        <td>Camioneta</td>
+        <td>TOYOTA               </td>
+        <td>TACOMA</td>
+        <td>1997</td>
+        <td>4TANL42N2VZ314826</td>
+        <td align="right">L138718</td>
+        <td align="right">2021-01-06 17:12:53</td>
+        <td align="right">06-01-2021</td>
+        <td align="right">06-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">2,475.00</td>
+   </tr><tr>
+   		<td><b>9</td>
+        <td>AUTO-AT-002456</td>
+        <td>HENRY</td>
+        <td>GARCIA TEJEDA</td>
+        <td>003-0075928-9</td>
+        <td>Calle Las acacias  13, Residencial El Laurel, Bani</td>
+        <td>PERAVIA</td>
+        <td>809-952-3580</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>HIGHLANDER</td>
+        <td>2008</td>
+        <td>JTEES41A982008754</td>
+        <td align="right">G312316</td>
+        <td align="right">2021-01-06 17:28:38</td>
+        <td align="right">06-01-2021</td>
+        <td align="right">06-01-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>8,268.75</h4></td>
+</tr></table>

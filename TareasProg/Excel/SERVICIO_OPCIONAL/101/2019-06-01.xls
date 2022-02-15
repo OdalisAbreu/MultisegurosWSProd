@@ -1,0 +1,228 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Asistencia Vial (Grua)
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 01/06/2019 <b>Hasta:</b> 05/07/2019
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		08:40:00
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>AUTO-MSD-014965</td>
+        <td>DIOMEDES</td>
+        <td>MARTE RODRIGUEZ</td>
+        <td>026-0100353-2</td>
+        <td></td>
+        <td>809-866-1570</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>RUNNER</td>
+        <td>2008</td>
+        <td>JTEBU17ROOKOO2659</td>
+        <td>G177361</td>
+        <td>07:46:33</td>
+		<td>17331</td>
+        <td>04 de  Julio del 2019</td>
+        <td>04 de  Julio del 2020</td>
+        <td>$600.00</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>AUTO-MSD-014582</td>
+        <td>ROCIO</td>
+        <td>TUNUBALA</td>
+        <td>031-0536206-9</td>
+        <td></td>
+        <td>809-962-9796</td>
+        <td>Automovil</td>
+        <td>KIA                  </td>
+        <td>SORENTO</td>
+        <td>2011</td>
+        <td>5XYKT4A10BG145910</td>
+        <td>G339257</td>
+        <td>10:42:31</td>
+		<td>16948</td>
+        <td>27 de  Junio del 2019</td>
+        <td>27 de  Junio del 2020</td>
+        <td>$1,200.00</td>
+   </tr>
+	<tr>
+   		<td>3</td>
+        <td>AUTO-MSD-014538</td>
+        <td>JOSE LUIS</td>
+        <td>LEONARDO DE JESUS</td>
+        <td>001-1191013-9</td>
+        <td></td>
+        <td>809-704-9751</td>
+        <td>Jeep</td>
+        <td>KIA                  </td>
+        <td>SORENTO</td>
+        <td>2011</td>
+        <td>5XYKTCA1XBG171988</td>
+        <td>G383716</td>
+        <td>11:43:00</td>
+		<td>16904</td>
+        <td>26 de  Junio del 2019</td>
+        <td>26 de  Junio del 2020</td>
+        <td>$1,800.00</td>
+   </tr>
+	<tr>
+   		<td>4</td>
+        <td>AUTO-MSD-014537</td>
+        <td>JOSE LUIS</td>
+        <td>LEONARDO DE JESUS</td>
+        <td>001-1191013-9</td>
+        <td></td>
+        <td>809-704-9751</td>
+        <td>Automovil</td>
+        <td>HYUNDAI              </td>
+        <td>ACCENT</td>
+        <td>2014</td>
+        <td>KMHCT51CBEU131090</td>
+        <td>A613040</td>
+        <td>11:35:09</td>
+		<td>16903</td>
+        <td>26 de  Junio del 2019</td>
+        <td>26 de  Junio del 2020</td>
+        <td>$2,400.00</td>
+   </tr>
+	<tr>
+   		<td>5</td>
+        <td>AUTO-MSD-014216</td>
+        <td>ATILES</td>
+        <td>MALDONADO PEREZ</td>
+        <td>223-0084282-4</td>
+        <td></td>
+        <td>829-375-7977</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>2012</td>
+        <td>5YFBU4EE8CP057371</td>
+        <td>A715452</td>
+        <td>12:09:08</td>
+		<td>16582</td>
+        <td>19 de  Junio del 2019</td>
+        <td>19 de  Junio del 2020</td>
+        <td>$3,000.00</td>
+   </tr>
+	<tr>
+   		<td>6</td>
+        <td>AUTO-MSD-013722</td>
+        <td>JUNIOR JOSE</td>
+        <td>REYES ARIAS</td>
+        <td>001-0808491-4</td>
+        <td></td>
+        <td>829-914-1506</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>CIVIC</td>
+        <td>2010</td>
+        <td>19XFA1F86AE028274</td>
+        <td>A653007</td>
+        <td>08:36:36</td>
+		<td>16088</td>
+        <td>10 de  Junio del 2019</td>
+        <td>10 de  Junio del 2020</td>
+        <td>$3,600.00</td>
+   </tr>
+	<tr>
+   		<td>7</td>
+        <td>AUTO-MSD-013690</td>
+        <td>QUIAROL</td>
+        <td>CASTILLO CARTY</td>
+        <td>226-0006428-5</td>
+        <td></td>
+        <td>829-218-0499</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>COROLLA</td>
+        <td>2007</td>
+        <td>1NXBR32E67Z771862</td>
+        <td>A586145</td>
+        <td>02:45:00</td>
+		<td>16056</td>
+        <td>08 de  Junio del 2019</td>
+        <td>08 de  Septiembre del 2019</td>
+        <td>$3,750.00</td>
+   </tr>
+	<tr>
+   		<td>8</td>
+        <td>AUTO-MSD-013622</td>
+        <td>KELVIN JUNIOR</td>
+        <td>SOLANO ARIAS</td>
+        <td>402-2329440-2</td>
+        <td></td>
+        <td>829-729-7207</td>
+        <td>Automovil</td>
+        <td>HONDA                </td>
+        <td>FIT</td>
+        <td>2012</td>
+        <td>JHMGE8H50CC15131</td>
+        <td>A782402</td>
+        <td>08:53:22</td>
+		<td>15988</td>
+        <td>07 de  Junio del 2019</td>
+        <td>07 de  Junio del 2020</td>
+        <td>$4,350.00</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$20,700.00</td>
+   </tr>
+</table>

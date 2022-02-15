@@ -1,0 +1,108 @@
+   
+  <table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="6">
+		
+		<b style="font-size: 60px; color: #d9261c;">Multi</b><b style="font-size: 60px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="7">
+		  <font style="font-size: 22px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	Casa del Conductor
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 12/11/2021 <b>Hasta:</b> 12/11/2021
+			</font>
+	  </td>
+	  <td align="center" colspan="4"> 
+	  	<b>Fecha del Reporte</b><br>
+		01:00:08
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n con hora</td>
+		<td>Agencia</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>Prima</td>
+   </tr> 
+	<tr>
+   		<td>1</td>
+        <td>AUTO-AT-008262</td>
+        <td>RENEE ANGELI</td>
+        <td>SANCHEZ INFANTE</td>
+        <td>001-1482789-2</td>
+        <td></td>
+        <td>809-598-0093</td>
+        <td>Jeep</td>
+        <td>TOYOTA               </td>
+        <td>4RUNNER</td>
+        <td>2013</td>
+        <td>JTEZU4JR905053214</td>
+        <td>G298895</td>
+        <td>07:24:34</td>
+		<td>49484</td>
+        <td>12 de  Noviembre del 2021</td>
+        <td>12 de  Noviembre del 2022</td>
+        <td>$1,180.00</td>
+   </tr>
+	<tr>
+   		<td>2</td>
+        <td>AUTO-AT-008220</td>
+        <td>JOAN MANUELSMLS</td>
+        <td>CEPEDA MENDOZA</td>
+        <td>225-0063991-3</td>
+        <td></td>
+        <td>849-344-1932</td>
+        <td>Automovil</td>
+        <td>SUBARU               </td>
+        <td>LEGACY</td>
+        <td>2011</td>
+        <td>4S3BNDK62B2222472</td>
+        <td>A802797</td>
+        <td>08:24:11</td>
+		<td>49442</td>
+        <td>12 de  Noviembre del 2021</td>
+        <td>12 de  Noviembre del 2022</td>
+        <td>$2,360.00</td>
+   </tr>
+	<tr>
+		<td colspan="17" align="right" style="font-size: 15px; color: #828282; font-weight: bold;">Total:</td>
+        <td style="font-size: 15px; color: #828282; font-weight: bold;">$3,540.00</td>
+   </tr>
+</table>

@@ -1,0 +1,235 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 27/04/2021 <b>Hasta:</b> 27/04/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003289</td>
+        <td>YORKI RAFAEL</td>
+        <td>PEGUERO VILLAR</td>
+        <td>150-0000069-3</td>
+        <td>teodoro rivera no7 caña fistol</td>
+        <td>PERAVIA</td>
+        <td>829-468-7244</td>
+        <td>Automovil</td>
+        <td>TOYOTA               </td>
+        <td>CORONA</td>
+        <td>1999</td>
+        <td>SB153SBN00E023717</td>
+        <td align="right">A066225</td>
+        <td align="right">2021-04-27 11:52:16</td>
+        <td align="right">27-04-2021</td>
+        <td align="right">27-07-2021</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">468.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003290</td>
+        <td>LUIS HUMBERTO </td>
+        <td>ARIAS LARA</td>
+        <td>003-0042140-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-389-9433</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502601406</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-27 11:56:38</td>
+        <td align="right">27-04-2021</td>
+        <td align="right">27-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003291</td>
+        <td>GENESIS EMPERATRIZ</td>
+        <td>MARTINEZ CORDERO</td>
+        <td>402-2545747-8</td>
+        <td>CAÑAFISTOL</td>
+        <td>PERAVIA</td>
+        <td>809-760-0035</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>JOG</td>
+        <td>1994</td>
+        <td>SA16J501121</td>
+        <td align="right">K1753077</td>
+        <td align="right">2021-04-27 13:52:19</td>
+        <td align="right">27-04-2021</td>
+        <td align="right">27-07-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003292</td>
+        <td>LUIS YONEIRYS</td>
+        <td>ARIAS</td>
+        <td>402-1037439-9</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-313-2544</td>
+        <td>Motocicleta</td>
+        <td>YAMAHA               </td>
+        <td>YAMAHA </td>
+        <td>1994</td>
+        <td>3KJ7615077</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-27 14:42:53</td>
+        <td align="right">27-04-2021</td>
+        <td align="right">27-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003293</td>
+        <td>YULY ANDRILEIDI </td>
+        <td>BREA MEJIA </td>
+        <td>402-0055701-1</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-439-1967</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2021</td>
+        <td>LM0CHV8C2L1904702</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-27 15:16:10</td>
+        <td align="right">27-04-2021</td>
+        <td align="right">27-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003294</td>
+        <td>FELIX ANDROGUI </td>
+        <td>PIMENTEL MARTINEZ</td>
+        <td>003-0008470-4</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-514-0037</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2021</td>
+        <td>LM0CJV509L1904727</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-27 16:33:01</td>
+        <td align="right">27-04-2021</td>
+        <td align="right">27-04-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>7</td>
+        <td>AUTO-AT-003295</td>
+        <td>NELLY RAMONA</td>
+        <td>ENCARNACION DADUS</td>
+        <td>223-0066222-2</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>829-298-3098</td>
+        <td>Jeepeta</td>
+        <td>HONDA                </td>
+        <td>CR-V</td>
+        <td>2022</td>
+        <td>5J6RN4H72DL006112</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-04-27 17:05:40</td>
+        <td align="right">27-04-2021</td>
+        <td align="right">27-04-2022</td>
+        <td>100,000</td>
+        <td>25,000</td>
+        <td>100,000</td>
+        <td>200,000</td>
+		<td>300,000</td>
+        <td align="right">1,875.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>3,512.50</h4></td>
+</tr></table>

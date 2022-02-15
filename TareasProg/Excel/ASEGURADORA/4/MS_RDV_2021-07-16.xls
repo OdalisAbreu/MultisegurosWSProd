@@ -1,0 +1,211 @@
+<table cellpadding="4" cellspacing="0">
+  	
+	<tr>
+		<td colspan="21"> 
+		
+		
+		
+		<table width="100%" cellpadding="9" cellspacing="0">
+	<tr>
+    	<td colspan="8">
+		
+		<b style="font-size: 67px; color: #d9261c;">Multi</b><b style="font-size: 67px; color: #828282;">Seguros 
+			</b>	
+			</td>
+    	
+   
+	  <td align="center" colspan="13">
+		  <font style="font-size: 24px; color: #828282; font-weight: bold;">
+		  	<b>REPORTE DIARIO DE VENTAS</b>
+		  </font>
+		  
+		  <br>
+		  <font style="font-size: 18px; color: #828282; font-weight: bold;">
+		  	ATRIO Seguros
+		  <font><br>
+		  <font style="font-size: 14px; color: #828282; font-weight: bold;">
+		  	<b>Desde:</b> 16/07/2021 <b>Hasta:</b> 16/07/2021
+			</font>
+	  </td>
+  </tr>
+	
+</table>
+
+
+		</td>
+	</tr>
+	
+	
+   <tr style="background-color:#B1070A; color:#FFFFFF; font-size:14px;">
+   		<td></td>
+        <td>No. Poliza</td>
+        <td>Nombres</td>
+        <td>Apellidos</td>
+        <td>C&eacute;dula</td>
+        <td>Direcci&oacute;n</td>
+        <td>Ciudad</td>
+        <td>Tel&eacute;fono</td>
+        <td>Tipo</td>
+        <td>Marca</td>
+        <td>Modelo</td>
+        <td>A&ntilde;o</td>
+        <td>Chassis</td>
+        <td>Placa</td>
+        <td>Fecha Emisi&oacute;n</td>
+        <td>Inicio Vigencia</td>
+        <td>Fin Vigencia</td>
+        <td>DPA</td>
+		<td>AP</td>
+        <td>RC</td>
+        <td>RC2</td>
+        <td>FJ</td>
+        <td>Prima</td>
+   </tr> <tr>
+   		<td><b>1</td>
+        <td>AUTO-AT-003806</td>
+        <td>ANDRES</td>
+        <td>POLANCO</td>
+        <td>023-0087867-1</td>
+        <td>EL SALTO</td>
+        <td></td>
+        <td>829-317-0435</td>
+        <td>Motocicleta</td>
+        <td>X-1000               </td>
+        <td></td>
+        <td>2021</td>
+        <td>TBUA4HA2XMA030484</td>
+        <td align="right">0000000</td>
+        <td align="right">2021-07-16 09:06:26</td>
+        <td align="right">16-07-2021</td>
+        <td align="right">16-10-2021</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">68.75</td>
+   </tr><tr>
+   		<td><b>2</td>
+        <td>AUTO-AT-003807</td>
+        <td>WILGEN RADHAMES</td>
+        <td>PEÑA PEÑA</td>
+        <td>003-0090252-5</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-370-0946</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>MD502607316</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-16 10:11:17</td>
+        <td align="right">16-07-2021</td>
+        <td align="right">16-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>3</td>
+        <td>AUTO-AT-003808</td>
+        <td>NAUKY</td>
+        <td>MATOS TIRADO DE MORETA</td>
+        <td>026-0123574-6</td>
+        <td>VILLA SAN CARLOS</td>
+        <td></td>
+        <td>829-343-7741</td>
+        <td>Motocicleta</td>
+        <td>NIPONIA              </td>
+        <td>NIPONIA </td>
+        <td>2020</td>
+        <td>XF1DB13ANML004541</td>
+        <td align="right">NO TIENE</td>
+        <td align="right">2021-07-16 12:05:23</td>
+        <td align="right">16-07-2021</td>
+        <td align="right">16-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>4</td>
+        <td>AUTO-AT-003809</td>
+        <td>WANDER ESTIBER </td>
+        <td>SOTO BERNABEL</td>
+        <td>003-0114548-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>809-380-1076</td>
+        <td>Motocicleta</td>
+        <td>HONDA                </td>
+        <td>HONDA </td>
+        <td>1994</td>
+        <td>JF19110337</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-16 12:46:47</td>
+        <td align="right">16-07-2021</td>
+        <td align="right">16-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>5</td>
+        <td>AUTO-AT-003810</td>
+        <td>ELIZABETH </td>
+        <td>FIGUEREO</td>
+        <td>402-4378652-8</td>
+        <td>BANI</td>
+        <td>PERAVIA</td>
+        <td>340-034-7227</td>
+        <td>Motocicleta</td>
+        <td>SPEED                </td>
+        <td>SPEED </td>
+        <td>2021</td>
+        <td>LM0CJV503L1904738</td>
+        <td align="right">PROCESO</td>
+        <td align="right">2021-07-16 14:41:53</td>
+        <td align="right">16-07-2021</td>
+        <td align="right">16-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+   		<td><b>6</td>
+        <td>AUTO-AT-003811</td>
+        <td>DARIO ALFREDO</td>
+        <td>JUAN</td>
+        <td>025-0042035-7</td>
+        <td>TOMAS DE LA CONCHA, 98, VILLA VERDE</td>
+        <td></td>
+        <td>829-267-2570</td>
+        <td>Motocicleta</td>
+        <td>LONCIN               </td>
+        <td>LONCIN </td>
+        <td>2014</td>
+        <td>LLCLPP206EE110925</td>
+        <td align="right">K0560564</td>
+        <td align="right">2021-07-16 16:28:11</td>
+        <td align="right">16-07-2021</td>
+        <td align="right">16-07-2022</td>
+        <td>50,000</td>
+        <td>0</td>
+        <td>50,000</td>
+        <td>100,000</td>
+		<td>50,000</td>
+        <td align="right">275.00</td>
+   </tr><tr>
+	<td colspan="17"></td>
+	<td colspan="4"><h4>Total de primas</h4></td>
+	<td><h4>1,443.75</h4></td>
+</tr></table>
