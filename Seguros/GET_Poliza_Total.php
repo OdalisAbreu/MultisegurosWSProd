@@ -246,7 +246,7 @@ if ($_POST) {
 	$POSTaseguradora = $_POST['aseguradora'];
 
 	//$xID 	= "WEB-".$_POST['user_id'].date('Ymdhis');
-	$url = "https://multiseguros.com.do/ws_dev/Seguros/GET_Seguro.php" .
+	$url = "https://multiseguros.com.do/ws6_3_8/Seguros/GET_Seguro.php" .
 		"?usuario=" . trim($_POST['usuario']) .
 		"&xID=" . $_POST['xID'] .
 		"&password=" . trim($_POST['clave']) .
