@@ -89,6 +89,11 @@ if ($_POST) {
 	if($model != 'Ok'){
 		exit("41 /".$model."/00 ");
 	}
+	//Validar Placa
+	$validarPlaca = validatePlaca($_REQUEST['placa'], $_REQUEST['tipo'] );
+	if($validarPlaca != 'Ok'){
+		exit("42 /".$validarPlaca."/00 ");
+	}
 	//Valida el total si la orden lo contiene
 	if($_POST['total']){
 		

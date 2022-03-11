@@ -83,6 +83,11 @@ if ($_POST) {
 		if($model != 'Ok'){
 			exit("41 /".$model."/00 ");
 		}
+			//Validar Placa
+	$validarPlaca = validatePlaca($_REQUEST['placa'], $_REQUEST['tipo'] );
+	if($validarPlaca != 'Ok'){
+		exit("42 /".$validarPlaca."/00 ");
+	}
 
 	//echo "v: ".$_POST['vigencia_poliza'];
 	if (IfVigencia($_REQUEST['vigencia_poliza']) == '15') {
