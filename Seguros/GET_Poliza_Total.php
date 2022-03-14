@@ -85,17 +85,17 @@ if ($_POST) {
 		
 	}
 	// Validar el Vehiculo 
-/*	$model = validateModel($_POST['marca'], $_POST['modelo'], $_POST['tipo']);
+	$model = validateModel($_POST['marca'], $_POST['modelo'], $_POST['tipo']);
 	if($model != 'Ok'){
 		exit("41 /".$model."/00 ");
-	}*/
+	}
 	//Validar Placa
-/*	$validarPlaca = validatePlaca($_REQUEST['placa'], $_REQUEST['tipo'] );
+	$validarPlaca = validatePlaca($_REQUEST['placa'], $_REQUEST['tipo'] );
 	if($validarPlaca != 'Ok'){
 		exit("42 /".$validarPlaca."/00 ");
-	}*/
+	}
 	//Valida el total si la orden lo contiene
-/*	if($_POST['total']){
+	if($_POST['total']){
 		
 		//$monto_seguro = IfMontoTarifasHistory($_POST['tipo'], $_POST['vigencia_poliza']);
 		$queryT = mysql_query("
@@ -143,7 +143,7 @@ if ($_POST) {
 			}
 		}
 		
-	}*/
+	}
 
 
 	if (IfSeguroActivo($_REQUEST['aseguradora']) != '00') {
@@ -297,8 +297,8 @@ if ($_POST) {
 		//RETORNARLE AL PROGRAMADOR
 		Auditoria($user['user'], $user['password'], $user['tipo_conex'], 'Seguro Procesado Correctamente ID:' . $respuesta[2] . '', 'venta_ok', '00', '', $user['balance']);
 		
-		//$records = new records;
-		//$record = $records->newRecord($_POST['user_id'], 'Venta Poliza', $respuesta[2]);
+		$records = new records;
+		$record = $records->newRecord($_POST['user_id'], 'Venta Poliza', $respuesta[2]);
 	
 		//PARA GUARDAR EL HISTORIAL DE MONTO AL MOMENTO DE VENDER
 		function VehiculoHistory($id)
