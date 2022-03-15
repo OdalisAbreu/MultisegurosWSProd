@@ -31,7 +31,7 @@ function enviarEmailHtml($html,$dist_id){
 	$a = str_pad($mnb['num'], 4, "0", STR_PAD_LEFT);
 	$num_remesa = Sigla($mnb['id_aseg']).'-'.$mnb['year'].'-'.$a;
 		  
-	$mail = new PHPMailer;
+	/*$mail = new PHPMailer;
 	$mail->isSMTP();                                     
 	$mail->Host = 'mail.multiseguros.com.do';  
 	$mail->SMTPAuth = true;                             
@@ -40,6 +40,18 @@ function enviarEmailHtml($html,$dist_id){
 	$mail->SMTPSecure = 'tls'; 
 	$mail->From = 'operaciones@multiseguros.com.do';
 	$mail->FromName = 'MultiSeguros';
+	$mail->SMTPDebug = true;*/
+
+	$mail = new PHPMailer;
+	$mail->isSMTP();
+	$mail->Host = 'smtp.ckpnd.com';
+	$mail->SMTPAuth = true;
+	$mail->Username = 'tes@aldeamo.com';
+	$mail->Password = 'vroxrVI7YS';
+	$mail->SMTPSecure = 'ssl';
+	$mail->From = 'operaciones@segurosexpress.com';
+	$mail->FromName = 'MultiSeguros';
+	$mail->Port = '2526';
 	$mail->SMTPDebug = true;
 	
 	$desg = explode(",", $mnb['email']);

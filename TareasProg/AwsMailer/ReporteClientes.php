@@ -19,7 +19,7 @@ function enviarEmailHtml($html,$dist_id){
 	$fechasd = $ed[2]."-".$ed[1]."-".$ed[0];
 	$fecha1 = $ed[0]."-".$ed[1]."-".$ed[2];
 	
-	$mail = new PHPMailer;
+	/*$mail = new PHPMailer;
 	$mail->isSMTP();                                     
 	$mail->Host = 'mail.multiseguros.com.do';  
 	$mail->SMTPAuth = true;                             
@@ -28,6 +28,18 @@ function enviarEmailHtml($html,$dist_id){
 	$mail->SMTPSecure = 'tls'; 
 	$mail->From = 'operaciones@multiseguros.com.do';
 	$mail->FromName = 'MultiSeguros';
+	$mail->SMTPDebug = true;*/
+
+	$mail = new PHPMailer;
+	$mail->isSMTP();
+	$mail->Host = 'smtp.ckpnd.com';
+	$mail->SMTPAuth = true;
+	$mail->Username = 'tes@aldeamo.com';
+	$mail->Password = 'vroxrVI7YS';
+	$mail->SMTPSecure = 'ssl';
+	$mail->From = 'operaciones@segurosexpress.com';
+	$mail->FromName = 'MultiSeguros';
+	$mail->Port = '2526';
 	$mail->SMTPDebug = true;
 	
 	
