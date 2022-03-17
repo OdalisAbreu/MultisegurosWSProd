@@ -75,7 +75,7 @@ function enviarEmailHtml()
 	$mail->SMTPSecure = 'ssl';
 	$mail->From = 'operaciones@segurosexpress.com';
 	$mail->FromName = 'MultiSeguros';
-	$mail->Port = '2526';
+	$mail->Port = '2525';
 	$mail->SMTPDebug = true;
 
 	$mail->addAddress('grullon.jose@gmail.com');
