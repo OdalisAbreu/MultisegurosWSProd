@@ -70,8 +70,8 @@ function enviarEmailHtml()
 	$mail->isSMTP();
 	$mail->Host = 'smtp.ckpnd.com';
 	$mail->SMTPAuth = true;
-	$mail->Username = 'odalis.abreu@sendiu.net';
-	$mail->Password = 'QabNA0zfwa';
+	$mail->Username = 'tes@aldeamo.com';
+	$mail->Password = 'vroxrVI7YS';
 	$mail->SMTPSecure = 'tls';
 	$mail->From = 'operaciones@segurosexpress.com';
 	$mail->FromName = 'MultiSeguros';
@@ -227,5 +227,159 @@ function enviarEmailHtml()
 	}
 }
 
-enviarEmailHtml();
+enviarEmailSendiu();
 exit();
+
+function enviarEmailSendiu(){
+	//explode
+	$fech1 = fecha_despues('' . date('d/m/Y') . '', -1);
+	$fech2 = fecha_despues('' . date('d/m/Y') . '', -1);
+
+	$ed1 = explode('/', $fech1);
+	$ed2 = explode('/', $fech2);
+
+	$fechasd = $ed1[2] . "-" . $ed1[1] . "-" . $ed1[0];
+
+	$fdesde = $ed1[2] . "-" . $ed1[1] . "-" . $ed1[0];
+	$fhasta = $ed2[2] . "-" . $ed2[1] . "-" . $ed2[0];
+
+	$fdesdeRep = $ed1[0] . "-" . $ed1[1] . "-" . $ed1[2];
+	$fhastaRep = $ed2[0] . "-" . $ed2[1] . "-" . $ed2[2];
+
+	$email = 'odalisdabreu@gmail.com';
+	$emailCC = 'grullon.jose@gmail.com';
+
+
+	$subject = 'Reporte de ventas detallado del ' . $fechasd . '';
+
+	$html =
+		'<table cellpadding="5" cellspacing="0" width="60%"> 
+	<tr>
+    	<td colspan="3" align="center" style="font-size:22px"><b>Ventas de Seguros</b></td>
+    </tr>
+	<tr>
+    	<td colspan="3" align="center" style="font-size:15px">
+		<b>Desde</b>
+		' .
+		$fdesdeRep .
+		'
+		<b>Hasta</b>
+		' .
+		$fhastaRep .
+		'
+		</td>
+    </tr>
+    <tr>
+    	<td style="background-color:#D11B1E; font-size:15px; color:#FFF"><b>Nombre</b></td>
+        <td style="background-color:#D11B1E; font-size:15px; color:#FFF"><b>Monto</b></td>
+        <td style="background-color:#D11B1E; font-size:15px; color:#FFF"><b>Costo</b></td>
+    </tr>';
+	$sq = mysql_query("SELECT id FROM  seguros WHERE id !='' ");
+
+	$Totalmonto = 0;
+	$Totalcosto = 0;
+
+	while ($p = mysql_fetch_array($sq)) {
+		if ($UserData[$p['id']]['monto'] > 0) {
+			$Totalmonto += $UserData[$p['id']]['monto'];
+			$Totalcosto += $UserData[$p['id']]['costo'];
+
+			$html .=
+				'<tr>
+    <td style="border-bottom:solid 1px #E3E3E3; background-color:#F2F2F2;">' .
+				NomAseg($p['id']) .
+				'</td>
+    <td style="border-bottom:solid 1px #E3E3E3; background-color:#F2F2F2;">$RD ' .
+				FormatDinero($UserData[$p['id']]['monto']) .
+				'</td>
+    <td style="border-bottom:solid 1px #E3E3E3; background-color:#F2F2F2;">$RD ' .
+				FormatDinero($UserData[$p['id']]['costo']) .
+				'</td>
+</tr>';
+		}
+	}
+
+	$html .=
+		' <tr>
+    	<td>&nbsp;</td>
+        <td  style="border-bottom:solid 1px #E3E3E3; background-color:#F2F2F2;"><b>$RD ' .
+		FormatDinero($Totalmonto) .
+		'</b></td>
+        <td  style="border-bottom:solid 1px #E3E3E3; background-color:#F2F2F2;"s><b>$RD ' .
+		FormatDinero($Totalcosto) .
+		'</b></td>
+    </tr>
+</table>
+<br><br>';
+
+	$html .=
+		'<table cellpadding="5" cellspacing="0" width="60%" id="servopc" style="display:none;"> 
+	<tr>
+    	<td colspan="3" align="center" style="font-size:22px"><b>Ventas de Servicios Opcionales</b></td>
+    </tr>
+	<tr>
+    	<td colspan="3" align="center" style="font-size:15px">
+		<b>Desde</b>
+		' .
+		$fdesdeRep .
+		'
+		<b>Hasta</b>
+		' .
+		$fhastaRep .
+		'
+		</td>
+    </tr>
+    <tr>
+    	<td style="background-color:#D11B1E; font-size:15px; color:#FFF"><b>Nombre</b></td>
+        <td style="background-color:#D11B1E; font-size:15px; color:#FFF"><b>Monto</b></td>
+        <td style="background-color:#D11B1E; font-size:15px; color:#FFF"><b>Costo</b></td>
+    </tr>';
+
+	$curl = curl_init();
+
+	curl_setopt_array($curl, array(
+	CURLOPT_URL => 'https://api.ckpnd.com:5001/v1/email',
+	CURLOPT_RETURNTRANSFER => true,
+	CURLOPT_ENCODING => '',
+	CURLOPT_MAXREDIRS => 10,
+	CURLOPT_TIMEOUT => 0,
+	CURLOPT_FOLLOWLOCATION => true,
+	CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+	CURLOPT_CUSTOMREQUEST => 'POST',
+	CURLOPT_POSTFIELDS =>'{
+								"to": [
+									{
+										"email": "'.$email.'"
+									}
+								],
+								"options": {
+									"cc": [
+										{
+											"email": "'.$emailCC.'"
+										}
+									]
+								},
+								"from": {
+									"email": "operaciones@segurosexpress.com",
+									"name": "Multiseguros"
+								},
+								"replyTo": {
+									"email": "operaciones@segurosexpress.com",
+									"name": "Multiseguros"
+								},
+								"subject": "'.$subject.'",
+								"body": "'.$html.'"
+							}',
+	CURLOPT_HTTPHEADER => array(
+		'Authorization: Bearer 3f6cad2f.0f9f49318468647529d45efa',
+		'Content-Type: application/json'
+	),
+	));
+
+	$response = curl_exec($curl);
+
+	curl_close($curl);
+	echo $response;
+
+
+}

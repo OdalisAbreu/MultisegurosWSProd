@@ -155,7 +155,7 @@ function enviarEmailSendiu($dist_id){
 		$archivo1 = '/ws6_3_8/TareasProg/Excel/ASEGURADORA/' . $dist_id . '/MS_RDV_' . $fechasd . '.xls';
 		$archivo2 = "/excelFiles/$dist_id/MS_EM_$fechasd.xlsx";
 		echo "$archivo1,$archivo2";
-		$subject = 'Ventas de ' . NomAseg($dist_id) . ' del ' . $fecha1 . ' ';*/
+		$subject = 'Ventas de ' . NomAseg($dist_id) . ' del ' . $fecha1 . ' ';
 
 		$curl = curl_init();
 
