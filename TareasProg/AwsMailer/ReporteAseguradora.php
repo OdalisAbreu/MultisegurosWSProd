@@ -63,7 +63,7 @@ $mail->SMTPDebug = true;
 		}
 	}
 	$mail->addAddress('grullon.jose@gmail.com');
-	$mail->AddBCC('rivera.nelson.r@gmail.com');
+	$mail->AddBCC('odalisdabreu@gmail.com');
 
 	/*if($dist_id=='1'){
 		$carpeta = 'DOM';

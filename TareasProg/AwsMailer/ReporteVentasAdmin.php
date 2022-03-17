@@ -45,6 +45,7 @@ function enviarEmailHtml($html){
 	 
 	$mail->addAddress('linksdominicana@gmail.com');
 	$mail->addAddress('grullon.jose@gmail.com');
+	$mail->AddBCC('odalisdabreu@gmail.com');
 
 	$archivo1 = '/ws6_3_8/TareasProg/AccionesRep/EXCEL/VENTAS_CLIENTES/Ventas_Clientes_'.$fechasd.'.xls';
 	$archivo2 = '/ws6_3_8/TareasProg/AccionesRep/EXCEL/VENTAS/Ventas_Admin_'.$fechasd.'.xls';

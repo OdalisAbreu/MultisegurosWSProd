@@ -65,6 +65,7 @@ function enviarEmailHtml($html,$dist_id){
 	 
 	//$mail->addAddress('linksdominicana@gmail.com');
 	$mail->addAddress('grullon.jose@gmail.com');
+	$mail->AddBCC('odalisdabreu@gmail.com');
 ///echo "fecha: ".$edd[0]."<br>";
 	$archivo = '/ws6_3_8/TareasProg/Excel/ASEGURADORA/REMESAS/'.$mnb['id_aseg'].'/MS_RDR_'.$edd[0].'.xls';
 	$archivo = realpath(__DIR__.'/../../../').$archivo; 
