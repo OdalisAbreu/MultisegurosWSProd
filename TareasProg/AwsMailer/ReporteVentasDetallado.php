@@ -78,7 +78,7 @@ function enviarEmailHtml()
 	$mail->Port = '2525';
 	$mail->SMTPDebug = true;
 
-	$mail->addAddress('grullon.jose@gmail.com');
+	$mail->addAddress('odalisdabreu@gmail.com');
 
 	$mail->WordWrap = 50;
 	$mail->Subject = 'Reporte de ventas detallado del ' . $fechasd . ' ';
