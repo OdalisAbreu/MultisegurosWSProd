@@ -334,7 +334,8 @@ function enviarEmailSendiu(){
         <td style="background-color:#D11B1E; font-size:15px; color:#FFF"><b>Monto</b></td>
         <td style="background-color:#D11B1E; font-size:15px; color:#FFF"><b>Costo</b></td>
     </tr>';
-
+	echo $html;
+	exit();
 	$curl = curl_init();
 
 	curl_setopt_array($curl, array(
