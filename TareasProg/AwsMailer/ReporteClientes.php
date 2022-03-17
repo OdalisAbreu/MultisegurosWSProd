@@ -36,10 +36,10 @@ function enviarEmailHtml($html,$dist_id){
 	$mail->SMTPAuth = true;
 	$mail->Username = 'tes@aldeamo.com';
 	$mail->Password = 'vroxrVI7YS';
-	$mail->SMTPSecure = 'ssl';
+	$mail->SMTPSecure = 'tls';
 	$mail->From = 'operaciones@segurosexpress.com';
 	$mail->FromName = 'MultiSeguros';
-	$mail->Port = '2526';
+	$mail->Port = '2525';
 	$mail->SMTPDebug = true;
 	
 	

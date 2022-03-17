@@ -216,7 +216,7 @@ function enviarEmailHtml()
 </table>';
 
 	echo $html;
-	$mail->MsgHTML('<h1> Prueeba</h1>');
+	$mail->MsgHTML($html);
 	if (!$mail->send()) {
 		//echo 'Message could not be sent.';
 		//echo 'Mailer Error: ' . $mail->ErrorInfo;

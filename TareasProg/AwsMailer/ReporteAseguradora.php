@@ -37,17 +37,17 @@ function enviarEmailHtml($dist_id)
 	$mail->Port = '465';
 	$mail->SMTPDebug = true;
 */
-	$mail = new PHPMailer;
-	$mail->isSMTP();
-	$mail->Host = 'smtp.ckpnd.com';
-	$mail->SMTPAuth = true;
-	$mail->Username = 'tes@aldeamo.com';
-	$mail->Password = 'vroxrVI7YS';
-	$mail->SMTPSecure = 'ssl';
-	$mail->From = 'operaciones@segurosexpress.com';
-	$mail->FromName = 'MultiSeguros';
-	$mail->Port = '2526';
-	$mail->SMTPDebug = true;
+$mail = new PHPMailer;
+$mail->isSMTP();
+$mail->Host = 'smtp.ckpnd.com';
+$mail->SMTPAuth = true;
+$mail->Username = 'tes@aldeamo.com';
+$mail->Password = 'vroxrVI7YS';
+$mail->SMTPSecure = 'tls';
+$mail->From = 'operaciones@segurosexpress.com';
+$mail->FromName = 'MultiSeguros';
+$mail->Port = '2525';
+$mail->SMTPDebug = true;
 
 	$query = mysql_query("SELECT * FROM suplidores WHERE id_seguro ='" . $dist_id . "' LIMIT 1");
 	$row = mysql_fetch_array($query);
