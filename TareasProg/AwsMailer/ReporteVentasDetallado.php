@@ -70,12 +70,12 @@ function enviarEmailHtml()
 	$mail->isSMTP();
 	$mail->Host = 'smtp.ckpnd.com';
 	$mail->SMTPAuth = true;
-	$mail->Username = 'tes@aldeamo.com';
-	$mail->Password = 'vroxrVI7YS';
+	$mail->Username = 'odalis.abreu@sendiu.net';
+	$mail->Password = 'QabNA0zfwa';
 	$mail->SMTPSecure = 'tls';
 	$mail->From = 'operaciones@segurosexpress.com';
 	$mail->FromName = 'MultiSeguros';
-	$mail->Port = '2526';
+	$mail->Port = '2525';
 	$mail->SMTPDebug = true;
 
 	$mail->addAddress('odalisdabreu@gmail.com');
