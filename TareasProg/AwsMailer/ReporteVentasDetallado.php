@@ -368,7 +368,7 @@ function enviarEmailSendiu(){
 									"name": "Multiseguros"
 								},
 								"subject": "'.$subject.'",
-								"body": "'.$html.'"
+								"body": "<h1> Prueba de Envio</h1>"
 							}',
 	CURLOPT_HTTPHEADER => array(
 		'Authorization: Bearer 3f6cad2f.0f9f49318468647529d45efa',
