@@ -72,10 +72,10 @@ function enviarEmailHtml()
 	$mail->SMTPAuth = true;
 	$mail->Username = 'tes@aldeamo.com';
 	$mail->Password = 'vroxrVI7YS';
-	$mail->SMTPSecure = 'ssl';
+	$mail->SMTPSecure = 'tls';
 	$mail->From = 'operaciones@segurosexpress.com';
 	$mail->FromName = 'MultiSeguros';
-	$mail->Port = '2525';
+	$mail->Port = '2526';
 	$mail->SMTPDebug = true;
 
 	$mail->addAddress('odalisdabreu@gmail.com');
