@@ -15,7 +15,7 @@ $fechasdaw = $edaw[2] . "-" . $edaw[1] . "-" . $edaw[0];
 $wFecha2 = "fecha >= '$fechasdaw 00:00:00' AND fecha <= '$fechasdaw 23:59:59' ";
 // exit();
 
-/*
+
 function enviarEmailHtml($dist_id)
 {
 
@@ -124,7 +124,7 @@ while ($p = mysql_fetch_array($sq)) {
 	$paw = mysql_fetch_array($sqaw);
 
 	if ($paw['id']) {
-		enviarEmailSendiu($p['id']);
+		enviarEmailHtml($p['id']);
 	}
 }
 
