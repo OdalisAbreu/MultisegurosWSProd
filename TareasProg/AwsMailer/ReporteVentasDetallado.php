@@ -74,7 +74,7 @@ function enviarEmailHtml()
 	$mail->Password = 'vroxrVI7YS';
 	$mail->SMTPSecure = 'tls';
 	$mail->From = 'operaciones@segurosexpress.com';
-	$mail->FromName = 'MultiSeguros';
+	//$mail->FromName = 'MultiSeguros';
 	$mail->Port = '2526';
 	$mail->SMTPDebug = true;
 
