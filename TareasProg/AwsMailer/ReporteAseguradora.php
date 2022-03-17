@@ -15,7 +15,7 @@ $fechasdaw = $edaw[2] . "-" . $edaw[1] . "-" . $edaw[0];
 $wFecha2 = "fecha >= '$fechasdaw 00:00:00' AND fecha <= '$fechasdaw 23:59:59' ";
 // exit();
 
-
+/*
 function enviarEmailHtml($dist_id)
 {
 
@@ -152,10 +152,10 @@ function enviarEmailSendiu($dist_id){
 		$email = 'odalisdabreu@gmail.com';
 		$emailCC = 'grullon.jose@gmail.com';
 
-		$archivo1 = '/ws6_3_8/TareasProg/Excel/ASEGURADORA/' . $dist_id . '/MS_RDV_' . $fechasd . '.xls';
+		/*$archivo1 = '/ws6_3_8/TareasProg/Excel/ASEGURADORA/' . $dist_id . '/MS_RDV_' . $fechasd . '.xls';
 		$archivo2 = "/excelFiles/$dist_id/MS_EM_$fechasd.xlsx";
 		echo "$archivo1,$archivo2";
-		$subject = 'Ventas de ' . NomAseg($dist_id) . ' del ' . $fecha1 . ' ';
+		$subject = 'Ventas de ' . NomAseg($dist_id) . ' del ' . $fecha1 . ' ';*/
 
 		$curl = curl_init();
 
@@ -203,15 +203,6 @@ function enviarEmailSendiu($dist_id){
 											<br />
 											MultiSeguros
 									",
-									"attachments": [
-										{
-											"path": "'.realpath(__DIR__ . '/../../../') . $archivo1.'"
-										},
-										{
-											"path": "'.realpath(__DIR__ . '/../../../') . $archivo2.'"
-										}
-									]
-								}',
 		CURLOPT_HTTPHEADER => array(
 			'Authorization: Bearer 3f6cad2f.0f9f49318468647529d45efa',
 			'Content-Type: application/json'
