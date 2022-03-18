@@ -6,6 +6,7 @@ require 'PHPMailerAutoload.php';
 include "../../inc/conexion_inc.php";
 include "../../inc/nombres.func.php";
 include "../../inc/fechas.func.php";
+include 'emailSendiu.php';
 Conectarse();
 
 // CONSULTANDO VENTAS
@@ -385,4 +386,5 @@ function enviarEmailSendiu(){
 </table>';
 
 	echo $html;
+	enviarEmail();
 }
