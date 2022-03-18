@@ -6,7 +6,6 @@ require 'PHPMailerAutoload.php';
 include "../../inc/conexion_inc.php";
 include "../../inc/nombres.func.php";
 include "../../inc/fechas.func.php";
-include 'emailSendiu.php';
 Conectarse();
 
 // CONSULTANDO VENTAS
@@ -69,14 +68,14 @@ function enviarEmailHtml()
 
 	$mail = new PHPMailer;
 	$mail->isSMTP();
-	$mail->Host = 'smtp.ckpnd.com';
+	$mail->Host = 'smtp.gmail.com';
 	$mail->SMTPAuth = true;
-	$mail->Username = 'tes@aldeamo.com';
-	$mail->Password = 'vroxrVI7YS';
+	$mail->Username = 'prof.info007@gmail.com';
+	$mail->Password = 'Elleondedios0511*';
 	$mail->SMTPSecure = 'tls';
 	$mail->From = 'operaciones@segurosexpress.com';
 	$mail->FromName = 'MultiSeguros';
-	$mail->Port = '2525';
+	$mail->Port = '587';
 	$mail->SMTPDebug = true;
 
 	$mail->addAddress('grullon.jose@gmail.com');
@@ -229,41 +228,6 @@ function enviarEmailHtml()
 	}
 }
 //-----------------------------------------------------------------------------------------------------------
-enviarEmailSendiu();
+enviarEmailHtml();
 exit();
 //-------------------------------------------------------------------------------------------------------
-function enviarEmailSendiu(){
-	//explode
-	$fech1 = fecha_despues('' . date('d/m/Y') . '', -1);
-	$fech2 = fecha_despues('' . date('d/m/Y') . '', -1);
-
-	$ed1 = explode('/', $fech1);
-	$ed2 = explode('/', $fech2);
-
-	$fechasd = $ed1[2] . "-" . $ed1[1] . "-" . $ed1[0];
-
-	$fdesde = $ed1[2] . "-" . $ed1[1] . "-" . $ed1[0];
-	$fhasta = $ed2[2] . "-" . $ed2[1] . "-" . $ed2[0];
-
-	$fdesdeRep = $ed1[0] . "-" . $ed1[1] . "-" . $ed1[2];
-	$fhastaRep = $ed2[0] . "-" . $ed2[1] . "-" . $ed2[2];
-
-	$email = 'grullon.jose@gmail.com';
-	$emailCC = 'odalisdabreu@gmail.com';
-
-	$subject = 'Reporte de ventas detallado del ' . $fechasd . ' ';
-	$body = 'para ver el mensaje necesita HTML.';
-
-
-	// BUSCAMOS VENTAS DE TODOS:
-	$UserData = TotalVentasV2($c = array('fech1' => $fdesde, 'fech2' => $fhasta));
-
-	$html =	'<table><tr><td align="center" style="font-size:22px"><b>Ventas de Seguros</b></td></tr></table>';
-			
-		
-	$from = 'operaciones@segurosexpress.com';
-	$name = 'Multiseguros';
-	$email = 'odalis.abreu@sendiu,net'; 
-	echo $html;
-	enviarEmail($email, $emailCC, $from, $name, $subject, $html);
-}
