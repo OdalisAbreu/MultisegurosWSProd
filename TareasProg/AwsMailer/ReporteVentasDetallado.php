@@ -258,7 +258,7 @@ function enviarEmailSendiu(){
 	// BUSCAMOS VENTAS DE TODOS:
 	$UserData = TotalVentasV2($c = array('fech1' => $fdesde, 'fech2' => $fhasta));
 
-	$html =	'<table cellpadding="5" cellspacing="0" width="60%"><tr><td colspan="3" align="center" style="font-size:22px"><b>Ventas de Seguros</b></td></tr></table>';
+	$html =	'<table><tr><td><b>Ventas de Seguros</b></td></tr></table>';
 			
 		
 	$from = 'operaciones@segurosexpress.com';
