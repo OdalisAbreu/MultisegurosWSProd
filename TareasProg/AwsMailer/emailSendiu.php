@@ -1,6 +1,6 @@
 <?php
 
-function enviarEmail($email, $emailCC, $from, $name){
+function enviarEmail($email, $emailCC, $from, $name, $subject){
     $curl = curl_init();
     
     curl_setopt_array($curl, array(
@@ -33,12 +33,8 @@ function enviarEmail($email, $emailCC, $from, $name){
             "email": "'.$from.'",
             "name": "'.$name.'"
         },
-        "subject": "Prueba Asunto",
-        "body": "<h1>Cuerpo</h1>",
-        "attachments": [
-            {
-                "path": ""
-            }
+        "subject": "'.$subject.'",
+        "body": "<h1>Cuerpo</h1>"
         ]
     }',
       CURLOPT_HTTPHEADER => array(

@@ -388,5 +388,5 @@ function enviarEmailSendiu(){
 	$name = 'Multiseguros';
 	$email = 'odalis.abreu@sendiu,net'; 
 	echo $html;
-	enviarEmail($email, $emailCC, $from, $name);
+	enviarEmail($email, $emailCC, $from, $name, $subject);
 }
