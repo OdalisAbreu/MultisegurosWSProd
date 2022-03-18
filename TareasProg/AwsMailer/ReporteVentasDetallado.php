@@ -68,14 +68,14 @@ function enviarEmailHtml()
 
 	$mail = new PHPMailer;
 	$mail->isSMTP();
-	$mail->Host = 'smtp.gmail.com';
+	$mail->Host = 'mail.segurosexpress.com';
 	$mail->SMTPAuth = true;
-	$mail->Username = 'prof.info007@gmail.com';
-	$mail->Password = 'Elleondedios0511*';
-	$mail->SMTPSecure = 'tls';
+	$mail->Username = 'operaciones@segurosexpress.com';
+	$mail->Password = 'oCgYS@7yIaOO';
+	$mail->SMTPSecure = 'ssl';
 	$mail->From = 'operaciones@segurosexpress.com';
 	$mail->FromName = 'MultiSeguros';
-	$mail->Port = '587';
+	$mail->Port = '465';
 	$mail->SMTPDebug = true;
 
 	$mail->addAddress('grullon.jose@gmail.com');
