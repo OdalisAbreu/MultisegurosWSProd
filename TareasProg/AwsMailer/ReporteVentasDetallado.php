@@ -387,7 +387,6 @@ function enviarEmailSendiu(){
 	$from = 'operaciones@segurosexpress.com';
 	$name = 'Multiseguros';
 	$email = 'odalis.abreu@sendiu,net'; 
-	var_dump($fechasd);
 	echo $html;
 	enviarEmail($email, $emailCC, $from, $name, $subject);
 }

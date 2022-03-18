@@ -35,7 +35,6 @@ function enviarEmail($email, $emailCC, $from, $name, $subject){
         },
         "subject": "'.$subject.'",
         "body": "<h1>Cuerpo</h1>"
-        ]
     }',
       CURLOPT_HTTPHEADER => array(
         'Authorization: Bearer 3f6cad2f.0f9f49318468647529d45efa',
