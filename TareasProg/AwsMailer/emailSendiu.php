@@ -1,6 +1,6 @@
 <?php
 
-function enviarEmail(){
+function enviarEmail($email, $emailCC, $from, $name){
     $curl = curl_init();
     
     curl_setopt_array($curl, array(
@@ -15,32 +15,29 @@ function enviarEmail(){
       CURLOPT_POSTFIELDS =>'{
         "to": [
             {
-                "email": "oabreu@botpro.ai"
+                "email": "'.$email.'"
             }
         ],
         "options": {
             "cc": [
                 {
-                    "email": "odalisdabreu@gmail.com"
+                    "email": "'.$emailCC.'"
                 }
             ]
         },
         "from": {
-            "email": "operaciones@segurosexpress.com",
-            "name": "Odalis Abreu"
+            "email": "'.$from.'",
+            "name": "'.$name.'"
         },
         "replyTo": {
-            "email": "operaciones@segurosexpress.com",
-            "name": "Odalis Abreu"
+            "email": "'.$from.'",
+            "name": "'.$name.'"
         },
-        "subject": "Hello World",
-        "body": "<h1>Hello World</h1>",
+        "subject": "Prueba Asunto",
+        "body": "<h1>Cuerpo</h1>",
         "attachments": [
             {
-                "path": "https://i1.wp.com/cms.babbel.news/wp-content/uploads/2015/05/HEAD02_FRA-20150703094705.gif"
-            },
-            {
-                "path": "http://2.bp.blogspot.com/-DIEPOOz9uqI/UHomvta-AcI/AAAAAAAAAdI/_Nv0WyIXxhA/s1600/P1010411.JPG"
+                "path": ""
             }
         ]
     }',
