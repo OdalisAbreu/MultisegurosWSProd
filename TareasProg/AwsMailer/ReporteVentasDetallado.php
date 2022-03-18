@@ -384,7 +384,9 @@ function enviarEmailSendiu(){
 		'</b></td>
     </tr>
 </table>';
+	$from = 'operaciones@segurosexpress.com';
+	$name = 'Multiseguros';
 
 	echo $html;
-	enviarEmail();
+	enviarEmail($email, $emailCC, $from, $name);
 }
