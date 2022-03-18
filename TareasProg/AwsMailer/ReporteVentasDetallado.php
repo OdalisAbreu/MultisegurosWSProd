@@ -284,8 +284,7 @@ function enviarEmailSendiu(){
 	$from = 'operaciones@segurosexpress.com';
 	$name = 'Multiseguros';
 	$email = 'odalis.abreu@sendiu,net'; 
-	$html = '<h1> Prueba titulo </h1> 
-			<h2> Prueba Subtitulo</h2>';
+	$html = '<h1> Prueba titulo </h1><h2> Prueba Subtitulo</h2>';
 	echo $html;
 	enviarEmail($email, $emailCC, $from, $name, $subject, $html);
 }
